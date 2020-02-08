@@ -1,0 +1,383 @@
+
+:root {
+    --highlight-colour: #9CCCB1;
+}
+#container{
+    width:850px;
+    height:100%;
+    padding-top: 20px;
+    margin-left:auto;
+    margin-right:auto;
+}
+#headerLeft{
+    float: left;
+    height:104px;
+}
+#headerRight{
+    margin-left: 500px;
+    height:104px;
+    background-color: var(--highlight-colour);
+
+    text-decoration: none;
+    text-align: center;
+    line-height: 45px;
+    font-family: Tahoma, sans-serif;
+    color: white;
+    font-size: 20pt;
+    font-style: normal;
+    letter-spacing: 4px;
+    font-variant: small-caps;
+}
+
+#mainContainer{
+    padding-top: 30px;
+    width:850px;
+    min-height:500px;
+    margin-left:auto;
+    margin-right:auto;
+    margin-bottom:auto;
+    overflow: hidden;
+}
+#breadcrumb{
+    text-decoration: none;
+    font-family: Tahoma, sans-serif;
+    color: #444444;
+    font-size: 8pt;
+;
+    font-style: normal;
+    font-variant: small-caps
+}
+#sideBar{
+    float: left;
+    width:150px;
+}
+#menu{
+}
+#menuSeparator{
+    width:90%;
+    height: 1px;
+
+    background-color: #DDDEDF;
+}
+#menuItem{
+    padding: 4 3 4 8px;
+}
+#menuNav, #nextTour{
+    text-decoration: none;
+    font-family: Tahoma, sans-serif;
+    color: #666666;
+    font-size: 12pt;
+    font-variant: small-caps
+}
+#menuNav:hover {
+    color: var(--highlight-colour);
+}
+#menuNavSelected {
+    text-decoration: none;
+    font-family: Tahoma, sans-serif;
+    color: var(--highlight-colour);
+    font-size: 12pt;
+    font-variant: small-caps;
+    font-style: normal;
+}
+#nextTour{
+    padding-top: 35px;
+    padding-left: 8px;
+}
+#main{
+    margin-left: 150px;
+}
+#picture{
+    text-align:  center;;
+    padding-bottom: 20px;
+}
+#footer{
+    padding-top: 25px;
+    padding-bottom: 50px;
+}
+#social{
+    float: left;
+    padding-right: 20px;
+}
+#copyright{
+    float: right;
+    text-align: right;
+    padding-right: 20px;
+    text-decoration: none;
+    font-family: Tahoma, sans-serif;
+    color: #666666; font-size: 7pt;
+    font-style: normal;
+}
+#map{
+    width: 100%;
+    height: 550px;
+}
+#nextTourTowerMap{
+    width: 100%;
+    height: 600px;
+}
+
+#tabs {
+    position: relative;
+}
+#tabcontent {
+    position: relative;
+    left: 0;
+    top: 38;
+    z-index: 10;
+    padding-bottom: 30px
+}
+
+#report, #report-author {
+    width:95%;
+    margin: auto auto 10 auto;
+    font-family: Arial, sans-serif;
+    font-size: 10pt;
+    text-align: justify;
+}
+#report-author {
+    font-weight: bold;
+    font-style: italic;
+}
+
+#towers-table{
+    display: table;
+    margin: 0 auto;
+    text-align: center;
+    width:95%;
+    border-collapse:collapse;
+}
+#years-table{
+    display: table;
+    margin: 0 auto;
+    text-align: center;
+    width:100%;
+    border-collapse:collapse;
+}
+#towers-row{
+    display: table-row;
+    padding-left: 10px;
+    height: 20px;
+}
+#towers-cell, #towers-cell-total, #towers-cell-day, #towers-head{
+    display: table-cell;
+    padding:3 1px;
+
+    text-decoration: none;
+    font-family: Tahoma, sans-serif;
+    color: #444444;
+    font-size: 10pt;
+    font-style: normal;
+    font-variant: small-caps
+}
+#towers-cell-total, #towers-cell-day {
+    font-weight: bold;
+    font-style: italic;
+}
+#towers-row:nth-of-type(even) {
+    background: #F5F5F5;
+}
+#towers-head{
+    font-weight:bold;
+}
+#map-name{
+    font-size: 8pt;
+    color: var(--highlight-colour);
+}
+#map-number{
+    font-weight:bold;
+}
+
+#quoteCont{
+    font-size: 12pt;
+    font-family: Arial;
+    padding-top: 5pt;
+    padding-bottom: 5pt;
+}
+
+a:active, a:link, a:visited {
+    color: #666666;
+}
+a:hover {
+    color: var(--highlight-colour);
+}
+p {
+    font-family: Sitka Heading;
+    font-size: 12pt;
+    text-align: justify;
+}
+h1 {
+    line-height: 45px;
+    font-family: Sitka Heading;
+    color: Black;
+    font-size: 35pt;
+    font-style: normal;
+    letter-spacing: 4px;
+    font-variant: small-caps;
+    float: center;
+    font-weight:normal
+}
+
+h2 {
+    text-decoration: none;
+    font-family: Sitka Heading;
+    color: #666666;
+    font-size: 18pt;
+    font-style: normal;
+    letter-spacing: 5px;
+    font-weight: bold;
+    font-variant: small-caps;
+    text-align: center;
+}
+h3 {
+    text-decoration: none;
+    font-family: Sitka Heading;
+    color: #666666;
+    font-size: 13pt;
+    font-style: normal;
+    letter-spacing: 5px;
+    font-weight: bold;
+    font-variant: small-caps;
+    text-align: left;
+}
+
+h5 {
+    text-decoration: none;
+    font-family: Cooper Black;
+    color: #666666;
+    font-size: 15pt;
+    font-style: normal;
+    letter-spacing: 5px;
+    font-weight: bold;
+    font-variant: small-caps;
+    text-align: center;
+    outline-width: 4pt;
+    outline-color: red;
+    outline-style: double;
+    padding-left: 50pt;
+    padding-right: 50pt
+}
+
+ul {
+    list-style-image: url('images/bullet.gif');
+    font-family: Arial, sans-serif;
+    font-size: 10pt;
+}
+
+iframe{
+    width: 100%;
+
+}
+
+
+body {font-family: Arial, Helvetica, sans-serif;}
+
+#myImg {
+    border-radius: 5px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#myImg:hover {opacity: 0.7;}
+
+/* The Modal (background) */
+.modal {
+    display: none; /* Hidden by default */
+    position: fixed; /* Stay in place */
+    z-index: 1; /* Sit on top */
+    padding-top: 100px; /* Location of the box */
+    left: 0;
+    top: 0;
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    overflow: auto; /* Enable scroll if needed */
+    background-color: rgb(0,0,0); /* Fallback color */
+    background-color: rgba(0,0,0,0.9); /* Black w/ opacity */
+}
+
+/* Modal Content (image) */
+.modal-content {
+    margin: auto;
+    display: block;
+    width: 80%;
+    max-width: 700px;
+}
+
+/* Caption of Modal Image */
+#caption {
+    margin: auto;
+    display: block;
+    width: 80%;
+    max-width: 700px;
+    text-align: center;
+    color: #ccc;
+    padding: 10px 0;
+    height: 150px;
+}
+
+/* Add Animation */
+.modal-content, #caption {
+    -webkit-animation-name: zoom;
+    -webkit-animation-duration: 0.6s;
+    animation-name: zoom;
+    animation-duration: 0.6s;
+}
+
+@-webkit-keyframes zoom {
+    from {-webkit-transform:scale(0)}
+    to {-webkit-transform:scale(1)}
+}
+
+@keyframes zoom {
+    from {transform:scale(0)}
+    to {transform:scale(1)}
+}
+
+/* The Close Button */
+.close {
+    position: absolute;
+    top: 15px;
+    right: 35px;
+    color: #f1f1f1;
+    font-size: 40px;
+    font-weight: bold;
+    transition: 0.3s;
+}
+
+.close:hover,
+.close:focus {
+    color: #bbb;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+/* 100% Image Width on Smaller Screens */
+@media only screen and (max-width: 700px){
+    .modal-content {
+        width: 100%;
+    }
+}
+
+
+/* On screens that are 600px or less, set the background color to olive */
+@media screen and (max-width: 600px) {
+    #main{
+        margin-left: 0px;
+        width: 100%;
+    }
+    #container {
+        width: 100%;
+    }
+    #sideBar{
+        float: none;
+        width: 100%;
+    }
+    #menuItem{
+        text-align: center;
+    }
+    #mainContainer{
+        width:100%;
+        overflow: hidden;
+    }
+
+}

@@ -1,0 +1,50 @@
+/*
+Website: York Colleges Guild
+Type: CSS
+Name: Peal page Style Sheet
+Created: 20th April 2020
+Last modified: 21st April 2020
+Author: Will Lake
+ */
+
+.pealdate{
+    font-weight:bold;
+    color: var(--ycgGreen);
+    font-size: 30px;
+    text-align: center;
+    font-variant: small-caps;
+    font-family: Sitka Heading;
+}
+
+.pealmethodmain{
+    font-weight:bold;
+}
+
+.pealmethodsecondery{
+
+}
+
+.pealtower{
+    text-align: center;
+    font-variant: small-caps;
+}
+
+.pealringer{
+    padding-top: 10px;
+}
+
+.pealfootnote{
+    padding-bottom: 5px;
+}
+
+.pealphoto{
+    width: 100%;
+}
+
+.pealphotocaption{
+
+}
+
+.pealcardpadding{
+    padding-bottom: 20px;
+}

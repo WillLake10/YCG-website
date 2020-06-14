@@ -1,101 +1,49 @@
 <!DOCTYPE html>
 <!--
-York Colleges Guild
-October 2019
-Will Lake
+Website: York Colleges Guild
+Type: HTML5
+Page: Peals and Quarters
+Created: 20th April 2020
+Last modified: 14th June 2020
+Author: Will Lake
 -->
-<html>
+<html lang="en">
 <head>
-
-    <meta name="KEYWORDS" content="YCG, York Colleges Guild, York, Bell, Ringers, Ringing, Pub, Beer">
-    <meta name="DESCRIPTION" content="York Colleges Guild home page">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-    <link rel="stylesheet" href="style.css" type="text/css">
-
-    <script src="jquery-1.10.2.min.js" type="text/javascript"></script>
-    <script src="menu.js" type="text/javascript"></script>
-    <link rel="shortcut icon" href="images/ycg_logo.png" type="image/x-icon"/>
-
-    <title>York Colleges Guild</title>
-
-    <!-- Global site tag (gtag.js) - Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-157018875-1"></script>
-    <script>
-        window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);}
-        gtag('js', new Date());
-
-        gtag('config', 'UA-157018875-1');
-    </script>
-
-
-
+    <script src="scripts/head.js" type="text/javascript"></script>
+    <link rel="stylesheet" href="styles/peal.css" type="text/css">
 </head>
 <body>
-<div id="container">
-    <a href="index.html"><img src="images/ycg_logo.png" width=20% align="left"></a>
-    <a href="index.html"><img src="images/ycg_logo.png" width=20% align="right"></a>
 
+<section id="top"></section>
+<script src="scripts/pageTop.js" type="text/javascript"></script>
+<script src="scripts/backToTopMove.js" type="text/javascript"></script>
 
-    <h1 align="center">YCG<br>York Colleges<br>Guild</h1>
-    <br>
-    <hr>
-    <div id="mainContainer">
-
-        <div id="sideBar">
-            <div id="menu" style="padding-top: 20px"></div>
+<section id="pagetitle">
+    <div class="container pt-3 pb-3">
+        <div class="row">
+            <div class="col-md-3"></div>
+            <div class="col-12 col-md-6">
+                <div class="pagetitle">
+                    Peals and Quarters
+                </div>
+            </div>
         </div>
-        <div id="main">
-
-            <h2> Peals and Quarters </h2>
-
-            <p>This is a record of the peals and quarter peals rung by
-                members of the York Colleges Guild. This list is by no means
-                complete, but we try to keep it as up to date as
-                possible.</p>
-            <br>
-            <h3>Last Peal</h3>
-            <h3>Friday, 3 June 2016</h3>
-            <P><b>5152 Yorkshire Surprise Major</b><br> St Lawrence, York, North Yorkshire (7-3-24 in A) in 2h 56m</P>
-            <OL>
-                <LI>Peter D Hughes (Superfan)
-                <LI>Claire E Reading (Langwith)
-                <LI>William L K Brooke (Halifax)
-                <LI>Lucy Williamson (Alcuin)
-                <LI>Claire L Pearson (Alcuin)
-                <LI>Nathan C Cox (St John)
-                <LI>Ryan Mills (Halifax) (C)
-                <LI>Eric W S Wolever (Wentworth)
-                </LI>
-            </OL>
-            <P>Rung in anticipation of the 46th annual York Colleges Guild Dinner.<br>
-                With many thanks to YCG superfan Peter Hughes for replacing Kevin Atkinson's
-                right hand at the last minute!<br>
-                First surprise: 2<br>
-                First surprise inside: 4 </P>
-            <hr>
-            <h3>Last Quarter</h3>
-            <h3>Friday, 11 October 2019</h3>
-            <P><b>1250 Yorkshire Surprise Major </b><br> St Lawrence, York, North Yorkshire (7-3-24 in A) in 40m </P>
-            <OL>
-                <LI>David Denbigh (Langwith)
-                <LI>Emma Coles (York College)
-                <LI>Anna-Lena Bulgrin (Wentworth)
-                <LI>Lucy Williamson (Alcuin)
-                <LI>Rosemary S Hall (Alcuin) (C)
-                <LI>Helen M Beaumont (Langwith)
-                <LI>Susan G Hall (SUGCR)
-                <LI>Eric Wolever (Wentworth)
-                </LI>
-            </OL>
-            <P>First as conductor - 5th<br>
-                Birthday compliments to Sheila Ford, grandmother of 5th and mother of 7th<br>
-                Birthday compliments to Jacob Blackwell</P>
-
-            <br><br><br>
+        <div class="row pt-3">
+            <p>This is a record of the peals and quarter peals rung by members of the York Colleges Guild. This list is
+                by
+                no means complete, but we try to keep it as up to date as possible.</p>
+            <p>Records are displayed in academic year from September 1st to August 31st</p>
         </div>
     </div>
-</div>
+</section>
 
+<script src="scripts/pealNav.js" type="text/javascript"></script>
+
+<script src="scripts/pealsRecent.js" type="text/javascript"></script>
+
+<script src="scripts/peals.js" type="text/javascript"></script>
+
+<script src="scripts/backToTop.js" type="text/javascript"></script>
+
+</body>
 </html>

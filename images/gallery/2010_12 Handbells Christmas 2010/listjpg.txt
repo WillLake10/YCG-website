@@ -1,0 +1,15 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 3E4A-590E
+
+ Directory of C:\Uni\YCG\Redesign oct 19 v2\images\gallery\2010_12 Handbells Christmas 2010
+
+09/01/2011  20:28         1,166,454 AT001.jpg
+09/01/2011  20:29         1,166,454 AT003.jpg
+11/04/2013  10:44           614,949 P081210_19.05.jpg
+28/12/2010  17:11           546,210 P201010_16.30.jpg
+28/12/2010  17:11           630,108 P201010_16.30_[01].jpg
+               5 File(s)      4,124,175 bytes
+
+     Total Files Listed:
+               5 File(s)      4,124,175 bytes
+               0 Dir(s)   2,005,200,896 bytes free

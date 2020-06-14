@@ -1,0 +1,105 @@
+/*
+Website: York Colleges Guild
+Type: CSS
+Name: Main Style Sheet
+Created: 19th April 2020
+Last modified: 20th April 2020
+Author: Will Lake
+ */
+
+
+html {
+    scroll-behavior: smooth;
+}
+
+:root {
+    --ycgGreen: #0CA017;
+}
+
+.thumbnail {
+    position: relative;
+}
+
+.caption {
+    position: absolute;
+    top: 5%;
+    left: 0;
+    width: 100%;
+}
+
+.pagetitle {
+    line-height: 45px;
+    font-family: Sitka Heading;
+    color: Black;
+    font-size: 35pt;
+    font-style: normal;
+    letter-spacing: 4px;
+    font-variant: small-caps;
+    text-align: center;
+    font-weight:normal
+}
+
+.bg-ycgGreen {
+    background-color: var(--ycgGreen);
+}
+
+.text-ycgGreen {
+    color: var(--ycgGreen);
+}
+
+.pageDivide {
+    line-height: 5px;
+    font-size: 5pt;
+}
+
+.mapouter {
+    position: relative;
+    text-align: right;
+    height: 500px;
+    width: 600px;
+}
+
+.map-container-5{
+    overflow:hidden;
+    padding-bottom:56.25%;
+    position:relative;
+    height:0;
+}
+.map-container-5 iframe{
+    left:0;
+    top:0;
+    height:100%;
+    width:100%;
+    position:absolute;
+}
+
+.gmap_canvas {
+    overflow: hidden;
+    background: none !important;
+    height: 70%;
+    width: 70%;
+}
+
+.card {
+    border: none;
+}
+
+.head_title {
+    font-size: 35px;
+    font-variant: small-caps;
+}
+
+.text-ycgGreen {
+    color: var(--ycgGreen);
+}
+
+.bold {
+    font-weight:bold;
+}
+
+hr {
+    display: block;
+    border-width: 3px;
+    color: var(--ycgGreen);
+    background-color: var(--ycgGreen);
+}

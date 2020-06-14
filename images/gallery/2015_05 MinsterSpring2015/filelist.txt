@@ -1,0 +1,15 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 3E4A-590E
+
+ Directory of C:\Uni\YCG\Redesign oct 19 v2\images\gallery\2015_05 MinsterSpring2015
+
+09/02/2020  00:54    <DIR>          .
+09/02/2020  00:54    <DIR>          ..
+22/01/2015  15:31            51,473 10922201_10152982994050120_641406369_n.jpg
+09/02/2020  00:54                 0 filelist.txt
+22/01/2015  15:28           483,340 ycg.JPG
+22/01/2015  15:29         1,502,314 YCG2.jpg
+22/01/2015  15:29           476,823 YCG3.jpg
+22/01/2015  15:30           656,821 YCG4.jpg
+               6 File(s)      3,170,771 bytes
+               2 Dir(s)   4,124,139,520 bytes free

@@ -1,1 +1,0 @@
-document.write('<div class="container"><nav class="navbar navbar-expand-sm navbar-light justify-content-center"><ul class="navbar-nav"><li class="nav-item"><a class="nav-link" href="#top">Back To Top</a></li></ul></nav></div>')

@@ -41,5 +41,4 @@ for (var a = 0; a < year1.length; a++) {
         }
         document.write('</ul></nav>')
 }
-
 document.write('</div></section>')

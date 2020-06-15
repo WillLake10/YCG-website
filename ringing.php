@@ -9,23 +9,12 @@ Author: Will Lake
 -->
 <html lang="en">
 <head>
-    <script src="scripts/head.js" type="text/javascript"></script>
-    <script src="scripts/divCalls.js" type="text/javascript"></script>
+    <?php include ('componants/head.html'); ?>
+        <title>Ringing - York Colleges Guild</title>
 </head>
 <body>
 
-<div id="pageTop"></div>
-
-<div id="splitterFull"></div>
-
-<nav class="navbar navbar-expand-lg bg-light navbar-light sticky-top">
-    <div id="navbarOuter"></div>
-    <div class="collapse navbar-collapse" id="collapsibleNavbar">
-        <div id="navbarItems"></div>
-    </div>
-</nav>
-
-<script src="scripts/backToTopMove.js" type="text/javascript"></script>
+<?php include ('componants/standardPageTop.php'); ?>
 
 <section id="pagetitle">
     <div class="container pt-3">
@@ -58,7 +47,7 @@ Author: Will Lake
     </div>
 </section>
 
-<script src="scripts/splitterFull.js" type="text/javascript"></script><br>
+<?php include ('componants/splitterFull.html'); ?>
 
 <section id="spurriergate">
     <div class="container pt-3 pb-3">
@@ -108,7 +97,7 @@ Author: Will Lake
     </div>
 </section>
 
-<script src="scripts/splitterFull.js" type="text/javascript"></script><br>
+<?php include ('componants/splitterFull.html'); ?>
 
 <section id="stlawrence">
     <div class="container pt-3 pb-3">
@@ -156,15 +145,7 @@ Author: Will Lake
     </div>
 </section>
 
-<section id="splitter" class="about bg-ycgGreen roomy-5">
-    <div class="container">
-        <div class="row">
-            <div class="pageDivide">
-                <br>
-            </div>
-        </div>
-    </div>
-</section>
+<?php include ('componants/splitterFull.html'); ?>
 
 <section id="otherringing">
     <div class="container pt-3 pb-3">

@@ -1,34 +1,21 @@
 <!DOCTYPE html>
 <!--
 Website: York Colleges Guild
-Type: HTML5
+Type: PHP
 Page: Peals and Quarters
 Created: 20th April 2020
-Last modified: 14th June 2020
+Last modified: 15th June 2020
 Author: Will Lake
 -->
 <html lang="en">
 <head>
-    <script src="scripts/head.js" type="text/javascript"></script>
-    <script src="scripts/divCalls.js" type="text/javascript"></script>
+    <?php include ('componants/head.html'); ?>
+    <title>Peals & Quarters - York Colleges Guild</title>
     <link rel="stylesheet" href="styles/peal.css" type="text/css">
 </head>
 <body>
 
-<section id="top"></section>
-
-<div id="pageTop"></div>
-
-<div id="splitterFull"></div>
-
-<nav class="navbar navbar-expand-lg bg-light navbar-light sticky-top">
-    <div id="navbarOuter"></div>
-    <div class="collapse navbar-collapse" id="collapsibleNavbar">
-        <div id="navbarItems"></div>
-    </div>
-</nav>
-
-<script src="scripts/backToTopMove.js" type="text/javascript"></script>
+<?php include ('componants/standardPageTop.php'); ?>
 
 <section id="pagetitle">
     <div class="container pt-3 pb-3">
@@ -51,11 +38,9 @@ Author: Will Lake
 
 <script src="scripts/pealNav.js" type="text/javascript"></script>
 
-<script src="scripts/pealsRecent.js" type="text/javascript"></script>
+<?php include ('componants/recentPeals.php'); ?>
 
-<script src="scripts/peals.js" type="text/javascript"></script>
-
-<script src="scripts/backToTop.js" type="text/javascript"></script>
+<?php include ('componants/peals.php'); ?>
 
 </body>
 </html>

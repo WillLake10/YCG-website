@@ -1,37 +1,22 @@
 <!DOCTYPE html>
 <!--
 Website: York Colleges Guild
-Type: HTML5
+Type: PHP
 Page: Home
 Created: 19th April 2020
-Last modified: 14th June 2020
+Last modified: 15th June 2020
 Author: Will Lake
 -->
 <html lang="en">
 <head>
     <meta name="KEYWORDS" content="YCG, York Colleges Guild, York, University, Uni, York Uni Ringers, YUSCR, York University Society of Change Ringers, Ringing, Bell, Ringers, Ringing, Pub, Beer, St Lawrence, Spurriergate, York Minster, York Bell Ringers, Heslington Church, Alcuin College, Constantine College, Derwent College, Goodricke College, Halifax College, James College, Langwith College, Vanbrugh College, handbell">
-    <script src="scripts/head.js" type="text/javascript"></script>
-    <script src="scripts/divCalls.js" type="text/javascript"></script>
+    <?php include ('componants/head.html'); ?>
+    <title>York Colleges Guild</title>
     <link rel="stylesheet" href="styles/peal.css" type="text/css">
 </head>
 <body>
 
-
-
-<section id="top"></section>
-
-<div id="pageTop"></div>
-
-<div id="splitterFull"></div>
-
-<nav class="navbar navbar-expand-lg bg-light navbar-light sticky-top">
-    <div id="navbarOuter"></div>
-    <div class="collapse navbar-collapse" id="collapsibleNavbar">
-        <div id="navbarItems"></div>
-    </div>
-</nav>
-
-<script src="scripts/backToTopMove.js" type="text/javascript"></script>
+<?php include ('componants/standardPageTop.php'); ?>
 
 <section id="pagetitle">
     <div class="container pt-3 pb-3">
@@ -73,7 +58,7 @@ Author: Will Lake
     </div>
 </section>
 
-<script src="scripts/splitterFull.js" type="text/javascript"></script>
+<?php include ('componants/splitterFull.html'); ?>
 <br>
 
 <section id="thisWeekPractice">
@@ -95,7 +80,7 @@ Author: Will Lake
     </div>
 </section>
 
-<script src="scripts/splitterFull.js" type="text/javascript"></script>
+<?php include ('componants/splitterFull.html'); ?>
 <br>
 <section id="thisWeekSocial">
     <div class="container">
@@ -116,11 +101,9 @@ Author: Will Lake
     </div>
 </section>
 
-<script src="scripts/splitterFull.js" type="text/javascript"></script>
+<?php include ('componants/splitterFull.html'); ?>
 
-<script src="scripts/pealsRecent.js" type="text/javascript"></script>
-
-
+<?php include ('componants/recentPeals.php'); ?>
 
 </body>
 </html>

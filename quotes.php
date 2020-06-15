@@ -9,24 +9,13 @@ Author: Will Lake
 -->
 <html lang="en">
 <head>
-    <script src="scripts/head.js" type="text/javascript"></script>
-    <script src="scripts/divCalls.js" type="text/javascript"></script>
+    <?php include ('componants/head.html'); ?>
+    <title>Quotes - York Colleges Guild</title>
     <link rel="stylesheet" href="styles/quotes.css" type="text/css">
 </head>
 <body>
 
-<div id="pageTop"></div>
-
-<div id="splitterFull"></div>
-
-<nav class="navbar navbar-expand-lg bg-light navbar-light sticky-top">
-    <div id="navbarOuter"></div>
-    <div class="collapse navbar-collapse" id="collapsibleNavbar">
-        <div id="navbarItems"></div>
-    </div>
-</nav>
-
-<script src="scripts/backToTopMove.js" type="text/javascript"></script>
+<?php include ('componants/standardPageTop.php'); ?>
 
 <section id="pagetitle">
     <div class="container pt-3 pb-3">
@@ -44,9 +33,9 @@ Author: Will Lake
 <section id="quotes">
     <div class="container">
         <p>Got a quote that you would like to see here? Drop us a message now!</p>
-        <script src="scripts/quotes.js" type="text/javascript"></script>
     </div>
 </section>
 
 </body>
 </html>
+

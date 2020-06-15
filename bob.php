@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <!--
 Website: York Colleges Guild
-Type: HTML5
+Type: PHP
 Page: Bob the Badger
 Created: 22nd April 2020
 Last modified: 22nd April 2020
@@ -9,23 +9,18 @@ Author: Will Lake
 -->
 <html lang="en">
 <head>
-    <script src="scripts/head.js" type="text/javascript"></script>
-    <script src="scripts/divCalls.js" type="text/javascript"></script>
+    <?php include ('componants/head.html'); ?>
+    <title>Bob - York Colleges Guild</title>
     <script src="gallaria/galleria.js"></script>
     <link rel="stylesheet" href="styles/galleriaStyle.css" type="text/css">
 </head>
 <body>
 
-<div id="pageTop"></div>
-
-<div id="splitterFull"></div>
-
-<nav class="navbar navbar-expand-lg bg-light navbar-light sticky-top">
-    <div id="navbarOuter"></div>
-    <div class="collapse navbar-collapse" id="collapsibleNavbar">
-        <div id="navbarItems"></div>
-    </div>
-</nav>
+<?php
+    include ('componants/pageTop.html');
+    include ('componants/splitterFull.html');
+    include ('componants/navbar.html');
+?>
 
 <section id="pagetitle">
     <div class="container pt-3 pb-3">
@@ -58,7 +53,14 @@ Author: Will Lake
                 <div class="row">
                     <div class="col-md-12">
                         <div class="galleria">
-                            <script src="scripts/bobPhotos.js" type="text/javascript"></script>
+                            <?php
+                                $url = 'data/bobPhotos.json';
+                                $data = file_get_contents($url);
+                                $photos = json_decode($data);
+                                foreach ($photos as $photo) {
+                                    echo "<img src=\"images/bob/$photo[0]\" data-title=\"$photo[1]\">";
+                                }
+                            ?>
                         </div>
 
                     </div>

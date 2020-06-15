@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <!--
 Website: York Colleges Guild
-Type: HTML5
+Type: PHP
 Page: Bob the Badger
 Created: 22nd April 2020
 Last modified: 22nd April 2020
@@ -9,23 +9,14 @@ Author: Will Lake
 -->
 <html lang="en">
 <head>
-    <script src="scripts/head.js" type="text/javascript"></script>
-    <script src="scripts/divCalls.js" type="text/javascript"></script>
+    <?php include ('componants/head.html'); ?>
+    <title>Events - York Colleges Guild</title>
     <script src="gallaria/galleria.js"></script>
     <link rel="stylesheet" href="styles/galleriaStyle.css" type="text/css">
 </head>
 <body>
 
-<div id="pageTop"></div>
-
-<div id="splitterFull"></div>
-
-<nav class="navbar navbar-expand-lg bg-light navbar-light sticky-top">
-    <div id="navbarOuter"></div>
-    <div class="collapse navbar-collapse" id="collapsibleNavbar">
-        <div id="navbarItems"></div>
-    </div>
-</nav>
+<?php include ('componants/standardPageTop.php'); ?>
 
 <section id="pagetitle">
     <div class="container pt-3 pb-3">

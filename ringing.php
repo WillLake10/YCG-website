@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <!--
 Website: York Colleges Guild
-Type: HTML5
+Type: PHP
 Page: Ringing
 Created: 20th April 2020
 Last modified: 20th April 2020

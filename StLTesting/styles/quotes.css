@@ -1,0 +1,17 @@
+.quotesName{
+    font-weight:bold;
+    color: var(--StLRed);
+    font-size: 16px;
+}
+
+.quotesBody{
+    /*padding-left: 30px;*/
+}
+
+.quotesExtra{
+    padding-left: 30px;
+}
+
+.quotesBorder{
+    border-style: solid
+}

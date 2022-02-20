@@ -9,14 +9,17 @@ Author: Will Lake
 -->
 <html lang="en">
 <head>
-    <meta name="KEYWORDS" content="YCG, York Colleges Guild, York, University, Uni, York Uni Ringers, YUSCR, York University Society of Change Ringers, Ringing, Bell, Ringers, Ringing, Pub, Beer, St Lawrence, Spurriergate, York Minster, York Bell Ringers, Heslington Church, Alcuin College, Constantine College, Derwent College, Goodricke College, Halifax College, James College, Langwith College, Vanbrugh College, handbell">
-    <?php include ('componants/head.html'); ?>
-    <title>York Colleges Guild</title>
+    <meta name="KEYWORDS"
+          content="YCG, York Colleges Guild, York, University, Uni, York Uni Ringers, YUSCR, York University Society of Change Ringers, Ringing, Bell, Ringers, Ringing, Pub, Beer, St Lawrence, Spurriergate, York Minster, York Bell Ringers, Heslington Church, Alcuin College, Constantine College, Derwent College, Goodricke College, Halifax College, James College, Langwith College, Vanbrugh College, handbell">
+    <?php include('componants/head.html'); ?>
+    <title>YCG</title>
     <link rel="stylesheet" href="styles/peal.css" type="text/css">
+
+    <script src="cronJobs/calender.js?random=<?= time() ?>" type="text/javascript"></script>
 </head>
 <body>
 
-<?php include ('componants/standardPageTop.php'); ?>
+<?php include('componants/standardPageTop.php'); ?>
 
 <section id="pagetitle">
     <div class="container pt-3 pb-3">
@@ -58,7 +61,7 @@ Author: Will Lake
     </div>
 </section>
 
-<?php include ('componants/splitterFull.html'); ?>
+<?php include('componants/splitterFull.html'); ?>
 <br>
 
 <section id="thisWeekPractice">
@@ -66,44 +69,40 @@ Author: Will Lake
         <div class="row">
             <div class="col-md-6">
                 <div class="head_title text-ycgGreen">
-                    This weeks practice:
+                    Next practice:
                 </div>
             </div>
             <div class="col-md-6">
                 <div class="head_title" style="font-size: 15pt; line-height: 15px">
-                    <p>What - No Practice</p>
-                    <p>Where - </p>
-                    <p>When -</p>
+                    <script src="scripts/nextPractice.js" type="text/javascript"></script>
                 </div>
             </div>
         </div>
     </div>
 </section>
 
-<?php include ('componants/splitterFull.html'); ?>
+<?php include('componants/splitterFull.html'); ?>
 <br>
 <section id="thisWeekSocial">
     <div class="container">
         <div class="row">
             <div class="col-md-6">
                 <div class="head_title text-ycgGreen">
-                    This weeks social:
+                    Next social:
                 </div>
             </div>
             <div class="col-md-6">
                 <div class="head_title" style="font-size: 15pt; line-height: 15px">
-                    <p>What - Zoom call</p>
-                    <p>Where - Zoom (link on Facebook chat)</p>
-                    <p>When - 8pm, Friday 19th June</p>
+                    <script src="scripts/nextSocial.js" type="text/javascript"></script>
                 </div>
             </div>
         </div>
     </div>
 </section>
 
-<?php include ('componants/splitterFull.html'); ?>
+<?php include('componants/splitterFull.html'); ?>
 
-<?php include ('componants/recentPeals.php'); ?>
+<?php include('componants/recentPeals.php'); ?>
 
 </body>
 </html>

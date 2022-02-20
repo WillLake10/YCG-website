@@ -1,0 +1,112 @@
+[
+  {
+    "bell": "Treble",
+    "crown": "(a) 310 / (b) 299",
+    "inscriptionBand": "(vine leaf border)",
+    "diameter": "21.50\"",
+    "date": "1999",
+    "weight": "2-1-4",
+    "founder": "John Taylor Bellfounders Ltd",
+    "note": "A",
+    "waist": "(a) IN MEMORY OF / JAMES AND CECELIA TEBB, / 1898 TO 1963 ~ 1996 / MARY AND DON TEBB. / (b) ST. HELEN"
+  },
+  {
+    "bell": "2nd",
+    "crown": "(a) 299 / (b) 278",
+    "inscriptionBand": "(vine leaf border)",
+    "diameter": "22.00\"",
+    "date": "1999",
+    "weight": "2-2-2",
+    "founder": "John Taylor Bellfounders Ltd",
+    "note": "G#",
+    "waist": "(a) JANUARY (Taylor mark in wreath) 1999 / (b) ST. EDWARD / THE CONFESSOR"
+  },
+  {
+    "bell": "3rd",
+    "crown": "(a) 305",
+    "inscriptionBand": "(bell and pomegranate border)",
+    "diameter": "22.50\"",
+    "date": "1947",
+    "weight": "2-1-15",
+    "founder": "John Taylor & Co",
+    "note": "F#",
+    "waist": "(a) JOHN TAYLOR & CO. / BELLFOUNDERS / LOUGHBOROUGH / 1947 / (b) ST. ANDREW"
+  },
+  {
+    "bell": "4th",
+    "crown": "(a) 196",
+    "inscriptionBand": "(bell and pomegranate border)",
+    "diameter": "24.50\"",
+    "date": "1947",
+    "weight": "2-3-16",
+    "founder": "John Taylor & Co",
+    "note": "E",
+    "waist": "(a) JOHN TAYLOR & CO. / BELLFOUNDERS / LOUGHBOROUGH / 1947 / (b) ALL HALLOWS"
+  },
+  {
+    "bell": "5th",
+    "crown": "(a) 161 / (b) 299",
+    "inscriptionBand": "(vine leaf border)",
+    "diameter": "26.00\"",
+    "date": "1999",
+    "weight": "3-0-2",
+    "founder": "John Taylor Bellfounders Ltd",
+    "note": "D",
+    "waist": "(a) JANUARY (Taylor mark in wreath) 1999 / (b) ST. CATHERINE"
+  },
+  {
+    "bell": "6th",
+    "crown": "(a) 265 / (b) 173",
+    "inscriptionBand": "JOHN TAYLOR & CO * FOUNDERS * ENGLAND * 1988 *",
+    "diameter": "27.50\"",
+    "date": "1988",
+    "weight": "3-3-20",
+    "founder": "John Taylor & Co (Bellfounders) Ltd",
+    "note": "C#",
+    "waist": "(a) ST. MICHAEL"
+  },
+  {
+    "bell": "7th",
+    "crown": "(b) 276",
+    "inscriptionBand": "(rose decoration border)",
+    "diameter": "31.50\"",
+    "date": "1947",
+    "weight": "5-3-21",
+    "founder": "John Taylor & Co",
+    "note": "B",
+    "waist": "(a) JOHN TAYLOR & CO. / BELLFOUNDERS / LOUGHBOROUGH / 1947 / (b) ST. NICHOLAS"
+  },
+  {
+    "bell": "Tenor",
+    "crown": "(a) 140",
+    "inscriptionBand": "(rose decoration border)",
+    "diameter": "35.00\"",
+    "date": "1947",
+    "weight": "7-3-24",
+    "founder": "John Taylor & Co",
+    "note": "A",
+    "waist": "(a) JOHN TAYLOR & CO. / BELLFOUNDERS / LOUGHBOROUGH / 1947 / (b) ST. LAURENCE"
+  },
+  {
+    "bell": "Clock Bell",
+    "crown": "",
+    "inscriptionBand": "WM. POTTS & SONS LEEDS.",
+    "diameter": "26.38\"",
+    "date": "1893",
+    "weight": "4cwt",
+    "founder": "John Warner & Sons",
+    "note": "",
+    "waist": "ST. LAWRENCE CH_ YORK 1893 / F. W. HARPER_ VICAR / A. RUCKLIDGE W. WEATHERILL } CH WARDENS."
+  },
+  {
+    "bell": "Unused Bell",
+    "crown": "",
+    "inscriptionBand": "",
+    "diameter": "18.25\"",
+    "date": "1739",
+    "weight": "1 1/4cwt",
+    "founder": "Edward II Seller",
+    "note": "",
+    "waist": "DEO (floral border) GLORIA (floral border) 1739 (floral border) (cartouche bearing E. / Seller / Ebor) (floral border) (cartouche bearing E. / Seller / Ebor) (floral border)"
+  }
+]

@@ -9,35 +9,84 @@ Author: Will Lake
 -->
 <html lang="en">
 <head>
-    <?php include ('componants/head.html'); ?>
+    <?php include('componants/head.html'); ?>
     <title>Events - York Colleges Guild</title>
     <script src="gallaria/galleria.js"></script>
     <link rel="stylesheet" href="styles/galleriaStyle.css" type="text/css">
+    <link rel="stylesheet" href="styles/event.css" type="text/css">
+    <script src="cronJobs/calender.js?random=<?= time() ?>" type="text/javascript"></script>
+    <style>
+        .buttonReload {
+            background-color: var(--ycgGreen);
+            border: 2px solid var(--ycgGreen);
+            color: white;
+            padding: 10px 15px;
+            text-align: center;
+            text-decoration: none;
+            font-size: 16px;
+            border-radius: 12px;
+            transition-duration: 0.4s;
+            cursor: pointer;
+            left: 50%;
+        }
+
+        .buttonReload:hover {
+            background-color: white;
+            color: black;
+            box-shadow: 0px 4px 8px rgb(51, 51, 51);
+            box-shadow: 0px 6px 20px rgba(51, 51, 51, 0.7);
+        }
+
+        .vertical-center {
+            margin: 0;
+            position: absolute;
+            left: 50%;
+            -ms-transform: translateX(-50%);
+            transform: translateX(-50%);
+        }
+    </style>
 </head>
 <body>
 
-<?php include ('componants/standardPageTop.php'); ?>
+<?php include('componants/standardPageTop.php'); ?>
 
 <section id="pagetitle">
     <div class="container pt-3 pb-3">
         <div class="row">
-            <div class="col-md-3"></div>
-            <div class="col-12 col-md-6">
+            <div class="col-md-4">
+            </div>
+            <div class="col-md-4">
                 <div class="pagetitle">
                     Events
                 </div>
             </div>
+            <div class="col-md-4">
+
+            </div>
+        </div>
+        <div class="pt-3 pb-2" style="text-align: center">
+            <button class="button buttonReload" onclick="window.open('cronJobs/updateCal.php')">Reload Cal</button>
         </div>
     </div>
 </section>
 
-<section id="welcome">
-    <div class="container">
+
+<section id="events">
+    <div class="container pb-5">
         <div class="row">
-            <iframe src="https://calendar.google.com/calendar/b/3/embed?height=600&amp;wkst=2&amp;bgcolor=%23E4C441&amp;ctz=Europe%2FLondon&amp;src=YWRtaW5AeWNnLm9yZy51aw&amp;color=%2322AA99&amp;mode=AGENDA&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showDate=1&amp;showNav=1" style="border:solid 1px #777" height="300" width="100%" frameborder="0" scrolling="no"></iframe>
-            <iframe src="https://calendar.google.com/calendar/b/3/embed?height=600&amp;wkst=2&amp;bgcolor=%23E4C441&amp;ctz=Europe%2FLondon&amp;src=YWRtaW5AeWNnLm9yZy51aw&amp;color=%2322AA99&amp;mode=WEEK&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showDate=1&amp;showNav=1" style="border:solid 1px #777" height="800" width="100%" frameborder="0" scrolling="no"></iframe>
+
+        </div>
+        <div class="row">
+            <div class="[ col-xs-12 offset-md-2 col-md-8 ]">
+                <ul class="event-list">
+                    <script src="scripts/events.js" type="text/javascript"></script>
+                </ul>
+            </div>
+
         </div>
     </div>
 </section>
+
+
 </body>
 </html>

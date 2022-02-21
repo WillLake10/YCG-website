@@ -171,6 +171,27 @@ Author: Will Lake
                 <td>Followed by breakfast at Morisons with the ringers</td>
             </tr>
             <tr>
+                <td>York Minster</td>
+                <td>09:00 - 10:00</td>
+                <td>Sunday</td>
+                <td>Service Ringing</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>St Wilfrid's</td>
+                <td>10:00 - 10:30</td>
+                <td>Sunday</td>
+                <td>Service Ringing</td>
+                <td>Cafe trip between ringing</td>
+            </tr>
+            <tr>
+                <td>St Wilfrid's</td>
+                <td>11:30 - 12:00</td>
+                <td>Sunday</td>
+                <td>Service Ringing</td>
+                <td></td>
+            </tr>
+            <tr>
                 <td>St Lawrence</td>
                 <td>17:15 - 18:00</td>
                 <td>Sunday</td>
@@ -179,24 +200,38 @@ Author: Will Lake
             </tr>
             <tr>
                 <td>St Lawrence</td>
-                <td>7:30 - 21:00</td>
+                <td>19:30 - 21:00</td>
                 <td>Monday</td>
                 <td>Practice Night</td>
-                <td>Followed by pub trip</td>
+                <td></td>
             </tr>
             <tr>
                 <td>St Martins</td>
-                <td>7:30 - 21:00</td>
+                <td>19:30 - 21:00</td>
                 <td>Tuesday</td>
                 <td>Practice Night</td>
-                <td>Followed by pub trip</td>
+                <td>Advanced Practice</td>
+            </tr>
+            <tr>
+                <td>York Minster</td>
+                <td>19:30 - 21:00</td>
+                <td>Tuesday</td>
+                <td>Practice Night</td>
+                <td>Fairly Advanced Practice</td>
+            </tr>
+            <tr>
+                <td>St Olave's</td>
+                <td>19:00 - 20:30</td>
+                <td>Wednesday</td>
+                <td>Practice Night</td>
+                <td>Once a month practice, check when on</td>
             </tr>
             <tr>
                 <td>St Wilfrid's</td>
-                <td>7:30 - 21:00</td>
+                <td>19:30 - 21:00</td>
                 <td>Thursday</td>
                 <td>Practice Night</td>
-                <td>Followed by pub trip</td>
+                <td></td>
             </tr>
             </tbody>
         </table>

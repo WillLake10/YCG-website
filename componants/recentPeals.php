@@ -4,10 +4,10 @@ for ($a = 0; $a <= 1; $a++) {
     echo "<div class=\"col-md-6 pb-3\"><div class=\"head_title\">";
         if ($a == 0){
             echo "Last Peal";
-            $url = 'data/recentPeal.json';
+            $url = 'peals/lastPeal.json';
         } else{
             echo "Last Ringing";
-            $url = 'data/recentQuater.json';
+            $url = 'peals/lastRinging.json';
         }
         $data = file_get_contents($url);
         $peal = json_decode($data);
@@ -30,7 +30,7 @@ for ($a = 0; $a <= 1; $a++) {
                 echo "<div class=\"pealringer\">";
                     echo "<ul style=\"list-style-type:none;\">";
                     foreach ($peal->ringers as $ringer) {
-                        echo "<li>$ringer[0] - $ringer[1]</li>";
+                        echo "<li>$ringer->bell - $ringer->name</li>";
                     }
                     echo "</ul>";
                 echo "</div>";

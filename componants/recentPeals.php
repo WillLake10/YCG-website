@@ -25,8 +25,8 @@ for ($a = 0; $a <= 1; $a++) {
                 echo "</div>";
             echo "</div>";
             echo "<div class=\"card-body\">";
-                echo "<div class=\"pealmethodmain\">$peal->method</div>";
-                echo "<div class=\"pealmethodsecondery\">$peal->methodSecond</div>";
+                echo "<div class=\"pealmethodmain\">$peal->changes $peal->method</div>";
+                echo "<div class=\"pealmethodsecondery\">$peal->details</div>";
                 echo "<div class=\"pealringer\">";
                     echo "<ul style=\"list-style-type:none;\">";
                     foreach ($peal->ringers as $ringer) {

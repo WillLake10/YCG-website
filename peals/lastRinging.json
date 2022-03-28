@@ -1,51 +1,40 @@
 {
     "academic_year": "2021/22",
-    "date": "Saturday, 05 March 2022",
-    "location": "Oratory Church of St Wilfrid, York, North Yorkshire",
-    "weight": "18-1-21 in F",
-    "time": "",
-    "changes": "",
-    "method": "Rounds and Call Changes, Plain Hunt Doubles",
+    "date": "Sunday, 20 March 2022",
+    "location": "St Lawrence, York, North Yorkshire",
+    "weight": "7-3-24 in A",
+    "time": "43m",
+    "changes": "1260",
+    "method": "Plain Bob Doubles",
     "details": "",
     "ringers": [
         {
-            "name": "Amber M Burrows",
+            "name": "Megan Bucknall",
             "bell": "1"
         },
         {
-            "name": "Jemima Bleackley",
+            "name": "Nathan Williams",
             "bell": "2"
         },
         {
-            "name": "Joss Davis",
+            "name": "Alison L Edmonds",
             "bell": "3"
         },
         {
-            "name": "Matthew O Hall",
+            "name": "Matthew O Hall (C)",
             "bell": "4"
         },
         {
-            "name": "Megan Bucknall",
+            "name": "David G Hull",
             "bell": "5"
         },
         {
-            "name": "Paula J Horton",
+            "name": "Amber M Burrows",
             "bell": "6"
-        },
-        {
-            "name": "Richard J Horton",
-            "bell": "7"
-        },
-        {
-            "name": "Rosemary S Hall",
-            "bell": "8"
-        },
-        {
-            "name": "Zoe Duffin",
-            "bell": "9"
         }
     ],
     "footnotes": [
-        "Rang for peace in Ukraine, alongside the peaceful gathering in York"
+        "First Quarter 6",
+        "Rung in celebration of the end of Spring Term"
     ]
 }

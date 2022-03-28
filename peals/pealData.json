@@ -1,6 +1,85 @@
 [
     {
         "academic_year": "2021/22",
+        "date": "Sunday, 20 March 2022",
+        "location": "St Lawrence, York, North Yorkshire",
+        "weight": "7-3-24 in A",
+        "time": "43m",
+        "changes": "1260",
+        "method": "Plain Bob Doubles",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Megan Bucknall",
+                "bell": "1"
+            },
+            {
+                "name": "Nathan Williams",
+                "bell": "2"
+            },
+            {
+                "name": "Alison L Edmonds",
+                "bell": "3"
+            },
+            {
+                "name": "Matthew O Hall (C)",
+                "bell": "4"
+            },
+            {
+                "name": "David G Hull",
+                "bell": "5"
+            },
+            {
+                "name": "Amber M Burrows",
+                "bell": "6"
+            }
+        ],
+        "footnotes": [
+            "First Quarter 6",
+            "Rung in celebration of the end of Spring Term"
+        ]
+    },
+    {
+        "academic_year": "2021/22",
+        "date": "Friday, 18 March 2022",
+        "location": "Oratory Church of St Wilfrid, York, North Yorkshire",
+        "weight": "6-0-6 in C",
+        "time": "45m",
+        "changes": "1260",
+        "method": "Plain Bob Minor",
+        "details": "",
+        "ringers": [
+            {
+                "name": "John J Bissell",
+                "bell": "1"
+            },
+            {
+                "name": "Jonathan R Galloway",
+                "bell": "2"
+            },
+            {
+                "name": "Patrick W J Deakin",
+                "bell": "3"
+            },
+            {
+                "name": "James D Austin",
+                "bell": "4"
+            },
+            {
+                "name": "Henry J W Pipe",
+                "bell": "5"
+            },
+            {
+                "name": "Matthew O Hall (C)",
+                "bell": "6"
+            }
+        ],
+        "footnotes": [
+            "First as conductor"
+        ]
+    },
+    {
+        "academic_year": "2021/22",
         "date": "Saturday, 05 March 2022",
         "location": "Oratory Church of St Wilfrid, York, North Yorkshire",
         "weight": "18-1-21 in F",
@@ -15777,6 +15856,45 @@
     },
     {
         "academic_year": "1988/89",
+        "date": "Thursday, 01 December 1988",
+        "location": "Art's Centre, York, North Yorkshire",
+        "weight": "9-2-27 in G#",
+        "time": "",
+        "changes": "1260",
+        "method": "Plain Bob Minor",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Julie Branson",
+                "bell": "1"
+            },
+            {
+                "name": "T P Hart",
+                "bell": "2"
+            },
+            {
+                "name": "Robert D C Richards",
+                "bell": "3"
+            },
+            {
+                "name": "John S Leech (C)",
+                "bell": "4"
+            },
+            {
+                "name": "Richard P Darley",
+                "bell": "5"
+            },
+            {
+                "name": "Richard B Rose",
+                "bell": "6"
+            }
+        ],
+        "footnotes": [
+            "submitted as part of the excercise to complete YCG records"
+        ]
+    },
+    {
+        "academic_year": "1988/89",
         "date": "Saturday, 03 September 1988",
         "location": "St Nicholas, Chiswick, Greater London",
         "weight": "13-1-15 in F",
@@ -15853,7 +15971,7 @@
                 "bell": "5"
             },
             {
-                "name": "John D Leach",
+                "name": "John S Leech",
                 "bell": "6"
             },
             {
@@ -15913,6 +16031,123 @@
             }
         ],
         "footnotes": []
+    },
+    {
+        "academic_year": "1977/78",
+        "date": "Sunday, 12 March 1978",
+        "location": "Art's Centre, York, North Yorkshire",
+        "weight": "9-2-27 in G#",
+        "time": "",
+        "changes": "1260",
+        "method": "Plain Bob Minor",
+        "details": "",
+        "ringers": [
+            {
+                "name": "David E Potter",
+                "bell": "1"
+            },
+            {
+                "name": "Susan Adams (C)",
+                "bell": "2"
+            },
+            {
+                "name": "Rosina Hearfield",
+                "bell": "3"
+            },
+            {
+                "name": "John S Leech",
+                "bell": "4"
+            },
+            {
+                "name": "Michael G Barker",
+                "bell": "5"
+            },
+            {
+                "name": "Glenn A A Taylor",
+                "bell": "6"
+            }
+        ],
+        "footnotes": [
+            "submitted as part of the exercise to complete YCG records"
+        ]
+    },
+    {
+        "academic_year": "1977/78",
+        "date": "Sunday, 19 February 1978",
+        "location": "Art's Centre, York, North Yorkshire",
+        "weight": "9-2-27 in G#",
+        "time": "",
+        "changes": "1272",
+        "method": "Cambridge Surprise Minor",
+        "details": "",
+        "ringers": [
+            {
+                "name": "John S Leech",
+                "bell": "1"
+            },
+            {
+                "name": "Glenn A A Taylor",
+                "bell": "2"
+            },
+            {
+                "name": "Susan Adams",
+                "bell": "3"
+            },
+            {
+                "name": "Melvyn A Redout",
+                "bell": "4"
+            },
+            {
+                "name": "Cathy Meades",
+                "bell": "5"
+            },
+            {
+                "name": "Peter Wilkinson (C)",
+                "bell": "6"
+            }
+        ],
+        "footnotes": [
+            "submitted as part of the exercise to complete the YCG records"
+        ]
+    },
+    {
+        "academic_year": "1976/77",
+        "date": "Sunday, 22 May 1977",
+        "location": "Art's Centre, York, North Yorkshire",
+        "weight": "9-2-27 in G#",
+        "time": "",
+        "changes": "1272",
+        "method": "Cambridge Surprise Minor",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Elaine Tickner",
+                "bell": "1"
+            },
+            {
+                "name": "Margaret Boam",
+                "bell": "2"
+            },
+            {
+                "name": "John S Leech",
+                "bell": "3"
+            },
+            {
+                "name": "Elizabeth S Riley",
+                "bell": "4"
+            },
+            {
+                "name": "Vic C Wright",
+                "bell": "5"
+            },
+            {
+                "name": "Peter Wilkinson (C)",
+                "bell": "6"
+            }
+        ],
+        "footnotes": [
+            "submitted as part of the exercise to complete YCG records"
+        ]
     },
     {
         "academic_year": "1973/74",
@@ -16310,49 +16545,85 @@
         ]
     },
     {
-        "academic_year": "1970/71",
-        "date": "Sunday, 13 June 1971",
-        "location": "Former St John, York, North Yorkshire",
-        "weight": "9-0-4 in G#",
+        "academic_year": "1971/72",
+        "date": "Thursday, 20 April 1972",
+        "location": "Art's Centre, York, North Yorkshire",
+        "weight": "10",
         "time": "",
         "changes": "1260",
         "method": "Plain Bob Minor",
         "details": "",
         "ringers": [
             {
-                "name": "Unknown",
+                "name": "David E Potter",
                 "bell": "1"
             },
             {
-                "name": "Unknown",
+                "name": "Claire L Noble",
                 "bell": "2"
             },
             {
-                "name": "Unknown",
+                "name": "Barbara J Rand",
                 "bell": "3"
             },
             {
-                "name": "Unknown",
+                "name": "John S Leech",
                 "bell": "4"
             },
             {
-                "name": "Unknown",
+                "name": "Martin J Turner",
                 "bell": "5"
             },
             {
-                "name": "Unknown",
+                "name": "Owen P Claxton (C)",
+                "bell": "6"
+            }
+        ],
+        "footnotes": []
+    },
+    {
+        "academic_year": "1970/71",
+        "date": "Sunday, 13 June 1971",
+        "location": "St Stephen, Acomb, North Yorkshire",
+        "weight": "10-3-26",
+        "time": "",
+        "changes": "1260",
+        "method": "Plain Bob Minor",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Doug Lowther",
+                "bell": "1"
+            },
+            {
+                "name": "John S Leech",
+                "bell": "2"
+            },
+            {
+                "name": "Susan M Fitton",
+                "bell": "3"
+            },
+            {
+                "name": "Helen Simpson",
+                "bell": "4"
+            },
+            {
+                "name": "Owen P Claxton",
+                "bell": "5"
+            },
+            {
+                "name": "David E Potter (C)",
                 "bell": "6"
             }
         ],
         "footnotes": [
-            "Conducted by D E Potter",
             "Published as part of YCG's effort to digitalise old records. All records uploaded exactly as they appear in our physical books, for any changes to names etc, please contact admin@ycg.org"
         ]
     },
     {
         "academic_year": "1970/71",
         "date": "Tuesday, 23 March 1971",
-        "location": "Former St John, York, North Yorkshire",
+        "location": "Art's Centre, York, North Yorkshire",
         "weight": "9-0-4 in G#",
         "time": "",
         "changes": "1260",
@@ -16360,39 +16631,38 @@
         "details": "",
         "ringers": [
             {
-                "name": "Unknown",
+                "name": "Margaret Pagowska",
                 "bell": "1"
             },
             {
-                "name": "Unknown",
+                "name": "Helen Simpson",
                 "bell": "2"
             },
             {
-                "name": "Unknown",
+                "name": "Judith P McGhie",
                 "bell": "3"
             },
             {
-                "name": "Unknown",
+                "name": "John S Leech",
                 "bell": "4"
             },
             {
-                "name": "Unknown",
+                "name": "Derek J Jones (C)",
                 "bell": "5"
             },
             {
-                "name": "Unknown",
+                "name": "David E Potter",
                 "bell": "6"
             }
         ],
         "footnotes": [
-            "Conducted D J Jones",
             "Published as part of YCG's effort to digitalise old records. All records uploaded exactly as they appear in our physical books, for any changes to names etc, please contact admin@ycg.org"
         ]
     },
     {
         "academic_year": "1970/71",
         "date": "Monday, 01 February 1971",
-        "location": "Former St John, York, North Yorkshire",
+        "location": "Art's Centre, York, North Yorkshire",
         "weight": "9-0-4 in G#",
         "time": "",
         "changes": "1260",
@@ -16400,32 +16670,31 @@
         "details": "Heslington Alliance/Plain Bob Minor",
         "ringers": [
             {
-                "name": "Unknown",
+                "name": "John S Leech",
                 "bell": "1"
             },
             {
-                "name": "Unknown",
+                "name": "John Blacktop",
                 "bell": "2"
             },
             {
-                "name": "Unknown",
+                "name": "Derek J Jones (C)",
                 "bell": "3"
             },
             {
-                "name": "Unknown",
+                "name": "Helen Simpson",
                 "bell": "4"
             },
             {
-                "name": "Unknown",
+                "name": "David E Potter",
                 "bell": "5"
             },
             {
-                "name": "Unknown",
+                "name": "Owen P Claxton",
                 "bell": "6"
             }
         ],
         "footnotes": [
-            "Conducted by D J Jones",
             "Published as part of YCG's effort to digitalise old records. All records uploaded exactly as they appear in our physical books, for any changes to names etc, please contact admin@ycg.org"
         ]
     },

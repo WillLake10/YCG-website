@@ -37,12 +37,12 @@ for ($a = 0; $a <= 1; $a++) {
                 foreach ($peal->footnotes as $footnote) {
                     echo"<div class=\"pealfootnote\">$footnote</div>";
                 }
-                if ($peal->image != "") {
-                    echo "<img src=\"$peal->image\" class=\"img-fluid mx-auto d-block pealphoto\">";
-                }
-                if ($peal->image != "") {
-                    echo "<span class=\"pealphotocaption\">$peal->imageCaption</span>";
-                }
+//                if ($peal->image != "") {
+//                    echo "<img src=\"$peal->image\" class=\"img-fluid mx-auto d-block pealphoto\">";
+//                }
+//                if ($peal->image != "") {
+//                    echo "<span class=\"pealphotocaption\">$peal->imageCaption</span>";
+//                }
             echo "</div>";
         echo "</div>";
     echo "</div>";

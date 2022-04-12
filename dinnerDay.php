@@ -58,6 +58,7 @@ Author: Will Lake
                     14th of May. There are three ways to pay -- please indicate how you wish to pay when you email to
                     book your ticket!<br><br>1.     Cash/ cheque in person to either Rosemary Hall or
                     William Lake.<br>2.     BACS: please email for BACS account details.</p>
+                <p>Deadline for payments is <b>14th of May</b></p>
                 <p>In the email securing your place please let us know the years you were in YCG.</p>
                 <p>We would like to try and arrange a quarter of past YCG Ringing Masters so if you have been Ringing
                     Master at some point and would be interested in this please let us know.</p>

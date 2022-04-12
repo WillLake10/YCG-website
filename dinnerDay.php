@@ -91,7 +91,7 @@ Author: Will Lake
                     clearer.
                 </p>
                 <p>
-                    Please save the date and more information as well as tickets should be avalable soon.
+                    Please save the date and more information as well as tickets should be available soon.
                 </p>
                 <p>
                     Looking forward to finally getting to celebrate the 50th with you and if you have any questions

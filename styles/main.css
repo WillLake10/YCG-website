@@ -14,6 +14,7 @@ html {
 
 :root {
     --ycgGreen: #0CA017;
+    --ycgLRed: #ae0001;
 }
 
 .thumbnail {
@@ -114,4 +115,28 @@ hr {
     border-width: 3px;
     color: var(--ycgGreen);
     background-color: var(--ycgGreen);
+}
+
+.alert {
+    line-height: 30px;
+    font-family: Sitka Heading;
+    color: var(--ycgLRed);
+    font-size: 30pt;
+    font-style: normal;
+    letter-spacing: 4px;
+    font-variant: small-caps;
+    text-align: center;
+    font-weight:normal
+}
+
+.alertText {
+    line-height: 15px;
+    font-family: Sitka Heading;
+    color: var(--ycgLRed);
+    font-size: 15pt;
+    font-style: normal;
+    letter-spacing: 4px;
+    font-variant: small-caps;
+    text-align: center;
+    font-weight:normal
 }

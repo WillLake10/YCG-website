@@ -60,7 +60,7 @@ Author: Will Lake
                     William Lake.<br>2.     BACS: please email for BACS account details.</p>
                 <p>Deadline for payments is <b>14th of May</b></p>
                 <p>In the email securing your place please let us know the years you were in YCG.</p>
-                <p>We would like to try and arrange a quarter of past YCG Ringing Masters so if you have been Ringing
+                <p>We would like to try and arrange a quarter for past YCG Ringing Masters so if you have been Ringing
                     Master at some point and would be interested in this please let us know.</p>
                 <p>There will be more details and precise itinerary to follow. Please note we are expecting a high
                     demand this year so please email us back as soon as possible to secure your place.</p>

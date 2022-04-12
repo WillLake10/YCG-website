@@ -46,7 +46,7 @@ Author: Will Lake
             <div class="col-md-6" style="text-align: center">
                 <br>
                 <p><b><u>Ticket Info</u></b></p>
-                <p>Tickets are now on Sale, please contact secretary@ycg.org.uk to book your ticket tickets.</p>
+                <p>Tickets are now on Sale, please contact secretary@ycg.org.uk to book your tickets.</p>
                 <p>The ticket will include a three-course meal and our Ceilidh will be hosted by The Bad Bargain Band
                     after the meal. This event is open to all; ringers, friends and family, York residents, or anyone
                     who is interested from further afield!</p>

@@ -10,7 +10,7 @@ Author: Will Lake
 <html lang="en">
 <head>
     <?php include('componants/head.html'); ?>
-    <title>Dinner Dat - York Colleges Guild</title>
+    <title>Dinner Day - York Colleges Guild</title>
 </head>
 <body>
 

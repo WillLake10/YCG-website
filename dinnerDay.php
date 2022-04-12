@@ -10,7 +10,7 @@ Author: Will Lake
 <html lang="en">
 <head>
     <?php include('componants/head.html'); ?>
-    <title>History - York Colleges Guild</title>
+    <title>Dinner Dat - York Colleges Guild</title>
 </head>
 <body>
 
@@ -67,8 +67,9 @@ Author: Will Lake
                     know if you would like to ring in one.</p>
                 <p>Finally, please let anyone else from YCG that you know the details of the dinner so that we can get
                     as many past members as possible to the weekend.</p>
-                <p>In summary, please reply with your<br><br>1.Name<br>2.Payment method<br>3.Years you were at YCG /
+                <p>In summary, please email with your<br><br>1.Name<br>2.Payment method<br>3.Years you were at YCG /
                     York (if applicable)<br>4.If you would like to ring in a quarter peal or peal</p>
+                <p>to secure your place</p>
                 <p>Kind regards</p>
                 <p>YCG 50th Anniversary Dinner Day Committee</p>
 

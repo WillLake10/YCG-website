@@ -4,7 +4,7 @@ import xml.dom.minidom
 import datetime
 import multiprocessing as mp
 import json
-
+import datetime
 
 class Performance:
     def __init__(self, academic_year, date, location, weight, time, changes, method, details, ringers, footnotes):
@@ -164,4 +164,8 @@ if __name__ == '__main__':
     get_last_peal(performances)
     f = open("lastRinging.json", "w")
     f.write(json.dumps(performances[0], indent=4, cls=PerformanceEncoder))
+    f.close()
+    currentTime = datetime.datetime.now()
+    f = open("lastEdit.json", "w")
+    f.write("{\n    \"time\": \"" + currentTime.strftime("%d/%m/%Y at %X") + "\"\n}")
     f.close()

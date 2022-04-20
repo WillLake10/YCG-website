@@ -1,4 +1,4 @@
-name: update-peals-from-bellboard-schedule
+name: update-peals-on-push
 
 on: push
 

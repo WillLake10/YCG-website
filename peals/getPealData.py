@@ -167,5 +167,5 @@ if __name__ == '__main__':
     f.close()
     currentTime = datetime.datetime.now()
     f = open("peals/lastEdit.json", "w")
-    f.write("{\n    \"time\": \"" + currentTime.strftime("%d/%m/%Y at %X") + "\"\n}")
+    f.write("{\n    \"time\": \"" + currentTime.strftime("%d/%m/%Y at %X GMT") + "\"\n}")
     f.close()

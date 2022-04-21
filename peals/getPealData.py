@@ -142,7 +142,7 @@ def get_last_peal(all_perf):
     for pm in all_perf:
         if pm.changes != "":
             if int(pm.changes) > 5000:
-                last_peal = open("lastPeal.json", "w")
+                last_peal = open("peals/lastPeal.json", "w")
                 last_peal.write(json.dumps(pm, indent=4, cls=PerformanceEncoder))
                 last_peal.close()
                 break
@@ -158,14 +158,14 @@ if __name__ == '__main__':
 
     print("--API calls complete--")
     jsonStr = json.dumps(performances, indent=4, cls=PerformanceEncoder)
-    f = open("pealData.json", "w")
+    f = open("peals/pealData.json", "w")
     f.write(jsonStr)
     f.close()
     get_last_peal(performances)
-    f = open("lastRinging.json", "w")
+    f = open("peals/lastRinging.json", "w")
     f.write(json.dumps(performances[0], indent=4, cls=PerformanceEncoder))
     f.close()
     currentTime = datetime.datetime.now()
-    f = open("lastEdit.json", "w")
+    f = open("peals/lastEdit.json", "w")
     f.write("{\n    \"time\": \"" + currentTime.strftime("%d/%m/%Y at %X") + "\"\n}")
     f.close()

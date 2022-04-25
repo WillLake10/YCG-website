@@ -14,3 +14,12 @@ RewriteRule ^ /%1 [NC,L,R]
 
 RewriteCond %{REQUEST_FILENAME}.php -f
 RewriteRule ^ %{REQUEST_URI}.php [NC,L]
+
+<IfModule mod_auth.c>
+ <Files "quotes.php">
+  AuthName "Username and password required"
+  AuthUserFile /home/u940566739/domains/ycg.org.uk/public_html/.htpasswd
+  Require valid-user
+  AuthType Basic
+ </Files>
+</IfModule>

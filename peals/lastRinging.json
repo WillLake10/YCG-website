@@ -1,40 +1,41 @@
 {
     "academic_year": "2021/22",
-    "date": "Sunday, 20 March 2022",
+    "date": "Friday, 29 April 2022",
     "location": "St Lawrence, York, North Yorkshire",
     "weight": "7-3-24 in A",
-    "time": "43m",
-    "changes": "1260",
-    "method": "Plain Bob Doubles",
+    "time": "51m",
+    "changes": "1440",
+    "method": "Cambridge Surprise Minor",
     "details": "",
     "ringers": [
         {
-            "name": "Megan Bucknall",
+            "name": "Kevin Atkinson (Alcuin)",
             "bell": "1"
         },
         {
-            "name": "Nathan Williams",
+            "name": "Jemima Bleackley (Halifax)",
             "bell": "2"
         },
         {
-            "name": "Alison L Edmonds",
+            "name": "Matthew O Hall (Vanbrugh)",
             "bell": "3"
         },
         {
-            "name": "Matthew O Hall (C)",
+            "name": "William L K Brooke (Alcuin)",
             "bell": "4"
         },
         {
-            "name": "David G Hull",
+            "name": "Rosemary S Hall (Alcuin)",
             "bell": "5"
         },
         {
-            "name": "Amber M Burrows",
+            "name": "William Lake (Langwith) (C)",
             "bell": "6"
         }
     ],
     "footnotes": [
-        "First Quarter 6",
-        "Rung in celebration of the end of Spring Term"
+        "Rung for the 80th anniversary of the Baedeker raid on York",
+        "First Suprise: 3",
+        "First Suprise as conductor: 6"
     ]
 }

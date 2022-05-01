@@ -77,7 +77,7 @@ Author: Will Lake
             </div>
             <div class="col-md-6">
                 <div class="head_title" style="font-size: 15pt; line-height: 15px">
-                    <script src="scripts/nextPractice.js" type="text/javascript"></script>
+                    <?php include('componants/nextPractice.php'); ?>
                 </div>
             </div>
         </div>
@@ -96,7 +96,7 @@ Author: Will Lake
             </div>
             <div class="col-md-6">
                 <div class="head_title" style="font-size: 15pt; line-height: 15px">
-                    <script src="scripts/nextSocial.js" type="text/javascript"></script>
+                    <?php include('componants/nextSocial.php'); ?>
                 </div>
             </div>
         </div>

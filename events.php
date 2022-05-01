@@ -64,9 +64,9 @@ Author: Will Lake
 
             </div>
         </div>
-        <div class="pt-3 pb-2" style="text-align: center">
-            <button class="button buttonReload" onclick="window.open('cronJobs/updateCal.php')">Reload Cal</button>
-        </div>
+<!--        <div class="pt-3 pb-2" style="text-align: center">-->
+<!--            <button class="button buttonReload" onclick="window.open('cronJobs/updateCal.php')">Reload Cal</button>-->
+<!--        </div>-->
     </div>
 </section>
 
@@ -79,7 +79,7 @@ Author: Will Lake
         <div class="row">
             <div class="[ col-xs-12 offset-md-2 col-md-8 ]">
                 <ul class="event-list">
-                    <script src="scripts/events.js" type="text/javascript"></script>
+                    <?php include('componants/calender.php'); ?>
                 </ul>
             </div>
 

@@ -27,6 +27,29 @@
             "day": "01",
             "month": "May",
             "year": "2022",
+            "time": "16:00",
+            "weekday": "Sunday",
+            "full": "16:00, Sunday 01 May"
+        },
+        "e_date": {
+            "day": "01",
+            "month": "May",
+            "year": "2022",
+            "time": "17:30",
+            "weekday": "Sunday",
+            "full": "17:30, Sunday 01 May"
+        },
+        "title": "YCG Practice",
+        "location": "St Lawrence Parish Church",
+        "description": " Weekly YCG Practice",
+        "social": false,
+        "practice": true
+    },
+    {
+        "s_date": {
+            "day": "01",
+            "month": "May",
+            "year": "2022",
             "time": "17:45",
             "weekday": "Sunday",
             "full": "17:45, Sunday 01 May"

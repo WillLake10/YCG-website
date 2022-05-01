@@ -1,6 +1,5 @@
 # YCG website
-[![update-peals-schedule](https://github.com/WillLake10/YCG-website/actions/workflows/pealsOnSchedule.yml/badge.svg)](https://github.com/WillLake10/YCG-website/actions/workflows/pealsOnSchedule.yml)
-[![update-peals-on-push](https://github.com/WillLake10/YCG-website/actions/workflows/pealsOnPush.yml/badge.svg)](https://github.com/WillLake10/YCG-website/actions/workflows/pealsOnPush.yml)
+[![update-calender-and-peal](https://github.com/WillLake10/YCG-website/actions/workflows/calenderOnSchedule.yml/badge.svg)](https://github.com/WillLake10/YCG-website/actions/workflows/calenderOnSchedule.yml)
 
 Accessible at http://www.ycg.org.uk/
 

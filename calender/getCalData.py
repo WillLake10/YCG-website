@@ -88,6 +88,6 @@ for event in all_events:
     print(event.__dict__)
 
 jsonStr = json.dumps(all_events, indent=4, cls=EventEncoder)
-f = open("calender.json", "w")
+f = open("calender/calender.json", "w")
 f.write(jsonStr)
 f.close()

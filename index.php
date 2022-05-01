@@ -57,7 +57,7 @@ Author: Will Lake
                     please drop us a message so we can get you involved!</p>
             </div>
             <div class="col-md-6">
-                <img src="images/index/ycg_members.jpg" class="img-fluid mx-auto d-block">
+                <img src="images/index/members.jpeg" class="img-fluid mx-auto d-block">
                 <br>
             </div>
         </div>

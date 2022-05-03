@@ -1,29 +1,6 @@
 [
     {
         "s_date": {
-            "day": "02",
-            "month": "May",
-            "year": "2022",
-            "time": "19:30",
-            "weekday": "Monday",
-            "full": "19:30, Monday 02 May"
-        },
-        "e_date": {
-            "day": "02",
-            "month": "May",
-            "year": "2022",
-            "time": "21:00",
-            "weekday": "Monday",
-            "full": "21:00, Monday 02 May"
-        },
-        "title": "St Lawrence Practice",
-        "location": "St Lawrence Parish Church",
-        "description": "St Lawrence weekly practice that many members attend",
-        "social": false,
-        "practice": false
-    },
-    {
-        "s_date": {
             "day": "03",
             "month": "May",
             "year": "2022",
@@ -142,6 +119,29 @@
             "day": "08",
             "month": "May",
             "year": "2022",
+            "time": "13:00",
+            "weekday": "Sunday",
+            "full": "13:00, Sunday 08 May"
+        },
+        "e_date": {
+            "day": "08",
+            "month": "May",
+            "year": "2022",
+            "time": "14:00",
+            "weekday": "Sunday",
+            "full": "14:00, Sunday 08 May"
+        },
+        "title": "Sunday Evensong Ringing",
+        "location": "St Lawrence Parish Church",
+        "description": "Weekly evening service ringing at St Lawrence after normal YCG practice",
+        "social": false,
+        "practice": false
+    },
+    {
+        "s_date": {
+            "day": "08",
+            "month": "May",
+            "year": "2022",
             "time": "14:30",
             "weekday": "Sunday",
             "full": "14:30, Sunday 08 May"
@@ -159,29 +159,6 @@
         "description": " Weekly YCG Practice",
         "social": false,
         "practice": true
-    },
-    {
-        "s_date": {
-            "day": "08",
-            "month": "May",
-            "year": "2022",
-            "time": "17:45",
-            "weekday": "Sunday",
-            "full": "17:45, Sunday 08 May"
-        },
-        "e_date": {
-            "day": "08",
-            "month": "May",
-            "year": "2022",
-            "time": "18:30",
-            "weekday": "Sunday",
-            "full": "18:30, Sunday 08 May"
-        },
-        "title": "Sunday Evensong Ringing",
-        "location": "St Lawrence Parish Church",
-        "description": "Weekly evening service ringing at St Lawrence after normal YCG practice",
-        "social": false,
-        "practice": false
     },
     {
         "s_date": {
@@ -1767,6 +1744,29 @@
         "title": "St Lawrence Practice",
         "location": "St Lawrence Parish Church",
         "description": "St Lawrence weekly practice that many members attend",
+        "social": false,
+        "practice": false
+    },
+    {
+        "s_date": {
+            "day": "02",
+            "month": "August",
+            "year": "2022",
+            "time": "19:00",
+            "weekday": "Tuesday",
+            "full": "19:00, Tuesday 02 August"
+        },
+        "e_date": {
+            "day": "02",
+            "month": "August",
+            "year": "2022",
+            "time": "21:00",
+            "weekday": "Tuesday",
+            "full": "21:00, Tuesday 02 August"
+        },
+        "title": "York Minster Practice",
+        "location": "York Minster, Deangate",
+        "description": "Weekly practice at the Minster that some members attend",
         "social": false,
         "practice": false
     }

@@ -1,29 +1,6 @@
 [
     {
         "s_date": {
-            "day": "03",
-            "month": "May",
-            "year": "2022",
-            "time": "19:00",
-            "weekday": "Tuesday",
-            "full": "19:00, Tuesday 03 May"
-        },
-        "e_date": {
-            "day": "03",
-            "month": "May",
-            "year": "2022",
-            "time": "21:00",
-            "weekday": "Tuesday",
-            "full": "21:00, Tuesday 03 May"
-        },
-        "title": "York Minster Practice",
-        "location": "York Minster, Deangate",
-        "description": "Weekly practice at the Minster that some members attend",
-        "social": false,
-        "practice": false
-    },
-    {
-        "s_date": {
             "day": "04",
             "month": "May",
             "year": "2022",
@@ -131,7 +108,7 @@
             "weekday": "Sunday",
             "full": "14:00, Sunday 08 May"
         },
-        "title": "Sunday Evensong Ringing",
+        "title": "Sunday Afternoonsong Ringing",
         "location": "St Lawrence Parish Church",
         "description": "Weekly evening service ringing at St Lawrence after normal YCG practice",
         "social": false,
@@ -250,6 +227,29 @@
         "location": "York Oratory, Duncombe Pl",
         "description": "St Wilfrid's weekly practice that many members attend",
         "social": false,
+        "practice": false
+    },
+    {
+        "s_date": {
+            "day": "13",
+            "month": "May",
+            "year": "2022",
+            "time": "19:30",
+            "weekday": "Friday",
+            "full": "19:30, Friday 13 May"
+        },
+        "e_date": {
+            "day": "13",
+            "month": "May",
+            "year": "2022",
+            "time": "21:00",
+            "weekday": "Friday",
+            "full": "21:00, Friday 13 May"
+        },
+        "title": "Board Game Social",
+        "location": "Campus (Room TBC)",
+        "description": " Weekly YCG Social Event",
+        "social": true,
         "practice": false
     },
     {

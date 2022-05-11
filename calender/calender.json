@@ -1,29 +1,6 @@
 [
     {
         "s_date": {
-            "day": "10",
-            "month": "May",
-            "year": "2022",
-            "time": "19:00",
-            "weekday": "Tuesday",
-            "full": "19:00, Tuesday 10 May"
-        },
-        "e_date": {
-            "day": "10",
-            "month": "May",
-            "year": "2022",
-            "time": "21:00",
-            "weekday": "Tuesday",
-            "full": "21:00, Tuesday 10 May"
-        },
-        "title": "York Minster Practice",
-        "location": "York Minster, Deangate",
-        "description": "Weekly practice at the Minster that some members attend",
-        "social": false,
-        "practice": false
-    },
-    {
-        "s_date": {
             "day": "11",
             "month": "May",
             "year": "2022",

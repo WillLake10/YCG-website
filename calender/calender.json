@@ -1,29 +1,6 @@
 [
     {
         "s_date": {
-            "day": "13",
-            "month": "May",
-            "year": "2022",
-            "time": "19:30",
-            "weekday": "Friday",
-            "full": "19:30, Friday 13 May"
-        },
-        "e_date": {
-            "day": "13",
-            "month": "May",
-            "year": "2022",
-            "time": "21:00",
-            "weekday": "Friday",
-            "full": "21:00, Friday 13 May"
-        },
-        "title": "Board Game Social",
-        "location": "G/N/013",
-        "description": " Weekly YCG Social Event",
-        "social": true,
-        "practice": false
-    },
-    {
-        "s_date": {
             "day": "14",
             "month": "May",
             "year": "2022",

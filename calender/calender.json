@@ -875,6 +875,52 @@
     },
     {
         "s_date": {
+            "day": "01",
+            "month": "July",
+            "year": "2022",
+            "time": "09:00",
+            "weekday": "Friday",
+            "full": "09:00, Friday 01 July"
+        },
+        "e_date": {
+            "day": "01",
+            "month": "July",
+            "year": "2022",
+            "time": "16:00",
+            "weekday": "Friday",
+            "full": "16:00, Friday 01 July"
+        },
+        "title": "Open Day",
+        "location": "University of York, Heslington, York YO10 5DD, UK",
+        "description": "",
+        "social": false,
+        "practice": false
+    },
+    {
+        "s_date": {
+            "day": "03",
+            "month": "July",
+            "year": "2022",
+            "time": "09:00",
+            "weekday": "Sunday",
+            "full": "09:00, Sunday 03 July"
+        },
+        "e_date": {
+            "day": "03",
+            "month": "July",
+            "year": "2022",
+            "time": "16:00",
+            "weekday": "Sunday",
+            "full": "16:00, Sunday 03 July"
+        },
+        "title": "Open Day",
+        "location": "University of York, Heslington, York YO10 5DD, UK",
+        "description": "",
+        "social": false,
+        "practice": false
+    },
+    {
+        "s_date": {
             "day": "03",
             "month": "July",
             "year": "2022",
@@ -1652,6 +1698,29 @@
         "title": "York Minster Practice",
         "location": "York Minster, Deangate",
         "description": "Weekly practice at the Minster that some members attend",
+        "social": false,
+        "practice": false
+    },
+    {
+        "s_date": {
+            "day": "18",
+            "month": "August",
+            "year": "2022",
+            "time": "19:00",
+            "weekday": "Thursday",
+            "full": "19:00, Thursday 18 August"
+        },
+        "e_date": {
+            "day": "18",
+            "month": "August",
+            "year": "2022",
+            "time": "21:00",
+            "weekday": "Thursday",
+            "full": "21:00, Thursday 18 August"
+        },
+        "title": "York Oratory Practice",
+        "location": "York Oratory, Duncombe Pl",
+        "description": "St Wilfrid's weekly practice that many members attend",
         "social": false,
         "practice": false
     }

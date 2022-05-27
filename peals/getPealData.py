@@ -157,6 +157,8 @@ if __name__ == '__main__':
     # performances = [get_performance(all_ids[0])]
 
     print("--API calls complete--")
+    print("" + str(len(performances)) + " recorded performances")
+    print("Starting File Write")
     jsonStr = json.dumps(performances, indent=4, cls=PerformanceEncoder)
     f = open("peals/pealData.json", "w")
     f.write(jsonStr)
@@ -169,3 +171,4 @@ if __name__ == '__main__':
     f = open("peals/lastEdit.json", "w")
     f.write("{\n    \"time\": \"" + currentTime.strftime("%d/%m/%Y at %X GMT") + "\"\n}")
     f.close()
+    print("File Write Finished")

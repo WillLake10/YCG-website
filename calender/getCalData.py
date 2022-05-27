@@ -94,10 +94,6 @@ for event in events:
                 )
             )
 
-for ev in all_events:
-    if ev.allDay:
-        print(ev.__dict__)
-
 all_events.sort(key=lambda x: x.s_date)
 
 for event in all_events:
@@ -123,10 +119,11 @@ for event in all_events:
         full=event.e_date.strftime(ds)
     )
     # event.e_date = event.e_date.strftime(date_string)
-    print(event.s_date.__dict__)
+    # print(event.s_date.__dict__)
 
+print("" + str(len(all_events)) + " events in calender")
 jsonStr = json.dumps(all_events, indent=4, cls=EventEncoder)
-# f = open("calender/calender.json", "w")
-f = open("calender.json", "w")
+f = open("calender/calender.json", "w")
+# f = open("calender.json", "w")
 f.write(jsonStr)
 f.close()

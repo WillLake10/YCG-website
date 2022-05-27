@@ -22,7 +22,12 @@ if (count($data) != 0) {
         echo "<div class=\"info\">";
         echo "<h2 class=\"title\">$event->title</h2>";
         echo "<p class=\"desc\"><span class=\"text-ycgGreen\">Where:</span> $event->location</p>";
-        echo "<p class=\"desc\"><span class=\"text-ycgGreen\">When:</span> $start->weekday, $start->time - $end->time </p>";
+        if (!$event->allDay) {
+            echo "<p class=\"desc\"><span class=\"text-ycgGreen\">When:</span> $start->weekday, $start->time - $end->time </p>";
+        }
+        else {
+            echo "<p class=\"desc\"><span class=\"text-ycgGreen\">When:</span> $start->weekday, All Day</p>";
+        }
         echo "<p class=\"desc\"><span class=\"text-ycgGreen\">What:</span> $event->description</p>";
         echo "</div></li>";
     }

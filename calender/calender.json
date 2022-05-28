@@ -1,30 +1,6 @@
 [
     {
         "s_date": {
-            "day": "27",
-            "month": "May",
-            "year": "2022",
-            "time": "17:30",
-            "weekday": "Friday",
-            "full": "17:30, Friday 27 May"
-        },
-        "e_date": {
-            "day": "27",
-            "month": "May",
-            "year": "2022",
-            "time": "18:00",
-            "weekday": "Friday",
-            "full": "18:00, Friday 27 May"
-        },
-        "title": "York Oratory Service Ringing",
-        "location": "",
-        "description": "",
-        "social": false,
-        "practice": false,
-        "allDay": false
-    },
-    {
-        "s_date": {
             "day": "29",
             "month": "May",
             "year": "2022",
@@ -189,6 +165,30 @@
         "description": "Weekly morning service ringing at St Lawrence that some YCG members attend",
         "social": false,
         "practice": false,
+        "allDay": false
+    },
+    {
+        "s_date": {
+            "day": "05",
+            "month": "June",
+            "year": "2022",
+            "time": "16:00",
+            "weekday": "Sunday",
+            "full": "16:00, Sunday 05 June"
+        },
+        "e_date": {
+            "day": "05",
+            "month": "June",
+            "year": "2022",
+            "time": "17:30",
+            "weekday": "Sunday",
+            "full": "17:30, Sunday 05 June"
+        },
+        "title": "YCG Practice",
+        "location": "St Lawrence Parish Church, York",
+        "description": " Weekly YCG Practice",
+        "social": false,
+        "practice": true,
         "allDay": false
     },
     {

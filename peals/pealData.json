@@ -16029,6 +16029,47 @@
         ]
     },
     {
+        "academic_year": "1987/88",
+        "date": "Sunday, 27 March 1988",
+        "location": "Arts Centre, York, North Yorkshire",
+        "weight": "9-0-4 in G#",
+        "time": "2h 58",
+        "changes": "5040",
+        "method": "Plain Bob Minor",
+        "details": "Seven Extents",
+        "ringers": [
+            {
+                "name": "Julie B Branson (Langwith)",
+                "bell": "1"
+            },
+            {
+                "name": "Geoffrey W Johnson (St John)",
+                "bell": "2"
+            },
+            {
+                "name": "Richard B Rose (Derwent)",
+                "bell": "3"
+            },
+            {
+                "name": "Robert D C Richards (Langwith)",
+                "bell": "4"
+            },
+            {
+                "name": "John S Leech (Vanbrugh)",
+                "bell": "5"
+            },
+            {
+                "name": "Andrew M Farmer (Derwent) (C)",
+                "bell": "6"
+            }
+        ],
+        "footnotes": [
+            "1st Attempt - 1",
+            "First on towerbells as Conductor.",
+            "Published as part of YCG's effort to digitalise old records. All records uploaded exactly as they appear in our physical books, for any changes to names etc, please contact admin@ycg.org"
+        ]
+    },
+    {
         "academic_year": "1986/87",
         "date": "Wednesday, 04 March 1987",
         "location": "All Saints, Kirby Hill, North Yorkshire",
@@ -16113,6 +16154,47 @@
             }
         ],
         "footnotes": []
+    },
+    {
+        "academic_year": "1978/79",
+        "date": "Friday, 22 June 1979",
+        "location": "St Mary, Wath juxta Ripon, North Yorkshire",
+        "weight": "7-2-24 in Bb",
+        "time": "2h 31",
+        "changes": "5040",
+        "method": "Surprise Minor (8m)",
+        "details": "Durham; Wells, London; York; Beverley / Surfleet; Norwich; Cambridge",
+        "ringers": [
+            {
+                "name": "John S Leech (Vanbrugh) (in RW as J S Leech)",
+                "bell": "1"
+            },
+            {
+                "name": "Susan Adams (Langwith) (in RW as Miss S Adams)",
+                "bell": "2"
+            },
+            {
+                "name": "Elizabeth S Riley (Goodricke) (in RW as Mrs E Riley)",
+                "bell": "3"
+            },
+            {
+                "name": "Martin J Turner (Derwent) (in RW as M J Turner)",
+                "bell": "4"
+            },
+            {
+                "name": "Glenn A A Taylor (Goodricke) (in RW as G A A Taylor)",
+                "bell": "5"
+            },
+            {
+                "name": "Roger S Riley (St John) (in RW as R S Riley) (C)",
+                "bell": "6"
+            }
+        ],
+        "footnotes": [
+            "For Dinner Day",
+            "Compliment to Claire Louise, daughter of Derek and Susan Jones.",
+            "Published as part of YCG's effort to digitalise old records. All records uploaded exactly as they appear in our physical books, for any changes to names etc, please contact admin@ycg.org"
+        ]
     },
     {
         "academic_year": "1977/78",
@@ -16229,6 +16311,45 @@
         ],
         "footnotes": [
             "submitted as part of the exercise to complete YCG records"
+        ]
+    },
+    {
+        "academic_year": "1975/76",
+        "date": "Saturday, 19 June 1976",
+        "location": "St James, Nunburnholme, East Riding of Yorkshire",
+        "weight": "12-1-5 in G",
+        "time": "2h 40",
+        "changes": "5040",
+        "method": "Minor (4m)",
+        "details": "Norwich S; Cambridge S (*2); Kent TB (*2); Plain Bob (*2)",
+        "ringers": [
+            {
+                "name": "Susan Adams (Langwith)",
+                "bell": "1"
+            },
+            {
+                "name": "Elizabeth S Balls (Goodricke)",
+                "bell": "2"
+            },
+            {
+                "name": "Michael G Barker (Goodricke)",
+                "bell": "3"
+            },
+            {
+                "name": "Keith Gatman (Honorary Member)",
+                "bell": "4"
+            },
+            {
+                "name": "John S Leech (Vanbrugh)",
+                "bell": "5"
+            },
+            {
+                "name": "Roger S Riley (St John) (C)",
+                "bell": "6"
+            }
+        ],
+        "footnotes": [
+            "Published as part of YCG's effort to digitalise old records. All records uploaded exactly as they appear in our physical books, for any changes to names etc, please contact admin@ycg.org"
         ]
     },
     {

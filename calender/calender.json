@@ -1,30 +1,6 @@
 [
     {
         "s_date": {
-            "day": "30",
-            "month": "May",
-            "year": "2022",
-            "time": "19:30",
-            "weekday": "Monday",
-            "full": "19:30, Monday 30 May"
-        },
-        "e_date": {
-            "day": "30",
-            "month": "May",
-            "year": "2022",
-            "time": "21:00",
-            "weekday": "Monday",
-            "full": "21:00, Monday 30 May"
-        },
-        "title": "St Lawrence Practice",
-        "location": "St Lawrence Parish Church, York",
-        "description": "St Lawrence weekly practice that many members attend",
-        "social": false,
-        "practice": false,
-        "allDay": false
-    },
-    {
-        "s_date": {
             "day": "31",
             "month": "May",
             "year": "2022",
@@ -1771,6 +1747,30 @@
         "title": "St Lawrence Practice",
         "location": "St Lawrence Parish Church, York",
         "description": "St Lawrence weekly practice that many members attend",
+        "social": false,
+        "practice": false,
+        "allDay": false
+    },
+    {
+        "s_date": {
+            "day": "30",
+            "month": "August",
+            "year": "2022",
+            "time": "19:00",
+            "weekday": "Tuesday",
+            "full": "19:00, Tuesday 30 August"
+        },
+        "e_date": {
+            "day": "30",
+            "month": "August",
+            "year": "2022",
+            "time": "21:00",
+            "weekday": "Tuesday",
+            "full": "21:00, Tuesday 30 August"
+        },
+        "title": "York Minster Practice",
+        "location": "York Minster, Deangate",
+        "description": "Weekly practice at the Minster that some members attend",
         "social": false,
         "practice": false,
         "allDay": false

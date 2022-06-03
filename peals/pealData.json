@@ -15665,6 +15665,45 @@
     },
     {
         "academic_year": "1989/90",
+        "date": "Sunday, 17 June 1990",
+        "location": "Spurriergate Centre, York, North Yorkshire",
+        "weight": "8-2-14 in A",
+        "time": "",
+        "changes": "1260",
+        "method": "Minor (3m)",
+        "details": "Heslington Alliance, Little Bob & Plain Bob",
+        "ringers": [
+            {
+                "name": "Barbara J Rand",
+                "bell": "1"
+            },
+            {
+                "name": "Susan M Jones",
+                "bell": "2"
+            },
+            {
+                "name": "Timothy Hart",
+                "bell": "3"
+            },
+            {
+                "name": "Anthony Hayward",
+                "bell": "4"
+            },
+            {
+                "name": "Rupert Burgess",
+                "bell": "5"
+            },
+            {
+                "name": "Derek J Jones (C)",
+                "bell": "6"
+            }
+        ],
+        "footnotes": [
+            "By members of York Colleges Guild during Annual Dinner Weekend"
+        ]
+    },
+    {
+        "academic_year": "1989/90",
         "date": "Sunday, 20 May 1990",
         "location": "Spurriergate Centre, York, North Yorkshire",
         "weight": "8-2-14 in A",
@@ -15893,6 +15932,45 @@
         "footnotes": [
             "First Quarter: 6",
             "Published as part of YCG's effort to digitalise old records. All records uploaded exactly as they appear in our physical books, for any changes to names etc, please contact admin@ycg.org"
+        ]
+    },
+    {
+        "academic_year": "1988/89",
+        "date": "Sunday, 18 June 1989",
+        "location": "Spurriergate Centre, York, North Yorkshire",
+        "weight": "8-2-14 in A",
+        "time": "",
+        "changes": "1260",
+        "method": "Minor (2m)",
+        "details": "Cambridge Surprise and Plain Bob",
+        "ringers": [
+            {
+                "name": "Susan M Jones",
+                "bell": "1"
+            },
+            {
+                "name": "Barbara J Rand",
+                "bell": "2"
+            },
+            {
+                "name": "Peter Wilkinson",
+                "bell": "3"
+            },
+            {
+                "name": "Martin J Turner",
+                "bell": "4"
+            },
+            {
+                "name": "Derek J Jones",
+                "bell": "5"
+            },
+            {
+                "name": "David E Potter (C)",
+                "bell": "6"
+            }
+        ],
+        "footnotes": [
+            "By past officers of York Colleges Guild on the 20th anniversary of the formation of the Guild"
         ]
     },
     {
@@ -16156,6 +16234,78 @@
         "footnotes": []
     },
     {
+        "academic_year": "1979/80",
+        "date": "Sunday, 30 March 1980",
+        "location": "Arts Centre, Micklegate, York, North Yorkshire",
+        "weight": "",
+        "time": "",
+        "changes": "1260",
+        "method": "Plain Bob Minor",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Claire Taylor",
+                "bell": "1"
+            },
+            {
+                "name": "Barbara J Rand",
+                "bell": "2"
+            },
+            {
+                "name": "Sally Walton",
+                "bell": "3"
+            },
+            {
+                "name": "Christine B Sanderson",
+                "bell": "4"
+            },
+            {
+                "name": "Peter J Sanderson",
+                "bell": "5"
+            },
+            {
+                "name": "David E Potter",
+                "bell": "6"
+            }
+        ],
+        "footnotes": []
+    },
+    {
+        "academic_year": "1978/79",
+        "date": "Sunday, 24 June 1979",
+        "location": "St Philip and St James, Clifton, York, North Yorkshire",
+        "weight": "3-1-23 in Eb",
+        "time": "",
+        "changes": "1260",
+        "method": "Doubles (6m)",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Sue Adams",
+                "bell": "1"
+            },
+            {
+                "name": "John S Leech",
+                "bell": "2"
+            },
+            {
+                "name": "Martin J Turner (C)",
+                "bell": "3"
+            },
+            {
+                "name": "Barbara J Rand",
+                "bell": "4"
+            },
+            {
+                "name": "David E Potter",
+                "bell": "5"
+            }
+        ],
+        "footnotes": [
+            "By York Colleges Guild band for Evensong at the end of Annual Dinner Weekend."
+        ]
+    },
+    {
         "academic_year": "1978/79",
         "date": "Friday, 22 June 1979",
         "location": "St Mary, Wath juxta Ripon, North Yorkshire",
@@ -16195,6 +16345,80 @@
             "Compliment to Claire Louise, daughter of Derek and Susan Jones.",
             "Published as part of YCG's effort to digitalise old records. All records uploaded exactly as they appear in our physical books, for any changes to names etc, please contact admin@ycg.org"
         ]
+    },
+    {
+        "academic_year": "1978/79",
+        "date": "Sunday, 20 May 1979",
+        "location": "Arts Centre, Micklegate, York, North Yorkshire",
+        "weight": "",
+        "time": "",
+        "changes": "1260",
+        "method": "Plain Bob Minor",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Ann Applegate",
+                "bell": "1"
+            },
+            {
+                "name": "Barbara J Rand",
+                "bell": "2"
+            },
+            {
+                "name": "Sue M Adams",
+                "bell": "3"
+            },
+            {
+                "name": "Peter Wilkinson",
+                "bell": "4"
+            },
+            {
+                "name": "Glenn A A Taylor (C)",
+                "bell": "5"
+            },
+            {
+                "name": "Nicholas Hughes",
+                "bell": "6"
+            }
+        ],
+        "footnotes": []
+    },
+    {
+        "academic_year": "1978/79",
+        "date": "Sunday, 19 November 1978",
+        "location": "Arts Centre, Micklegate, York, North Yorkshire",
+        "weight": "",
+        "time": "",
+        "changes": "1260",
+        "method": "Cambridge Surprise Minor",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Sally Walton",
+                "bell": "1"
+            },
+            {
+                "name": "Glenn A A Taylor (C)",
+                "bell": "2"
+            },
+            {
+                "name": "Sue M Adams",
+                "bell": "3"
+            },
+            {
+                "name": "Barbara J Rand",
+                "bell": "4"
+            },
+            {
+                "name": "David E Potter",
+                "bell": "5"
+            },
+            {
+                "name": "Michael Barker",
+                "bell": "6"
+            }
+        ],
+        "footnotes": []
     },
     {
         "academic_year": "1977/78",
@@ -16275,6 +16499,80 @@
         ]
     },
     {
+        "academic_year": "1977/78",
+        "date": "Sunday, 22 January 1978",
+        "location": "Arts Centre, Micklegate, York, North Yorkshire",
+        "weight": "",
+        "time": "",
+        "changes": "1260",
+        "method": "London Surprise Minor",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Rosenna Hearfield",
+                "bell": "1"
+            },
+            {
+                "name": "Sue M Adams",
+                "bell": "2"
+            },
+            {
+                "name": "Barbara J Rand",
+                "bell": "3"
+            },
+            {
+                "name": "Glenn A A Taylor (C)",
+                "bell": "4"
+            },
+            {
+                "name": "Catherine Meades",
+                "bell": "5"
+            },
+            {
+                "name": "David E Potter",
+                "bell": "6"
+            }
+        ],
+        "footnotes": []
+    },
+    {
+        "academic_year": "1977/78",
+        "date": "Sunday, 27 November 1977",
+        "location": "Arts Centre, Micklegate, York, North Yorkshire",
+        "weight": "",
+        "time": "",
+        "changes": "1260",
+        "method": "Cambridge Surprise Minor",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Catherine Meades",
+                "bell": "1"
+            },
+            {
+                "name": "Rosenna Hearfield",
+                "bell": "2"
+            },
+            {
+                "name": "Sue Adams",
+                "bell": "3"
+            },
+            {
+                "name": "Barbara J Rand",
+                "bell": "4"
+            },
+            {
+                "name": "Peter Wilkinson",
+                "bell": "5"
+            },
+            {
+                "name": "Glenn A A Taylor (C)",
+                "bell": "6"
+            }
+        ],
+        "footnotes": []
+    },
+    {
         "academic_year": "1976/77",
         "date": "Sunday, 22 May 1977",
         "location": "Art's Centre, York, North Yorkshire",
@@ -16311,6 +16609,45 @@
         ],
         "footnotes": [
             "submitted as part of the exercise to complete YCG records"
+        ]
+    },
+    {
+        "academic_year": "1976/77",
+        "date": "Sunday, 01 May 1977",
+        "location": "Arts Centre, Micklegate, York, North Yorkshire",
+        "weight": "",
+        "time": "",
+        "changes": "1260",
+        "method": "Plain Bob Doubles",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Sally Walton",
+                "bell": "1"
+            },
+            {
+                "name": "Julie Barrett",
+                "bell": "2"
+            },
+            {
+                "name": "Barbara J Rand",
+                "bell": "3"
+            },
+            {
+                "name": "Jane Gill",
+                "bell": "4"
+            },
+            {
+                "name": "Margaret Boam (C)",
+                "bell": "5"
+            },
+            {
+                "name": "Judith Goodyer",
+                "bell": "6"
+            }
+        ],
+        "footnotes": [
+            "1st quarter for treble ringer"
         ]
     },
     {
@@ -16353,6 +16690,80 @@
         ]
     },
     {
+        "academic_year": "1974/75",
+        "date": "Sunday, 06 July 1975",
+        "location": "Arts Centre, Micklegate, York, North Yorkshire",
+        "weight": "",
+        "time": "",
+        "changes": "1260",
+        "method": "Doubles (3m)",
+        "details": "Stedman, Grandsire & Plain Bob",
+        "ringers": [
+            {
+                "name": "Raymond East",
+                "bell": "1"
+            },
+            {
+                "name": "James Currin",
+                "bell": "2"
+            },
+            {
+                "name": "Barbara J Rand",
+                "bell": "3"
+            },
+            {
+                "name": "Peter Wilkinson",
+                "bell": "4"
+            },
+            {
+                "name": "David E Potter",
+                "bell": "5"
+            },
+            {
+                "name": "John C Potter",
+                "bell": "6"
+            }
+        ],
+        "footnotes": []
+    },
+    {
+        "academic_year": "1974/75",
+        "date": "Sunday, 16 March 1975",
+        "location": "Arts Centre, Micklegate, York, North Yorkshire",
+        "weight": "",
+        "time": "",
+        "changes": "1260",
+        "method": "Plain Bob Minor",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Georgina Coe",
+                "bell": "1"
+            },
+            {
+                "name": "Michael Barker",
+                "bell": "2"
+            },
+            {
+                "name": "Elizabeth Balls",
+                "bell": "3"
+            },
+            {
+                "name": "Barbara J Rand",
+                "bell": "4"
+            },
+            {
+                "name": "Raymond East",
+                "bell": "5"
+            },
+            {
+                "name": "Roger Riley (C)",
+                "bell": "6"
+            }
+        ],
+        "footnotes": []
+    },
+    {
         "academic_year": "1973/74",
         "date": "Wednesday, 31 July 1974",
         "location": "All Saints, Huntington, North Yorkshire",
@@ -16390,6 +16801,45 @@
         "footnotes": [
             "Conducted by D J Jones",
             "Published as part of YCG's effort to digitalise old records. All records uploaded exactly as they appear in our physical books, for any changes to names etc, please contact admin@ycg.org"
+        ]
+    },
+    {
+        "academic_year": "1973/74",
+        "date": "Saturday, 09 March 1974",
+        "location": "Arts Centre, Micklegate, York, North Yorkshire",
+        "weight": "9-0-4 in G#",
+        "time": "",
+        "changes": "1260",
+        "method": "Minor (7m)",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Elaine L V Tickner",
+                "bell": "1"
+            },
+            {
+                "name": "Barbara J Rand",
+                "bell": "2"
+            },
+            {
+                "name": "Susan M Jones",
+                "bell": "3"
+            },
+            {
+                "name": "Peter Wilkinson",
+                "bell": "4"
+            },
+            {
+                "name": "Martin J Turner (jnt c)",
+                "bell": "5"
+            },
+            {
+                "name": "Derek J Jones (jnt c)",
+                "bell": "6"
+            }
+        ],
+        "footnotes": [
+            "By members of York Colleges Guild."
         ]
     },
     {
@@ -16578,6 +17028,70 @@
         ]
     },
     {
+        "academic_year": "1973/74",
+        "date": "Saturday, 03 November 1973",
+        "location": "Arts Centre, Micklegate, York, North Yorkshire",
+        "weight": "",
+        "time": "",
+        "changes": "1272",
+        "method": "Kent Treble Bob Minor",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Elaine L V Tickner",
+                "bell": "1"
+            },
+            {
+                "name": "Peter J Sanderson",
+                "bell": "2"
+            },
+            {
+                "name": "Christine B Sanderson",
+                "bell": "3"
+            },
+            {
+                "name": "Barbara J Rand",
+                "bell": "4"
+            },
+            {
+                "name": "Derek J Jones",
+                "bell": "5"
+            },
+            {
+                "name": "Roger S Riley (C)",
+                "bell": "6"
+            }
+        ],
+        "footnotes": []
+    },
+    {
+        "academic_year": "1972/73",
+        "date": "Wednesday, 13 June 1973",
+        "location": "St John's College, York, North Yorkshire",
+        "weight": "",
+        "time": "",
+        "changes": "1260",
+        "method": "Plain Bob Minor",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Martin J Turner",
+                "bell": "1-2"
+            },
+            {
+                "name": "Barbara J Rand",
+                "bell": "3-4"
+            },
+            {
+                "name": "Roger S Riley (C)",
+                "bell": "5-6"
+            }
+        ],
+        "footnotes": [
+            "First quarter on handbells by all and for York Colleges Guild."
+        ]
+    },
+    {
         "academic_year": "1972/73",
         "date": "Saturday, 02 June 1973",
         "location": "Former St John, York, North Yorkshire",
@@ -16705,6 +17219,45 @@
         "footnotes": [
             "Conducted by D J Jones",
             "Published as part of YCG's effort to digitalise old records. All records uploaded exactly as they appear in our physical books, for any changes to names etc, please contact admin@ycg.org"
+        ]
+    },
+    {
+        "academic_year": "1971/72",
+        "date": "Sunday, 30 April 1972",
+        "location": "Arts Centre, Micklegate, York, North Yorkshire",
+        "weight": "",
+        "time": "",
+        "changes": "1260",
+        "method": "Plain Bob Minor",
+        "details": "",
+        "ringers": [
+            {
+                "name": "David E Potter",
+                "bell": "1"
+            },
+            {
+                "name": "Claire L Noble",
+                "bell": "2"
+            },
+            {
+                "name": "Barbara J Rand",
+                "bell": "3"
+            },
+            {
+                "name": "John S Leech",
+                "bell": "4"
+            },
+            {
+                "name": "Martin J Turner",
+                "bell": "5"
+            },
+            {
+                "name": "Owen P Claxton (C)",
+                "bell": "6"
+            }
+        ],
+        "footnotes": [
+            "By members of York Colleges Guild."
         ]
     },
     {

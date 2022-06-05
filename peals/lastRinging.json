@@ -1,19 +1,19 @@
 {
     "academic_year": "2021/22",
-    "date": "Friday, 29 April 2022",
-    "location": "St Lawrence, York, North Yorkshire",
-    "weight": "7-3-24 in A",
-    "time": "51m",
-    "changes": "1440",
-    "method": "Cambridge Surprise Minor",
+    "date": "Saturday, 04 June 2022",
+    "location": "St Olave, Marygate, York, North Yorkshire",
+    "weight": "9-0-14 in G#",
+    "time": "42m",
+    "changes": "1260",
+    "method": "Plain Bob Doubles",
     "details": "",
     "ringers": [
         {
-            "name": "Kevin Atkinson (Alcuin)",
+            "name": "Roger C Button (Friend)",
             "bell": "1"
         },
         {
-            "name": "Jemima Bleackley (Halifax)",
+            "name": "Helen M Button (Friend)",
             "bell": "2"
         },
         {
@@ -21,21 +21,24 @@
             "bell": "3"
         },
         {
-            "name": "William L K Brooke (Alcuin)",
+            "name": "Jemima Bleackley (Halifax)",
             "bell": "4"
         },
         {
-            "name": "Rosemary S Hall (Alcuin)",
+            "name": "Rosemary S Hall (Alcuin) (C)",
             "bell": "5"
         },
         {
-            "name": "William Lake (Langwith) (C)",
+            "name": "Nathan Williams (Alcuin)",
             "bell": "6"
         }
     ],
     "footnotes": [
-        "Rung for the 80th anniversary of the Baedeker raid on York",
-        "First Suprise: 3",
-        "First Suprise as conductor: 6"
+        "For the wedding of Kaziah and David",
+        "For the platinum jubilee of Her Majesty Queen Elizabeth II",
+        "First as conductor of doubles: 5",
+        "First tenor behind: 6",
+        "First YCG quarter: 1, 2",
+        "First YCG quarter on the bells in 7 years"
     ]
 }

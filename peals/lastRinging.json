@@ -1,44 +1,43 @@
 {
     "academic_year": "2021/22",
-    "date": "Saturday, 04 June 2022",
-    "location": "St Olave, Marygate, York, North Yorkshire",
-    "weight": "9-0-14 in G#",
-    "time": "42m",
-    "changes": "1260",
-    "method": "Plain Bob Doubles",
-    "details": "",
+    "date": "Sunday, 05 June 2022",
+    "location": "St Lawrence, York, North Yorkshire",
+    "weight": "7-3-24 in A",
+    "time": "",
+    "changes": "",
+    "method": "General Ringing, Rounds and Methods",
+    "details": "Rounds and call changes, Reverse Bob Minor, Stedman Doubles, Treble Bob Minor",
     "ringers": [
         {
-            "name": "Roger C Button (Friend)",
-            "bell": "1"
+            "name": "Floria Xu",
+            "bell": ""
         },
         {
-            "name": "Helen M Button (Friend)",
-            "bell": "2"
+            "name": "James D Austin",
+            "bell": ""
         },
         {
-            "name": "Matthew O Hall (Vanbrugh)",
-            "bell": "3"
+            "name": "Jemima Bleackley",
+            "bell": ""
         },
         {
-            "name": "Jemima Bleackley (Halifax)",
-            "bell": "4"
+            "name": "Joss Davis",
+            "bell": ""
         },
         {
-            "name": "Rosemary S Hall (Alcuin) (C)",
-            "bell": "5"
+            "name": "Nathan Williams",
+            "bell": ""
         },
         {
-            "name": "Nathan Williams (Alcuin)",
-            "bell": "6"
+            "name": "Rebecca A Hall",
+            "bell": ""
+        },
+        {
+            "name": "Rosemary S Hall",
+            "bell": ""
         }
     ],
     "footnotes": [
-        "For the wedding of Kaziah and David",
-        "For the platinum jubilee of Her Majesty Queen Elizabeth II",
-        "First as conductor of doubles: 5",
-        "First tenor behind: 6",
-        "First YCG quarter: 1, 2",
-        "First YCG quarter on the bells in 7 years"
+        "Rung for the 70th Jubilee of Queen Elizabeth II"
     ]
 }

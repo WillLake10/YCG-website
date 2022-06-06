@@ -1,6 +1,49 @@
 [
     {
         "academic_year": "2021/22",
+        "date": "Sunday, 05 June 2022",
+        "location": "St Lawrence, York, North Yorkshire",
+        "weight": "7-3-24 in A",
+        "time": "",
+        "changes": "",
+        "method": "General Ringing, Rounds and Methods",
+        "details": "Rounds and call changes, Reverse Bob Minor, Stedman Doubles, Treble Bob Minor",
+        "ringers": [
+            {
+                "name": "Floria Xu",
+                "bell": ""
+            },
+            {
+                "name": "James D Austin",
+                "bell": ""
+            },
+            {
+                "name": "Jemima Bleackley",
+                "bell": ""
+            },
+            {
+                "name": "Joss Davis",
+                "bell": ""
+            },
+            {
+                "name": "Nathan Williams",
+                "bell": ""
+            },
+            {
+                "name": "Rebecca A Hall",
+                "bell": ""
+            },
+            {
+                "name": "Rosemary S Hall",
+                "bell": ""
+            }
+        ],
+        "footnotes": [
+            "Rung for the 70th Jubilee of Queen Elizabeth II"
+        ]
+    },
+    {
+        "academic_year": "2021/22",
         "date": "Saturday, 04 June 2022",
         "location": "St Olave, Marygate, York, North Yorkshire",
         "weight": "9-0-14 in G#",

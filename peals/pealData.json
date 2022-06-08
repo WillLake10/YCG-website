@@ -1,6 +1,49 @@
 [
     {
         "academic_year": "2021/22",
+        "date": "Tuesday, 07 June 2022",
+        "location": "All Saints, North Street, York, North Yorkshire",
+        "weight": "7-2-2 in A",
+        "time": "41m",
+        "changes": "1260",
+        "method": "Plain Bob Doubles",
+        "details": "",
+        "ringers": [
+            {
+                "name": "James D Austin (Derwent) (C)",
+                "bell": "1"
+            },
+            {
+                "name": "Amber M Burrows (Goodricke)",
+                "bell": "2"
+            },
+            {
+                "name": "Nathan Williams (Alcuin)",
+                "bell": "3"
+            },
+            {
+                "name": "William Lake (Langwith)",
+                "bell": "4"
+            },
+            {
+                "name": "Jemima Bleackley (Halifax)",
+                "bell": "5"
+            },
+            {
+                "name": "Joss Davis (Alcuin)",
+                "bell": "6"
+            }
+        ],
+        "footnotes": [
+            "Rung for the Licensing of the Right Reverend Glyn Hamilton Webster as House for Duty Priest in Charge of the parish of All Saints North Street.",
+            "For the Platinum Jubilee of Queen Elizabeth II",
+            "First Quarter: 6",
+            "First Quarter inside: 2",
+            "First YCG Quarter on these bells since 2000"
+        ]
+    },
+    {
+        "academic_year": "2021/22",
         "date": "Sunday, 05 June 2022",
         "location": "St Lawrence, York, North Yorkshire",
         "weight": "7-3-24 in A",

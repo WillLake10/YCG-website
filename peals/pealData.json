@@ -1,6 +1,111 @@
 [
     {
         "academic_year": "2021/22",
+        "date": "Saturday, 18 June 2022",
+        "location": "Oratory Church of St Wilfrid, York, North Yorkshire",
+        "weight": "18-1-21 in F",
+        "time": "55m",
+        "changes": "1296",
+        "method": "Plain Bob Caters",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Jemima Bleakley (Halifax, 2022-23)",
+                "bell": "1"
+            },
+            {
+                "name": "Helen Illman (James, 2008-09)",
+                "bell": "2"
+            },
+            {
+                "name": "Rosemary S Hall (Alcuin, 2020-21)",
+                "bell": "3"
+            },
+            {
+                "name": "William Lake (Langwith, 2021-22)",
+                "bell": "4"
+            },
+            {
+                "name": "David Ball (Alcuin, 1994-96)",
+                "bell": "5"
+            },
+            {
+                "name": "William L K Brooke (Wentworth, 2017-18)",
+                "bell": "6"
+            },
+            {
+                "name": "Helen M Beaumont (Langwith, 2011-12)",
+                "bell": "7"
+            },
+            {
+                "name": "Glenn A A Taylor (Goodricke, 1976-78)",
+                "bell": "8"
+            },
+            {
+                "name": "Ryan Mills (Halifax, 2012-13) (C)",
+                "bell": "9"
+            },
+            {
+                "name": "Alice Etherington (Alcuin, 2009-10)",
+                "bell": "10"
+            }
+        ],
+        "footnotes": [
+            "Rung in anticipation of the 50th Anniversary YCG Dinner by the current and former ringing Masters of the Guild. Years of mastership in brackets.",
+            "Also in celebration of Bethany and Hannah's UK wedding.",
+            "4 - first on ten bells"
+        ]
+    },
+    {
+        "academic_year": "2021/22",
+        "date": "Saturday, 18 June 2022",
+        "location": "Oratory Church of St Wilfrid, York, North Yorkshire",
+        "weight": "18-1-21 in F",
+        "time": "45m",
+        "changes": "1260",
+        "method": "Plain Bob Triples",
+        "details": "",
+        "ringers": [
+            {
+                "name": "David Denbigh (Langwith)",
+                "bell": "1"
+            },
+            {
+                "name": "Claire Pearson (Alcuin)",
+                "bell": "2"
+            },
+            {
+                "name": "James Baxter (James)",
+                "bell": "3"
+            },
+            {
+                "name": "Richard Mayers (Vanbrugh)",
+                "bell": "4"
+            },
+            {
+                "name": "Michael J Pollard (Vanbrugh)",
+                "bell": "5"
+            },
+            {
+                "name": "Roger S Riley (York St John)",
+                "bell": "6"
+            },
+            {
+                "name": "William L K Brooke (Wentworth) (C)",
+                "bell": "7"
+            },
+            {
+                "name": "Kevin Atkinson (Alcuin)",
+                "bell": "8"
+            }
+        ],
+        "footnotes": [
+            "First of Plain Bob Triples: 4.",
+            "Rung to celebrate 50 years of the York Colleges Guild on Dinner Day. The colleges are included for the band members, who are all past members of the guild."
+        ]
+    },
+    {
+        "academic_year": "2021/22",
         "date": "Friday, 17 June 2022",
         "location": "St Lawrence, York, North Yorkshire",
         "weight": "7-3-24 in A",

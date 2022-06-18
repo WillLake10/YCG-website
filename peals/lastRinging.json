@@ -1,48 +1,57 @@
 {
     "academic_year": "2021/22",
-    "date": "Friday, 17 June 2022",
-    "location": "St Lawrence, York, North Yorkshire",
-    "weight": "7-3-24 in A",
-    "time": "45m",
-    "changes": "1344",
-    "method": "Plain Bob Triples",
+    "date": "Saturday, 18 June 2022",
+    "location": "Oratory Church of St Wilfrid, York, North Yorkshire",
+    "weight": "18-1-21 in F",
+    "time": "55m",
+    "changes": "1296",
+    "method": "Plain Bob Caters",
     "details": "",
     "ringers": [
         {
-            "name": "Megan Bucknall (Constantine)",
+            "name": "Jemima Bleakley (Halifax, 2022-23)",
             "bell": "1"
         },
         {
-            "name": "William J Lake (Langwith)",
+            "name": "Helen Illman (James, 2008-09)",
             "bell": "2"
         },
         {
-            "name": "Nathan Williams (Alcuin)",
+            "name": "Rosemary S Hall (Alcuin, 2020-21)",
             "bell": "3"
         },
         {
-            "name": "William L K Brooke (Wentworth)",
+            "name": "William Lake (Langwith, 2021-22)",
             "bell": "4"
         },
         {
-            "name": "Jemima Bleackley (Halifax)",
+            "name": "David Ball (Alcuin, 1994-96)",
             "bell": "5"
         },
         {
-            "name": "James D Austin (Derwent)",
+            "name": "William L K Brooke (Wentworth, 2017-18)",
             "bell": "6"
         },
         {
-            "name": "Rosemary S Hall (Alcuin) (C)",
+            "name": "Helen M Beaumont (Langwith, 2011-12)",
             "bell": "7"
         },
         {
-            "name": "Amber M Burrows (Goodricke)",
+            "name": "Glenn A A Taylor (Goodricke, 1976-78)",
             "bell": "8"
+        },
+        {
+            "name": "Ryan Mills (Halifax, 2012-13) (C)",
+            "bell": "9"
+        },
+        {
+            "name": "Alice Etherington (Alcuin, 2009-10)",
+            "bell": "10"
         }
     ],
     "footnotes": [
-        "In celebration of beginning of York Colleges Guild 50th Dinner Day weekend.",
-        "First on 8 bells: 1 & 8"
+        "Rung in anticipation of the 50th Anniversary YCG Dinner by the current and former ringing Masters of the Guild. Years of mastership in brackets.",
+        "Also in celebration of Bethany and Hannah's UK wedding.",
+        "4 - first on ten bells"
     ]
 }

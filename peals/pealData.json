@@ -1,6 +1,95 @@
 [
     {
         "academic_year": "2021/22",
+        "date": "Friday, 17 June 2022",
+        "location": "St Lawrence, York, North Yorkshire",
+        "weight": "7-3-24 in A",
+        "time": "45m",
+        "changes": "1344",
+        "method": "Plain Bob Triples",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Megan Bucknall (Constantine)",
+                "bell": "1"
+            },
+            {
+                "name": "William J Lake (Langwith)",
+                "bell": "2"
+            },
+            {
+                "name": "Nathan Williams (Alcuin)",
+                "bell": "3"
+            },
+            {
+                "name": "William L K Brooke (Wentworth)",
+                "bell": "4"
+            },
+            {
+                "name": "Jemima Bleackley (Halifax)",
+                "bell": "5"
+            },
+            {
+                "name": "James D Austin (Derwent)",
+                "bell": "6"
+            },
+            {
+                "name": "Rosemary S Hall (Alcuin) (C)",
+                "bell": "7"
+            },
+            {
+                "name": "Amber M Burrows (Goodricke)",
+                "bell": "8"
+            }
+        ],
+        "footnotes": [
+            "In celebration of beginning of York Colleges Guild 50th Dinner Day weekend.",
+            "First on 8 bells: 1 & 8"
+        ]
+    },
+    {
+        "academic_year": "2021/22",
+        "date": "Friday, 17 June 2022",
+        "location": "St Lawrence, York, North Yorkshire",
+        "weight": "7-3-24 in A",
+        "time": "48m",
+        "changes": "1440",
+        "method": "Plain Bob Minor",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Joss Davis (Alcuin)",
+                "bell": "1"
+            },
+            {
+                "name": "Jemima Bleackley (Halifax)",
+                "bell": "2"
+            },
+            {
+                "name": "William Lake (Langwith)",
+                "bell": "3"
+            },
+            {
+                "name": "Matthew O Hall (Vanbrugh)",
+                "bell": "4"
+            },
+            {
+                "name": "Rosie S Hall (Alcuin)",
+                "bell": "5"
+            },
+            {
+                "name": "James D Austin (Derwent) (C)",
+                "bell": "6"
+            }
+        ],
+        "footnotes": [
+            "Rung by current members for the YCG Dinner Day.",
+            "Rung on the eve of Matthew Hall\u2019s birthday.",
+            "First away from the tenor: 1."
+        ]
+    },
+    {
+        "academic_year": "2021/22",
         "date": "Tuesday, 07 June 2022",
         "location": "All Saints, North Street, York, North Yorkshire",
         "weight": "7-2-2 in A",

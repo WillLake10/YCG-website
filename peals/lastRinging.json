@@ -1,19 +1,19 @@
 {
     "academic_year": "2021/22",
-    "date": "Tuesday, 07 June 2022",
-    "location": "All Saints, North Street, York, North Yorkshire",
-    "weight": "7-2-2 in A",
-    "time": "41m",
-    "changes": "1260",
-    "method": "Plain Bob Doubles",
+    "date": "Friday, 17 June 2022",
+    "location": "St Lawrence, York, North Yorkshire",
+    "weight": "7-3-24 in A",
+    "time": "45m",
+    "changes": "1344",
+    "method": "Plain Bob Triples",
     "details": "",
     "ringers": [
         {
-            "name": "James D Austin (Derwent) (C)",
+            "name": "Megan Bucknall (Constantine)",
             "bell": "1"
         },
         {
-            "name": "Amber M Burrows (Goodricke)",
+            "name": "William J Lake (Langwith)",
             "bell": "2"
         },
         {
@@ -21,7 +21,7 @@
             "bell": "3"
         },
         {
-            "name": "William Lake (Langwith)",
+            "name": "William L K Brooke (Wentworth)",
             "bell": "4"
         },
         {
@@ -29,15 +29,20 @@
             "bell": "5"
         },
         {
-            "name": "Joss Davis (Alcuin)",
+            "name": "James D Austin (Derwent)",
             "bell": "6"
+        },
+        {
+            "name": "Rosemary S Hall (Alcuin) (C)",
+            "bell": "7"
+        },
+        {
+            "name": "Amber M Burrows (Goodricke)",
+            "bell": "8"
         }
     ],
     "footnotes": [
-        "Rung for the Licensing of the Right Reverend Glyn Hamilton Webster as House for Duty Priest in Charge of the parish of All Saints North Street.",
-        "For the Platinum Jubilee of Queen Elizabeth II",
-        "First Quarter: 6",
-        "First Quarter inside: 2",
-        "First YCG Quarter on these bells since 2000"
+        "In celebration of beginning of York Colleges Guild 50th Dinner Day weekend.",
+        "First on 8 bells: 1 & 8"
     ]
 }

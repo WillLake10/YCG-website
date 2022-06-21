@@ -1,54 +1,6 @@
 [
     {
         "s_date": {
-            "day": "20",
-            "month": "June",
-            "year": "2022",
-            "time": "19:00",
-            "weekday": "Monday",
-            "full": "19:00, Monday 20 June"
-        },
-        "e_date": {
-            "day": "20",
-            "month": "June",
-            "year": "2022",
-            "time": "19:30",
-            "weekday": "Monday",
-            "full": "19:30, Monday 20 June"
-        },
-        "title": "St Lawrence Handling Practice",
-        "location": "St Lawrence Parish Church, York",
-        "description": "",
-        "social": false,
-        "practice": false,
-        "allDay": false
-    },
-    {
-        "s_date": {
-            "day": "20",
-            "month": "June",
-            "year": "2022",
-            "time": "19:30",
-            "weekday": "Monday",
-            "full": "19:30, Monday 20 June"
-        },
-        "e_date": {
-            "day": "20",
-            "month": "June",
-            "year": "2022",
-            "time": "21:00",
-            "weekday": "Monday",
-            "full": "21:00, Monday 20 June"
-        },
-        "title": "St Lawrence Practice",
-        "location": "St Lawrence Parish Church, York",
-        "description": "St Lawrence weekly practice that many members attend",
-        "social": false,
-        "practice": false,
-        "allDay": false
-    },
-    {
-        "s_date": {
             "day": "21",
             "month": "June",
             "year": "2022",
@@ -2083,6 +2035,30 @@
         "title": "St Lawrence Practice",
         "location": "St Lawrence Parish Church, York",
         "description": "St Lawrence weekly practice that many members attend",
+        "social": false,
+        "practice": false,
+        "allDay": false
+    },
+    {
+        "s_date": {
+            "day": "20",
+            "month": "September",
+            "year": "2022",
+            "time": "19:00",
+            "weekday": "Tuesday",
+            "full": "19:00, Tuesday 20 September"
+        },
+        "e_date": {
+            "day": "20",
+            "month": "September",
+            "year": "2022",
+            "time": "21:00",
+            "weekday": "Tuesday",
+            "full": "21:00, Tuesday 20 September"
+        },
+        "title": "York Minster Practice",
+        "location": "York Minster, Deangate",
+        "description": "Weekly practice at the Minster that some members attend",
         "social": false,
         "practice": false,
         "allDay": false

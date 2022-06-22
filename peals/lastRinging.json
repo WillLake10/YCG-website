@@ -1,41 +1,48 @@
 {
     "academic_year": "2021/22",
-    "date": "Friday, 29 April 2022",
-    "location": "St Lawrence, York, North Yorkshire",
-    "weight": "7-3-24 in A",
-    "time": "51m",
-    "changes": "1440",
-    "method": "Cambridge Surprise Minor",
+    "date": "Saturday, 18 June 2022",
+    "location": "Oratory Church of St Wilfrid, York, North Yorkshire",
+    "weight": "18-1-21 in F",
+    "time": "45m",
+    "changes": "1260",
+    "method": "Plain Bob Triples",
     "details": "",
     "ringers": [
         {
-            "name": "Kevin Atkinson (Alcuin)",
+            "name": "David Denbigh (Langwith)",
             "bell": "1"
         },
         {
-            "name": "Jemima Bleackley (Halifax)",
+            "name": "Claire Pearson (Alcuin)",
             "bell": "2"
         },
         {
-            "name": "Matthew O Hall (Vanbrugh)",
+            "name": "James Baxter (James)",
             "bell": "3"
         },
         {
-            "name": "William L K Brooke (Alcuin)",
+            "name": "Richard Mayers (Vanbrugh)",
             "bell": "4"
         },
         {
-            "name": "Rosemary S Hall (Alcuin)",
+            "name": "Michael J Pollard (Vanbrugh)",
             "bell": "5"
         },
         {
-            "name": "William Lake (Langwith) (C)",
+            "name": "Roger S Riley (York St John)",
             "bell": "6"
+        },
+        {
+            "name": "William L K Brooke (Wentworth) (C)",
+            "bell": "7"
+        },
+        {
+            "name": "Kevin Atkinson (Alcuin)",
+            "bell": "8"
         }
     ],
     "footnotes": [
-        "Rung for the 80th anniversary of the Baedeker raid on York",
-        "First Suprise: 3",
-        "First Suprise as conductor: 6"
+        "First of Plain Bob Triples: 4.",
+        "Rung to celebrate 50 years of the York Colleges Guild on Dinner Day. The colleges are included for the band members, who are all past members of the guild."
     ]
 }

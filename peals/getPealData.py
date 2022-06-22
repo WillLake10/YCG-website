@@ -165,7 +165,13 @@ if __name__ == '__main__':
     f.close()
     get_last_peal(performances)
     f = open("peals/lastRinging.json", "w")
-    f.write(json.dumps(performances[0], indent=4, cls=PerformanceEncoder))
+    if performances[0].date == performances[1].date:
+        if len(performances[1].ringers) > len(performances[0].ringers):
+            f.write(json.dumps(performances[1], indent=4, cls=PerformanceEncoder))
+        else:
+            f.write(json.dumps(performances[0], indent=4, cls=PerformanceEncoder))
+    else:
+        f.write(json.dumps(performances[0], indent=4, cls=PerformanceEncoder))
     f.close()
     currentTime = datetime.datetime.now()
     f = open("peals/lastEdit.json", "w")

@@ -22,7 +22,7 @@ Author: Will Lake
 <?php include('componants/standardPageTop.php'); ?>
 
 
-<?php include('componants/banner.html'); ?>
+<?php //include('componants/banner.html'); ?>
 
 <section id="pagetitle">
     <div class="container pt-3 pb-3">

@@ -16937,6 +16937,45 @@
     },
     {
         "academic_year": "1976/77",
+        "date": "Sunday, 15 May 1977",
+        "location": "Arts Centre, York, North Yorkshire",
+        "weight": "9-0-4 in G#",
+        "time": "",
+        "changes": "1280",
+        "method": "Little Bob Minor",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Liz S Balls",
+                "bell": "1"
+            },
+            {
+                "name": "Sue Adams",
+                "bell": "2"
+            },
+            {
+                "name": "Glenn A A Taylor",
+                "bell": "3"
+            },
+            {
+                "name": "Stuart Heath",
+                "bell": "4"
+            },
+            {
+                "name": "Margaret Boam",
+                "bell": "5"
+            },
+            {
+                "name": "Roger S Riley (C)",
+                "bell": "6"
+            }
+        ],
+        "footnotes": [
+            "Published as part of YCG's effort to digitalise old records. All records uploaded exactly as they appear in our physical books, for any changes to names etc, please contact admin@ycg.org.uk"
+        ]
+    },
+    {
+        "academic_year": "1976/77",
         "date": "Sunday, 01 May 1977",
         "location": "Arts Centre, Micklegate, York, North Yorkshire",
         "weight": "",
@@ -16972,6 +17011,45 @@
         ],
         "footnotes": [
             "1st quarter for treble ringer"
+        ]
+    },
+    {
+        "academic_year": "1976/77",
+        "date": "Sunday, 24 April 1977",
+        "location": "Arts Centre, York, North Yorkshire",
+        "weight": "9-0-4 in G#",
+        "time": "",
+        "changes": "1260",
+        "method": "St George and The Dragon Surprise Minor",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Margaret Boam",
+                "bell": "1"
+            },
+            {
+                "name": "Liz S Balls",
+                "bell": "2"
+            },
+            {
+                "name": "___ ___",
+                "bell": "3"
+            },
+            {
+                "name": "Glenn A A Taylor (C)",
+                "bell": "4"
+            },
+            {
+                "name": "Peter Wilkinson",
+                "bell": "5"
+            },
+            {
+                "name": "Roger S Riley",
+                "bell": "6"
+            }
+        ],
+        "footnotes": [
+            "Published as part of YCG's effort to digitalise old records. All records uploaded exactly as they appear in our physical books, for any changes to names etc, please contact admin@ycg.org.uk"
         ]
     },
     {
@@ -17052,6 +17130,53 @@
     },
     {
         "academic_year": "1974/75",
+        "date": "Sunday, 22 June 1975",
+        "location": "Cathedral and Metropolitical Church of St Peter, York, North Yorkshire",
+        "weight": "24-3-0 in Eb",
+        "time": "",
+        "changes": "1280",
+        "method": "Yorkshire Surprise Major",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Roger S Riley (C)",
+                "bell": "1"
+            },
+            {
+                "name": "Elaine Tickner",
+                "bell": "2"
+            },
+            {
+                "name": "Liz S Balls",
+                "bell": "3"
+            },
+            {
+                "name": "Barbara J Rand",
+                "bell": "4"
+            },
+            {
+                "name": "John Leech",
+                "bell": "5"
+            },
+            {
+                "name": "David E Potter",
+                "bell": "6"
+            },
+            {
+                "name": "Peter Wilkinson",
+                "bell": "7"
+            },
+            {
+                "name": "Chris Turner",
+                "bell": "8"
+            }
+        ],
+        "footnotes": [
+            "Published as part of YCG's effort to digitalise old records. All records uploaded exactly as they appear in our physical books, for any changes to names etc, please contact admin@ycg.org.uk"
+        ]
+    },
+    {
+        "academic_year": "1974/75",
         "date": "Sunday, 16 March 1975",
         "location": "Arts Centre, Micklegate, York, North Yorkshire",
         "weight": "",
@@ -17086,6 +17211,45 @@
             }
         ],
         "footnotes": []
+    },
+    {
+        "academic_year": "1974/75",
+        "date": "Sunday, 19 January 1975",
+        "location": "Arts Centre, York, North Yorkshire",
+        "weight": "9-0-4 in G#",
+        "time": "",
+        "changes": "1260",
+        "method": "Plain Bob Minor",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Ruth Lawrence",
+                "bell": "1"
+            },
+            {
+                "name": "Peter Lawrence",
+                "bell": "2"
+            },
+            {
+                "name": "Michael Barker",
+                "bell": "3"
+            },
+            {
+                "name": "Liz S Balls",
+                "bell": "4"
+            },
+            {
+                "name": "Peter Wilkinson",
+                "bell": "5"
+            },
+            {
+                "name": "Roger S Riley (C)",
+                "bell": "6"
+            }
+        ],
+        "footnotes": [
+            "Published as part of YCG's effort to digitalise old records. All records uploaded exactly as they appear in our physical books, for any changes to names etc, please contact admin@ycg.org.uk"
+        ]
     },
     {
         "academic_year": "1973/74",
@@ -17168,7 +17332,7 @@
     },
     {
         "academic_year": "1973/74",
-        "date": "Thursday, 21 February 1974",
+        "date": "Sunday, 24 February 1974",
         "location": "Cathedral and Metropolitical Church of St Peter, York, North Yorkshire",
         "weight": "59-1-23 in Bb",
         "time": "",
@@ -17177,54 +17341,53 @@
         "details": "",
         "ringers": [
             {
-                "name": "Unknown",
+                "name": "Elaine Tickner",
                 "bell": "1"
             },
             {
-                "name": "Unknown",
+                "name": "Clare Noble",
                 "bell": "2"
             },
             {
-                "name": "Unknown",
+                "name": "Barbara J Rand",
                 "bell": "3"
             },
             {
-                "name": "Unknown",
+                "name": "Sue Jones",
                 "bell": "4"
             },
             {
-                "name": "Unknown",
+                "name": "___ Tickner",
                 "bell": "5"
             },
             {
-                "name": "Unknown",
+                "name": "Bert Sutton",
                 "bell": "6"
             },
             {
-                "name": "Unknown",
+                "name": "Peter Wilkinson",
                 "bell": "7"
             },
             {
-                "name": "Unknown",
+                "name": "Derek J Jones",
                 "bell": "8"
             },
             {
-                "name": "Unknown",
+                "name": "Roger S Riley (C)",
                 "bell": "9"
             },
             {
-                "name": "Unknown",
+                "name": "David E Potter",
                 "bell": "10"
             }
         ],
         "footnotes": [
-            "Conducted by R Riley",
             "Published as part of YCG's effort to digitalise old records. All records uploaded exactly as they appear in our physical books, for any changes to names etc, please contact admin@ycg.org"
         ]
     },
     {
         "academic_year": "1973/74",
-        "date": "Tuesday, 12 February 1974",
+        "date": "Sunday, 17 February 1974",
         "location": "St Helen, Escrick, North Yorkshire",
         "weight": "13-1-14 in F",
         "time": "",
@@ -17233,40 +17396,39 @@
         "details": "",
         "ringers": [
             {
-                "name": "Unknown",
+                "name": "Sue Jones",
                 "bell": "1"
             },
             {
-                "name": "Unknown",
+                "name": "Peter Sanderson",
                 "bell": "2"
             },
             {
-                "name": "Unknown",
+                "name": "Peter Peglario",
                 "bell": "3"
             },
             {
-                "name": "Unknown",
+                "name": "Christine Sanderson",
                 "bell": "4"
             },
             {
-                "name": "Unknown",
+                "name": "Elaine Tickner",
                 "bell": "5"
             },
             {
-                "name": "Unknown",
+                "name": "Barbara J Rand",
                 "bell": "6"
             },
             {
-                "name": "Unknown",
+                "name": "Derek J Jones (C)",
                 "bell": "7"
             },
             {
-                "name": "Unknown",
+                "name": "Roger S Riley",
                 "bell": "8"
             }
         ],
         "footnotes": [
-            "Conducted by D J Jones",
             "Published as part of YCG's effort to digitalise old records. All records uploaded exactly as they appear in our physical books, for any changes to names etc, please contact admin@ycg.org.uk"
         ]
     },
@@ -17312,7 +17474,46 @@
     },
     {
         "academic_year": "1973/74",
-        "date": "Saturday, 03 November 1973",
+        "date": "Saturday, 12 January 1974",
+        "location": "Arts Centre, York, North Yorkshire",
+        "weight": "9-0-4 in G#",
+        "time": "",
+        "changes": "3",
+        "method": "Mixed/spliced Doubles",
+        "details": "3 m/v",
+        "ringers": [
+            {
+                "name": "Peter Lawrence",
+                "bell": "1"
+            },
+            {
+                "name": "Roger S Riley (C)",
+                "bell": "2"
+            },
+            {
+                "name": "Liz S Balls",
+                "bell": "3"
+            },
+            {
+                "name": "Peter Wilkinson",
+                "bell": "4"
+            },
+            {
+                "name": "David E Potter",
+                "bell": "5"
+            },
+            {
+                "name": "Ruth Lawrence",
+                "bell": "6"
+            }
+        ],
+        "footnotes": [
+            "Published as part of YCG's effort to digitalise old records. All records uploaded exactly as they appear in our physical books, for any changes to names etc, please contact admin@ycg.org.uk"
+        ]
+    },
+    {
+        "academic_year": "1973/74",
+        "date": "Sunday, 04 November 1973",
         "location": "Arts Centre, Micklegate, York, North Yorkshire",
         "weight": "",
         "time": "",

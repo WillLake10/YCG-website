@@ -1,30 +1,6 @@
 [
     {
         "s_date": {
-            "day": "16",
-            "month": "July",
-            "year": "2022",
-            "time": "09:30",
-            "weekday": "Saturday",
-            "full": "09:30, Saturday 16 July"
-        },
-        "e_date": {
-            "day": "16",
-            "month": "July",
-            "year": "2022",
-            "time": "12:00",
-            "weekday": "Saturday",
-            "full": "12:00, Saturday 16 July"
-        },
-        "title": "Selby & District Plain Bob Doubles Training",
-        "location": "Selby Abbey, The Crescent",
-        "description": "\nThis session is aimed at anybody who can ring rounds and above who wants to learn/ gain experience at  Plain Hunting and Bob Doubles.\nExperienced ringers also invited to attend as support.",
-        "social": false,
-        "practice": false,
-        "allDay": false
-    },
-    {
-        "s_date": {
             "day": "17",
             "month": "July",
             "year": "2022",
@@ -1987,6 +1963,54 @@
         "title": "York Oratory Practice",
         "location": "York Oratory, Duncombe Pl",
         "description": "St Wilfrid's weekly practice that many members attend",
+        "social": false,
+        "practice": false,
+        "allDay": false
+    },
+    {
+        "s_date": {
+            "day": "16",
+            "month": "October",
+            "year": "2022",
+            "time": "09:30",
+            "weekday": "Sunday",
+            "full": "09:30, Sunday 16 October"
+        },
+        "e_date": {
+            "day": "16",
+            "month": "October",
+            "year": "2022",
+            "time": "10:15",
+            "weekday": "Sunday",
+            "full": "10:15, Sunday 16 October"
+        },
+        "title": "Sunday Service Ringing",
+        "location": "St Lawrence Parish Church, York",
+        "description": "Weekly morning service ringing at St Lawrence that some YCG members attend",
+        "social": false,
+        "practice": false,
+        "allDay": false
+    },
+    {
+        "s_date": {
+            "day": "16",
+            "month": "October",
+            "year": "2022",
+            "time": "17:45",
+            "weekday": "Sunday",
+            "full": "17:45, Sunday 16 October"
+        },
+        "e_date": {
+            "day": "16",
+            "month": "October",
+            "year": "2022",
+            "time": "18:30",
+            "weekday": "Sunday",
+            "full": "18:30, Sunday 16 October"
+        },
+        "title": "Sunday Evensong Ringing",
+        "location": "St Lawrence Parish Church, York",
+        "description": "Weekly evening service ringing at St Lawrence after normal YCG practice",
         "social": false,
         "practice": false,
         "allDay": false

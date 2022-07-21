@@ -1,57 +1,40 @@
 {
     "academic_year": "2021/22",
-    "date": "Saturday, 18 June 2022",
-    "location": "Oratory Church of St Wilfrid, York, North Yorkshire",
-    "weight": "18-1-21 in F",
-    "time": "55m",
-    "changes": "1296",
-    "method": "Plain Bob Caters",
+    "date": "Wednesday, 20 July 2022",
+    "location": "St Lawrence, York, North Yorkshire",
+    "weight": "7-3-24 in A",
+    "time": "42m",
+    "changes": "1260",
+    "method": "Plain Bob Doubles",
     "details": "",
     "ringers": [
         {
-            "name": "Jemima Bleackley (Halifax, 2022-23)",
+            "name": "Susan C Hall (SUGCR)",
             "bell": "1"
         },
         {
-            "name": "Helen Illman (James, 2008-09)",
+            "name": "Kevin Atkinson (Alcuin)",
             "bell": "2"
         },
         {
-            "name": "Rosemary S Hall (Alcuin, 2020-21)",
+            "name": "Rosemary S Hall (Alcuin)",
             "bell": "3"
         },
         {
-            "name": "William Lake (Langwith, 2021-22)",
+            "name": "James D Austin (Derwent)",
             "bell": "4"
         },
         {
-            "name": "David Ball (Alcuin, 1994-96)",
+            "name": "Nathan Williams (Alcuin) (C)",
             "bell": "5"
         },
         {
-            "name": "William L K Brooke (Wentworth, 2017-18)",
+            "name": "Matthew O Hall (Vanbrugh)",
             "bell": "6"
-        },
-        {
-            "name": "Helen M Beaumont (Langwith, 2011-12)",
-            "bell": "7"
-        },
-        {
-            "name": "Glenn A A Taylor (Goodricke, 1976-78)",
-            "bell": "8"
-        },
-        {
-            "name": "Ryan Mills (Halifax, 2012-13) (C)",
-            "bell": "9"
-        },
-        {
-            "name": "Alice Etherington (Alcuin, 2009-10)",
-            "bell": "10"
         }
     ],
     "footnotes": [
-        "Rung in anticipation of the 50th Anniversary YCG Dinner by the current and former ringing Masters of the Guild. Years of mastership in brackets.",
-        "Also in celebration of Bethany and Hannah's UK wedding.",
-        "4 - first on ten bells"
+        "Rung as a 19th birthday compliment to the beloved ringing master of the YCG, Jemima Bleackley",
+        "First as Conductor"
     ]
 }

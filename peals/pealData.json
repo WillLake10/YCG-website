@@ -1,6 +1,46 @@
 [
     {
         "academic_year": "2021/22",
+        "date": "Wednesday, 20 July 2022",
+        "location": "St Lawrence, York, North Yorkshire",
+        "weight": "7-3-24 in A",
+        "time": "42m",
+        "changes": "1260",
+        "method": "Plain Bob Doubles",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Susan C Hall (SUGCR)",
+                "bell": "1"
+            },
+            {
+                "name": "Kevin Atkinson (Alcuin)",
+                "bell": "2"
+            },
+            {
+                "name": "Rosemary S Hall (Alcuin)",
+                "bell": "3"
+            },
+            {
+                "name": "James D Austin (Derwent)",
+                "bell": "4"
+            },
+            {
+                "name": "Nathan Williams (Alcuin) (C)",
+                "bell": "5"
+            },
+            {
+                "name": "Matthew O Hall (Vanbrugh)",
+                "bell": "6"
+            }
+        ],
+        "footnotes": [
+            "Rung as a 19th birthday compliment to the beloved ringing master of the YCG, Jemima Bleackley",
+            "First as Conductor"
+        ]
+    },
+    {
+        "academic_year": "2021/22",
         "date": "Saturday, 18 June 2022",
         "location": "Oratory Church of St Wilfrid, York, North Yorkshire",
         "weight": "18-1-21 in F",

@@ -265,6 +265,30 @@
     },
     {
         "s_date": {
+            "day": "03",
+            "month": "August",
+            "year": "2022",
+            "time": "19:00",
+            "weekday": "Wednesday",
+            "full": "19:00, Wednesday 03 August"
+        },
+        "e_date": {
+            "day": "03",
+            "month": "August",
+            "year": "2022",
+            "time": "20:30",
+            "weekday": "Wednesday",
+            "full": "20:30, Wednesday 03 August"
+        },
+        "title": "St Olave's Ringing Practice",
+        "location": "St Olave's Church York, 8 Marygate Ln",
+        "description": "St Olave's Monthly Ringing Practice",
+        "social": false,
+        "practice": false,
+        "allDay": false
+    },
+    {
+        "s_date": {
             "day": "04",
             "month": "August",
             "year": "2022",
@@ -1939,6 +1963,54 @@
         "title": "York Oratory Practice",
         "location": "York Oratory, Duncombe Pl",
         "description": "St Wilfrid's weekly practice that many members attend",
+        "social": false,
+        "practice": false,
+        "allDay": false
+    },
+    {
+        "s_date": {
+            "day": "23",
+            "month": "October",
+            "year": "2022",
+            "time": "09:30",
+            "weekday": "Sunday",
+            "full": "09:30, Sunday 23 October"
+        },
+        "e_date": {
+            "day": "23",
+            "month": "October",
+            "year": "2022",
+            "time": "10:15",
+            "weekday": "Sunday",
+            "full": "10:15, Sunday 23 October"
+        },
+        "title": "Sunday Service Ringing",
+        "location": "St Lawrence Parish Church, York",
+        "description": "Weekly morning service ringing at St Lawrence that some YCG members attend",
+        "social": false,
+        "practice": false,
+        "allDay": false
+    },
+    {
+        "s_date": {
+            "day": "23",
+            "month": "October",
+            "year": "2022",
+            "time": "17:45",
+            "weekday": "Sunday",
+            "full": "17:45, Sunday 23 October"
+        },
+        "e_date": {
+            "day": "23",
+            "month": "October",
+            "year": "2022",
+            "time": "18:30",
+            "weekday": "Sunday",
+            "full": "18:30, Sunday 23 October"
+        },
+        "title": "Sunday Evensong Ringing",
+        "location": "St Lawrence Parish Church, York",
+        "description": "Weekly evening service ringing at St Lawrence after normal YCG practice",
         "social": false,
         "practice": false,
         "allDay": false

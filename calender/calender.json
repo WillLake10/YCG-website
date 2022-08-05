@@ -1,30 +1,6 @@
 [
     {
         "s_date": {
-            "day": "04",
-            "month": "August",
-            "year": "2022",
-            "time": "19:00",
-            "weekday": "Thursday",
-            "full": "19:00, Thursday 04 August"
-        },
-        "e_date": {
-            "day": "04",
-            "month": "August",
-            "year": "2022",
-            "time": "21:00",
-            "weekday": "Thursday",
-            "full": "21:00, Thursday 04 August"
-        },
-        "title": "York Oratory Practice",
-        "location": "York Oratory, Duncombe Pl",
-        "description": "St Wilfrid's weekly practice that many members attend",
-        "social": false,
-        "practice": false,
-        "allDay": false
-    },
-    {
-        "s_date": {
             "day": "07",
             "month": "August",
             "year": "2022",

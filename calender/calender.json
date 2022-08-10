@@ -1,30 +1,6 @@
 [
     {
         "s_date": {
-            "day": "09",
-            "month": "August",
-            "year": "2022",
-            "time": "19:00",
-            "weekday": "Tuesday",
-            "full": "19:00, Tuesday 09 August"
-        },
-        "e_date": {
-            "day": "09",
-            "month": "August",
-            "year": "2022",
-            "time": "21:00",
-            "weekday": "Tuesday",
-            "full": "21:00, Tuesday 09 August"
-        },
-        "title": "York Minster Practice",
-        "location": "York Minster, Deangate",
-        "description": "Weekly practice at the Minster that some members attend",
-        "social": false,
-        "practice": false,
-        "allDay": false
-    },
-    {
-        "s_date": {
             "day": "10",
             "month": "August",
             "year": "2022",
@@ -1963,6 +1939,30 @@
         "title": "York Minster Practice",
         "location": "York Minster, Deangate",
         "description": "Weekly practice at the Minster that some members attend",
+        "social": false,
+        "practice": false,
+        "allDay": false
+    },
+    {
+        "s_date": {
+            "day": "09",
+            "month": "November",
+            "year": "2022",
+            "time": "19:30",
+            "weekday": "Wednesday",
+            "full": "19:30, Wednesday 09 November"
+        },
+        "e_date": {
+            "day": "09",
+            "month": "November",
+            "year": "2022",
+            "time": "21:00",
+            "weekday": "Wednesday",
+            "full": "21:00, Wednesday 09 November"
+        },
+        "title": "Clifton Practice",
+        "location": "Clifton Parish Church St Philip & St James, Clifton Vicarage",
+        "description": "",
         "social": false,
         "practice": false,
         "allDay": false

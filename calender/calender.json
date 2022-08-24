@@ -1,30 +1,6 @@
 [
     {
         "s_date": {
-            "day": "23",
-            "month": "August",
-            "year": "2022",
-            "time": "19:00",
-            "weekday": "Tuesday",
-            "full": "19:00, Tuesday 23 August"
-        },
-        "e_date": {
-            "day": "23",
-            "month": "August",
-            "year": "2022",
-            "time": "21:00",
-            "weekday": "Tuesday",
-            "full": "21:00, Tuesday 23 August"
-        },
-        "title": "York Minster Practice",
-        "location": "York Minster, Deangate",
-        "description": "Weekly practice at the Minster that some members attend",
-        "social": false,
-        "practice": false,
-        "allDay": false
-    },
-    {
-        "s_date": {
             "day": "25",
             "month": "August",
             "year": "2022",
@@ -139,6 +115,30 @@
         "title": "St Lawrence Practice",
         "location": "St Lawrence Parish Church, York",
         "description": "St Lawrence weekly practice that many members attend",
+        "social": false,
+        "practice": false,
+        "allDay": false
+    },
+    {
+        "s_date": {
+            "day": "31",
+            "month": "August",
+            "year": "2022",
+            "time": "19:00",
+            "weekday": "Wednesday",
+            "full": "19:00, Wednesday 31 August"
+        },
+        "e_date": {
+            "day": "31",
+            "month": "August",
+            "year": "2022",
+            "time": "20:30",
+            "weekday": "Wednesday",
+            "full": "20:30, Wednesday 31 August"
+        },
+        "title": "St Olave's Ringing Practice",
+        "location": "St Olave's Church York, 8 Marygate Ln",
+        "description": "St Olave's Monthly Ringing Practice",
         "social": false,
         "practice": false,
         "allDay": false

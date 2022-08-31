@@ -45,6 +45,9 @@ Author: Will Lake
                 <a href="https://github.com/WillLake10/YCG-website">https://github.com/WillLake10/YCG-website</a>
             </p>
         </div>
+        <div class="row">
+            <P> Banner Image by Will Lake</p>
+        </div>
         <br><br><br>
     </div>
 </section>

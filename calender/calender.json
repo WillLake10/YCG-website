@@ -73,102 +73,6 @@
     },
     {
         "s_date": {
-            "day": "12",
-            "month": "September",
-            "year": "2022",
-            "time": "19:30",
-            "weekday": "Monday",
-            "full": "19:30, Monday 12 September"
-        },
-        "e_date": {
-            "day": "12",
-            "month": "September",
-            "year": "2022",
-            "time": "21:00",
-            "weekday": "Monday",
-            "full": "21:00, Monday 12 September"
-        },
-        "title": "St Lawrence Practice",
-        "location": "St Lawrence Parish Church, York",
-        "description": "St Lawrence weekly practice that many members attend",
-        "social": false,
-        "practice": false,
-        "allDay": false
-    },
-    {
-        "s_date": {
-            "day": "13",
-            "month": "September",
-            "year": "2022",
-            "time": "19:00",
-            "weekday": "Tuesday",
-            "full": "19:00, Tuesday 13 September"
-        },
-        "e_date": {
-            "day": "13",
-            "month": "September",
-            "year": "2022",
-            "time": "21:00",
-            "weekday": "Tuesday",
-            "full": "21:00, Tuesday 13 September"
-        },
-        "title": "York Minster Practice",
-        "location": "York Minster, Deangate",
-        "description": "Weekly practice at the Minster that some members attend",
-        "social": false,
-        "practice": false,
-        "allDay": false
-    },
-    {
-        "s_date": {
-            "day": "14",
-            "month": "September",
-            "year": "2022",
-            "time": "19:30",
-            "weekday": "Wednesday",
-            "full": "19:30, Wednesday 14 September"
-        },
-        "e_date": {
-            "day": "14",
-            "month": "September",
-            "year": "2022",
-            "time": "21:00",
-            "weekday": "Wednesday",
-            "full": "21:00, Wednesday 14 September"
-        },
-        "title": "Clifton Practice",
-        "location": "Clifton Parish Church St Philip & St James, Clifton Vicarage",
-        "description": "",
-        "social": false,
-        "practice": false,
-        "allDay": false
-    },
-    {
-        "s_date": {
-            "day": "15",
-            "month": "September",
-            "year": "2022",
-            "time": "19:00",
-            "weekday": "Thursday",
-            "full": "19:00, Thursday 15 September"
-        },
-        "e_date": {
-            "day": "15",
-            "month": "September",
-            "year": "2022",
-            "time": "21:00",
-            "weekday": "Thursday",
-            "full": "21:00, Thursday 15 September"
-        },
-        "title": "York Oratory Practice",
-        "location": "York Oratory, Duncombe Pl",
-        "description": "St Wilfrid's weekly practice that many members attend",
-        "social": false,
-        "practice": false,
-        "allDay": false
-    },
-    {
-        "s_date": {
             "day": "18",
             "month": "September",
             "year": "2022",
@@ -283,6 +187,30 @@
         "title": "York Minster Practice",
         "location": "York Minster, Deangate",
         "description": "Weekly practice at the Minster that some members attend",
+        "social": false,
+        "practice": false,
+        "allDay": false
+    },
+    {
+        "s_date": {
+            "day": "21",
+            "month": "September",
+            "year": "2022",
+            "time": "19:30",
+            "weekday": "Wednesday",
+            "full": "19:30, Wednesday 21 September"
+        },
+        "e_date": {
+            "day": "21",
+            "month": "September",
+            "year": "2022",
+            "time": "21:00",
+            "weekday": "Wednesday",
+            "full": "21:00, Wednesday 21 September"
+        },
+        "title": "Clifton Practice",
+        "location": "Clifton Parish Church St Philip & St James, Clifton Vicarage",
+        "description": "",
         "social": false,
         "practice": false,
         "allDay": false

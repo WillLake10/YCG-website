@@ -1,40 +1,24 @@
 {
-    "academic_year": "2021/22",
-    "date": "Wednesday, 20 July 2022",
-    "location": "St Lawrence, York, North Yorkshire",
-    "weight": "7-3-24 in A",
-    "time": "42m",
-    "changes": "1260",
-    "method": "Plain Bob Doubles",
-    "details": "",
+    "academic_year": "2022/23",
+    "date": "Friday, 09 September 2022",
+    "location": "St Philip and St James, Clifton, York, North Yorkshire",
+    "weight": "3-1-23 in Eb",
+    "time": "10m",
+    "changes": "",
+    "method": "Tolling",
+    "details": "6 tellers, followed by 96 blows",
     "ringers": [
         {
-            "name": "Susan G Hall (SUGCR)",
-            "bell": "1"
+            "name": "Nathan Williams",
+            "bell": ""
         },
         {
-            "name": "Kevin Atkinson (Alcuin)",
-            "bell": "2"
-        },
-        {
-            "name": "Rosemary S Hall (Alcuin)",
-            "bell": "3"
-        },
-        {
-            "name": "James D Austin (Derwent)",
-            "bell": "4"
-        },
-        {
-            "name": "Nathan Williams (Alcuin) (C)",
-            "bell": "5"
-        },
-        {
-            "name": "Matthew O Hall (Vanbrugh)",
-            "bell": "6"
+            "name": "Quinn Chen",
+            "bell": ""
         }
     ],
     "footnotes": [
-        "Rung as a 19th birthday compliment to the beloved ringing master of the YCG, Jemima Bleackley",
-        "First as Conductor"
+        "Rung half muffled",
+        "In memoriam - HM Queen Elizabeth II"
     ]
 }

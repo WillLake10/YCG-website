@@ -1,5 +1,29 @@
 [
     {
+        "academic_year": "2022/23",
+        "date": "Friday, 09 September 2022",
+        "location": "St Philip and St James, Clifton, York, North Yorkshire",
+        "weight": "3-1-23 in Eb",
+        "time": "10m",
+        "changes": "",
+        "method": "Tolling",
+        "details": "6 tellers, followed by 96 blows",
+        "ringers": [
+            {
+                "name": "Nathan Williams",
+                "bell": ""
+            },
+            {
+                "name": "Quinn Chen",
+                "bell": ""
+            }
+        ],
+        "footnotes": [
+            "Rung half muffled",
+            "In memoriam - HM Queen Elizabeth II"
+        ]
+    },
+    {
         "academic_year": "2021/22",
         "date": "Wednesday, 20 July 2022",
         "location": "St Lawrence, York, North Yorkshire",

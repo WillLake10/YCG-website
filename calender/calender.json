@@ -2254,5 +2254,29 @@
         "social": false,
         "practice": false,
         "allDay": false
+    },
+    {
+        "s_date": {
+            "day": "14",
+            "month": "December",
+            "year": "2022",
+            "time": "19:30",
+            "weekday": "Wednesday",
+            "full": "19:30, Wednesday 14 December"
+        },
+        "e_date": {
+            "day": "14",
+            "month": "December",
+            "year": "2022",
+            "time": "21:00",
+            "weekday": "Wednesday",
+            "full": "21:00, Wednesday 14 December"
+        },
+        "title": "Clifton Practice",
+        "location": "Clifton Parish Church St Philip & St James, Clifton Vicarage",
+        "description": "",
+        "social": false,
+        "practice": false,
+        "allDay": false
     }
 ]

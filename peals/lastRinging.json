@@ -1,24 +1,41 @@
 {
     "academic_year": "2022/23",
-    "date": "Friday, 09 September 2022",
-    "location": "St Philip and St James, Clifton, York, North Yorkshire",
-    "weight": "3-1-23 in Eb",
-    "time": "10m",
-    "changes": "",
-    "method": "Tolling",
-    "details": "6 tellers, followed by 96 blows",
+    "date": "Thursday, 15 September 2022",
+    "location": "St Lawrence, York, North Yorkshire",
+    "weight": "7-3-24 in A",
+    "time": "42m",
+    "changes": "1260",
+    "method": "Doubles (3m)",
+    "details": "540 St Martin's Bob Doubles,\n360 St Simon's Bob Doubles,\n360 Plain Bob Doubles",
     "ringers": [
         {
-            "name": "Nathan Williams",
-            "bell": ""
+            "name": "Natasha A Williams (Alcuin)",
+            "bell": "1"
         },
         {
-            "name": "Quinn Chen",
-            "bell": ""
+            "name": "William J Lake (Langwith)",
+            "bell": "2"
+        },
+        {
+            "name": "William M Regan (Friend)",
+            "bell": "3"
+        },
+        {
+            "name": "Jemima Bleackley (Halifax)",
+            "bell": "4"
+        },
+        {
+            "name": "Rosemary S Hall (Alcuin) (C)",
+            "bell": "5"
+        },
+        {
+            "name": "Joss Davis (Alcuin)",
+            "bell": "6"
         }
     ],
     "footnotes": [
-        "Rung half muffled",
-        "In memoriam - HM Queen Elizabeth II"
+        "Half muffled in memoriam of Her Majesty Queen Elizabeth II.",
+        "First YCG quarter 3",
+        "First mixed 4"
     ]
 }

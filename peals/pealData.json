@@ -1,6 +1,47 @@
 [
     {
         "academic_year": "2022/23",
+        "date": "Thursday, 15 September 2022",
+        "location": "St Lawrence, York, North Yorkshire",
+        "weight": "7-3-24 in A",
+        "time": "42m",
+        "changes": "1260",
+        "method": "Doubles (3m)",
+        "details": "540 St Martin's Bob Doubles,\n360 St Simon's Bob Doubles,\n360 Plain Bob Doubles",
+        "ringers": [
+            {
+                "name": "Natasha A Williams (Alcuin)",
+                "bell": "1"
+            },
+            {
+                "name": "William J Lake (Langwith)",
+                "bell": "2"
+            },
+            {
+                "name": "William M Regan (Friend)",
+                "bell": "3"
+            },
+            {
+                "name": "Jemima Bleackley (Halifax)",
+                "bell": "4"
+            },
+            {
+                "name": "Rosemary S Hall (Alcuin) (C)",
+                "bell": "5"
+            },
+            {
+                "name": "Joss Davis (Alcuin)",
+                "bell": "6"
+            }
+        ],
+        "footnotes": [
+            "Half muffled in memoriam of Her Majesty Queen Elizabeth II.",
+            "First YCG quarter 3",
+            "First mixed 4"
+        ]
+    },
+    {
+        "academic_year": "2022/23",
         "date": "Friday, 09 September 2022",
         "location": "St Philip and St James, Clifton, York, North Yorkshire",
         "weight": "3-1-23 in Eb",
@@ -10,7 +51,7 @@
         "details": "6 tellers, followed by 96 blows",
         "ringers": [
             {
-                "name": "Nathan Williams",
+                "name": "Natasha A Williams",
                 "bell": ""
             },
             {
@@ -50,7 +91,7 @@
                 "bell": "4"
             },
             {
-                "name": "Nathan Williams (Alcuin) (C)",
+                "name": "Natasha A Williams (Alcuin) (C)",
                 "bell": "5"
             },
             {
@@ -173,54 +214,6 @@
         "date": "Friday, 17 June 2022",
         "location": "St Lawrence, York, North Yorkshire",
         "weight": "7-3-24 in A",
-        "time": "45m",
-        "changes": "1344",
-        "method": "Plain Bob Triples",
-        "details": "",
-        "ringers": [
-            {
-                "name": "Megan Bucknall (Constantine)",
-                "bell": "1"
-            },
-            {
-                "name": "William J Lake (Langwith)",
-                "bell": "2"
-            },
-            {
-                "name": "Nathan Williams (Alcuin)",
-                "bell": "3"
-            },
-            {
-                "name": "William L K Brooke (Wentworth)",
-                "bell": "4"
-            },
-            {
-                "name": "Jemima Bleackley (Halifax)",
-                "bell": "5"
-            },
-            {
-                "name": "James D Austin (Derwent)",
-                "bell": "6"
-            },
-            {
-                "name": "Rosemary S Hall (Alcuin) (C)",
-                "bell": "7"
-            },
-            {
-                "name": "Amber M Burrows (Goodricke)",
-                "bell": "8"
-            }
-        ],
-        "footnotes": [
-            "In celebration of beginning of York Colleges Guild 50th Dinner Day weekend.",
-            "First on 8 bells: 1 & 8"
-        ]
-    },
-    {
-        "academic_year": "2021/22",
-        "date": "Friday, 17 June 2022",
-        "location": "St Lawrence, York, North Yorkshire",
-        "weight": "7-3-24 in A",
         "time": "48m",
         "changes": "1440",
         "method": "Plain Bob Minor",
@@ -255,6 +248,54 @@
             "Rung by current members for the YCG Dinner Day.",
             "Rung on the eve of Matthew Hall\u2019s birthday.",
             "First away from the tenor: 1."
+        ]
+    },
+    {
+        "academic_year": "2021/22",
+        "date": "Friday, 17 June 2022",
+        "location": "St Lawrence, York, North Yorkshire",
+        "weight": "7-3-24 in A",
+        "time": "45m",
+        "changes": "1344",
+        "method": "Plain Bob Triples",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Megan Bucknall (Constantine)",
+                "bell": "1"
+            },
+            {
+                "name": "William J Lake (Langwith)",
+                "bell": "2"
+            },
+            {
+                "name": "Natasha A Williams (Alcuin)",
+                "bell": "3"
+            },
+            {
+                "name": "William L K Brooke (Wentworth)",
+                "bell": "4"
+            },
+            {
+                "name": "Jemima Bleackley (Halifax)",
+                "bell": "5"
+            },
+            {
+                "name": "James D Austin (Derwent)",
+                "bell": "6"
+            },
+            {
+                "name": "Rosemary S Hall (Alcuin) (C)",
+                "bell": "7"
+            },
+            {
+                "name": "Amber M Burrows (Goodricke)",
+                "bell": "8"
+            }
+        ],
+        "footnotes": [
+            "In celebration of beginning of York Colleges Guild 50th Dinner Day weekend.",
+            "First on 8 bells: 1 & 8"
         ]
     },
     {
@@ -327,7 +368,7 @@
                 "bell": ""
             },
             {
-                "name": "Nathan Williams",
+                "name": "Natasha A Williams",
                 "bell": ""
             },
             {

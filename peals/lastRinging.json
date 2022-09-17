@@ -1,41 +1,23 @@
 {
     "academic_year": "2022/23",
-    "date": "Thursday, 15 September 2022",
-    "location": "St Lawrence, York, North Yorkshire",
-    "weight": "7-3-24 in A",
-    "time": "42m",
-    "changes": "1260",
-    "method": "Doubles (3m)",
-    "details": "540 St Martin's Bob Doubles,\n360 St Simon's Bob Doubles,\n360 Plain Bob Doubles",
+    "date": "Friday, 16 September 2022",
+    "location": "Cathedral and Metropolitical Church of St Peter, York, North Yorkshire",
+    "weight": "216-2-22 in Eb",
+    "time": "32m",
+    "changes": "96",
+    "method": "Tolling",
+    "details": "",
     "ringers": [
         {
-            "name": "Natasha A Williams (Alcuin)",
-            "bell": "1"
+            "name": "Megan Bucknall",
+            "bell": ""
         },
         {
-            "name": "William J Lake (Langwith)",
-            "bell": "2"
-        },
-        {
-            "name": "William M Regan (Friend)",
-            "bell": "3"
-        },
-        {
-            "name": "Jemima Bleackley (Halifax)",
-            "bell": "4"
-        },
-        {
-            "name": "Rosemary S Hall (Alcuin) (C)",
-            "bell": "5"
-        },
-        {
-            "name": "Joss Davis (Alcuin)",
-            "bell": "6"
+            "name": "William Lake",
+            "bell": ""
         }
     ],
     "footnotes": [
-        "Half muffled in memoriam of Her Majesty Queen Elizabeth II.",
-        "First YCG quarter 3",
-        "First mixed 4"
+        "At noon, marking the death of HM the Queen."
     ]
 }

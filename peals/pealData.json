@@ -1,6 +1,52 @@
 [
     {
         "academic_year": "2022/23",
+        "date": "Friday, 16 September 2022",
+        "location": "Cathedral and Metropolitical Church of St Peter, York, North Yorkshire",
+        "weight": "216-2-22 in Eb",
+        "time": "32m",
+        "changes": "96",
+        "method": "Tolling",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Megan Bucknall",
+                "bell": ""
+            },
+            {
+                "name": "William Lake",
+                "bell": ""
+            }
+        ],
+        "footnotes": [
+            "At noon, marking the death of HM the Queen."
+        ]
+    },
+    {
+        "academic_year": "2022/23",
+        "date": "Thursday, 15 September 2022",
+        "location": "Cathedral and Metropolitical Church of St Peter, York, North Yorkshire",
+        "weight": "216-2-22 in Eb",
+        "time": "32m",
+        "changes": "96",
+        "method": "Tolling",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Jemima Bleackley",
+                "bell": ""
+            },
+            {
+                "name": "Natasha A Williams",
+                "bell": ""
+            }
+        ],
+        "footnotes": [
+            "At noon, marking the death of HM the Queen."
+        ]
+    },
+    {
+        "academic_year": "2022/23",
         "date": "Thursday, 15 September 2022",
         "location": "St Lawrence, York, North Yorkshire",
         "weight": "7-3-24 in A",
@@ -38,6 +84,75 @@
             "Half muffled in memoriam of Her Majesty Queen Elizabeth II.",
             "First YCG quarter 3",
             "First mixed 4"
+        ]
+    },
+    {
+        "academic_year": "2022/23",
+        "date": "Wednesday, 14 September 2022",
+        "location": "Cathedral and Metropolitical Church of St Peter, York, North Yorkshire",
+        "weight": "216-2-22 in Eb",
+        "time": "32m",
+        "changes": "96",
+        "method": "Tolling",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Natasha A Williams",
+                "bell": ""
+            },
+            {
+                "name": "William Lake",
+                "bell": ""
+            }
+        ],
+        "footnotes": [
+            "At noon, marking the death of HM the Queen."
+        ]
+    },
+    {
+        "academic_year": "2022/23",
+        "date": "Tuesday, 13 September 2022",
+        "location": "Cathedral and Metropolitical Church of St Peter, York, North Yorkshire",
+        "weight": "216-2-22 in Eb",
+        "time": "32m",
+        "changes": "96",
+        "method": "Tolling",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Amber M Burrows",
+                "bell": ""
+            },
+            {
+                "name": "Natasha A Williams",
+                "bell": ""
+            }
+        ],
+        "footnotes": [
+            "At noon, marking the death of HM the Queen."
+        ]
+    },
+    {
+        "academic_year": "2022/23",
+        "date": "Monday, 12 September 2022",
+        "location": "Cathedral and Metropolitical Church of St Peter, York, North Yorkshire",
+        "weight": "216-2-22 in Eb",
+        "time": "32m",
+        "changes": "96",
+        "method": "Tolling",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Jemima Bleackley",
+                "bell": ""
+            },
+            {
+                "name": "William Lake",
+                "bell": ""
+            }
+        ],
+        "footnotes": [
+            "At noon, marking the death of HM the Queen."
         ]
     },
     {

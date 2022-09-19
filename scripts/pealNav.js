@@ -1,5 +1,6 @@
 var year1 =
     [
+        ["2022", "2022/23", false],
         ["2021", "2021/22", false],
         ["2020", "2020/21", true],
         ["2019", "2019/20", false],
@@ -57,21 +58,33 @@ var year1 =
 
 document.write('<section id="yearnav"><div class="container">')
 
-i = 0
-for (var a = 0; a < year1.length; a++) {
-    if (i % 10 === 0) {
-        document.write('<nav class="navbar navbar-expand-sm navbar-light justify-content-center"><ul class="navbar-nav">')
-    }
 
+document.write('<nav class="navbar navbar-expand-sm navbar-light justify-content-center"><ul class="navbar-nav">')
+i = 0
+for (var a = 0; a < 9; a++) {
     if (year1[a][2]) {
         document.write('<li class="nav-item"><a class="nav-link disabled" href="#nav' + year1[a][0] + '">' + year1[a][1] + '</a></li>')
     } else {
         document.write('<li class="nav-item"><a class="nav-link" href="#nav' + year1[a][0] + '">' + year1[a][1] + '</a></li>')
     }
+    i++
+}
 
-    if (i % 10 === 9) {
-        document.write('</ul></nav>')
+
+document.write('<li class="nav-item"><a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">' +
+    '          Older' +
+    '        </a>')
+
+document.write('<div class="dropdown-menu" aria-labelledby="navbarDropdown">')
+for (var a = 9; a < year1.length; a++) {
+    if (year1[a][2]) {
+        document.write('<a class="dropdown-item disabled" href="#nav' + year1[a][0] + '">' + year1[a][1] + '</a>')
+    } else {
+        // document.write('<li class="nav-item"><a class="nav-link" href="#nav' + year1[a][0] + '">' + year1[a][1] + '</a></li>')
+        document.write('<a class="dropdown-item" href="#nav' + year1[a][0] + '">' + year1[a][1] + '</a>')
     }
     i++
 }
+document.write('</div></li>')
+document.write('</ul></nav>')
 document.write('</div></section>')

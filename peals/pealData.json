@@ -1,6 +1,71 @@
 [
     {
         "academic_year": "2022/23",
+        "date": "Sunday, 18 September 2022",
+        "location": "East Campus, University of York, North Yorkshire",
+        "weight": "",
+        "time": "8m",
+        "changes": "96",
+        "method": "Tolling",
+        "details": "",
+        "ringers": [],
+        "footnotes": [
+            "Rung at the Open Day"
+        ]
+    },
+    {
+        "academic_year": "2022/23",
+        "date": "Sunday, 18 September 2022",
+        "location": "Campus East Stall 10, University of York Open Day, ",
+        "weight": "",
+        "time": "1m",
+        "changes": "8",
+        "method": "Original Minimus",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Natasha A Williams (Alcuin)",
+                "bell": "1-2"
+            },
+            {
+                "name": "Jemima Bleackley (Halifax)",
+                "bell": "3-4"
+            }
+        ],
+        "footnotes": [
+            "Rung sprinting between the Bellringing Society table and the Conservative Society table.",
+            "First performance in hand for both"
+        ]
+    },
+    {
+        "academic_year": "2022/23",
+        "date": "Sunday, 18 September 2022",
+        "location": "Cathedral and Metropolitical Church of St Peter, York, North Yorkshire",
+        "weight": "216-2-22 in Eb",
+        "time": "32m",
+        "changes": "96",
+        "method": "Tolling Great Peter",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Alison L Edmonds",
+                "bell": ""
+            },
+            {
+                "name": "Megan Bucknall",
+                "bell": ""
+            },
+            {
+                "name": "William M Regan",
+                "bell": ""
+            }
+        ],
+        "footnotes": [
+            "At noon, marking the death of HM the Queen."
+        ]
+    },
+    {
+        "academic_year": "2022/23",
         "date": "Saturday, 17 September 2022",
         "location": "Cathedral and Metropolitical Church of St Peter, York, North Yorkshire",
         "weight": "216-2-22 in Eb",

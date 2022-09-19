@@ -6,9 +6,17 @@ import multiprocessing as mp
 import json
 import datetime
 
-class Performance:
-    def __init__(self, academic_year, date, location, weight, time, changes, method, details, ringers, footnotes):
+class PerformanceCount:
+    def __init__(self, academic_year, peals, quaters, other):
         self.academic_year = academic_year
+        self.peals = peals
+        self.quarters = quaters
+        self.other = other
+
+class Performance:
+    def __init__(self, academic_year, type, date, location, weight, time, changes, method, details, ringers, footnotes):
+        self.academic_year = academic_year
+        self.type = type
         self.date = date
         self.location = location
         self.weight = weight
@@ -41,7 +49,7 @@ def send_request(req):
 
 
 def get_ids():
-    data = send_request("/search.php?association_id=115&pagesize=20000")
+    data = send_request("/search.php?association_id=115&pagesize=2000")
     root = et.fromstring(data.decode("utf-8"))
     ids = []
 
@@ -135,7 +143,14 @@ def get_performance(perf_id):
     for f in fns:
         footnotes.append(get_child_node_data(f, "footnote", perf_id))
 
-    return Performance(academic_year, date, location, weight, time, changes, method, details, ringers, footnotes)
+    type = 2
+    if changes != '':
+        if int(changes) > 1200:
+            type = 1
+        if int(changes) > 5000:
+            type = 0
+
+    return Performance(academic_year, type, date, location, weight, time, changes, method, details, ringers, footnotes)
 
 
 def get_last_peal(all_perf):
@@ -149,8 +164,10 @@ def get_last_peal(all_perf):
 
 
 if __name__ == '__main__':
+    print("--Starting API Call for IDs--")
     all_ids = get_ids()
-    print("--Starting API Calls--")
+    print("--Ending API Call for IDs--")
+    print("--Starting API Calls for Performances--")
     with mp.Pool(mp.cpu_count()) as p:
         performances = p.map(get_performance, all_ids)
 
@@ -159,10 +176,6 @@ if __name__ == '__main__':
     print("--API calls complete--")
     print("" + str(len(performances)) + " recorded performances")
     print("Starting File Write")
-    jsonStr = json.dumps(performances, indent=4, cls=PerformanceEncoder)
-    f = open("peals/pealData.json", "w")
-    f.write(jsonStr)
-    f.close()
     get_last_peal(performances)
     f = open("peals/lastRinging.json", "w")
     if performances[0].date == performances[1].date:
@@ -177,4 +190,39 @@ if __name__ == '__main__':
     f = open("peals/lastEdit.json", "w")
     f.write("{\n    \"time\": \"" + currentTime.strftime("%d/%m/%Y at %X GMT") + "\"\n}")
     f.close()
+
+    performances.sort(key=lambda x: (x.academic_year, -x.type), reverse=True)
+    jsonStr = json.dumps(performances, indent=4, cls=PerformanceEncoder)
+    f = open("peals/pealData.json", "w")
+    f.write(jsonStr)
+    f.close()
+
+    ay = performances[0].academic_year
+    counts = []
+    p = 0
+    q = 0
+    o = 0
+    for perf in performances:
+        # print(perf.date)
+        #
+        # print(perf.type)
+        if perf.academic_year != ay:
+            counts.append(PerformanceCount(ay, p, q, o))
+            ay = perf.academic_year
+            p = 0
+            q = 0
+            o = 0
+
+        if perf.type == 0:
+            p += 1
+        if perf.type == 1:
+            q += 1
+        if perf.type == 2:
+            o += 1
+
+    jsonStr = json.dumps(counts, indent=4, cls=PerformanceEncoder)
+    f = open("peals/counts.json", "w")
+    f.write(jsonStr)
+    f.close()
+
     print("File Write Finished")

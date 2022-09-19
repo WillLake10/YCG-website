@@ -102,6 +102,17 @@ html {
     font-variant: small-caps;
 }
 
+.head_subtitle {
+    font-size: 25px;
+    font-variant: small-caps;
+}
+
+.counter {
+    font-size: 20px;
+    font-variant: small-caps;
+    text-align: center;
+}
+
 .text-ycgGreen {
     color: var(--ycgGreen);
 }

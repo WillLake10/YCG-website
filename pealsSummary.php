@@ -27,14 +27,14 @@ Author: Will Lake
                 </div>
             </div>
         </div>
-        <div class="row pt-3 text-center">
+        <div class="row pt-3 pl-2 pr-2 text-center">
             <p>This is a summary of all the ringing performed by members of YCG that is recorded on bellboard.</p>
         </div>
     </div>
 </section>
 
 <section id="pagetitle">
-    <div class="container pt-3">
+    <div class="container pt-3 pl-2 pr-2">
         <div class="row">
                 <table class="table table-striped table-bordered text-center">
                     <thead>

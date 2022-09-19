@@ -36,9 +36,9 @@ if (count($data) != 0) {
     echo "<div class=\"head_title text-ycgGreen\">$current_year</div>";
     echo "<div class=\"row\">";
 
-    echo "<div class=\"col-4 text-ycgGreen counter\"> Peals = $current_count->peals </div>";
-    echo "<div class=\"col-4 text-ycgGreen counter\"> Quaters = $current_count->quarters </div>";
-    echo "<div class=\"col-4 text-ycgGreen counter\"> Other = $current_count->other </div>";
+    echo "<div class=\"col-md-4 col-12 text-ycgGreen counter\"> Peals = $current_count->peals </div>";
+    echo "<div class=\"col-md-4 col-12 text-ycgGreen counter\"> Quaters = $current_count->quarters </div>";
+    echo "<div class=\"col-md-4 col-12 text-ycgGreen counter\"> Other = $current_count->other </div>";
 
     foreach ($data as $peal) {
         if ($peal->academic_year != $current_year) {
@@ -67,9 +67,9 @@ if (count($data) != 0) {
             $first_p = true;
             $first_q = true;
             $first_o = true;
-            echo "<div class=\"col-4 text-ycgGreen counter\"> Peals = $current_count->peals </div>";
-            echo "<div class=\"col-4 text-ycgGreen counter\"> Quaters = $current_count->quarters </div>";
-            echo "<div class=\"col-4 text-ycgGreen counter\"> Other = $current_count->other </div>";
+            echo "<div class=\"col-md-4 col-12 text-ycgGreen counter\"> Peals = $current_count->peals </div>";
+            echo "<div class=\"col-md-4 col-12 text-ycgGreen counter\"> Quarters = $current_count->quarters </div>";
+            echo "<div class=\"col-md-4 col-12 text-ycgGreen counter\"> Other = $current_count->other </div>";
         } else {
 
         }

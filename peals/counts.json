@@ -88,5 +88,185 @@
         "peals": 1,
         "quarters": 16,
         "other": 0
+    },
+    {
+        "academic_year": "2006/07",
+        "peals": 3,
+        "quarters": 47,
+        "other": 0
+    },
+    {
+        "academic_year": "2005/06",
+        "peals": 1,
+        "quarters": 54,
+        "other": 0
+    },
+    {
+        "academic_year": "2004/05",
+        "peals": 0,
+        "quarters": 12,
+        "other": 0
+    },
+    {
+        "academic_year": "2002/03",
+        "peals": 0,
+        "quarters": 1,
+        "other": 0
+    },
+    {
+        "academic_year": "2001/02",
+        "peals": 0,
+        "quarters": 7,
+        "other": 1
+    },
+    {
+        "academic_year": "2000/01",
+        "peals": 0,
+        "quarters": 8,
+        "other": 0
+    },
+    {
+        "academic_year": "1999/00",
+        "peals": 1,
+        "quarters": 9,
+        "other": 0
+    },
+    {
+        "academic_year": "1998/99",
+        "peals": 0,
+        "quarters": 16,
+        "other": 2
+    },
+    {
+        "academic_year": "1997/98",
+        "peals": 0,
+        "quarters": 10,
+        "other": 0
+    },
+    {
+        "academic_year": "1996/97",
+        "peals": 1,
+        "quarters": 20,
+        "other": 1
+    },
+    {
+        "academic_year": "1995/96",
+        "peals": 0,
+        "quarters": 4,
+        "other": 0
+    },
+    {
+        "academic_year": "1994/95",
+        "peals": 0,
+        "quarters": 6,
+        "other": 0
+    },
+    {
+        "academic_year": "1993/94",
+        "peals": 0,
+        "quarters": 6,
+        "other": 0
+    },
+    {
+        "academic_year": "1992/93",
+        "peals": 0,
+        "quarters": 10,
+        "other": 0
+    },
+    {
+        "academic_year": "1991/92",
+        "peals": 1,
+        "quarters": 15,
+        "other": 0
+    },
+    {
+        "academic_year": "1990/91",
+        "peals": 1,
+        "quarters": 11,
+        "other": 0
+    },
+    {
+        "academic_year": "1989/90",
+        "peals": 1,
+        "quarters": 7,
+        "other": 0
+    },
+    {
+        "academic_year": "1988/89",
+        "peals": 0,
+        "quarters": 3,
+        "other": 0
+    },
+    {
+        "academic_year": "1987/88",
+        "peals": 1,
+        "quarters": 1,
+        "other": 0
+    },
+    {
+        "academic_year": "1986/87",
+        "peals": 1,
+        "quarters": 1,
+        "other": 0
+    },
+    {
+        "academic_year": "1979/80",
+        "peals": 0,
+        "quarters": 1,
+        "other": 0
+    },
+    {
+        "academic_year": "1978/79",
+        "peals": 1,
+        "quarters": 3,
+        "other": 0
+    },
+    {
+        "academic_year": "1977/78",
+        "peals": 0,
+        "quarters": 4,
+        "other": 0
+    },
+    {
+        "academic_year": "1976/77",
+        "peals": 0,
+        "quarters": 4,
+        "other": 0
+    },
+    {
+        "academic_year": "1975/76",
+        "peals": 1,
+        "quarters": 0,
+        "other": 0
+    },
+    {
+        "academic_year": "1974/75",
+        "peals": 0,
+        "quarters": 4,
+        "other": 0
+    },
+    {
+        "academic_year": "1973/74",
+        "peals": 0,
+        "quarters": 6,
+        "other": 1
+    },
+    {
+        "academic_year": "1972/73",
+        "peals": 2,
+        "quarters": 2,
+        "other": 1
+    },
+    {
+        "academic_year": "1971/72",
+        "peals": 0,
+        "quarters": 2,
+        "other": 0
+    },
+    {
+        "academic_year": "1970/71",
+        "peals": 0,
+        "quarters": 6,
+        "other": 0
     }
 ]

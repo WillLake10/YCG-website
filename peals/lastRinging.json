@@ -1,24 +1,24 @@
 {
     "academic_year": "2022/23",
-    "date": "Sunday, 18 September 2022",
-    "location": "Campus East Stall 10, University of York Open Day, ",
-    "weight": "",
-    "time": "1m",
-    "changes": "8",
-    "method": "Original Minimus",
+    "type": 2,
+    "date": "Monday, 19 September 2022",
+    "location": "Cathedral and Metropolitical Church of St Peter, York, North Yorkshire",
+    "weight": "216-2-22 in Eb",
+    "time": "32m",
+    "changes": "96",
+    "method": "Tolling Great Peter",
     "details": "",
     "ringers": [
         {
-            "name": "Natasha A Williams (Alcuin)",
-            "bell": "1-2"
+            "name": "Rosemary S Hall",
+            "bell": ""
         },
         {
-            "name": "Jemima Bleackley (Halifax)",
-            "bell": "3-4"
+            "name": "William M Regan",
+            "bell": ""
         }
     ],
     "footnotes": [
-        "Rung sprinting between the Bellringing Society table and the Conservative Society table.",
-        "First performance in hand for both"
+        "At noon, on the day of the State Funeral of HM the Queen "
     ]
 }

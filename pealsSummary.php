@@ -36,8 +36,6 @@ Author: Will Lake
 <section id="pagetitle">
     <div class="container pt-3">
         <div class="row">
-            <div class="col-3"></div>
-            <div class="col-6">
                 <table class="table table-striped table-bordered text-center">
                     <thead>
                     <tr>
@@ -85,8 +83,6 @@ Author: Will Lake
                     ?>
                     </tbody>
                 </table>
-            </div>
-            <div class="col-3"></div>
         </div>
     </div>
 </section>

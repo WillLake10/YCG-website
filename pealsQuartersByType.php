@@ -21,10 +21,10 @@ Author: Will Lake
     <div class="container pt-3">
         <ul class="nav nav-tabs">
             <li class="nav-item">
-                <a class="nav-link active" aria-current="page" href="#">By Date</a>
+                <a class="nav-link" href="pealsQuarters.php#yearnav">By Date</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="pealsQuartersByType.php#yearnav">By Type</a>
+                <a class="nav-link active" aria-current="page" href="#">By Type</a>
             </li>
         </ul>
     </div>
@@ -32,7 +32,7 @@ Author: Will Lake
 
 <?php include('componants/recentPeals.php'); ?>
 
-<?php include('componants/peals.php'); ?>
+<?php include('componants/pealsByType.php'); ?>
 
 </body>
 </html>

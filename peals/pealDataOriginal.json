@@ -1,89 +1,6 @@
 [
     {
         "academic_year": "2022/23",
-        "type": 1,
-        "date": "Saturday, 17 September 2022",
-        "location": "Oratory Church of St Wilfrid, York, North Yorkshire",
-        "weight": "18-1-21 in F",
-        "time": "41m",
-        "changes": "1260",
-        "method": "Mixed Doubles (3m)",
-        "details": "600 St Martin\u2019s, 420 Plain Bob, 240 St Simon\u2019s",
-        "ringers": [
-            {
-                "name": "Joss Davis (Alcuin)",
-                "bell": "1"
-            },
-            {
-                "name": "Rosemary S Hall (Alcuin)",
-                "bell": "2"
-            },
-            {
-                "name": "Jemima Bleackley (Halifax)",
-                "bell": "3"
-            },
-            {
-                "name": "James D Austin (Derwent) (C)",
-                "bell": "4"
-            },
-            {
-                "name": "William M Regan (Friend)",
-                "bell": "5"
-            },
-            {
-                "name": "Natasha A Williams (Alcuin)",
-                "bell": "6"
-            }
-        ],
-        "footnotes": [
-            "In thanksgiving for the life of Her Majesty Queen Elizabeth II as part of the national period of mourning.",
-            "Fully muffled with the tenor open at backstroke."
-        ]
-    },
-    {
-        "academic_year": "2022/23",
-        "type": 1,
-        "date": "Thursday, 15 September 2022",
-        "location": "St Lawrence, York, North Yorkshire",
-        "weight": "7-3-24 in A",
-        "time": "42m",
-        "changes": "1260",
-        "method": "Doubles (3m)",
-        "details": "540 St Martin's Bob Doubles,\n360 St Simon's Bob Doubles,\n360 Plain Bob Doubles",
-        "ringers": [
-            {
-                "name": "Natasha A Williams (Alcuin)",
-                "bell": "1"
-            },
-            {
-                "name": "William J Lake (Langwith)",
-                "bell": "2"
-            },
-            {
-                "name": "William M Regan (Friend)",
-                "bell": "3"
-            },
-            {
-                "name": "Jemima Bleackley (Halifax)",
-                "bell": "4"
-            },
-            {
-                "name": "Rosemary S Hall (Alcuin) (C)",
-                "bell": "5"
-            },
-            {
-                "name": "Joss Davis (Alcuin)",
-                "bell": "6"
-            }
-        ],
-        "footnotes": [
-            "Half muffled in memoriam of Her Majesty Queen Elizabeth II.",
-            "First YCG quarter 3",
-            "First mixed 4"
-        ]
-    },
-    {
-        "academic_year": "2022/23",
         "type": 2,
         "date": "Monday, 19 September 2022",
         "location": "Cathedral and Metropolitical Church of St Peter, York, North Yorkshire",
@@ -200,6 +117,47 @@
     },
     {
         "academic_year": "2022/23",
+        "type": 1,
+        "date": "Saturday, 17 September 2022",
+        "location": "Oratory Church of St Wilfrid, York, North Yorkshire",
+        "weight": "18-1-21 in F",
+        "time": "41m",
+        "changes": "1260",
+        "method": "Mixed Doubles (3m)",
+        "details": "600 St Martin\u2019s, 420 Plain Bob, 240 St Simon\u2019s",
+        "ringers": [
+            {
+                "name": "Joss Davis (Alcuin)",
+                "bell": "1"
+            },
+            {
+                "name": "Rosemary S Hall (Alcuin)",
+                "bell": "2"
+            },
+            {
+                "name": "Jemima Bleackley (Halifax)",
+                "bell": "3"
+            },
+            {
+                "name": "James D Austin (Derwent) (C)",
+                "bell": "4"
+            },
+            {
+                "name": "William M Regan (Friend)",
+                "bell": "5"
+            },
+            {
+                "name": "Natasha A Williams (Alcuin)",
+                "bell": "6"
+            }
+        ],
+        "footnotes": [
+            "In thanksgiving for the life of Her Majesty Queen Elizabeth II as part of the national period of mourning.",
+            "Fully muffled with the tenor open at backstroke."
+        ]
+    },
+    {
+        "academic_year": "2022/23",
         "type": 2,
         "date": "Friday, 16 September 2022",
         "location": "Cathedral and Metropolitical Church of St Peter, York, North Yorkshire",
@@ -244,6 +202,48 @@
         ],
         "footnotes": [
             "At noon, marking the death of HM the Queen."
+        ]
+    },
+    {
+        "academic_year": "2022/23",
+        "type": 1,
+        "date": "Thursday, 15 September 2022",
+        "location": "St Lawrence, York, North Yorkshire",
+        "weight": "7-3-24 in A",
+        "time": "42m",
+        "changes": "1260",
+        "method": "Doubles (3m)",
+        "details": "540 St Martin's Bob Doubles,\n360 St Simon's Bob Doubles,\n360 Plain Bob Doubles",
+        "ringers": [
+            {
+                "name": "Natasha A Williams (Alcuin)",
+                "bell": "1"
+            },
+            {
+                "name": "William J Lake (Langwith)",
+                "bell": "2"
+            },
+            {
+                "name": "William M Regan (Friend)",
+                "bell": "3"
+            },
+            {
+                "name": "Jemima Bleackley (Halifax)",
+                "bell": "4"
+            },
+            {
+                "name": "Rosemary S Hall (Alcuin) (C)",
+                "bell": "5"
+            },
+            {
+                "name": "Joss Davis (Alcuin)",
+                "bell": "6"
+            }
+        ],
+        "footnotes": [
+            "Half muffled in memoriam of Her Majesty Queen Elizabeth II.",
+            "First YCG quarter 3",
+            "First mixed 4"
         ]
     },
     {
@@ -628,6 +628,50 @@
     },
     {
         "academic_year": "2021/22",
+        "type": 2,
+        "date": "Sunday, 05 June 2022",
+        "location": "St Lawrence, York, North Yorkshire",
+        "weight": "7-3-24 in A",
+        "time": "",
+        "changes": "",
+        "method": "General Ringing, Rounds and Methods",
+        "details": "Rounds and call changes, Reverse Bob Minor, Stedman Doubles, Treble Bob Minor",
+        "ringers": [
+            {
+                "name": "Floria Xu",
+                "bell": ""
+            },
+            {
+                "name": "James D Austin",
+                "bell": ""
+            },
+            {
+                "name": "Jemima Bleackley",
+                "bell": ""
+            },
+            {
+                "name": "Joss Davis",
+                "bell": ""
+            },
+            {
+                "name": "Natasha A Williams",
+                "bell": ""
+            },
+            {
+                "name": "Rebecca A Hall",
+                "bell": ""
+            },
+            {
+                "name": "Rosemary S Hall",
+                "bell": ""
+            }
+        ],
+        "footnotes": [
+            "Rung for the 70th Jubilee of Queen Elizabeth II"
+        ]
+    },
+    {
+        "academic_year": "2021/22",
         "type": 1,
         "date": "Saturday, 04 June 2022",
         "location": "St Olave, Marygate, York, North Yorkshire",
@@ -669,50 +713,6 @@
             "First tenor behind: 6",
             "First YCG quarter: 1, 2",
             "First YCG quarter on the bells in 7 years"
-        ]
-    },
-    {
-        "academic_year": "2021/22",
-        "type": 2,
-        "date": "Sunday, 05 June 2022",
-        "location": "St Lawrence, York, North Yorkshire",
-        "weight": "7-3-24 in A",
-        "time": "",
-        "changes": "",
-        "method": "General Ringing, Rounds and Methods",
-        "details": "Rounds and call changes, Reverse Bob Minor, Stedman Doubles, Treble Bob Minor",
-        "ringers": [
-            {
-                "name": "Floria Xu",
-                "bell": ""
-            },
-            {
-                "name": "James D Austin",
-                "bell": ""
-            },
-            {
-                "name": "Jemima Bleackley",
-                "bell": ""
-            },
-            {
-                "name": "Joss Davis",
-                "bell": ""
-            },
-            {
-                "name": "Natasha A Williams",
-                "bell": ""
-            },
-            {
-                "name": "Rebecca A Hall",
-                "bell": ""
-            },
-            {
-                "name": "Rosemary S Hall",
-                "bell": ""
-            }
-        ],
-        "footnotes": [
-            "Rung for the 70th Jubilee of Queen Elizabeth II"
         ]
     }
 ]

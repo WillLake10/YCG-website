@@ -1,5 +1,5 @@
 <?php
-$url = 'peals/pealDataOriginal.json';
+$url = 'peals/pealData.json';
 $data = file_get_contents($url);
 $data = json_decode($data);
 $url = 'peals/counts.json';
@@ -37,7 +37,7 @@ if (count($data) != 0) {
     echo "<div class=\"row\">";
 
     echo "<div class=\"col-md-4 col-12 text-ycgGreen counter\"> Peals = $current_count->peals </div>";
-    echo "<div class=\"col-md-4 col-12 text-ycgGreen counter\"> Quarters = $current_count->quarters </div>";
+    echo "<div class=\"col-md-4 col-12 text-ycgGreen counter\"> Quaters = $current_count->quarters </div>";
     echo "<div class=\"col-md-4 col-12 text-ycgGreen counter\"> Other = $current_count->other </div>";
 
     foreach ($data as $peal) {
@@ -70,6 +70,33 @@ if (count($data) != 0) {
             echo "<div class=\"col-md-4 col-12 text-ycgGreen counter\"> Peals = $current_count->peals </div>";
             echo "<div class=\"col-md-4 col-12 text-ycgGreen counter\"> Quarters = $current_count->quarters </div>";
             echo "<div class=\"col-md-4 col-12 text-ycgGreen counter\"> Other = $current_count->other </div>";
+        } else {
+
+        }
+
+        if ($peal->type === 0) {
+            if ($current_count->peals > 0 && $first_p) {
+                echo "</div>";
+                echo "<div class=\"head_subtitle text-ycgGreen\"> Peals </div>";
+                echo "<div class=\"row\">";
+                $first_p = false;
+            }
+        }
+        elseif ($peal->type === 1) {
+            if ($current_count->quarters > 0 && $first_q) {
+                echo "</div>";
+                echo "<div class=\"head_subtitle text-ycgGreen\"> Quarters </div>";
+                echo "<div class=\"row\">";
+                $first_q = false;
+            }
+        }
+        elseif ($peal->type === 2) {
+            if ($current_count->other > 0 && $first_o) {
+                echo "</div>";
+                echo "<div class=\"head_subtitle text-ycgGreen\"> Other </div>";
+                echo "<div class=\"row\">";
+                $first_o = false;
+            }
         }
 
         echo "<div class=\"col-md-6 pb-3\">";

@@ -49,7 +49,7 @@ def send_request(req):
 
 
 def get_ids():
-    data = send_request("/search.php?association_id=115&pagesize=20")
+    data = send_request("/search.php?association_id=115&pagesize=2000")
     root = et.fromstring(data.decode("utf-8"))
     ids = []
 

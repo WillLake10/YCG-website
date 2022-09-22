@@ -1,24 +1,44 @@
 {
     "academic_year": "2022/23",
-    "type": 2,
-    "date": "Monday, 19 September 2022",
-    "location": "Cathedral and Metropolitical Church of St Peter, York, North Yorkshire",
-    "weight": "216-2-22 in Eb",
-    "time": "32m",
-    "changes": "96",
-    "method": "Tolling Great Peter",
-    "details": "",
+    "type": 1,
+    "date": "Wednesday, 21 September 2022",
+    "location": "Oratory Church of St Wilfrid, York, North Yorkshire",
+    "weight": "6-0-6 in C",
+    "time": "39m",
+    "changes": "1260",
+    "method": "Minor (2m)",
+    "details": "720 St Clement's College Bob, 540 Plain Bob",
     "ringers": [
         {
-            "name": "Rosemary S Hall",
-            "bell": ""
+            "name": "Joss Davis (Alcuin)",
+            "bell": "1"
         },
         {
-            "name": "William M Regan",
-            "bell": ""
+            "name": "Natasha A Williams (Alcuin)",
+            "bell": "2"
+        },
+        {
+            "name": "James D Austin (Derwent)",
+            "bell": "3"
+        },
+        {
+            "name": "Rosemary S Hall (Alcuin)",
+            "bell": "4"
+        },
+        {
+            "name": "Jemima Bleackley (Halifax)",
+            "bell": "5"
+        },
+        {
+            "name": "William M Regan (Friend) (C)",
+            "bell": "6"
         }
     ],
     "footnotes": [
-        "At noon, on the day of the State Funeral of HM the Queen "
+        "Rung for the start of the new academic year.",
+        "Best wishes to Susan G Hall, mother of Rosemary.",
+        "First of Minor - 2",
+        "First blows of St Clements - 5.",
+        "Most methods - 2 and as Conductor."
     ]
 }

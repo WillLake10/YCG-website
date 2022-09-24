@@ -1,16 +1,16 @@
 {
     "academic_year": "2022/23",
     "type": 1,
-    "date": "Wednesday, 21 September 2022",
+    "date": "Friday, 23 September 2022",
     "location": "Oratory Church of St Wilfrid, York, North Yorkshire",
     "weight": "6-0-6 in C",
-    "time": "39m",
+    "time": "41m",
     "changes": "1260",
-    "method": "Minor (2m)",
-    "details": "720 St Clement's College Bob, 540 Plain Bob",
+    "method": "Grandsire Doubles",
+    "details": "",
     "ringers": [
         {
-            "name": "Joss Davis (Alcuin)",
+            "name": "Amber M Burrows (Anne Lister)",
             "bell": "1"
         },
         {
@@ -18,27 +18,25 @@
             "bell": "2"
         },
         {
-            "name": "James D Austin (Derwent)",
+            "name": "Megan Bucknall (Anne Lister)",
             "bell": "3"
         },
         {
-            "name": "Rosemary S Hall (Alcuin)",
+            "name": "William M Regan (Friend)",
             "bell": "4"
         },
         {
-            "name": "Jemima Bleackley (Halifax)",
+            "name": "Jemima Bleackley (Halifax) (C)",
             "bell": "5"
         },
         {
-            "name": "William M Regan (Friend) (C)",
+            "name": "Joss Davis (Alcuin)",
             "bell": "6"
         }
     ],
     "footnotes": [
-        "Rung for the start of the new academic year.",
-        "Best wishes to Susan G Hall, mother of Rosemary.",
-        "First of Minor - 2",
-        "First blows of St Clements - 5.",
-        "Most methods - 2 and as Conductor."
+        "Rung for the start of the new academic year, and to wish a happy birthday to Nicholas D Bucknall, father of the 3.",
+        "First in method - 2, 3.",
+        "Also dedicated to Amber's stomach and William's right knee."
     ]
 }

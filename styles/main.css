@@ -30,7 +30,7 @@ html {
 
 .pagetitle {
     line-height: 45px;
-    font-family: Sitka Heading;
+    font-family: Sitka Heading, serif;
     color: Black;
     font-size: 35pt;
     font-style: normal;
@@ -42,7 +42,7 @@ html {
 
 .pagesubtitle {
     line-height: 20px;
-    font-family: Sitka Heading;
+    font-family: Sitka Heading, serif;
     color: Black;
     font-size: 18pt;
     font-style: normal;
@@ -130,7 +130,7 @@ hr {
 
 .alert {
     line-height: 30px;
-    font-family: Sitka Heading;
+    font-family: Sitka Heading, serif;
     color: var(--ycgLRed);
     font-size: 30pt;
     font-style: normal;
@@ -142,7 +142,7 @@ hr {
 
 .alertText {
     line-height: 15px;
-    font-family: Sitka Heading;
+    font-family: Sitka Heading, serif;
     color: var(--ycgLRed);
     font-size: 15pt;
     font-style: normal;
@@ -150,4 +150,9 @@ hr {
     font-variant: small-caps;
     text-align: center;
     font-weight:normal
+}
+
+.head_img {
+    width: 100%;
+    height: auto;
 }

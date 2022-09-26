@@ -2,6 +2,92 @@
     {
         "academic_year": "2022/23",
         "type": 1,
+        "date": "Friday, 23 September 2022",
+        "location": "Oratory Church of St Wilfrid, York, North Yorkshire",
+        "weight": "6-0-6 in C",
+        "time": "41m",
+        "changes": "1260",
+        "method": "Grandsire Doubles",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Amber M Burrows (Anne Lister)",
+                "bell": "1"
+            },
+            {
+                "name": "Natasha A Williams (Alcuin)",
+                "bell": "2"
+            },
+            {
+                "name": "Megan Bucknall (Anne Lister)",
+                "bell": "3"
+            },
+            {
+                "name": "William M Regan (Friend)",
+                "bell": "4"
+            },
+            {
+                "name": "Jemima Bleackley (Halifax) (C)",
+                "bell": "5"
+            },
+            {
+                "name": "Joss Davis (Alcuin)",
+                "bell": "6"
+            }
+        ],
+        "footnotes": [
+            "Rung for the start of the new academic year, and to wish a happy birthday to Nicholas D Bucknall, father of the 3.",
+            "First in method - 2, 3.",
+            "Also dedicated to Amber's stomach and William's right knee."
+        ]
+    },
+    {
+        "academic_year": "2022/23",
+        "type": 1,
+        "date": "Wednesday, 21 September 2022",
+        "location": "Oratory Church of St Wilfrid, York, North Yorkshire",
+        "weight": "6-0-6 in C",
+        "time": "39m",
+        "changes": "1260",
+        "method": "Minor (2m)",
+        "details": "720 St Clement's College Bob, 540 Plain Bob",
+        "ringers": [
+            {
+                "name": "Joss Davis (Alcuin)",
+                "bell": "1"
+            },
+            {
+                "name": "Natasha A Williams (Alcuin)",
+                "bell": "2"
+            },
+            {
+                "name": "James D Austin (Derwent)",
+                "bell": "3"
+            },
+            {
+                "name": "Rosemary S Hall (Alcuin)",
+                "bell": "4"
+            },
+            {
+                "name": "Jemima Bleackley (Halifax)",
+                "bell": "5"
+            },
+            {
+                "name": "William M Regan (Friend) (C)",
+                "bell": "6"
+            }
+        ],
+        "footnotes": [
+            "Rung for the start of the new academic year.",
+            "Best wishes to Susan G Hall, mother of Rosemary.",
+            "First of Minor - 2",
+            "First blows of St Clements - 5.",
+            "Most methods - 2 and as Conductor."
+        ]
+    },
+    {
+        "academic_year": "2022/23",
+        "type": 1,
         "date": "Saturday, 17 September 2022",
         "location": "Oratory Church of St Wilfrid, York, North Yorkshire",
         "weight": "18-1-21 in F",
@@ -673,6 +759,215 @@
     },
     {
         "academic_year": "2021/22",
+        "type": 1,
+        "date": "Friday, 29 April 2022",
+        "location": "St Lawrence, York, North Yorkshire",
+        "weight": "7-3-24 in A",
+        "time": "51m",
+        "changes": "1440",
+        "method": "Cambridge Surprise Minor",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Kevin Atkinson (Alcuin)",
+                "bell": "1"
+            },
+            {
+                "name": "Jemima Bleackley (Halifax)",
+                "bell": "2"
+            },
+            {
+                "name": "Matthew O Hall (Vanbrugh)",
+                "bell": "3"
+            },
+            {
+                "name": "William L K Brooke (Alcuin)",
+                "bell": "4"
+            },
+            {
+                "name": "Rosemary S Hall (Alcuin)",
+                "bell": "5"
+            },
+            {
+                "name": "William Lake (Langwith) (C)",
+                "bell": "6"
+            }
+        ],
+        "footnotes": [
+            "Rung for the 80th anniversary of the Baedeker raid on York",
+            "First Suprise: 3",
+            "First Suprise as conductor: 6"
+        ]
+    },
+    {
+        "academic_year": "2021/22",
+        "type": 1,
+        "date": "Sunday, 20 March 2022",
+        "location": "St Lawrence, York, North Yorkshire",
+        "weight": "7-3-24 in A",
+        "time": "43m",
+        "changes": "1260",
+        "method": "Plain Bob Doubles",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Megan Bucknall",
+                "bell": "1"
+            },
+            {
+                "name": "Natasha A Williams",
+                "bell": "2"
+            },
+            {
+                "name": "Alison L Edmonds",
+                "bell": "3"
+            },
+            {
+                "name": "Matthew O Hall (C)",
+                "bell": "4"
+            },
+            {
+                "name": "David G Hull",
+                "bell": "5"
+            },
+            {
+                "name": "Amber M Burrows",
+                "bell": "6"
+            }
+        ],
+        "footnotes": [
+            "First Quarter 6",
+            "Rung in celebration of the end of Spring Term"
+        ]
+    },
+    {
+        "academic_year": "2021/22",
+        "type": 1,
+        "date": "Friday, 18 March 2022",
+        "location": "Oratory Church of St Wilfrid, York, North Yorkshire",
+        "weight": "6-0-6 in C",
+        "time": "45m",
+        "changes": "1260",
+        "method": "Plain Bob Minor",
+        "details": "",
+        "ringers": [
+            {
+                "name": "John J Bissell",
+                "bell": "1"
+            },
+            {
+                "name": "Jonathan R Galloway",
+                "bell": "2"
+            },
+            {
+                "name": "Patrick W J Deakin",
+                "bell": "3"
+            },
+            {
+                "name": "James D Austin",
+                "bell": "4"
+            },
+            {
+                "name": "Henry J W Pipe",
+                "bell": "5"
+            },
+            {
+                "name": "Matthew O Hall (C)",
+                "bell": "6"
+            }
+        ],
+        "footnotes": [
+            "First as conductor"
+        ]
+    },
+    {
+        "academic_year": "2021/22",
+        "type": 1,
+        "date": "Sunday, 27 February 2022",
+        "location": "Oratory Church of St Wilfrid, York, North Yorkshire",
+        "weight": "6-0-6 in F",
+        "time": "45m",
+        "changes": "1260",
+        "method": "Plain Bob Doubles",
+        "details": "",
+        "ringers": [
+            {
+                "name": "James D Austin (Derwent) (C)",
+                "bell": "1"
+            },
+            {
+                "name": "Megan Bucknall (Constantine)",
+                "bell": "2"
+            },
+            {
+                "name": "Jemima Bleackley (Halifax)",
+                "bell": "3"
+            },
+            {
+                "name": "Henry J W Pipe (Associate)",
+                "bell": "4"
+            },
+            {
+                "name": "Natasha A Williams (Alcuin)",
+                "bell": "5"
+            },
+            {
+                "name": "Matthew O Hall (Vanbrugh)",
+                "bell": "6"
+            }
+        ],
+        "footnotes": [
+            "First inside: 2, 5.",
+            "First YCG quarter for 4 and 5."
+        ]
+    },
+    {
+        "academic_year": "2021/22",
+        "type": 1,
+        "date": "Friday, 19 November 2021",
+        "location": "Spurriergate Centre, York, North Yorkshire",
+        "weight": "8-2-14 in A",
+        "time": "43m",
+        "changes": "1260",
+        "method": "Plain Bob Doubles",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Rosemary S Hall (Alcuin)",
+                "bell": "1"
+            },
+            {
+                "name": "Jemima Bleackley (Halifax)",
+                "bell": "2"
+            },
+            {
+                "name": "James D Austin (Derwent)",
+                "bell": "3"
+            },
+            {
+                "name": "Matthew O Hall (Vanbrugh)",
+                "bell": "4"
+            },
+            {
+                "name": "William Lake (Langwith) (C)",
+                "bell": "5"
+            },
+            {
+                "name": "Megan Bucknall (Constantine)",
+                "bell": "6"
+            }
+        ],
+        "footnotes": [
+            "Rung in anticipation of Bob the Badger's safe return from Nottingham",
+            "First quarter by all current members of YCG in over 3 years",
+            "First YCG quarter in 2 years",
+            "First YCG quarter: 2, 3, 4, 5, 6",
+            "First as conductor: 5",
+            "First tenor behind: 6"
+        ]
+    },
+    {
+        "academic_year": "2021/22",
         "type": 2,
         "date": "Sunday, 05 June 2022",
         "location": "St Lawrence, York, North Yorkshire",
@@ -713,6 +1008,1037 @@
         ],
         "footnotes": [
             "Rung for the 70th Jubilee of Queen Elizabeth II"
+        ]
+    },
+    {
+        "academic_year": "2021/22",
+        "type": 2,
+        "date": "Saturday, 05 March 2022",
+        "location": "Oratory Church of St Wilfrid, York, North Yorkshire",
+        "weight": "18-1-21 in F",
+        "time": "",
+        "changes": "",
+        "method": "Rounds and Call Changes, Plain Hunt Doubles",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Amber M Burrows",
+                "bell": ""
+            },
+            {
+                "name": "Jemima Bleackley",
+                "bell": ""
+            },
+            {
+                "name": "Joss Davis",
+                "bell": ""
+            },
+            {
+                "name": "Matthew O Hall",
+                "bell": ""
+            },
+            {
+                "name": "Megan Bucknall",
+                "bell": ""
+            },
+            {
+                "name": "Paula J Horton",
+                "bell": ""
+            },
+            {
+                "name": "Richard J Horton",
+                "bell": ""
+            },
+            {
+                "name": "Rosemary S Hall",
+                "bell": ""
+            },
+            {
+                "name": "Zoe Duffin",
+                "bell": ""
+            }
+        ],
+        "footnotes": [
+            "Rang for peace in Ukraine, alongside the peaceful gathering in York"
+        ]
+    },
+    {
+        "academic_year": "2019/20",
+        "type": 1,
+        "date": "Friday, 11 October 2019",
+        "location": "St Lawrence, York, North Yorkshire",
+        "weight": "7-3-24 in A",
+        "time": "40m",
+        "changes": "1250",
+        "method": "Yorkshire Surprise Major",
+        "details": "",
+        "ringers": [
+            {
+                "name": "David Denbigh (Langwith)",
+                "bell": "1"
+            },
+            {
+                "name": "Emma Coles (York College)",
+                "bell": "2"
+            },
+            {
+                "name": "Anna-Lena Bulgrin (Wentworth)",
+                "bell": "3"
+            },
+            {
+                "name": "Lucy Williamson (Alcuin)",
+                "bell": "4"
+            },
+            {
+                "name": "Rosemary S Hall (Alcuin) (C)",
+                "bell": "5"
+            },
+            {
+                "name": "Helen M Beaumont (Langwith)",
+                "bell": "6"
+            },
+            {
+                "name": "Susan G Hall (SUGCR)",
+                "bell": "7"
+            },
+            {
+                "name": "Eric Wolever (Wentworth)",
+                "bell": "8"
+            }
+        ],
+        "footnotes": [
+            "First as conductor - 5th",
+            "Birthday compliments to Sheila Ford, grandmother of 5th and mother of 7th",
+            "Birthday compliments to Jacob Blackwell "
+        ]
+    },
+    {
+        "academic_year": "2019/20",
+        "type": 2,
+        "date": "Saturday, 13 June 2020",
+        "location": ", Ringing Room, UK",
+        "weight": "",
+        "time": "6m",
+        "changes": "120",
+        "method": "Plain Bob Doubles",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Rebecca Hall",
+                "bell": "1"
+            },
+            {
+                "name": "William Lake",
+                "bell": "2"
+            },
+            {
+                "name": "Simon Cumming",
+                "bell": "3"
+            },
+            {
+                "name": "Huw Foden",
+                "bell": "4"
+            },
+            {
+                "name": "Rosemary S Hall (C)",
+                "bell": "5"
+            },
+            {
+                "name": "Tom M G McGonagle",
+                "bell": "6"
+            }
+        ],
+        "footnotes": [
+            "Rung by current members on the day that our 50th dinner day didn't happen",
+            "The band would like to associate Simon's internet connection with this performance"
+        ]
+    },
+    {
+        "academic_year": "2018/19",
+        "type": 1,
+        "date": "Friday, 14 June 2019",
+        "location": "St Lawrence, York, North Yorkshire",
+        "weight": "7-3-24 in A",
+        "time": "42m",
+        "changes": "1280",
+        "method": "Yorkshire Surprise Major",
+        "details": "",
+        "ringers": [
+            {
+                "name": "David Denbigh (Langwith)",
+                "bell": "1"
+            },
+            {
+                "name": "Claire Reading (Langwith)",
+                "bell": "2"
+            },
+            {
+                "name": "Anna-Lena Bulgrin (Wentworth)",
+                "bell": "3"
+            },
+            {
+                "name": "Lucy Williamson (Alcuin)",
+                "bell": "4"
+            },
+            {
+                "name": "William Brooke (Alcuin)",
+                "bell": "5"
+            },
+            {
+                "name": "Rosemary Hall (Alcuin)",
+                "bell": "6"
+            },
+            {
+                "name": "Emily E Hall (NUSCR)",
+                "bell": "7"
+            },
+            {
+                "name": "Eric Wolever (Wentworth) (C)",
+                "bell": "8"
+            }
+        ],
+        "footnotes": [
+            "3: First of Yorkshire",
+            "To mark the opening of the York Colleges Guild 49th annual Dinner Day.",
+            "Ryan Mills and his strenuous drive from Oxford would like to be associated with this performance. "
+        ]
+    },
+    {
+        "academic_year": "2018/19",
+        "type": 1,
+        "date": "Saturday, 16 March 2019",
+        "location": "St Lawrence, York, North Yorkshire",
+        "weight": "7-3-24 in A",
+        "time": "43m",
+        "changes": "1250",
+        "method": "Cambridge Surprise Major",
+        "details": "",
+        "ringers": [
+            {
+                "name": "David Denbigh (Langwith)",
+                "bell": "1"
+            },
+            {
+                "name": "Charlotte Elkington (Alcuin)",
+                "bell": "2"
+            },
+            {
+                "name": "Anna-Lena Bulgrin (Wentworth)",
+                "bell": "3"
+            },
+            {
+                "name": "Rosemary Hall (Alcuin)",
+                "bell": "4"
+            },
+            {
+                "name": "Lucy Williamson (Alcuin)",
+                "bell": "5"
+            },
+            {
+                "name": "William Brooke (Alcuin)",
+                "bell": "6"
+            },
+            {
+                "name": "Kevin Atkinson (Alcuin)",
+                "bell": "7"
+            },
+            {
+                "name": "Eric Wolever (Wentworth) (C)",
+                "bell": "8"
+            }
+        ],
+        "footnotes": [
+            "First of Surprise Major: 3.",
+            "A birthday compliment to Helen Hollocks, sister of 7.",
+            "Rung by a Sunday service band. "
+        ]
+    },
+    {
+        "academic_year": "2018/19",
+        "type": 1,
+        "date": "Saturday, 13 October 2018",
+        "location": "Spurriergate Centre, York, North Yorkshire",
+        "weight": "8-2-14 in A",
+        "time": "43m",
+        "changes": "1296",
+        "method": "Cambridge Surprise Minor",
+        "details": "",
+        "ringers": [
+            {
+                "name": "David Denbigh (Langwith)",
+                "bell": "1"
+            },
+            {
+                "name": "Anna-Lena Bulgrin (Wentworth)",
+                "bell": "2"
+            },
+            {
+                "name": "Claire Reading (Langwith)",
+                "bell": "3"
+            },
+            {
+                "name": "Rosemary Hall (Alcuin)",
+                "bell": "4"
+            },
+            {
+                "name": "William Brooke (Halifax)",
+                "bell": "5"
+            },
+            {
+                "name": "Eric Wolever (Wentworth) (C)",
+                "bell": "6"
+            }
+        ],
+        "footnotes": [
+            "2 : First of Surprise inside. "
+        ]
+    },
+    {
+        "academic_year": "2017/18",
+        "type": 1,
+        "date": "Thursday, 07 June 2018",
+        "location": "St Lawrence, York, North Yorkshire",
+        "weight": "7-3-24 in A",
+        "time": "39m",
+        "changes": "1260",
+        "method": "Plain Bob Doubles",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Holly Barrett",
+                "bell": "1"
+            },
+            {
+                "name": "Lucy Williamson",
+                "bell": "2"
+            },
+            {
+                "name": "Simon Cumming",
+                "bell": "3"
+            },
+            {
+                "name": "Claire Reading",
+                "bell": "4"
+            },
+            {
+                "name": "William Brooke (C)",
+                "bell": "5"
+            },
+            {
+                "name": "Claire Pearson",
+                "bell": "6"
+            }
+        ],
+        "footnotes": [
+            "First Treble: 1",
+            "Rung in celebration of the end of University exam season, and for Lucy, Claire P, Holly and Billy completing undergraduate degrees.",
+            "Also rung with YCG's best wishes to Andy Blacklock and Ellie Maude for their wedding."
+        ]
+    },
+    {
+        "academic_year": "2017/18",
+        "type": 1,
+        "date": "Saturday, 24 February 2018",
+        "location": "St Lawrence, York, North Yorkshire",
+        "weight": "7-3-24 in A",
+        "time": "40m",
+        "changes": "1250",
+        "method": "Cambridge Surprise Minor",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Caitlin Turpin",
+                "bell": "1"
+            },
+            {
+                "name": "Claire Reading",
+                "bell": "2"
+            },
+            {
+                "name": "Samuel Turner",
+                "bell": "3"
+            },
+            {
+                "name": "Lucy Williamson",
+                "bell": "4"
+            },
+            {
+                "name": "William L K Brooke",
+                "bell": "5"
+            },
+            {
+                "name": "Eric Wolever (C)",
+                "bell": "6"
+            }
+        ],
+        "footnotes": [
+            "Rung to celebrate Sam's visit to York and his ridiculous ringing progress since we last saw him! :D",
+            "First of treble bob and first of minor: 1."
+        ]
+    },
+    {
+        "academic_year": "2017/18",
+        "type": 1,
+        "date": "Saturday, 30 December 2017",
+        "location": "St Lawrence, York, North Yorkshire",
+        "weight": "7-3-24 in A",
+        "time": "39m",
+        "changes": "1260",
+        "method": "Surprise Minor",
+        "details": "540 Norwich S Minor, 720 Cambridge S Minor",
+        "ringers": [
+            {
+                "name": "Charlotte Alford",
+                "bell": "1"
+            },
+            {
+                "name": "Claire Pearson",
+                "bell": "2"
+            },
+            {
+                "name": "Claire Reading",
+                "bell": "3"
+            },
+            {
+                "name": "Eric Wolever",
+                "bell": "4"
+            },
+            {
+                "name": "Lucy Williamson",
+                "bell": "5"
+            },
+            {
+                "name": "Ryan Mills (C)",
+                "bell": "6"
+            }
+        ],
+        "footnotes": [
+            "To mark ten years and one day since Charlotte's first quarter peal.",
+            "First without a stay: 1",
+            "First Norwich S Minor: 2,3,4,5",
+            "Best of luck to those taking exams in January."
+        ]
+    },
+    {
+        "academic_year": "2017/18",
+        "type": 1,
+        "date": "Friday, 08 December 2017",
+        "location": "St Lawrence, York, ",
+        "weight": "",
+        "time": "42m",
+        "changes": "1320",
+        "method": "Cambridge Surprise Minor",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Anna-Lena Bulgrin",
+                "bell": "1"
+            },
+            {
+                "name": "William L K Brooke",
+                "bell": "2"
+            },
+            {
+                "name": "Claire E Reading",
+                "bell": "3"
+            },
+            {
+                "name": "Eric W S Wolever",
+                "bell": "4"
+            },
+            {
+                "name": "Claire L Pearson",
+                "bell": "5"
+            },
+            {
+                "name": "Lucy B J Williamson (C)",
+                "bell": "6"
+            }
+        ],
+        "footnotes": [
+            "First Treble Bob Hunt: 1",
+            "First Surprise Minor as conductor: 6"
+        ]
+    },
+    {
+        "academic_year": "2017/18",
+        "type": 1,
+        "date": "Wednesday, 29 November 2017",
+        "location": "St Lawrence, York, ",
+        "weight": "",
+        "time": "38m",
+        "changes": "1260",
+        "method": "Stedman Doubles",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Claire Reading",
+                "bell": "1"
+            },
+            {
+                "name": "Caitlin Turpin",
+                "bell": "2"
+            },
+            {
+                "name": "William L K Brooke",
+                "bell": "3"
+            },
+            {
+                "name": "Eric Wolever (C)",
+                "bell": "4"
+            },
+            {
+                "name": "Lucy Williamson",
+                "bell": "5"
+            },
+            {
+                "name": "Simon Cumming",
+                "bell": "6"
+            }
+        ],
+        "footnotes": [
+            "First Stedman inside: 2, 5",
+            "First Stedman Doubles: 1, 4",
+            "First tenor behind: 6"
+        ]
+    },
+    {
+        "academic_year": "2017/18",
+        "type": 1,
+        "date": "Wednesday, 29 November 2017",
+        "location": "St Lawrence, York, ",
+        "weight": "",
+        "time": "38m",
+        "changes": "1260",
+        "method": "Plain Bob Doubles",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Lucy Williamson",
+                "bell": "1"
+            },
+            {
+                "name": "Simon Cumming",
+                "bell": "2"
+            },
+            {
+                "name": "Claire Reading",
+                "bell": "3"
+            },
+            {
+                "name": "William L K Brooke",
+                "bell": "4"
+            },
+            {
+                "name": "Eric Wolever (C)",
+                "bell": "5"
+            },
+            {
+                "name": "Holly Barrett",
+                "bell": "6"
+            }
+        ],
+        "footnotes": [
+            "First of Bob Doubles inside: 2"
+        ]
+    },
+    {
+        "academic_year": "2016/17",
+        "type": 1,
+        "date": "Tuesday, 29 August 2017",
+        "location": "The Ascension, Rochester, New York",
+        "weight": "11-1-7 in G",
+        "time": "50m",
+        "changes": "1260",
+        "method": "Plain Bob Royal",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Claire L Pearson (Alcuin College)",
+                "bell": "1"
+            },
+            {
+                "name": "James A Sanderson (Huntington School 6th Form)",
+                "bell": "2"
+            },
+            {
+                "name": "Claire E Reading (Langwith College)",
+                "bell": "3"
+            },
+            {
+                "name": "Helen M Beaumont (Langwith College)",
+                "bell": "4"
+            },
+            {
+                "name": "Eric W S Wolever (Wentworth College)",
+                "bell": "5"
+            },
+            {
+                "name": "Nathan Cox (St Johns)",
+                "bell": "6"
+            },
+            {
+                "name": "Lucy B J Williamson (Alcuin College)",
+                "bell": "7"
+            },
+            {
+                "name": "Michael J Pollard (Vanbrugh College)",
+                "bell": "8"
+            },
+            {
+                "name": "David E Potter (St Johns)",
+                "bell": "9"
+            },
+            {
+                "name": "Simon A Percy (Alcuin College) (C)",
+                "bell": "10"
+            }
+        ],
+        "footnotes": [
+            "First quarter on 10 abroad for YCG! "
+        ]
+    },
+    {
+        "academic_year": "2016/17",
+        "type": 1,
+        "date": "Friday, 16 June 2017",
+        "location": "St Lawrence, York, ",
+        "weight": "",
+        "time": "43m",
+        "changes": "1320",
+        "method": "York Surprise Minor",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Claire Reading",
+                "bell": "1"
+            },
+            {
+                "name": "Ryan Mills",
+                "bell": "2"
+            },
+            {
+                "name": "Claire L Pearson",
+                "bell": "3"
+            },
+            {
+                "name": "William L K Brooke",
+                "bell": "4"
+            },
+            {
+                "name": "Lucy Williamson",
+                "bell": "5"
+            },
+            {
+                "name": "Eric Wolever (C)",
+                "bell": "6"
+            }
+        ],
+        "footnotes": [
+            "First treble bob hunt: 1",
+            "First blows in York: 3",
+            "First of York: 4",
+            "Rung to mark the commencement of the 47th York Colleges Guild Dinner Day.",
+            "Additionally,",
+            "Rung to celebrate the 1 year anniversary of Reading's trainers and the christening of Billy's new shoes (which look exactly the same as the old ones!).",
+            "And now, to the pub...."
+        ]
+    },
+    {
+        "academic_year": "2016/17",
+        "type": 1,
+        "date": "Thursday, 01 June 2017",
+        "location": ", York (St Lawrence), N Yorkshire",
+        "weight": "",
+        "time": "41m",
+        "changes": "1260",
+        "method": "Grandsire Doubles",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Samuel Turner",
+                "bell": "1"
+            },
+            {
+                "name": "Eric Wolever (C)",
+                "bell": "2"
+            },
+            {
+                "name": "Caitlin Turpin",
+                "bell": "3"
+            },
+            {
+                "name": "Claire Reading",
+                "bell": "4"
+            },
+            {
+                "name": "William Brooke",
+                "bell": "5"
+            },
+            {
+                "name": "Holly Barrett",
+                "bell": "6"
+            }
+        ],
+        "footnotes": [
+            "First quarter: 6",
+            "100th quarter: 2",
+            "First of Grandsire: 3",
+            "Rung to celebrate the end of exams!!",
+            "Birthday complements to June Kendall"
+        ]
+    },
+    {
+        "academic_year": "2016/17",
+        "type": 1,
+        "date": "Monday, 01 May 2017",
+        "location": "St Lawrence, York, North Yorkshire",
+        "weight": "7-3-24 in A",
+        "time": "39m",
+        "changes": "1260",
+        "method": "Grandsire Doubles",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Samuel Turner",
+                "bell": "1"
+            },
+            {
+                "name": "Anna-Lena Bulgrin",
+                "bell": "2"
+            },
+            {
+                "name": "Eric Wolever",
+                "bell": "3"
+            },
+            {
+                "name": "Nathan Cox",
+                "bell": "4"
+            },
+            {
+                "name": "William Brooke (C)",
+                "bell": "5"
+            },
+            {
+                "name": "Claire Reading",
+                "bell": "6"
+            }
+        ],
+        "footnotes": [
+            "First Grandsire inside: 2",
+            "First Grandsire conducted: 5"
+        ]
+    },
+    {
+        "academic_year": "2015/16",
+        "type": 0,
+        "date": "Friday, 03 June 2016",
+        "location": "St Lawrence, York, North Yorkshire",
+        "weight": "7-3-24 in A",
+        "time": "2h 56",
+        "changes": "5152",
+        "method": "Yorkshire Surprise Major",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Peter D Hughes (Superfan)",
+                "bell": "1"
+            },
+            {
+                "name": "Claire E Reading (Langwith)",
+                "bell": "2"
+            },
+            {
+                "name": "William L K Brooke (Halifax)",
+                "bell": "3"
+            },
+            {
+                "name": "Lucy Williamson (Alcuin)",
+                "bell": "4"
+            },
+            {
+                "name": "Claire L Pearson (Alcuin)",
+                "bell": "5"
+            },
+            {
+                "name": "Nathan C Cox (St John)",
+                "bell": "6"
+            },
+            {
+                "name": "Ryan Mills (Halifax) (C)",
+                "bell": "7"
+            },
+            {
+                "name": "Eric W S Wolever (Wentworth)",
+                "bell": "8"
+            }
+        ],
+        "footnotes": [
+            "Rung in anticipation of the 46th annual York Colleges Guild Dinner.",
+            "With many thanks to YCG superfan Peter Hughes for replacing Kevin Atkinson's right hand at the last minute!",
+            "First surprise: 2",
+            "First surprise inside: 4"
+        ]
+    },
+    {
+        "academic_year": "2015/16",
+        "type": 1,
+        "date": "Monday, 08 August 2016",
+        "location": "532 Norwich Road (The Vestey Ring), Ipswich, Suffolk",
+        "weight": "8 lbs 5 oz in B",
+        "time": "33m",
+        "changes": "1272",
+        "method": "Cambridge Surprise Minor",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Claire L Pearson",
+                "bell": "1"
+            },
+            {
+                "name": "Charlotte Alford",
+                "bell": "2"
+            },
+            {
+                "name": "Eric W S Wolever",
+                "bell": "3"
+            },
+            {
+                "name": "Claire E Reading",
+                "bell": "4"
+            },
+            {
+                "name": "Lucy B J Williamson",
+                "bell": "5"
+            },
+            {
+                "name": "Nathan C Cox (C)",
+                "bell": "6"
+            }
+        ],
+        "footnotes": [
+            "First on a mini ring: 1 (also longest stint on mini ring without accidentally ringing down!)",
+            "First in pyjamas for all.",
+            "With thanks to Billy Brooke for his background entertainment.",
+            "P.S. It works better when you're sober :P"
+        ]
+    },
+    {
+        "academic_year": "2015/16",
+        "type": 1,
+        "date": "Saturday, 06 August 2016",
+        "location": "532 Norwich Road (The Vestey Ring), Ipswich, Suffolk",
+        "weight": "8lbs 5oz in B",
+        "time": "37m",
+        "changes": "1272",
+        "method": "York Surprise Minor",
+        "details": "",
+        "ringers": [
+            {
+                "name": "William L K Brooke",
+                "bell": "1"
+            },
+            {
+                "name": "Nathan C Cox",
+                "bell": "2"
+            },
+            {
+                "name": "Ryan Mills",
+                "bell": "3"
+            },
+            {
+                "name": "Claire E Reading",
+                "bell": "4"
+            },
+            {
+                "name": "Lucy B J Williamson",
+                "bell": "5"
+            },
+            {
+                "name": "Eric W S Wolever (C)",
+                "bell": "6"
+            }
+        ],
+        "footnotes": [
+            "First on a mini ring: 1, 2, 3, 4",
+            "First outside for all",
+            "First in method: 4, 5, 6",
+            "75th Quarter Peal, 5th as conductor and first conducting surprise : 6",
+            "Fidget the Dog would like to be associated with this quarter for joining us on vocals on attempt number one and having to be shut inside for the rest of the duration!",
+            "Rung to mark our love of York, without which we would never all have met and to celebrate a much needed reunion weekend in Ipswich :) With many many thanks to Jonathan and Susan Williamson for their help and hospitality."
+        ]
+    },
+    {
+        "academic_year": "2015/16",
+        "type": 1,
+        "date": "Wednesday, 15 June 2016",
+        "location": "St Lawrence, York, ",
+        "weight": "",
+        "time": "41m",
+        "changes": "1280",
+        "method": "Spliced Minor",
+        "details": "York Colleges Guild Alliance Minor and Little Bob Minor",
+        "ringers": [
+            {
+                "name": "Claire Pearson",
+                "bell": "1"
+            },
+            {
+                "name": "Charlotte Alford",
+                "bell": "2"
+            },
+            {
+                "name": "Lucy Williamson",
+                "bell": "3"
+            },
+            {
+                "name": "Claire Reading",
+                "bell": "4"
+            },
+            {
+                "name": "Eric Wolever",
+                "bell": "5"
+            },
+            {
+                "name": "Nathan Cox (C)",
+                "bell": "6"
+            }
+        ],
+        "footnotes": [
+            "The serious bit...",
+            "First in method by all.",
+            "First of spliced minor: 3,4,6.",
+            "First spliced: 2.",
+            "With many thanks to David Hull, Don Morrison, Derek Jones and James Hibbert for their assistance with the composition.",
+            "The funny bit...",
+            "Least appropriately dressed and first in a skirt: 1.",
+            "Rung for the first wearing of her new shoes: 4.",
+            "The band would like to associate William L K Brooke with this quarter peal who listened diligently to the whole thing from the church yard :)",
+            "Rung to celebrate the end of term and to prove to Ryan Mills that we can do cool stuff without him #shotsfired #bellringing #topbants #endofterm #YOLO #archbishopofbanterbury #bantelopeatthewateringhole"
+        ]
+    },
+    {
+        "academic_year": "2015/16",
+        "type": 1,
+        "date": "Tuesday, 07 June 2016",
+        "location": "St Lawrence, York, North Yorkshire",
+        "weight": "",
+        "time": "46m",
+        "changes": "1260",
+        "method": "Plain Bob Doubles",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Sam Turner",
+                "bell": "1"
+            },
+            {
+                "name": "William Brooke (C)",
+                "bell": "2"
+            },
+            {
+                "name": "Charlotte Alford (C)",
+                "bell": "3"
+            },
+            {
+                "name": "Claire Reading (C)",
+                "bell": "4"
+            },
+            {
+                "name": "Lucy Williamson (C)",
+                "bell": "5"
+            },
+            {
+                "name": "Stephen Webb",
+                "bell": "6"
+            }
+        ],
+        "footnotes": [
+            "First quarter peal away from cover - 1",
+            "First as joint conductor - 2"
+        ]
+    },
+    {
+        "academic_year": "2015/16",
+        "type": 1,
+        "date": "Tuesday, 07 June 2016",
+        "location": "St Lawrence, York, North Yorkshire",
+        "weight": "",
+        "time": "41m",
+        "changes": "1260",
+        "method": "Plain Bob Doubles",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Claire Reading",
+                "bell": "1"
+            },
+            {
+                "name": "Caitlin Turpin",
+                "bell": "2"
+            },
+            {
+                "name": "William Brooke (C)",
+                "bell": "3"
+            },
+            {
+                "name": "Eric Wolever",
+                "bell": "4"
+            },
+            {
+                "name": "Nathan Cox",
+                "bell": "5"
+            },
+            {
+                "name": "Benedikt Lehmann",
+                "bell": "6"
+            }
+        ],
+        "footnotes": [
+            "First inside - 2",
+            "Rung in association with Reading's dress and the CO2 fire extinguisher"
+        ]
+    },
+    {
+        "academic_year": "2015/16",
+        "type": 1,
+        "date": "Saturday, 28 May 2016",
+        "location": "St Lawrence, York, ",
+        "weight": "",
+        "time": "42m",
+        "changes": "1260",
+        "method": "Plain Bob Doubles",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Ben Williamson",
+                "bell": "1"
+            },
+            {
+                "name": "Lucy Williamson",
+                "bell": "2"
+            },
+            {
+                "name": "William Brooke",
+                "bell": "3"
+            },
+            {
+                "name": "Claire Pearson",
+                "bell": "4"
+            },
+            {
+                "name": "Eric Wolever (C)",
+                "bell": "5"
+            },
+            {
+                "name": "Samuel Turner",
+                "bell": "6"
+            }
+        ],
+        "footnotes": [
+            "1: First on the Treble",
+            "6: First Quarter Peal",
+            "1 & 2: First together without the Parents :P"
         ]
     }
 ]

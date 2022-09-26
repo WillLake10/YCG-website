@@ -2,7 +2,37 @@
     {
         "academic_year": "2022/23",
         "peals": 0,
-        "quarters": 2,
+        "quarters": 4,
         "other": 11
+    },
+    {
+        "academic_year": "2021/22",
+        "peals": 0,
+        "quarters": 12,
+        "other": 2
+    },
+    {
+        "academic_year": "2019/20",
+        "peals": 0,
+        "quarters": 1,
+        "other": 1
+    },
+    {
+        "academic_year": "2018/19",
+        "peals": 0,
+        "quarters": 3,
+        "other": 0
+    },
+    {
+        "academic_year": "2017/18",
+        "peals": 0,
+        "quarters": 6,
+        "other": 0
+    },
+    {
+        "academic_year": "2016/17",
+        "peals": 0,
+        "quarters": 4,
+        "other": 0
     }
 ]

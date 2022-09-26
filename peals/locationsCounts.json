@@ -1,0 +1,180 @@
+[
+    {
+        "academic_year": "2022/23",
+        "tower": [
+            {
+                "tower": "York (Cathedral and Metropolitical Church of St Peter), North Yorkshire",
+                "peals": 0,
+                "quarters": 0,
+                "other": 8,
+                "total": 8
+            },
+            {
+                "tower": "York (Oratory Church of St Wilfrid), North Yorkshire",
+                "peals": 0,
+                "quarters": 3,
+                "other": 0,
+                "total": 3
+            },
+            {
+                "tower": "York (St Lawrence), North Yorkshire",
+                "peals": 0,
+                "quarters": 1,
+                "other": 1,
+                "total": 2
+            },
+            {
+                "tower": "University of York (East Campus), North Yorkshire",
+                "peals": 0,
+                "quarters": 0,
+                "other": 2,
+                "total": 2
+            }
+        ],
+        "summary": {
+            "peals": 0,
+            "quarters": 4,
+            "other": 11,
+            "total": 15
+        }
+    },
+    {
+        "academic_year": "2021/22",
+        "tower": [
+            {
+                "tower": "York (St Lawrence), North Yorkshire",
+                "peals": 0,
+                "quarters": 5,
+                "other": 1,
+                "total": 6
+            },
+            {
+                "tower": "York (Oratory Church of St Wilfrid), North Yorkshire",
+                "peals": 0,
+                "quarters": 4,
+                "other": 1,
+                "total": 5
+            },
+            {
+                "tower": "York (St Olave, Marygate), North Yorkshire",
+                "peals": 0,
+                "quarters": 1,
+                "other": 0,
+                "total": 1
+            },
+            {
+                "tower": "York (Spurriergate Centre), North Yorkshire",
+                "peals": 0,
+                "quarters": 1,
+                "other": 0,
+                "total": 1
+            },
+            {
+                "tower": "York (All Saints, North Street), North Yorkshire",
+                "peals": 0,
+                "quarters": 1,
+                "other": 0,
+                "total": 1
+            }
+        ],
+        "summary": {
+            "peals": 0,
+            "quarters": 12,
+            "other": 2,
+            "total": 14
+        }
+    },
+    {
+        "academic_year": "2019/20",
+        "tower": [
+            {
+                "tower": "York (St Lawrence), North Yorkshire",
+                "peals": 0,
+                "quarters": 1,
+                "other": 0,
+                "total": 1
+            },
+            {
+                "tower": "Ringing Room, UK",
+                "peals": 0,
+                "quarters": 0,
+                "other": 1,
+                "total": 1
+            }
+        ],
+        "summary": {
+            "peals": 0,
+            "quarters": 1,
+            "other": 1,
+            "total": 2
+        }
+    },
+    {
+        "academic_year": "2018/19",
+        "tower": [
+            {
+                "tower": "York (St Lawrence), North Yorkshire",
+                "peals": 0,
+                "quarters": 2,
+                "other": 0,
+                "total": 2
+            },
+            {
+                "tower": "York (Spurriergate Centre), North Yorkshire",
+                "peals": 0,
+                "quarters": 1,
+                "other": 0,
+                "total": 1
+            }
+        ],
+        "summary": {
+            "peals": 0,
+            "quarters": 3,
+            "other": 0,
+            "total": 3
+        }
+    },
+    {
+        "academic_year": "2017/18",
+        "tower": [
+            {
+                "tower": "York (St Lawrence), North Yorkshire",
+                "peals": 0,
+                "quarters": 6,
+                "other": 0,
+                "total": 6
+            }
+        ],
+        "summary": {
+            "peals": 0,
+            "quarters": 6,
+            "other": 0,
+            "total": 6
+        }
+    },
+    {
+        "academic_year": "2016/17",
+        "tower": [
+            {
+                "tower": "York (St Lawrence), North Yorkshire",
+                "peals": 0,
+                "quarters": 3,
+                "other": 0,
+                "total": 3
+            },
+            {
+                "tower": "Rochester (The Ascension), New York",
+                "peals": 0,
+                "quarters": 1,
+                "other": 0,
+                "total": 1
+            }
+        ],
+        "summary": {
+            "peals": 0,
+            "quarters": 4,
+            "other": 0,
+            "total": 4
+        }
+    }
+]

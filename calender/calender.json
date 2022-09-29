@@ -1,30 +1,6 @@
 [
     {
         "s_date": {
-            "day": "28",
-            "month": "September",
-            "year": "2022",
-            "time": "19:00",
-            "weekday": "Wednesday",
-            "full": "19:00, Wednesday 28 September"
-        },
-        "e_date": {
-            "day": "28",
-            "month": "September",
-            "year": "2022",
-            "time": "20:30",
-            "weekday": "Wednesday",
-            "full": "20:30, Wednesday 28 September"
-        },
-        "title": "St Olave's Ringing Practice",
-        "location": "St Olave's Church York, 8 Marygate Ln",
-        "description": "St Olave's Monthly Ringing Practice",
-        "social": false,
-        "practice": false,
-        "allDay": false
-    },
-    {
-        "s_date": {
             "day": "29",
             "month": "September",
             "year": "2022",

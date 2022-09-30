@@ -2,6 +2,47 @@
     {
         "academic_year": "2022/23",
         "type": 1,
+        "date": "Thursday, 29 September 2022",
+        "location": "St Lawrence, York, North Yorkshire",
+        "weight": "7-3-24 in A",
+        "time": "40m",
+        "changes": "1260",
+        "method": "Plain Bob Doubles",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Peter D Hughes (Friend)",
+                "bell": "1"
+            },
+            {
+                "name": "Natasha A Williams (Alcuin)",
+                "bell": "2"
+            },
+            {
+                "name": "William L K Brooke (Wentworth)",
+                "bell": "3"
+            },
+            {
+                "name": "Joss Davis (Alcuin)",
+                "bell": "4"
+            },
+            {
+                "name": "William Lake (Langwith) (C)",
+                "bell": "5"
+            },
+            {
+                "name": "Amber M Burrows (Anne Lister)",
+                "bell": "6"
+            }
+        ],
+        "footnotes": [
+            "First quarter inside: 4",
+            "Rung in anticipation of a swarm of freshers"
+        ]
+    },
+    {
+        "academic_year": "2022/23",
+        "type": 1,
         "date": "Friday, 23 September 2022",
         "location": "Oratory Church of St Wilfrid, York, North Yorkshire",
         "weight": "6-0-6 in C",
@@ -1997,48 +2038,6 @@
             "With many thanks to YCG superfan Peter Hughes for replacing Kevin Atkinson's right hand at the last minute!",
             "First surprise: 2",
             "First surprise inside: 4"
-        ]
-    },
-    {
-        "academic_year": "2015/16",
-        "type": 1,
-        "date": "Saturday, 28 May 2016",
-        "location": "St Lawrence, York, ",
-        "weight": "",
-        "time": "42m",
-        "changes": "1260",
-        "method": "Plain Bob Doubles",
-        "details": "",
-        "ringers": [
-            {
-                "name": "Ben Williamson",
-                "bell": "1"
-            },
-            {
-                "name": "Lucy Williamson",
-                "bell": "2"
-            },
-            {
-                "name": "William Brooke",
-                "bell": "3"
-            },
-            {
-                "name": "Claire Pearson",
-                "bell": "4"
-            },
-            {
-                "name": "Eric Wolever (C)",
-                "bell": "5"
-            },
-            {
-                "name": "Samuel Turner",
-                "bell": "6"
-            }
-        ],
-        "footnotes": [
-            "1: First on the Treble",
-            "6: First Quarter Peal",
-            "1 & 2: First together without the Parents :P"
         ]
     }
 ]

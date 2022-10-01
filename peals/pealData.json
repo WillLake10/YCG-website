@@ -2,6 +2,100 @@
     {
         "academic_year": "2022/23",
         "type": 1,
+        "date": "Friday, 30 September 2022",
+        "location": "Oratory Church of St Wilfrid, York, North Yorkshire",
+        "weight": "18-1-21 in F",
+        "time": "48m",
+        "changes": "1288",
+        "method": "Grandsire Triples",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Rosemary S Hall (Alcuin)",
+                "bell": "1"
+            },
+            {
+                "name": "Natasha A Williams (Alcuin)",
+                "bell": "2"
+            },
+            {
+                "name": "Ewan G A Hull (Associate)",
+                "bell": "3"
+            },
+            {
+                "name": "Matthew O Hall (Vanbrugh)",
+                "bell": "4"
+            },
+            {
+                "name": "William Lake (Langwith)",
+                "bell": "5"
+            },
+            {
+                "name": "Jemima Bleackley (Halifax) (C)",
+                "bell": "6"
+            },
+            {
+                "name": "William M Regan (Friend)",
+                "bell": "7"
+            },
+            {
+                "name": "Amber M Burrows (Anne Lister)",
+                "bell": "8"
+            }
+        ],
+        "footnotes": [
+            "Rung on the eve of the Freshers' Fair",
+            "First of Grandsire triples: 2",
+            "First of triples as conductor: 6",
+            "First YCG quarter: 3",
+            "Dedicated to \"nothing being wrong with William M Regan's knee\" and to the lack of buses for Amber",
+            "\"Zing!\" -Ewan G A Hull"
+        ]
+    },
+    {
+        "academic_year": "2022/23",
+        "type": 1,
+        "date": "Thursday, 29 September 2022",
+        "location": "St Lawrence, York, North Yorkshire",
+        "weight": "7-3-24 in A",
+        "time": "40m",
+        "changes": "1260",
+        "method": "Plain Bob Doubles",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Peter D Hughes (Friend)",
+                "bell": "1"
+            },
+            {
+                "name": "Natasha A Williams (Alcuin)",
+                "bell": "2"
+            },
+            {
+                "name": "William L K Brooke (Wentworth)",
+                "bell": "3"
+            },
+            {
+                "name": "Joss Davis (Alcuin)",
+                "bell": "4"
+            },
+            {
+                "name": "William Lake (Langwith) (C)",
+                "bell": "5"
+            },
+            {
+                "name": "Amber M Burrows (Anne Lister)",
+                "bell": "6"
+            }
+        ],
+        "footnotes": [
+            "First quarter inside: 4",
+            "Rung in anticipation of a swarm of freshers"
+        ]
+    },
+    {
+        "academic_year": "2022/23",
+        "type": 1,
         "date": "Friday, 23 September 2022",
         "location": "Oratory Church of St Wilfrid, York, North Yorkshire",
         "weight": "6-0-6 in C",
@@ -1731,57 +1825,6 @@
     },
     {
         "academic_year": "2015/16",
-        "type": 0,
-        "date": "Friday, 03 June 2016",
-        "location": "St Lawrence, York, North Yorkshire",
-        "weight": "7-3-24 in A",
-        "time": "2h 56",
-        "changes": "5152",
-        "method": "Yorkshire Surprise Major",
-        "details": "",
-        "ringers": [
-            {
-                "name": "Peter D Hughes (Superfan)",
-                "bell": "1"
-            },
-            {
-                "name": "Claire E Reading (Langwith)",
-                "bell": "2"
-            },
-            {
-                "name": "William L K Brooke (Halifax)",
-                "bell": "3"
-            },
-            {
-                "name": "Lucy Williamson (Alcuin)",
-                "bell": "4"
-            },
-            {
-                "name": "Claire L Pearson (Alcuin)",
-                "bell": "5"
-            },
-            {
-                "name": "Nathan C Cox (St John)",
-                "bell": "6"
-            },
-            {
-                "name": "Ryan Mills (Halifax) (C)",
-                "bell": "7"
-            },
-            {
-                "name": "Eric W S Wolever (Wentworth)",
-                "bell": "8"
-            }
-        ],
-        "footnotes": [
-            "Rung in anticipation of the 46th annual York Colleges Guild Dinner.",
-            "With many thanks to YCG superfan Peter Hughes for replacing Kevin Atkinson's right hand at the last minute!",
-            "First surprise: 2",
-            "First surprise inside: 4"
-        ]
-    },
-    {
-        "academic_year": "2015/16",
         "type": 1,
         "date": "Monday, 08 August 2016",
         "location": "532 Norwich Road (The Vestey Ring), Ipswich, Suffolk",
@@ -1997,48 +2040,6 @@
         "footnotes": [
             "First inside - 2",
             "Rung in association with Reading's dress and the CO2 fire extinguisher"
-        ]
-    },
-    {
-        "academic_year": "2015/16",
-        "type": 1,
-        "date": "Saturday, 28 May 2016",
-        "location": "St Lawrence, York, ",
-        "weight": "",
-        "time": "42m",
-        "changes": "1260",
-        "method": "Plain Bob Doubles",
-        "details": "",
-        "ringers": [
-            {
-                "name": "Ben Williamson",
-                "bell": "1"
-            },
-            {
-                "name": "Lucy Williamson",
-                "bell": "2"
-            },
-            {
-                "name": "William Brooke",
-                "bell": "3"
-            },
-            {
-                "name": "Claire Pearson",
-                "bell": "4"
-            },
-            {
-                "name": "Eric Wolever (C)",
-                "bell": "5"
-            },
-            {
-                "name": "Samuel Turner",
-                "bell": "6"
-            }
-        ],
-        "footnotes": [
-            "1: First on the Treble",
-            "6: First Quarter Peal",
-            "1 & 2: First together without the Parents :P"
         ]
     }
 ]

@@ -1,16 +1,16 @@
 {
     "academic_year": "2022/23",
     "type": 1,
-    "date": "Friday, 23 September 2022",
+    "date": "Friday, 30 September 2022",
     "location": "Oratory Church of St Wilfrid, York, North Yorkshire",
-    "weight": "6-0-6 in C",
-    "time": "41m",
-    "changes": "1260",
-    "method": "Grandsire Doubles",
+    "weight": "18-1-21 in F",
+    "time": "48m",
+    "changes": "1288",
+    "method": "Grandsire Triples",
     "details": "",
     "ringers": [
         {
-            "name": "Amber M Burrows (Anne Lister)",
+            "name": "Rosemary S Hall (Alcuin)",
             "bell": "1"
         },
         {
@@ -18,25 +18,36 @@
             "bell": "2"
         },
         {
-            "name": "Megan Bucknall (Anne Lister)",
+            "name": "Ewan G A Hull (Associate)",
             "bell": "3"
         },
         {
-            "name": "William M Regan (Friend)",
+            "name": "Matthew O Hall (Vanbrugh)",
             "bell": "4"
         },
         {
-            "name": "Jemima Bleackley (Halifax) (C)",
+            "name": "William Lake (Langwith)",
             "bell": "5"
         },
         {
-            "name": "Joss Davis (Alcuin)",
+            "name": "Jemima Bleackley (Halifax) (C)",
             "bell": "6"
+        },
+        {
+            "name": "William M Regan (Friend)",
+            "bell": "7"
+        },
+        {
+            "name": "Amber M Burrows (Anne Lister)",
+            "bell": "8"
         }
     ],
     "footnotes": [
-        "Rung for the start of the new academic year, and to wish a happy birthday to Nicholas D Bucknall, father of the 3.",
-        "First in method - 2, 3.",
-        "Also dedicated to Amber's stomach and William's right knee."
+        "Rung on the eve of the Freshers' Fair",
+        "First of Grandsire triples: 2",
+        "First of triples as conductor: 6",
+        "First YCG quarter: 3",
+        "Dedicated to \"nothing being wrong with William M Regan's knee\" and to the lack of buses for Amber",
+        "\"Zing!\" -Ewan G A Hull"
     ]
 }

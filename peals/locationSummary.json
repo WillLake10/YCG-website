@@ -2,24 +2,122 @@
     "tower": [
         {
             "tower": "York (St Lawrence), North Yorkshire",
-            "peals": 0,
-            "quarters": 21,
+            "peals": 5,
+            "quarters": 128,
             "other": 1,
-            "total": 22
+            "total": 134
+        },
+        {
+            "tower": "York (St Martin le Grand, Coney Street), North Yorkshire",
+            "peals": 1,
+            "quarters": 38,
+            "other": 1,
+            "total": 40
+        },
+        {
+            "tower": "York (St Olave, Marygate), North Yorkshire",
+            "peals": 1,
+            "quarters": 13,
+            "other": 0,
+            "total": 14
         },
         {
             "tower": "York (Oratory Church of St Wilfrid), North Yorkshire",
-            "peals": 0,
-            "quarters": 8,
-            "other": 1,
-            "total": 9
+            "peals": 2,
+            "quarters": 9,
+            "other": 0,
+            "total": 11
         },
         {
-            "tower": "York (Cathedral and Metropolitical Church of St Peter), North Yorkshire",
+            "tower": "Huntington (All Saints), North Yorkshire",
             "peals": 0,
-            "quarters": 0,
-            "other": 8,
-            "total": 8
+            "quarters": 7,
+            "other": 0,
+            "total": 7
+        },
+        {
+            "tower": "Acomb (St Stephen), North Yorkshire",
+            "peals": 0,
+            "quarters": 6,
+            "other": 0,
+            "total": 6
+        },
+        {
+            "tower": "York (Spurriergate Centre), North Yorkshire",
+            "peals": 0,
+            "quarters": 6,
+            "other": 0,
+            "total": 6
+        },
+        {
+            "tower": "York (All Saints, North Street), North Yorkshire",
+            "peals": 0,
+            "quarters": 5,
+            "other": 0,
+            "total": 5
+        },
+        {
+            "tower": "York (St Andrew, Bishopthorpe), North Yorkshire",
+            "peals": 0,
+            "quarters": 5,
+            "other": 0,
+            "total": 5
+        },
+        {
+            "tower": "York (St Philip and St James, Clifton), North Yorkshire",
+            "peals": 0,
+            "quarters": 4,
+            "other": 1,
+            "total": 5
+        },
+        {
+            "tower": "Stockton-on-the-Forest (Holy Trinity), North Yorkshire",
+            "peals": 0,
+            "quarters": 4,
+            "other": 0,
+            "total": 4
+        },
+        {
+            "tower": "Bedale (St Gregory), North Yorkshire",
+            "peals": 0,
+            "quarters": 3,
+            "other": 0,
+            "total": 3
+        },
+        {
+            "tower": "Nunburnholme (St James), East Riding of Yorkshire",
+            "peals": 1,
+            "quarters": 2,
+            "other": 0,
+            "total": 3
+        },
+        {
+            "tower": "Strensall (St Mary the Virgin), North Yorkshire",
+            "peals": 0,
+            "quarters": 3,
+            "other": 0,
+            "total": 3
+        },
+        {
+            "tower": "Barnoldswick (St Mary le Ghyll), Lancashire",
+            "peals": 0,
+            "quarters": 2,
+            "other": 0,
+            "total": 2
+        },
+        {
+            "tower": "Baskerville House (Lichfield Diocesan Mobile Belfry), Staffordshire",
+            "peals": 0,
+            "quarters": 2,
+            "other": 0,
+            "total": 2
+        },
+        {
+            "tower": "Broughton in Craven (All Saints), North Yorkshire",
+            "peals": 0,
+            "quarters": 2,
+            "other": 0,
+            "total": 2
         },
         {
             "tower": "Ipswich (532 Norwich Road (The Vestey Ring)), Suffolk",
@@ -36,45 +134,269 @@
             "total": 2
         },
         {
-            "tower": "York (Spurriergate Centre), North Yorkshire",
+            "tower": "York (Ringing Chamber, Cathedral and Metropolitical Church of St Peter), North Yorkshire",
             "peals": 0,
             "quarters": 2,
             "other": 0,
             "total": 2
         },
         {
-            "tower": ", Ringing Room, UK",
-            "peals": 0,
-            "quarters": 0,
-            "other": 1,
-            "total": 1
-        },
-        {
-            "tower": "York (All Saints, North Street), North Yorkshire",
+            "tower": ", Richmond, North Yorkshire",
             "peals": 0,
             "quarters": 1,
             "other": 0,
             "total": 1
         },
         {
-            "tower": "York (St Olave, Marygate), North Yorkshire",
+            "tower": "Ainderby Steeple (St Helen), North Yorkshire",
             "peals": 0,
             "quarters": 1,
             "other": 0,
             "total": 1
         },
         {
-            "tower": "York (St Philip and St James, Clifton), North Yorkshire",
+            "tower": "Beenham (St Mary), Berkshire",
+            "peals": 0,
+            "quarters": 1,
+            "other": 0,
+            "total": 1
+        },
+        {
+            "tower": "Bilborough (St Martin of Tours), Nottinghamshire",
+            "peals": 0,
+            "quarters": 1,
+            "other": 0,
+            "total": 1
+        },
+        {
+            "tower": "Birstwith (St James the Apostle), North Yorkshire",
+            "peals": 1,
+            "quarters": 0,
+            "other": 0,
+            "total": 1
+        },
+        {
+            "tower": "Brewster (Melrose School), New York",
+            "peals": 0,
+            "quarters": 1,
+            "other": 0,
+            "total": 1
+        },
+        {
+            "tower": "Chieveley (St Mary the Virgin), Berkshire",
+            "peals": 0,
+            "quarters": 1,
+            "other": 0,
+            "total": 1
+        },
+        {
+            "tower": "Chiswick (St Nicholas), Greater London",
+            "peals": 0,
+            "quarters": 1,
+            "other": 0,
+            "total": 1
+        },
+        {
+            "tower": "Dunkirk (Red Light Ring), Nottinghamshire",
+            "peals": 0,
+            "quarters": 1,
+            "other": 0,
+            "total": 1
+        },
+        {
+            "tower": "Escrick (St Helen), North Yorkshire",
+            "peals": 0,
+            "quarters": 1,
+            "other": 0,
+            "total": 1
+        },
+        {
+            "tower": "Harrogate (St Wilfrids), North Yorkshire",
+            "peals": 0,
+            "quarters": 1,
+            "other": 0,
+            "total": 1
+        },
+        {
+            "tower": "Horton in Ribblesdale (St Oswald), North Yorkshire",
+            "peals": 0,
+            "quarters": 1,
+            "other": 0,
+            "total": 1
+        },
+        {
+            "tower": "Inveraray (All Saints), Argyll and Bute",
+            "peals": 0,
+            "quarters": 1,
+            "other": 0,
+            "total": 1
+        },
+        {
+            "tower": "Kirby Hill (All Saints), North Yorkshire",
+            "peals": 0,
+            "quarters": 1,
+            "other": 0,
+            "total": 1
+        },
+        {
+            "tower": "Marton in Craven (St Peter), North Yorkshire",
+            "peals": 0,
+            "quarters": 1,
+            "other": 0,
+            "total": 1
+        },
+        {
+            "tower": "Midgham (St Matthew), Berkshire",
+            "peals": 0,
+            "quarters": 1,
+            "other": 0,
+            "total": 1
+        },
+        {
+            "tower": "Newbury (St Nicolas), Berkshire",
+            "peals": 0,
+            "quarters": 1,
+            "other": 0,
+            "total": 1
+        },
+        {
+            "tower": "Pirbright (St Michael), Surrey",
+            "peals": 0,
+            "quarters": 1,
+            "other": 0,
+            "total": 1
+        },
+        {
+            "tower": "Pontefract (All Saints), West Yorkshire",
+            "peals": 0,
+            "quarters": 1,
+            "other": 0,
+            "total": 1
+        },
+        {
+            "tower": "Pontefract (St Giles), West Yorkshire",
+            "peals": 0,
+            "quarters": 1,
+            "other": 0,
+            "total": 1
+        },
+        {
+            "tower": "Ringing Room, UK",
             "peals": 0,
             "quarters": 0,
             "other": 1,
+            "total": 1
+        },
+        {
+            "tower": "Rochester (The Ascension), New York",
+            "peals": 0,
+            "quarters": 1,
+            "other": 0,
+            "total": 1
+        },
+        {
+            "tower": "Rufforth (All Saints), North Yorkshire",
+            "peals": 0,
+            "quarters": 1,
+            "other": 0,
+            "total": 1
+        },
+        {
+            "tower": "Seale (St Lawrence), Surrey",
+            "peals": 0,
+            "quarters": 1,
+            "other": 0,
+            "total": 1
+        },
+        {
+            "tower": "Thorpe Arch (All Saints), West Yorkshire",
+            "peals": 1,
+            "quarters": 0,
+            "other": 0,
+            "total": 1
+        },
+        {
+            "tower": "Upper Helmsley (St Peter), North Yorkshire",
+            "peals": 0,
+            "quarters": 1,
+            "other": 0,
+            "total": 1
+        },
+        {
+            "tower": "Warrington (61 Fox Street)",
+            "peals": 0,
+            "quarters": 1,
+            "other": 0,
+            "total": 1
+        },
+        {
+            "tower": "Wath juxta Ripon (St Mary), North Yorkshire",
+            "peals": 1,
+            "quarters": 0,
+            "other": 0,
+            "total": 1
+        },
+        {
+            "tower": "Weldon (St Mary), Northamptonshire",
+            "peals": 0,
+            "quarters": 1,
+            "other": 0,
+            "total": 1
+        },
+        {
+            "tower": "West Bridgford (St Giles), Nottinghamshire",
+            "peals": 0,
+            "quarters": 0,
+            "other": 1,
+            "total": 1
+        },
+        {
+            "tower": "Yatesbury (All Saints), Wiltshire\t",
+            "peals": 1,
+            "quarters": 0,
+            "other": 0,
+            "total": 1
+        },
+        {
+            "tower": "York (35 Willis Street), North Yorkshire",
+            "peals": 0,
+            "quarters": 1,
+            "other": 0,
+            "total": 1
+        },
+        {
+            "tower": "York (Cathedral and Metropolitical Church of St Peter), North Yorkshire",
+            "peals": 0,
+            "quarters": 1,
+            "other": 0,
+            "total": 1
+        },
+        {
+            "tower": "York (Clock Chamber, SW tower, Cathedral and Metropolitical Church of St Peter), North Yorkshire",
+            "peals": 0,
+            "quarters": 1,
+            "other": 0,
+            "total": 1
+        },
+        {
+            "tower": "York (St John's College), North Yorkshire",
+            "peals": 0,
+            "quarters": 1,
+            "other": 0,
+            "total": 1
+        },
+        {
+            "tower": "Yorktown (St Michael), Surrey",
+            "peals": 0,
+            "quarters": 1,
+            "other": 0,
             "total": 1
         }
     ],
     "summary": {
-        "peals": 0,
-        "quarters": 37,
-        "other": 14,
-        "total": 51
+        "peals": 22,
+        "quarters": 424,
+        "other": 20,
+        "total": 466
     }
 }

@@ -1,16 +1,16 @@
 {
     "academic_year": "2022/23",
     "type": 1,
-    "date": "Thursday, 29 September 2022",
-    "location": "St Lawrence, York, North Yorkshire",
-    "weight": "7-3-24 in A",
-    "time": "40m",
-    "changes": "1260",
-    "method": "Plain Bob Doubles",
+    "date": "Friday, 30 September 2022",
+    "location": "Oratory Church of St Wilfrid, York, North Yorkshire",
+    "weight": "18-1-21 in F",
+    "time": "48m",
+    "changes": "1288",
+    "method": "Grandsire Triples",
     "details": "",
     "ringers": [
         {
-            "name": "Peter D Hughes (Friend)",
+            "name": "Rosemary S Hall (Alcuin)",
             "bell": "1"
         },
         {
@@ -18,24 +18,36 @@
             "bell": "2"
         },
         {
-            "name": "William L K Brooke (Wentworth)",
+            "name": "Ewan G A Hull (Associate)",
             "bell": "3"
         },
         {
-            "name": "Joss Davis (Alcuin)",
+            "name": "Matthew O Hall (Vanbrugh)",
             "bell": "4"
         },
         {
-            "name": "William Lake (Langwith) (C)",
+            "name": "William Lake (Langwith)",
             "bell": "5"
         },
         {
-            "name": "Amber M Burrows (Anne Lister)",
+            "name": "Jemima Bleackley (Halifax) (C)",
             "bell": "6"
+        },
+        {
+            "name": "William M Regan (Friend)",
+            "bell": "7"
+        },
+        {
+            "name": "Amber M Burrows (Anne Lister)",
+            "bell": "8"
         }
     ],
     "footnotes": [
-        "First quarter inside: 4",
-        "Rung in anticipation of a swarm of freshers"
+        "Rung on the eve of the Freshers' Fair",
+        "First of Grandsire triples: 2",
+        "First of triples as conductor: 6",
+        "First YCG quarter: 3",
+        "Dedicated to \"nothing being wrong with William M Regan's knee\" and to the lack of buses for Amber",
+        "\"Zing!\" -Ewan G A Hull"
     ]
 }

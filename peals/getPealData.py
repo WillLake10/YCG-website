@@ -6,8 +6,8 @@ import multiprocessing as mp
 import json
 import datetime
 
-reqCount = "50"
-# reqCount = "2000"
+# reqCount = "50"
+reqCount = "2000"
 
 
 class Performance:

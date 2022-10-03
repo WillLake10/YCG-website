@@ -18,24 +18,27 @@
 //            phpinfo();
             require "TweetAdmin.php";
 
+            $request_body = file_get_contents('php://input');
+            echo "<p>$request_body</p>";
+
             $tweets_url = 'tweets.json';
             $tweets = file_get_contents($tweets_url);
             $tweets = json_decode($tweets);
 
             $allTweetAdmin = array();
             foreach ($tweets as $tweet) {
-                echo "<p>loop start</p>";
+//                echo "<p>loop start</p>";
 
-//                $tweetAd = new TweetAdmin();
-//                $tweetAd->setId($tweet->id);
+                $tweetAd = new TweetAdmin();
+                $tweetAd->setId($tweet->id);
                 if ($_POST["$tweet->id-hide"] == "hidden"){
-//                    $tweetAd->setHideFromCarousel("true");
+                    $tweetAd->setHideFromCarousel("true");
                     echo "<p>Tweet $tweet->id is hidden from the carousel</p>";
                 }
-//                else {
-//                    $tweetAd->setHideFromCarousel("false");
-//                }
-//                $allTweetAdmin[] = $tweetAd;
+                else {
+                    $tweetAd->setHideFromCarousel("false");
+                }
+                $allTweetAdmin[] = $tweetAd;
             }
 
             $tweetAdminFile = fopen("tweetsAdmin.json", "w") or die("Unable to open file!");

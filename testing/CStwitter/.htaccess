@@ -1,0 +1,8 @@
+<IfModule mod_auth.c>
+ <Files "admin.php">
+  AuthName "Username and password required"
+  AuthUserFile ./.htpasswd
+  Require valid-user
+  AuthType Basic
+ </Files>
+</IfModule>

@@ -1,0 +1,213 @@
+:root {
+    --backgroundColorGrid: #2196F3;
+    --ColorGrid: rgba(255, 255, 255, 0.8);
+    --backgroundColorGrid: #ffffff;
+    --ColorGrid: #ffffff;
+    --white: #ffffff;
+}
+
+
+.header {
+    grid-area: header;
+    background-color: rgba(185, 207, 0, 1);
+}
+
+.left {
+    grid-area: left;
+    background-color: rgba(185, 207, 0, 1);
+}
+
+.main {
+    grid-area: main;
+}
+
+.right {
+    grid-area: right;
+    background-color: rgba(185, 207, 0, 1);
+}
+
+.footer {
+    grid-area: footer;
+    background-color: rgba(185, 207, 0, 1);
+}
+
+.grid-container {
+    display: grid;
+    grid-template-areas:
+    'header header header'
+    'left main right'
+    'footer footer footer';
+    grid-template-rows: 20% 75% 5%;
+    grid-template-columns: 5% 90% 5%;
+    height: 100%;
+}
+
+.grid-tweet-container {
+    display: grid;
+    grid-template-areas:
+    'profile-img profile-name twitter-logo'
+    'profile-img profile-username profile-username'
+    'tweet-content tweet-content tweet-content'
+    'time time time';
+    /*'n n n';*/
+    gap: 10px;
+    background-color: var(--backgroundColorGrid);
+    /*padding: 10px 30px 40px 10px;*/
+    padding: 30px;
+    grid-template-rows: 10% 10% 70% 10%;
+    grid-template-columns: 10% 80% 10%;
+    width: 100vw;
+    height: 100vh;
+}
+
+.grid-tweet-container > div {
+    background-color: var(--ColorGrid);
+}
+
+.bg-fill {
+    /*background-color: rgba(185, 207, 255, 1);*/
+}
+
+.profile_img {
+    grid-area: profile-img;
+    border: black;
+    display: grid;
+    align-content: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.profile_img > img {
+    max-height: 20vh;
+    width: 8vw;
+    border-radius: 50%;
+    display: grid;
+}
+
+.profile-name {
+    grid-area: profile-name;
+    display: grid;
+    align-content: end;
+    font-size: 2vw;
+    font-family: "Roboto Thin";
+    font-weight: bold;
+}
+
+.profile-username {
+    grid-area: profile-username;
+    display: grid;
+    align-content: baseline;
+    font-size: 1.5vw;
+    font-family: "Roboto Thin";
+}
+
+.tweet-content {
+    grid-area: tweet-content;
+}
+
+.tweet-time {
+    grid-area: time;
+    font-size: 0.8vw;
+    padding-top: 10px;
+    color: gray
+    /*background-color: rgb(26, 255, 0);*/
+}
+
+.twitter-logo {
+    grid-area: twitter-logo;
+}
+
+.twitter-logo > img {
+    grid-area: twitter-logo;
+    height: 100%;
+    float: right;
+}
+
+.grid-tweet-content-container {
+    display: grid;
+    grid-template-areas:
+    'tweet-text tweet-img';
+    gap: 10px;
+    background-color: var(--backgroundColorGrid);
+    /*padding: 10px 30px 40px 10px;*/
+    /*padding: 10px;*/
+    grid-template-columns: 50% 50%;
+    height: 100%;
+    width: 100%;
+}
+
+.grid-tweet-content-container > div {
+    background-color: var(--ColorGrid);
+}
+
+.tweet-text {
+    grid-area: tweet-text;
+    display: grid;
+    align-items: center;
+    text-align: center;
+    padding-left: 1vw;
+}
+
+.tweet-text > p {
+    font-family: "Roboto Thin";
+}
+
+.tweet-text-full {
+    display: grid;
+    align-items: center;
+    text-align: center;
+    height: 100%;
+    width: 100%;
+}
+
+.tweet-text-full > p {
+    font-family: "Roboto Thin";
+}
+
+.tweet-img {
+    grid-area: tweet-img;
+    display: grid;
+    align-content: center;
+    /*background-color: rgb(0, 60, 255);*/
+    /*display: block;*/
+    margin-left: auto;
+    margin-right: auto;
+    height: 100%;
+}
+
+.tweet-img > img {
+    max-height: 65vh;
+    max-width: 40vw;
+    padding: 0;
+    border-radius: 5%;
+}
+
+.uoy-logo {
+    height: 100%;
+    padding: 30px;
+    float: right;
+}
+
+.mySlides {display: none;}
+
+.fade {
+    animation-name: fade;
+    animation-duration: 100s;
+}
+
+.admin-container {
+    padding: 50px;
+}
+
+.admin-head {
+    font-size: 2vw;
+}
+
+@keyframes fade {
+    from {opacity: 1}
+    to {opacity: 1}
+}
+
+html, body {
+    height: 100%;
+}

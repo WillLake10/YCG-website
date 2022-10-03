@@ -45,7 +45,7 @@
             fwrite($tweetAdminFile, json_encode($allTweetAdmin));
             fclose($tweetAdminFile);
 
-                        phpinfo();
+//                        phpinfo();
             ?>
     <form action="admin.php">
         <input type="submit" value="Back To Admin" />

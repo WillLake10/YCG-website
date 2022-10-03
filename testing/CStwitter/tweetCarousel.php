@@ -11,7 +11,7 @@
 </head>
 
 <body>
-<!--    --><?php //include "getTweets.php";?>
+<?php include "getTweets.php";?>
 <?php
 $tweets_url = 'tweets.json';
 $tweets = file_get_contents($tweets_url);

@@ -32,7 +32,7 @@
             $tweets = file_get_contents($tweets_url);
             $tweets = json_decode($tweets);
 
-            $tweetAdminUrl = 'tweetsAdmin.json';
+            $tweetAdminUrl = 'testing/CStwitter/tweetsAdmin.json';
             $tweetAdmin = file_get_contents($tweetAdminUrl);
             $tweetAdmin = json_decode($tweetAdmin);
 

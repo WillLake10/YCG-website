@@ -117,12 +117,8 @@ $storedTweets = file_get_contents($storedTweetsUrl);
 $storedTweets = json_decode($storedTweets);
 echo "<p>$storedTweets</p>";
 foreach ($storedTweets as $storedTweet){
-    echo "<p>Aghh</p>";
-    echo "<p>$storedTweet->id</p>";
     $duplicate = false;
     foreach ($allTweets as $newTweet){
-        echo "<p>$storedTweet->id</p>";
-        echo "<p>$newTweet->id</p>";
         if ($storedTweet->id == $newTweet->id){
             $duplicate = true;
         }

@@ -17,7 +17,7 @@
             <?php
             require "TweetAdmin.php";
 
-            $request_body = file_get_contents('http://www.ycg.org.uk/testing/CStwitter/adminSubmit.php');
+            $request_body = file_get_contents('http://www.ycg.org.uk/testing/CStwitter/adminSubmit.php//input');
             echo "<p>$request_body</p>";
 
             $tweets_url = 'tweets.json';

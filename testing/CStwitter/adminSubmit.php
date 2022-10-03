@@ -15,7 +15,7 @@
 <div class="admin-container">
     <div class="admin-head">Admin - Submit</div>
             <?php
-            phpinfo();
+//            phpinfo();
             require "TweetAdmin.php";
 
             $tweets_url = 'tweets.json';
@@ -36,8 +36,8 @@
                 $allTweetAdmin[] = $tweetAd;
             }
 
-            $tweetAdminFile = fopen("testing/CStwitter/tweetsAdmin.json", "w") or die("Unable to open file!");
-//            chmod("tweetsAdmin.json", 0777);
+            $tweetAdminFile = fopen("tweetsAdmin.json", "w") or die("Unable to open file!");
+            chmod("tweetsAdmin.json", 0777);
             fwrite($tweetAdminFile, json_encode($allTweetAdmin));
             fclose($tweetAdminFile);
             ?>

@@ -15,7 +15,6 @@
 <div class="admin-container">
     <div class="admin-head">Admin - Submit</div>
             <?php
-//            phpinfo();
             require "TweetAdmin.php";
 
             $request_body = file_get_contents('php://input');
@@ -45,6 +44,8 @@
             chmod("tweetsAdmin.json", 0777);
             fwrite($tweetAdminFile, json_encode($allTweetAdmin));
             fclose($tweetAdminFile);
+
+                        phpinfo();
             ?>
     <form action="admin.php">
         <input type="submit" value="Back To Admin" />

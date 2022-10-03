@@ -115,7 +115,6 @@ foreach ($tweets->data as $tweetData) {
 $storedTweetsUrl = 'tweets.json';
 $storedTweets = file_get_contents($storedTweetsUrl);
 $storedTweets = json_decode($storedTweets);
-echo "<p>$storedTweets</p>";
 foreach ($storedTweets as $storedTweet){
     $duplicate = false;
     foreach ($allTweets as $newTweet){
@@ -123,7 +122,6 @@ foreach ($storedTweets as $storedTweet){
             $duplicate = true;
         }
     }
-    echo "<p>$duplicate</p>";
     if (!$duplicate){
         $t = new Tweet();
         $t->setId($storedTweet->id);

@@ -36,6 +36,7 @@
             }
 
             $tweetAdminFile = fopen("tweetsAdmin.json", "w") or die("Unable to open file!");
+            chmod("tweetsAdmin.json", 0777);
             fwrite($tweetAdminFile, json_encode($allTweetAdmin));
             fclose($tweetAdminFile);
             ?>

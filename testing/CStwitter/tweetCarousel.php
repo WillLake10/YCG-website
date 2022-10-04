@@ -33,8 +33,21 @@
         echo "<div class=\"grid-tweet-container\">";
 
         //            Profile Image
+        $savedProfiles_url = 'data/savedProfiles.json';
+        $savedProfiles = file_get_contents($savedProfiles_url);
+        $savedProfiles = json_decode($savedProfiles);
+
+        $imgLoc = $tweet->authorProfileImgUrl;
+
+
         echo "<div class=\"profile_img\">";
-        echo "<img src=\"$tweet->authorProfileImgUrl\" alt=\"\" class=\"\">";
+
+        foreach ($savedProfiles as $savedProfile){
+            if ($tweet->authorUsername == $savedProfile->username){
+                $imgLoc = $savedProfile->img_loc;
+            }
+        }
+        echo "<img src=\"$imgLoc\" alt=\"\" class=\"\">";
         echo "</div>";
         //            Profile name and username
         echo "<div class=\"profile-name\">$tweet->authorName</div>";

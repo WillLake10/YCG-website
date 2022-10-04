@@ -10,6 +10,7 @@
 
 .main {
     grid-area: main;
+    background-color: rgba(185, 207, 0, 1);
 }
 
 .right {

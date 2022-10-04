@@ -18,12 +18,14 @@
     padding: 30px;
     grid-template-rows: 10% 10% 70% 10%;
     grid-template-columns: 10% 80% 10%;
-    width: 100vw;
-    height: 100vh;
+    width: 98vw;
+    height: 98vh;
+    border-radius: 5vh;
+    border: 5px solid #1DA1F2;
 }
 
 .grid-tweet-container > div {
-    background-color: var(--ColorGrid);
+    /*background-color: var(--ColorGrid);*/
 }
 
 .bg-fill {
@@ -90,7 +92,7 @@
     grid-template-areas:
     'tweet-text tweet-img';
     gap: 10px;
-    background-color: var(--backgroundColorGrid);
+    /*background-color: var(--backgroundColorGrid);*/
     /*padding: 10px 30px 40px 10px;*/
     padding: 100px;
     grid-template-columns: 50% 50%;
@@ -99,7 +101,7 @@
 }
 
 .grid-tweet-content-container > div {
-    background-color: var(--ColorGrid);
+    /*background-color: var(--ColorGrid);*/
 }
 
 .tweet-text {
@@ -120,6 +122,7 @@
     text-align: center;
     height: 100%;
     width: 100%;
+    padding: 10px;
 }
 
 .tweet-text-full > p {
@@ -166,12 +169,12 @@
 }
 .carousel .carousel-item.active {
     top: 0;
-    transition: all 2s ease-in-out;
+    transition: all 2s cubic-bezier(0.9, 0.6,0.6, 0.9);
 }
 
 .carousel .carousel-item.last {
     top: -100%;
-    transition: all 2s ease-in-out;
+    transition: all 2s cubic-bezier(0.9, 0.6,0.6, 0.9);
 }
 .carousel .carousel-item div {
     /*height: 100%;*/

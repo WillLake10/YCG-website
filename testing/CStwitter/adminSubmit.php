@@ -14,17 +14,21 @@
 <body>
 <div class="admin-container">
     <div class="admin-head">Admin - Submit</div>
+    <p>Test</p>
     <?php
     require "TweetAdmin.php";
 
 
-//    $request_body = file_get_contents('php://input');
+    $request_body = file_get_contents('adminSubmit.php');
+    $data=json_decode(file_get_contents('adminSubmit.php'),1);
 
-    $f = fopen('php://input','r');
-    //            $request_body = stream_get_contents(STDIN);
-    while( $line = fgets( $f ) ) {
-        echo "<p>$line</p>";
-    }
+    print_r($_POST);
+//    echo "<p>$data</p>";
+//    $f = fopen('php://input','r');
+//    //            $request_body = stream_get_contents(STDIN);
+//    while( $line = fgets( $f ) ) {
+//        echo "<p>$line</p>";
+//    }
 
 
     $tweets_url = 'tweets.json';

@@ -1,8 +1,8 @@
-#<IfModule mod_auth.c>
-# <Files "admin.php">
-#  AuthName "Username and password required"
-#  AuthUserFile /home/u940566739/domains/ycg.org.uk/public_html/testing/CStwitter/.htpasswd
-#  Require valid-user
-#  AuthType Basic
-# </Files>
-#</IfModule>
+<IfModule mod_auth.c>
+ <Files "admin.php">
+  AuthName "Username and password required"
+  AuthUserFile /home/u940566739/domains/ycg.org.uk/public_html/testing/CStwitter/.htpasswd
+  Require valid-user
+  AuthType Basic
+ </Files>
+</IfModule>

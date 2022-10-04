@@ -5,7 +5,7 @@ require "Tweet.php";
 
 use Abraham\TwitterOAuth\TwitterOAuth;
 
-$secrets_url = 'secrets.json';
+$secrets_url = 'data/secrets.json';
 $secrets = file_get_contents($secrets_url);
 $secrets = json_decode($secrets);
 
@@ -112,7 +112,7 @@ foreach ($tweets->data as $tweetData) {
 }
 
 
-$storedTweetsUrl = 'tweets.json';
+$storedTweetsUrl = 'data/tweets.json';
 $storedTweets = file_get_contents($storedTweetsUrl);
 $storedTweets = json_decode($storedTweets);
 foreach ($storedTweets as $storedTweet){
@@ -141,6 +141,6 @@ foreach ($storedTweets as $storedTweet){
     }
 }
 
-$tweetFile = fopen("tweets.json", "w") or die("Unable to open file!");
+$tweetFile = fopen("data/tweets.json", "w") or die("Unable to open file!");
 fwrite($tweetFile, json_encode($allTweets));
 fclose($tweetFile);

@@ -1,0 +1,44 @@
+.header {
+    grid-area: header;
+    background-color: rgba(185, 207, 0, 1);
+}
+
+.left {
+    grid-area: left;
+    background-color: rgba(185, 207, 0, 1);
+}
+
+.main {
+    grid-area: main;
+}
+
+.right {
+    grid-area: right;
+    background-color: rgba(185, 207, 0, 1);
+}
+
+.footer {
+    grid-area: footer;
+    background-color: rgba(185, 207, 0, 1);
+}
+
+.grid-container {
+    display: grid;
+    grid-template-areas:
+    'header header header'
+    'left main right'
+    'footer footer footer';
+    grid-template-rows: 20% 75% 5%;
+    grid-template-columns: 5% 90% 5%;
+    height: 100%;
+}
+
+.uoy-logo {
+    height: 100%;
+    padding: 30px;
+    float: right;
+}
+
+html, body {
+    height: 100%;
+}

@@ -17,7 +17,7 @@
             <?php
             require "TweetAdmin.php";
 
-            $request_body = file_get_contents('http://www.ycg.org.uk/testing/CStwitter/adminSubmit.php//input');
+            $request_body = file_get_contents('php://input');
             echo "<p>$request_body</p>";
 
             $tweets_url = 'tweets.json';
@@ -45,7 +45,7 @@
             fwrite($tweetAdminFile, json_encode($allTweetAdmin));
             fclose($tweetAdminFile);
 
-                        phpinfo();
+//                        phpinfo();
             ?>
     <form action="admin.php">
         <input type="submit" value="Back To Admin" />

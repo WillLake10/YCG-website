@@ -24,75 +24,76 @@ $tweetAdmin = json_decode($tweetAdmin);
 $tweet = $tweets[1];
 foreach ($tweets as $tweet) {
     foreach ($tweetAdmin as $admin){
-        if($admin->id == $tweet->id && $admin->hideFromCarousel == "false"){
-            echo "<div class=\"mySlides fade\">";
-            echo "<div class=\"grid-tweet-container\">";
-
-            //            Profile Image
-            echo "<div class=\"profile_img\">";
-            echo "<img src=\"$tweet->authorProfileImgUrl\" alt=\"\" class=\"\">";
-            echo "</div>";
-            //            Profile name and username
-            echo "<div class=\"profile-name\">$tweet->authorName</div>";
-            echo "<div class=\"profile-username\">@$tweet->authorUsername</div>";
-            $tweetText = $tweet->text;
-            if (strpos($tweetText, "https") !== false) {
-                $tweetText = substr($tweet->text, 0, strpos($tweet->text, "https"));
-            }
-
-            $regexSymbols = '/[\x{1F300}-\x{1F5FF}]/u';
-            $lenString = strlen(preg_replace($regexSymbols, '', $tweetText));
-
-
-            //            Tweet content
-            $t = strtotime($tweet->createdAt);
-            if ($tweet->hasImg) {
-                $size = "3vw";
-                if ($lenString > 100) {
-                    $size = "2vw";
-                }
-                if ($lenString > 200) {
-                    $size = "1.5vw";
-                }
-                echo "<div class=\"tweet-content\">";
-                echo "<div class=\"grid-tweet-content-container\">";
-                echo "<div class=\"tweet-text\">";
-                echo "<div style='font-size: $size'>";
-                echo "<p>$tweetText</p>";
-                echo "</div>";
-                echo "</div>";
-                echo "<div class=\"tweet-img\">";
-                echo "<img src=\"$tweet->imgUrl\" alt=\"$tweet->imgAlt\" class=\"\">";
-                echo "</div>";
-                echo "</div>";
-                echo "</div>";
-            } else {
-                $size = "6vw";
-                if ($lenString > 100) {
-                    $size = "4vw";
-                }
-                if ($lenString > 200) {
-                    $size = "3vw";
-                }
-                echo "<div class=\"tweet-content\">";
-                echo "<div class=\"tweet-text-full\">";
-                echo "<div style='font-size: $size'>";
-                echo "<p>$tweetText</p>";
-                echo "</div>";
-                echo "</div>";
-                echo "</div>";
-            }
-
-//    Time
-            echo "<div class=\"tweet-time\">";
-            echo date('g:i A  ·  M d, Y', $t);
-            echo "</div>";
-            echo "<div class=\"twitter-logo\"><img src=\"twitterLogo.png\" alt=\"\"></div>";
-
-            echo "</div>";
-            echo "</div>";
+        if($admin->id == $tweet->id && $admin->hideFromCarousel == "true"){
+           continue 2;
         }
     }
+    echo "<div class=\"mySlides fade\">";
+    echo "<div class=\"grid-tweet-container\">";
+
+    //            Profile Image
+    echo "<div class=\"profile_img\">";
+    echo "<img src=\"$tweet->authorProfileImgUrl\" alt=\"\" class=\"\">";
+    echo "</div>";
+    //            Profile name and username
+    echo "<div class=\"profile-name\">$tweet->authorName</div>";
+    echo "<div class=\"profile-username\">@$tweet->authorUsername</div>";
+    $tweetText = $tweet->text;
+    if (strpos($tweetText, "https") !== false) {
+        $tweetText = substr($tweet->text, 0, strpos($tweet->text, "https"));
+    }
+
+    $regexSymbols = '/[\x{1F300}-\x{1F5FF}]/u';
+    $lenString = strlen(preg_replace($regexSymbols, '', $tweetText));
+
+
+    //            Tweet content
+    $t = strtotime($tweet->createdAt);
+    if ($tweet->hasImg) {
+        $size = "3vw";
+        if ($lenString > 100) {
+            $size = "2vw";
+        }
+        if ($lenString > 200) {
+            $size = "1.5vw";
+        }
+        echo "<div class=\"tweet-content\">";
+        echo "<div class=\"grid-tweet-content-container\">";
+        echo "<div class=\"tweet-text\">";
+        echo "<div style='font-size: $size'>";
+        echo "<p>$tweetText</p>";
+        echo "</div>";
+        echo "</div>";
+        echo "<div class=\"tweet-img\">";
+        echo "<img src=\"$tweet->imgUrl\" alt=\"$tweet->imgAlt\" class=\"\">";
+        echo "</div>";
+        echo "</div>";
+        echo "</div>";
+    } else {
+        $size = "6vw";
+        if ($lenString > 100) {
+            $size = "4vw";
+        }
+        if ($lenString > 200) {
+            $size = "3vw";
+        }
+        echo "<div class=\"tweet-content\">";
+        echo "<div class=\"tweet-text-full\">";
+        echo "<div style='font-size: $size'>";
+        echo "<p>$tweetText</p>";
+        echo "</div>";
+        echo "</div>";
+        echo "</div>";
+    }
+
+//    Time
+    echo "<div class=\"tweet-time\">";
+    echo date('g:i A  ·  M d, Y', $t);
+    echo "</div>";
+    echo "<div class=\"twitter-logo\"><img src=\"twitterLogo.png\" alt=\"\"></div>";
+
+    echo "</div>";
+    echo "</div>";
 }
 ?>
 <script>

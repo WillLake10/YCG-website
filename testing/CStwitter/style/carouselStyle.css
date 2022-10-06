@@ -83,7 +83,6 @@
     grid-template-areas:
     'tweet-text tweet-img';
     gap: 10px;
-    padding: 100px;
     grid-template-columns: 50% 50%;
     height: 100%;
     width: 100%;

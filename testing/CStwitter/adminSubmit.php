@@ -27,6 +27,17 @@
     echo "<p>Time on slide in carousel set to $carouselData->timeOnSlide second(s)</p>";
 
 
+    $showEmoji = $_POST["showEmoji"];
+    if ($showEmoji == "showEmoji") {
+        $carouselData->showEmoji = "true";
+        echo "<p>Emoji's will be shown</p>";
+    }
+    else {
+        $carouselData->showEmoji = "false";
+        echo "<p>Emoji's will not be shown</p>";
+    }
+
+
     $carouselDataFile = fopen("data/carouselData.json", "w") or die("Unable to open file!");
     fwrite($carouselDataFile, json_encode($carouselData));
     fclose($carouselDataFile);

@@ -3,6 +3,7 @@
 class CarouselData
 {
     public $timeOnSlide;
+    public $showEmoji;
 
     /**
      * @return mixed
@@ -19,4 +20,22 @@ class CarouselData
     {
         $this->timeOnSlide = $timeOnSlide;
     }
+
+    /**
+     * @return mixed
+     */
+    public function getShowEmoji()
+    {
+        return $this->showEmoji;
+    }
+
+    /**
+     * @param mixed $showEmoji
+     */
+    public function setShowEmoji($showEmoji): void
+    {
+        $this->showEmoji = $showEmoji;
+    }
+
+
 }

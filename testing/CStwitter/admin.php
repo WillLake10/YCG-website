@@ -17,14 +17,24 @@
 
     <form action="adminSubmit.php" method="post">
         <div class="admin-subhead">Carousel Data</div>
-        <label for="timeOnSlide">Time to display each Tweet (second between 1 and 60):</label>
-        <input type="number" id="timeOnSlide" name="timeOnSlide" min="1" max="60" value="<?php
-        $carouselData_url = 'data/carouselData.json';
-        $carouselData = file_get_contents($carouselData_url);
-        $carouselData = json_decode($carouselData);
-        echo "$carouselData->timeOnSlide"
-        ?>">
-
+        <div>
+            <label for="timeOnSlide">Time to display each Tweet (second between 1 and 60):</label>
+            <input type="number" id="timeOnSlide" name="timeOnSlide" min="1" max="60" value="<?php
+            $carouselData_url = 'data/carouselData.json';
+            $carouselData = file_get_contents($carouselData_url);
+            $carouselData = json_decode($carouselData);
+            echo "$carouselData->timeOnSlide"
+            ?>">
+        </div><br>
+        <div>
+            <label for="showEmoji">Show Emoji's on Carousel:</label>
+            <input type="checkbox" name="showEmoji" <?php
+            if ($carouselData->showEmoji == "true") {
+                echo "checked ";
+            }
+            ?>value="showEmoji">
+        </div>
+        <br><br>
         <div class="admin-subhead">Tweet Content</div>
 
         <table class="table">

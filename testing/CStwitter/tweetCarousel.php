@@ -22,8 +22,17 @@
     $tweetAdmin = file_get_contents($tweetAdminUrl);
     $tweetAdmin = json_decode($tweetAdmin);
 
+    $carouselData_url = 'data/carouselData.json';
+    $carouselData = file_get_contents($carouselData_url);
+    $carouselData = json_decode($carouselData);
+
     $tweet = $tweets[1];
     foreach ($tweets as $tweet) {
+        $currentTime = strtotime($tweet->createdAt);
+        $monthAgo = strtotime("-1 month");
+        if ($monthAgo > $currentTime) {
+            continue;
+        }
         foreach ($tweetAdmin as $admin) {
             if ($admin->id == $tweet->id && $admin->hideFromCarousel == "true") {
                 continue 2;
@@ -33,6 +42,8 @@
         echo "<div class=\"grid-tweet-container\">";
 
         //            Profile Image
+//        Images used often are saved locally, currently this is UniOfYork, UoY_CS, UoY_CSstudents
+//        This is due to only being able to pull low res profile images from the twitter api
         $savedProfiles_url = 'data/savedProfiles.json';
         $savedProfiles = file_get_contents($savedProfiles_url);
         $savedProfiles = json_decode($savedProfiles);
@@ -42,13 +53,14 @@
 
         echo "<div class=\"profile_img\">";
 
-        foreach ($savedProfiles as $savedProfile){
-            if ($tweet->authorUsername == $savedProfile->username){
+        foreach ($savedProfiles as $savedProfile) {
+            if ($tweet->authorUsername == $savedProfile->username) {
                 $imgLoc = $savedProfile->img_loc;
             }
         }
         echo "<img src=\"$imgLoc\" alt=\"\" class=\"\">";
         echo "</div>";
+
         //            Profile name and username
         echo "<div class=\"profile-name\">$tweet->authorName</div>";
         echo "<div class=\"profile-username\">@$tweet->authorUsername</div>";
@@ -58,7 +70,21 @@
         }
 
         $regexSymbols = '/[\x{1F300}-\x{1F5FF}]/u';
-        $lenString = strlen(preg_replace($regexSymbols, '', $tweetText));
+        $tweetText = preg_replace($regexSymbols, '', $tweetText);
+        if ($carouselData->showEmoji == "false") {
+            // Match Emoticons
+            $regex_emoticons = '/[\x{1F000}-\x{1FFFF}]/u';
+            $tweetText = preg_replace($regex_emoticons, '', $tweetText);
+
+            // Match Miscellaneous Symbols
+            $regex_misc = '/[\x{2600}-\x{26FF}]/u';
+            $tweetText = preg_replace($regex_misc, '', $tweetText);
+
+            // Match Dingbats
+            $regex_dingbats = '/[\x{2700}-\x{27BF}]/u';
+            $tweetText = preg_replace($regex_dingbats, '', $tweetText);
+        }
+        $lenString = strlen($tweetText);
 
 
         //            Tweet content
@@ -125,9 +151,9 @@
                     slide.classList.remove('active')
                     slide.classList.add('last')
                 };
-                removeLast = function (slide) {
-                    slide.classList.remove('last')
-                };
+            removeLast = function (slide) {
+                slide.classList.remove('last')
+            };
             addActive(slides[0]);
 
             setInterval(function () {
@@ -136,14 +162,14 @@
                             addActive(slides[0]);
                             slides[0].style.zIndex = 100;
                             setTimeout(removeActive, 0, slides[i]); //Doesn't be worked in IE-9
-                            setTimeout(removeLast, 2500, slides[i]) //Doesn't be worked in IE-9
+                            setTimeout(removeLast, 4500, slides[i]) //Doesn't be worked in IE-9
 
                             break;
                         }
                         if (slides[i].classList.contains('active')) {
                             slides[i].removeAttribute('style');
                             setTimeout(removeActive, 0, slides[i]);
-                            setTimeout(removeLast, 2500, slides[i]) //Doesn't be worked in IE-9
+                            setTimeout(removeLast, 4500, slides[i]) //Doesn't be worked in IE-9
                             addActive(slides[i + 1]);
                             break;
                         }

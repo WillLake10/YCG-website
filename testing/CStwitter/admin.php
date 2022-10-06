@@ -27,12 +27,12 @@
             ?>">
         </div><br>
         <div>
+            <label for="numWeeks">Number of weeks of tweets to show (Between 1 and 52):</label>
+            <input type="number" id="numWeeks" name="numWeeks" min="1" max="52" value="<?php echo "$carouselData->numWeeks" ?>">
+        </div><br>
+        <div>
             <label for="showEmoji">Show Emoji's on Carousel:</label>
-            <input type="checkbox" name="showEmoji" <?php
-            if ($carouselData->showEmoji == "true") {
-                echo "checked ";
-            }
-            ?>value="showEmoji">
+            <input type="checkbox" name="showEmoji" <?php if ($carouselData->showEmoji == "true") {echo "checked ";} ?>value="showEmoji">
         </div>
         <br><br>
         <div class="admin-subhead">Tweet Content</div>

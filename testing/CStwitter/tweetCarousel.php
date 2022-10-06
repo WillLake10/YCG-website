@@ -29,7 +29,7 @@
     $tweet = $tweets[1];
     foreach ($tweets as $tweet) {
         $currentTime = strtotime($tweet->createdAt);
-        $monthAgo = strtotime("-1 month");
+        $monthAgo = strtotime("-$carouselData->numWeeks week");
         if ($monthAgo > $currentTime) {
             continue;
         }

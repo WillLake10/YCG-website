@@ -4,6 +4,7 @@ class CarouselData
 {
     public $timeOnSlide;
     public $showEmoji;
+    public $numWeeks;
 
     /**
      * @return mixed
@@ -37,5 +38,19 @@ class CarouselData
         $this->showEmoji = $showEmoji;
     }
 
+    /**
+     * @return mixed
+     */
+    public function getNumWeeks()
+    {
+        return $this->numWeeks;
+    }
 
+    /**
+     * @param mixed $numWeeks
+     */
+    public function setNumWeeks($numWeeks): void
+    {
+        $this->numWeeks = $numWeeks;
+    }
 }

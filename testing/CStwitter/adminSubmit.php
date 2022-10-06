@@ -26,6 +26,9 @@
     $carouselData->timeOnSlide = $_POST["timeOnSlide"];
     echo "<p>Time on slide in carousel set to $carouselData->timeOnSlide second(s)</p>";
 
+    $carouselData->numWeeks = $_POST["numWeeks"];
+    echo "<p>$carouselData->numWeeks week(s) of tweets will be shown</p>";
+
 
     $showEmoji = $_POST["showEmoji"];
     if ($showEmoji == "showEmoji") {

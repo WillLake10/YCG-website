@@ -1,53 +1,41 @@
 {
     "academic_year": "2022/23",
     "type": 1,
-    "date": "Friday, 30 September 2022",
-    "location": "Oratory Church of St Wilfrid, York, North Yorkshire",
-    "weight": "18-1-21 in F",
-    "time": "48m",
-    "changes": "1288",
-    "method": "Grandsire Triples",
+    "date": "Thursday, 06 October 2022",
+    "location": "St Lawrence, York, North Yorkshire",
+    "weight": "7-3-24 in A",
+    "time": "41m",
+    "changes": "1260",
+    "method": "Plain Bob Minor",
     "details": "",
     "ringers": [
         {
-            "name": "Rosemary S Hall (Alcuin)",
+            "name": "Joss Davis (Alcuin)",
             "bell": "1"
         },
         {
-            "name": "Natasha A Williams (Alcuin)",
+            "name": "Megan Bucknall (Anne Lister)",
             "bell": "2"
         },
         {
-            "name": "Ewan G A Hull (Associate)",
+            "name": "Rosemary S Hall (Alcuin)",
             "bell": "3"
         },
         {
-            "name": "Matthew O Hall (Vanbrugh)",
+            "name": "Natasha A Williams (Alcuin)",
             "bell": "4"
         },
         {
-            "name": "William Lake (Langwith)",
+            "name": "Simon W Edwards (Alcuin) (C)",
             "bell": "5"
         },
         {
-            "name": "Jemima Bleackley (Halifax) (C)",
+            "name": "William J Lake (Langwith)",
             "bell": "6"
-        },
-        {
-            "name": "William M Regan (Friend)",
-            "bell": "7"
-        },
-        {
-            "name": "Amber M Burrows (Anne Lister)",
-            "bell": "8"
         }
     ],
     "footnotes": [
-        "Rung on the eve of the Freshers' Fair",
-        "First of Grandsire triples: 2",
-        "First of triples as conductor: 6",
-        "First YCG quarter: 3",
-        "Dedicated to \"nothing being wrong with William M Regan's knee\" and to the lack of buses for Amber",
-        "\"Zing!\" -Ewan G A Hull"
+        "Rung for National Badger Day, to wish William M Regan (Friend) a happy birthday for tomorrow, and to wish Kevin Atkinson a happy birthday for Sunday.",
+        "First YCG quarter: 5"
     ]
 }

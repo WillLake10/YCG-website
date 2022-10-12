@@ -21,5 +21,8 @@
     <div class="right"></div>
     <div class="footer"></div>
 </div>
+<script>
+
+</script>
 </body>
 </html>

@@ -1,54 +1,6 @@
 [
     {
         "s_date": {
-            "day": "11",
-            "month": "October",
-            "year": "2022",
-            "time": "18:15",
-            "weekday": "Tuesday",
-            "full": "18:15, Tuesday 11 October"
-        },
-        "e_date": {
-            "day": "11",
-            "month": "October",
-            "year": "2022",
-            "time": "19:00",
-            "weekday": "Tuesday",
-            "full": "19:00, Tuesday 11 October"
-        },
-        "title": "Adventure up the Minster",
-        "location": "York Minster, Deangate",
-        "description": " The Minster has very kindly allowed us to come half an hour early to give everyone a look at the tower and the bells!",
-        "social": false,
-        "practice": true,
-        "allDay": false
-    },
-    {
-        "s_date": {
-            "day": "11",
-            "month": "October",
-            "year": "2022",
-            "time": "19:00",
-            "weekday": "Tuesday",
-            "full": "19:00, Tuesday 11 October"
-        },
-        "e_date": {
-            "day": "11",
-            "month": "October",
-            "year": "2022",
-            "time": "21:00",
-            "weekday": "Tuesday",
-            "full": "21:00, Tuesday 11 October"
-        },
-        "title": "York Minster Practice",
-        "location": "York Minster, Deangate",
-        "description": "Weekly practice at the Minster that some members attend",
-        "social": false,
-        "practice": false,
-        "allDay": false
-    },
-    {
-        "s_date": {
             "day": "12",
             "month": "October",
             "year": "2022",
@@ -1891,6 +1843,30 @@
         "title": "York Minster Practice",
         "location": "York Minster, Deangate",
         "description": "Weekly practice at the Minster that some members attend",
+        "social": false,
+        "practice": false,
+        "allDay": false
+    },
+    {
+        "s_date": {
+            "day": "11",
+            "month": "January",
+            "year": "2023",
+            "time": "19:30",
+            "weekday": "Wednesday",
+            "full": "19:30, Wednesday 11 January"
+        },
+        "e_date": {
+            "day": "11",
+            "month": "January",
+            "year": "2023",
+            "time": "21:00",
+            "weekday": "Wednesday",
+            "full": "21:00, Wednesday 11 January"
+        },
+        "title": "Clifton Practice",
+        "location": "Clifton Parish Church St Philip & St James, Clifton Vicarage",
+        "description": "",
         "social": false,
         "practice": false,
         "allDay": false

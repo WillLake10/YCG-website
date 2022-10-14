@@ -58,12 +58,15 @@
 
 .tweet-content {
     grid-area: tweet-content;
+    width: 95%;
+    height: 100%;
+    padding-left: 2.5%;
 }
 
 .tweet-time {
     grid-area: time;
     font-size: 0.8vw;
-    padding-top: 10px;
+    /*padding-top: 10px;*/
     color: gray
 }
 
@@ -106,7 +109,7 @@
     text-align: center;
     height: 100%;
     width: 100%;
-    padding: 10px;
+    /*padding-left: 2.5%;*/
 }
 
 .tweet-text-full > p {

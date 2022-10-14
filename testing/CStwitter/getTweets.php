@@ -5,6 +5,8 @@ require "Tweet.php";
 
 use Abraham\TwitterOAuth\TwitterOAuth;
 
+error_reporting(E_ERROR | E_PARSE);
+
 $secrets_url = 'data/secrets.json';
 $secrets = file_get_contents($secrets_url);
 $secrets = json_decode($secrets);

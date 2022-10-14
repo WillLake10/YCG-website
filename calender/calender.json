@@ -1,30 +1,6 @@
 [
     {
         "s_date": {
-            "day": "13",
-            "month": "October",
-            "year": "2022",
-            "time": "19:00",
-            "weekday": "Thursday",
-            "full": "19:00, Thursday 13 October"
-        },
-        "e_date": {
-            "day": "13",
-            "month": "October",
-            "year": "2022",
-            "time": "21:00",
-            "weekday": "Thursday",
-            "full": "21:00, Thursday 13 October"
-        },
-        "title": "York Oratory Practice",
-        "location": "York Oratory, Duncombe Pl",
-        "description": "St Wilfrid's weekly practice that many members attend",
-        "social": false,
-        "practice": false,
-        "allDay": false
-    },
-    {
-        "s_date": {
             "day": "16",
             "month": "October",
             "year": "2022",
@@ -93,6 +69,30 @@
         "description": "Weekly evening service ringing at St Lawrence after normal YCG practice",
         "social": false,
         "practice": false,
+        "allDay": false
+    },
+    {
+        "s_date": {
+            "day": "17",
+            "month": "October",
+            "year": "2022",
+            "time": "19:00",
+            "weekday": "Monday",
+            "full": "19:00, Monday 17 October"
+        },
+        "e_date": {
+            "day": "17",
+            "month": "October",
+            "year": "2022",
+            "time": "19:30",
+            "weekday": "Monday",
+            "full": "19:30, Monday 17 October"
+        },
+        "title": "St Lawrence Handling Practice",
+        "location": "St Lawrence Parish Church, York",
+        "description": " Extra Handling Practices at St Lawrence before the main practice",
+        "social": false,
+        "practice": true,
         "allDay": false
     },
     {
@@ -244,6 +244,30 @@
             "day": "24",
             "month": "October",
             "year": "2022",
+            "time": "19:00",
+            "weekday": "Monday",
+            "full": "19:00, Monday 24 October"
+        },
+        "e_date": {
+            "day": "24",
+            "month": "October",
+            "year": "2022",
+            "time": "19:30",
+            "weekday": "Monday",
+            "full": "19:30, Monday 24 October"
+        },
+        "title": "St Lawrence Handling Practice",
+        "location": "St Lawrence Parish Church, York",
+        "description": " Extra Handling Practices at St Lawrence before the main practice",
+        "social": false,
+        "practice": true,
+        "allDay": false
+    },
+    {
+        "s_date": {
+            "day": "24",
+            "month": "October",
+            "year": "2022",
             "time": "19:30",
             "weekday": "Monday",
             "full": "19:30, Monday 24 October"
@@ -388,6 +412,30 @@
             "day": "31",
             "month": "October",
             "year": "2022",
+            "time": "19:00",
+            "weekday": "Monday",
+            "full": "19:00, Monday 31 October"
+        },
+        "e_date": {
+            "day": "31",
+            "month": "October",
+            "year": "2022",
+            "time": "19:30",
+            "weekday": "Monday",
+            "full": "19:30, Monday 31 October"
+        },
+        "title": "St Lawrence Handling Practice",
+        "location": "St Lawrence Parish Church, York",
+        "description": " Extra Handling Practices at St Lawrence before the main practice",
+        "social": false,
+        "practice": true,
+        "allDay": false
+    },
+    {
+        "s_date": {
+            "day": "31",
+            "month": "October",
+            "year": "2022",
             "time": "19:30",
             "weekday": "Monday",
             "full": "19:30, Monday 31 October"
@@ -525,6 +573,30 @@
         "description": "Weekly evening service ringing at St Lawrence after normal YCG practice",
         "social": false,
         "practice": false,
+        "allDay": false
+    },
+    {
+        "s_date": {
+            "day": "07",
+            "month": "November",
+            "year": "2022",
+            "time": "19:00",
+            "weekday": "Monday",
+            "full": "19:00, Monday 07 November"
+        },
+        "e_date": {
+            "day": "07",
+            "month": "November",
+            "year": "2022",
+            "time": "19:30",
+            "weekday": "Monday",
+            "full": "19:30, Monday 07 November"
+        },
+        "title": "St Lawrence Handling Practice",
+        "location": "St Lawrence Parish Church, York",
+        "description": " Extra Handling Practices at St Lawrence before the main practice",
+        "social": false,
+        "practice": true,
         "allDay": false
     },
     {
@@ -700,6 +772,30 @@
             "day": "14",
             "month": "November",
             "year": "2022",
+            "time": "19:00",
+            "weekday": "Monday",
+            "full": "19:00, Monday 14 November"
+        },
+        "e_date": {
+            "day": "14",
+            "month": "November",
+            "year": "2022",
+            "time": "19:30",
+            "weekday": "Monday",
+            "full": "19:30, Monday 14 November"
+        },
+        "title": "St Lawrence Handling Practice",
+        "location": "St Lawrence Parish Church, York",
+        "description": " Extra Handling Practices at St Lawrence before the main practice",
+        "social": false,
+        "practice": true,
+        "allDay": false
+    },
+    {
+        "s_date": {
+            "day": "14",
+            "month": "November",
+            "year": "2022",
             "time": "19:30",
             "weekday": "Monday",
             "full": "19:30, Monday 14 November"
@@ -868,6 +964,30 @@
             "day": "21",
             "month": "November",
             "year": "2022",
+            "time": "19:00",
+            "weekday": "Monday",
+            "full": "19:00, Monday 21 November"
+        },
+        "e_date": {
+            "day": "21",
+            "month": "November",
+            "year": "2022",
+            "time": "19:30",
+            "weekday": "Monday",
+            "full": "19:30, Monday 21 November"
+        },
+        "title": "St Lawrence Handling Practice",
+        "location": "St Lawrence Parish Church, York",
+        "description": " Extra Handling Practices at St Lawrence before the main practice",
+        "social": false,
+        "practice": true,
+        "allDay": false
+    },
+    {
+        "s_date": {
+            "day": "21",
+            "month": "November",
+            "year": "2022",
             "time": "19:30",
             "weekday": "Monday",
             "full": "19:30, Monday 21 November"
@@ -1005,6 +1125,30 @@
         "description": "Weekly evening service ringing at St Lawrence after normal YCG practice",
         "social": false,
         "practice": false,
+        "allDay": false
+    },
+    {
+        "s_date": {
+            "day": "28",
+            "month": "November",
+            "year": "2022",
+            "time": "19:00",
+            "weekday": "Monday",
+            "full": "19:00, Monday 28 November"
+        },
+        "e_date": {
+            "day": "28",
+            "month": "November",
+            "year": "2022",
+            "time": "19:30",
+            "weekday": "Monday",
+            "full": "19:30, Monday 28 November"
+        },
+        "title": "St Lawrence Handling Practice",
+        "location": "St Lawrence Parish Church, York",
+        "description": " Extra Handling Practices at St Lawrence before the main practice",
+        "social": false,
+        "practice": true,
         "allDay": false
     },
     {
@@ -1156,6 +1300,30 @@
             "day": "05",
             "month": "December",
             "year": "2022",
+            "time": "19:00",
+            "weekday": "Monday",
+            "full": "19:00, Monday 05 December"
+        },
+        "e_date": {
+            "day": "05",
+            "month": "December",
+            "year": "2022",
+            "time": "19:30",
+            "weekday": "Monday",
+            "full": "19:30, Monday 05 December"
+        },
+        "title": "St Lawrence Handling Practice",
+        "location": "St Lawrence Parish Church, York",
+        "description": " Extra Handling Practices at St Lawrence before the main practice",
+        "social": false,
+        "practice": true,
+        "allDay": false
+    },
+    {
+        "s_date": {
+            "day": "05",
+            "month": "December",
+            "year": "2022",
             "time": "19:30",
             "weekday": "Monday",
             "full": "19:30, Monday 05 December"
@@ -1269,6 +1437,30 @@
         "description": "Weekly evening service ringing at St Lawrence after normal YCG practice",
         "social": false,
         "practice": false,
+        "allDay": false
+    },
+    {
+        "s_date": {
+            "day": "12",
+            "month": "December",
+            "year": "2022",
+            "time": "19:00",
+            "weekday": "Monday",
+            "full": "19:00, Monday 12 December"
+        },
+        "e_date": {
+            "day": "12",
+            "month": "December",
+            "year": "2022",
+            "time": "19:30",
+            "weekday": "Monday",
+            "full": "19:30, Monday 12 December"
+        },
+        "title": "St Lawrence Handling Practice",
+        "location": "St Lawrence Parish Church, York",
+        "description": " Extra Handling Practices at St Lawrence before the main practice",
+        "social": false,
+        "practice": true,
         "allDay": false
     },
     {
@@ -1420,6 +1612,30 @@
             "day": "19",
             "month": "December",
             "year": "2022",
+            "time": "19:00",
+            "weekday": "Monday",
+            "full": "19:00, Monday 19 December"
+        },
+        "e_date": {
+            "day": "19",
+            "month": "December",
+            "year": "2022",
+            "time": "19:30",
+            "weekday": "Monday",
+            "full": "19:30, Monday 19 December"
+        },
+        "title": "St Lawrence Handling Practice",
+        "location": "St Lawrence Parish Church, York",
+        "description": " Extra Handling Practices at St Lawrence before the main practice",
+        "social": false,
+        "practice": true,
+        "allDay": false
+    },
+    {
+        "s_date": {
+            "day": "19",
+            "month": "December",
+            "year": "2022",
             "time": "19:30",
             "weekday": "Monday",
             "full": "19:30, Monday 19 December"
@@ -1533,6 +1749,30 @@
         "description": "Weekly evening service ringing at St Lawrence after normal YCG practice",
         "social": false,
         "practice": false,
+        "allDay": false
+    },
+    {
+        "s_date": {
+            "day": "26",
+            "month": "December",
+            "year": "2022",
+            "time": "19:00",
+            "weekday": "Monday",
+            "full": "19:00, Monday 26 December"
+        },
+        "e_date": {
+            "day": "26",
+            "month": "December",
+            "year": "2022",
+            "time": "19:30",
+            "weekday": "Monday",
+            "full": "19:30, Monday 26 December"
+        },
+        "title": "St Lawrence Handling Practice",
+        "location": "St Lawrence Parish Church, York",
+        "description": " Extra Handling Practices at St Lawrence before the main practice",
+        "social": false,
+        "practice": true,
         "allDay": false
     },
     {
@@ -1660,6 +1900,30 @@
             "day": "02",
             "month": "January",
             "year": "2023",
+            "time": "19:00",
+            "weekday": "Monday",
+            "full": "19:00, Monday 02 January"
+        },
+        "e_date": {
+            "day": "02",
+            "month": "January",
+            "year": "2023",
+            "time": "19:30",
+            "weekday": "Monday",
+            "full": "19:30, Monday 02 January"
+        },
+        "title": "St Lawrence Handling Practice",
+        "location": "St Lawrence Parish Church, York",
+        "description": " Extra Handling Practices at St Lawrence before the main practice",
+        "social": false,
+        "practice": true,
+        "allDay": false
+    },
+    {
+        "s_date": {
+            "day": "02",
+            "month": "January",
+            "year": "2023",
             "time": "19:30",
             "weekday": "Monday",
             "full": "19:30, Monday 02 January"
@@ -1773,6 +2037,30 @@
         "description": "Weekly evening service ringing at St Lawrence after normal YCG practice",
         "social": false,
         "practice": false,
+        "allDay": false
+    },
+    {
+        "s_date": {
+            "day": "09",
+            "month": "January",
+            "year": "2023",
+            "time": "19:00",
+            "weekday": "Monday",
+            "full": "19:00, Monday 09 January"
+        },
+        "e_date": {
+            "day": "09",
+            "month": "January",
+            "year": "2023",
+            "time": "19:30",
+            "weekday": "Monday",
+            "full": "19:30, Monday 09 January"
+        },
+        "title": "St Lawrence Handling Practice",
+        "location": "St Lawrence Parish Church, York",
+        "description": " Extra Handling Practices at St Lawrence before the main practice",
+        "social": false,
+        "practice": true,
         "allDay": false
     },
     {

@@ -17,9 +17,9 @@
         {
             "tower": "York (St Olave, Marygate), North Yorkshire",
             "peals": 1,
-            "quarters": 13,
+            "quarters": 14,
             "other": 0,
-            "total": 14
+            "total": 15
         },
         {
             "tower": "York (Oratory Church of St Wilfrid), North Yorkshire",
@@ -395,8 +395,8 @@
     ],
     "summary": {
         "peals": 22,
-        "quarters": 426,
+        "quarters": 427,
         "other": 20,
-        "total": 468
+        "total": 469
     }
 }

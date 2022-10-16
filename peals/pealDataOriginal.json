@@ -2,6 +2,47 @@
     {
         "academic_year": "2022/23",
         "type": 1,
+        "date": "Saturday, 15 October 2022",
+        "location": "St Olave, Marygate, York, North Yorkshire",
+        "weight": "9-0-14 in G#",
+        "time": "42m",
+        "changes": "1260",
+        "method": "Plain Bob Doubles",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Clare Moon (St John)",
+                "bell": "1"
+            },
+            {
+                "name": "Roger Button (Friend)",
+                "bell": "2"
+            },
+            {
+                "name": "Patrick J W Deakin (James)",
+                "bell": "3"
+            },
+            {
+                "name": "Megan Bucknall (Anne Lister)",
+                "bell": "4"
+            },
+            {
+                "name": "William J Lake (Langwith) (C)",
+                "bell": "5"
+            },
+            {
+                "name": "Joss Davis (Alcuin)",
+                "bell": "6"
+            }
+        ],
+        "footnotes": [
+            "To celebrate the opening of the \"York Unlocked\" weekend.",
+            "First YCG Quarter: 1"
+        ]
+    },
+    {
+        "academic_year": "2022/23",
+        "type": 1,
         "date": "Friday, 07 October 2022",
         "location": "Oratory Church of St Wilfrid, York, North Yorkshire",
         "weight": "6-0-6 in E",

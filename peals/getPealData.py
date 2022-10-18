@@ -11,7 +11,7 @@ reqCount = "2000"
 
 
 class Performance:
-    def __init__(self, academic_year, type, date, location, weight, time, changes, method, details, ringers, footnotes):
+    def __init__(self, academic_year, type, date, location, weight, time, changes, method, details, ringers, footnotes, id, time_in_ms):
         self.academic_year = academic_year
         self.type = type
         self.date = date
@@ -23,6 +23,8 @@ class Performance:
         self.details = details
         self.ringers = ringers
         self.footnotes = footnotes
+        self.id = id
+        self.time_in_ms = time_in_ms
 
 
 class Ringer:
@@ -132,7 +134,9 @@ def get_performance(perf_id):
     footnotes = []
     date = perf.getElementsByTagName("date")[0].childNodes[0].data
     academic_year = get_academic_year(date)
-    date = datetime.datetime.strptime(date, '%Y-%m-%d').strftime('%A, %d %B %Y')
+    dt = datetime.datetime.strptime(date, '%Y-%m-%d')
+    timeMs = str(int(dt.timestamp() / 100))
+    date = dt.strftime('%A, %d %B %Y')
     place = perf.getElementsByTagName("place")
     for pla in place:
         pl = pla.getElementsByTagName("place-name")
@@ -179,7 +183,7 @@ def get_performance(perf_id):
         if int(changes) > 5000:
             type = 0
 
-    return Performance(academic_year, type, date, location, weight, time, changes, method, details, ringers, footnotes)
+    return Performance(academic_year, type, date, location, weight, time, changes, method, details, ringers, footnotes, perf_id, timeMs)
 
 
 def get_last_peal(all_perf):
@@ -202,6 +206,13 @@ if __name__ == '__main__':
 
     # performances = [get_performance(all_ids[0])]
 
+    customIds = ["1107684", "1103088", "12526"]
+    with mp.Pool(mp.cpu_count()) as p:
+        performancesCustom = p.map(get_performance, customIds)
+
+    for perf in performancesCustom:
+        performances.append(perf)
+
     print("--API calls complete--")
     print("" + str(len(performances)) + " recorded performances")
     print("Starting File Write")
@@ -220,6 +231,7 @@ if __name__ == '__main__':
     f.write("{\n    \"time\": \"" + currentTime.strftime("%d/%m/%Y at %X GMT") + "\"\n}")
     f.close()
 
+    performances.sort(key=lambda x: x.time_in_ms, reverse=True)
     jsonStr = json.dumps(performances, indent=4, cls=PerformanceEncoder)
     f = open("peals/pealDataOriginal.json", "w")
     f.write(jsonStr)
@@ -447,22 +459,22 @@ if __name__ == '__main__':
         "61 Fox Street, Warrington, ": towerNames["61 Fox Street"],
     }
 
-    if performancesOriginal[0].location in locationSynonyms:
-        temp = False
-        for val in tempCount.tower:
-            if val.tower == locationSynonyms[perf.location]:
-                tempLocation = Location(locationSynonyms[perf.location], val.peals, val.quarters, val.other,
-                                        val.total)
-                tempCount.tower.remove(val)
-                temp = True
-        if not temp:
-            tempLocation = Location(locationSynonyms[perf.location], 0, 0, 0, 0)
-    else:
-        tempLocation = Location(perf.location, 0, 0, 0, 0)
+    # if performancesOriginal[0].location in locationSynonyms:
+    #     temp = False
+    #     for val in tempCount.tower:
+    #         if val.tower == locationSynonyms[perf.location]:
+    #             tempLocation = Location(locationSynonyms[perf.location], val.peals, val.quarters, val.other,
+    #                                     val.total)
+    #             tempCount.tower.remove(val)
+    #             temp = True
+    #     if not temp:
+    #         tempLocation = Location(locationSynonyms[perf.location], 0, 0, 0, 0)
+    # else:
+    #     tempLocation = Location(perf.location, 0, 0, 0, 0)
 
     for perf in performancesOriginal:
         if perf.academic_year != ay:
-            print(tempLocation.tower)
+            # print(tempLocation.tower)
             tempCount.tower.append(tempLocation)
 
 
@@ -487,7 +499,7 @@ if __name__ == '__main__':
             else:
                 tempLocation = Location(perf.location, 0, 0, 0, 0)
             currentLocation = perf.location
-            print("------------")
+            # print("------------")
 
         if perf.location != currentLocation:
             # print(tempLocation.tower)

@@ -137,6 +137,7 @@ Author: Will Lake
 
 .tower {
     grid-area: tower;
+    /*font-size: 10px;*/
 }
 
 .grid-container-location {
@@ -153,7 +154,7 @@ Author: Will Lake
 }
 
 .grid-container-location > div {
-    background-color: rgba(220, 220, 220, 1);
+    background-color: rgb(229, 229, 229);
     text-align: center;
     /*border: 1px solid #c0c0c0;*/
     display: flex;

@@ -477,8 +477,7 @@ if __name__ == '__main__':
             # print(tempLocation.tower)
             tempCount.tower.append(tempLocation)
 
-
-            tempCount.tower.sort(key=lambda x: -x.total)
+            tempCount.tower.sort(key=lambda x: (-x.total, -x.peals, -x.quarters, -x.other))
             tempCount.summary = summary
             counts.append(tempCount)
 

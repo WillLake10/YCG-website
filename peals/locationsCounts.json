@@ -31,7 +31,7 @@
                 "total": 2
             },
             {
-                "tower": "York (Former St John (Arts Center)), Yorkshire",
+                "tower": "St Philip and St James, Clifton, York, North Yorkshire",
                 "peals": 0,
                 "quarters": 0,
                 "other": 1,
@@ -418,6 +418,13 @@
                 "total": 1
             },
             {
+                "tower": "Spurriergate, York, North Yorkshire",
+                "peals": 0,
+                "quarters": 1,
+                "other": 0,
+                "total": 1
+            },
+            {
                 "tower": "Warrington (61 Fox Street)",
                 "peals": 0,
                 "quarters": 1,
@@ -427,9 +434,9 @@
         ],
         "summary": {
             "peals": 0,
-            "quarters": 2,
+            "quarters": 3,
             "other": 0,
-            "total": 2
+            "total": 3
         }
     },
     {
@@ -437,10 +444,10 @@
         "tower": [
             {
                 "tower": "York (St Lawrence), North Yorkshire",
-                "peals": 1,
+                "peals": 2,
                 "quarters": 11,
                 "other": 0,
-                "total": 12
+                "total": 13
             },
             {
                 "tower": "York (Spurriergate Centre), North Yorkshire",
@@ -460,6 +467,13 @@
                 "tower": "York (Oratory Church of St Wilfrid), North Yorkshire",
                 "peals": 1,
                 "quarters": 0,
+                "other": 0,
+                "total": 1
+            },
+            {
+                "tower": "St Mary, Northchurch, Hertfordshire",
+                "peals": 0,
+                "quarters": 1,
                 "other": 0,
                 "total": 1
             },
@@ -493,10 +507,10 @@
             }
         ],
         "summary": {
-            "peals": 3,
-            "quarters": 19,
+            "peals": 4,
+            "quarters": 20,
             "other": 0,
-            "total": 22
+            "total": 24
         }
     },
     {

@@ -102,6 +102,42 @@ Author: Will Lake
     align-items: center;
 }
 
+.grid-container-title {
+    display: grid;
+    grid-template-areas:
+    'expand year peals quarters other total';
+    gap: 1px;
+    grid-template-columns: 5% 19% 19% 19% 19% 19%;
+    grid-template-rows: 40px;
+    background-color: #c0c0c0;
+    padding-right: 5px;
+    width: 100%;
+    border: 1px solid #c0c0c0;
+}
+
+.grid-container-title > div {
+    background-color: rgba(255, 255, 255, 1);
+    text-align: center;
+    /*border: 1px solid #c0c0c0;*/
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+@media only screen and (max-width: 767px) {
+    .grid-container {
+        grid-template-columns: 10% 50% 10% 10% 10% 10%;
+        margin-left: 5%;
+        width: 90%;
+    }
+    .grid-container-title {
+        grid-template-columns: 10% 50% 10% 10% 10% 10%;
+        margin-left: 5%;
+        width: 90%;
+        grid-template-rows: 80px;
+    }
+}
+
 .year {
     grid-area: year;
     font-weight: bold;
@@ -140,16 +176,25 @@ Author: Will Lake
     /*font-size: 10px;*/
 }
 
+.side {
+}
+
+@media only screen and (max-width: 767px) {
+    .side {
+        transform: rotate(-90deg);
+    }
+}
+
 .grid-container-location {
     display: grid;
     grid-template-areas:
-    'expand tower peals quarters other total';
+    'tower peals quarters other total';
     gap: 1px;
-    grid-template-columns: 5% 19% 19% 19% 19% 19%;
+    grid-template-columns: 24% 19% 19% 19% 19%;
     /*grid-template-rows: 40px;*/
     background-color: #a0a0a0;
-    padding-right: 5px;
-    width: 100%;
+    padding-right: 4px;
+    width: 100.1%;
     border: 1px solid #c0c0c0;
 }
 
@@ -160,7 +205,18 @@ Author: Will Lake
     display: flex;
     justify-content: center;
     align-items: center;
+    /*padding-top: 5px;*/
+    /*padding-bottom: 5px;*/
+    padding: 5px;
 }
+
+
+@media only screen and (max-width: 767px) {
+    .grid-container-location {
+        grid-template-columns: 60% 10% 10% 10% 10%;
+    }
+}
+
 
 .bold {
     font-weight: bold;

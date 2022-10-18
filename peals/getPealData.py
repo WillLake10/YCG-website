@@ -275,14 +275,6 @@ if __name__ == '__main__':
 
     performancesOriginal.sort(key=lambda x: (x.academic_year, x.location), reverse=True)
 
-    ay = performancesOriginal[0].academic_year
-    currentLocation = performancesOriginal[0].location
-
-    tempCount = LocationCount(ay, [], "")
-    summary = Summary(0, 0, 0, 0)
-    tempLocation = Location(performancesOriginal[0].location, 0, 0, 0, 0)
-    counts = []
-
     towerNames = {
         "Huntington": "Huntington (All Saints), North Yorkshire",
         "Arts Centre": "York (Former St John (Arts Center)), Yorkshire",
@@ -404,6 +396,7 @@ if __name__ == '__main__':
         "Spurriergate, York, ": towerNames["Spurriergate"],
         "St Michael, Spurriergate, York, N Yorkshire": towerNames["Spurriergate"],
         "St Michael, Spurriergate, York, North Yorkshire": towerNames["Spurriergate"],
+        "Spurriergate, York, North Yorkshire": towerNames["Spurriergate"],
         "St Andrew, Bishopthorpe, North Yorkshire": towerNames["Bishopthorpe"],
         "St Andrew, Bishopthorpe, York, North Yorkshire": towerNames["Bishopthorpe"],
         "St Andrew, York (Bishopthorpe), ": towerNames["Bishopthorpe"],
@@ -472,6 +465,14 @@ if __name__ == '__main__':
     # else:
     #     tempLocation = Location(perf.location, 0, 0, 0, 0)
 
+    ay = performancesOriginal[0].academic_year
+    currentLocation = locationSynonyms[performancesOriginal[0].location]
+
+    tempCount = LocationCount(ay, [], "")
+    summary = Summary(0, 0, 0, 0)
+    tempLocation = Location(locationSynonyms[performancesOriginal[0].location], 0, 0, 0, 0)
+    counts = []
+
     for perf in performancesOriginal:
         if perf.academic_year != ay:
             # print(tempLocation.tower)
@@ -514,6 +515,7 @@ if __name__ == '__main__':
                 if not temp:
                     tempLocation = Location(locationSynonyms[perf.location], 0, 0, 0, 0)
             else:
+                print("No Location Synonym: ", perf.location)
                 tempLocation = Location(perf.location, 0, 0, 0, 0)
             currentLocation = perf.location
 

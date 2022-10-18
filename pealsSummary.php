@@ -36,21 +36,29 @@ Author: Will Lake
 <section id="test">
     <div class="container pt-3 pl-2 pr-2">
         <div class="row">
-            <div class="grid-container">
+            <div class="grid-container-title">
                 <div class="year">
                     Year
                 </div>
                 <div class="peals bold">
-                    Peals
+                    <div class="side">
+                        Peals
+                    </div>
                 </div>
                 <div class="quarters bold">
-                    Quarters
+                    <div class="side">
+                        Quarters
+                    </div>
                 </div>
                 <div class="other bold">
-                    Other
+                    <div class="side">
+                        Other
+                    </div>
                 </div>
                 <div class="total bold">
-                    Total
+                    <div class="side">
+                        Total
+                    </div>
                 </div>
             </div>
             <?php
@@ -75,10 +83,11 @@ Author: Will Lake
                 echo "</div>";
                 echo "<div class=\"extra\" id=\"content-$element->academic_year\" style=\"display: none\">";
                 foreach ($locations as $years) {
-                    if ($years->academic_year === $element->academic_year){
-                        foreach ($years->tower as $tower){
+                    if ($years->academic_year === $element->academic_year) {
+                        foreach ($years->tower as $tower) {
+                            $t = str_replace(', North Yorkshire', '', $tower->tower);
                             echo "<div class=\"grid-container-location\">";
-                            echo "<div class=\"tower\">$tower->tower</div>";
+                            echo "<div class=\"tower\">$t</div>";
                             echo "<div class=\"peals\">$tower->peals</div>";
                             echo "<div class=\"quarters\">$tower->quarters</div>";
                             echo "<div class=\"other\">$tower->other</div>";
@@ -87,7 +96,6 @@ Author: Will Lake
                         }
                     }
                 }
-
 
 
                 echo "</div>";

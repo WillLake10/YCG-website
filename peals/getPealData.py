@@ -135,7 +135,7 @@ def get_performance(perf_id):
     date = perf.getElementsByTagName("date")[0].childNodes[0].data
     academic_year = get_academic_year(date)
     dt = datetime.datetime.strptime(date, '%Y-%m-%d')
-    timeMs = str(int(dt.timestamp() / 100))
+    timeMs = int(dt.timestamp() / 100)
     date = dt.strftime('%A, %d %B %Y')
     place = perf.getElementsByTagName("place")
     for pla in place:

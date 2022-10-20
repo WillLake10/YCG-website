@@ -2,6 +2,62 @@
     {
         "academic_year": "2022/23",
         "type": 1,
+        "date": "Wednesday, 19 October 2022",
+        "location": "Oratory Church of St Wilfrid, York, North Yorkshire",
+        "weight": "18-1-21 in F",
+        "time": "47m",
+        "changes": "1260",
+        "method": "Plain Bob Triples",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Benjamin J Hartley (St John)",
+                "bell": "1"
+            },
+            {
+                "name": "Rebecca A Hall (Langwith)",
+                "bell": "2"
+            },
+            {
+                "name": "Rosemary S Hall (Alcuin)",
+                "bell": "3"
+            },
+            {
+                "name": "Patrick W J Deakin (James)",
+                "bell": "4"
+            },
+            {
+                "name": "William J Lake (Langwith)",
+                "bell": "5"
+            },
+            {
+                "name": "Jemima Bleackley (Halifax)",
+                "bell": "6"
+            },
+            {
+                "name": "William M Regan (Friend) (C)",
+                "bell": "7"
+            },
+            {
+                "name": "Megan Bucknall (Anne Lister)",
+                "bell": "8"
+            }
+        ],
+        "footnotes": [
+            "To celebrate the marriages of Eric and Anna-Lena, and James and Xiao Li.",
+            "Birthday compliments to Rosemary S Hall for tomorrow.",
+            "First of Triples inside - 2.",
+            "First of Plain Bob Triples as Conductor.",
+            "Demanded this bell to circle the tower to quarters - 4.",
+            "Set the tenor at the first try - 8.",
+            "Went to the wrong tower - 1."
+        ],
+        "id": "1554386",
+        "time_in_ms": 16661376
+    },
+    {
+        "academic_year": "2022/23",
+        "type": 1,
         "date": "Saturday, 15 October 2022",
         "location": "St Olave, Marygate, York, North Yorkshire",
         "weight": "9-0-14 in G#",

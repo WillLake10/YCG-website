@@ -1,11 +1,11 @@
 import json
 
-from PerformanceCount import PerformanceCount
-from Location import Location
-from LocationCount import LocationCount
-from Summary import Summary
-from PerformanceEncoder import PerformanceEncoder
-from locationData import locationSynonyms
+from .PerformanceCount import PerformanceCount
+from .Location import Location
+from .LocationCount import LocationCount
+from .Summary import Summary
+from .PerformanceEncoder import PerformanceEncoder
+from .locationData import locationSynonyms
 
 
 def build_counts(performances):

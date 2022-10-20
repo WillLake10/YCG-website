@@ -1,9 +1,9 @@
 import datetime
 import xml.dom.minidom
 
-from Performance import Performance
-from Ringer import Ringer
-from request import send_request
+from .Performance import Performance
+from .Ringer import Ringer
+from .request import send_request
 
 
 def get_performance(perf_id):

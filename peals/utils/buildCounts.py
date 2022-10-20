@@ -1,11 +1,11 @@
 import json
 
-from peals.utils.PerformanceCount import PerformanceCount
-from peals.utils.Location import Location
-from peals.utils.LocationCount import LocationCount
-from peals.utils.Summary import Summary
-from peals.utils.PerformanceEncoder import PerformanceEncoder
-from peals.utils.locationData import locationSynonyms
+from PerformanceCount import PerformanceCount
+from Location import Location
+from LocationCount import LocationCount
+from Summary import Summary
+from PerformanceEncoder import PerformanceEncoder
+from locationData import locationSynonyms
 
 
 def build_counts(performances):

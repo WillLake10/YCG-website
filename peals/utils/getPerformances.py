@@ -1,9 +1,9 @@
 import datetime
 import xml.dom.minidom
 
-from peals.utils.Performance import Performance
-from peals.utils.Ringer import Ringer
-from peals.utils.request import send_request
+from Performance import Performance
+from Ringer import Ringer
+from request import send_request
 
 
 def get_performance(perf_id):

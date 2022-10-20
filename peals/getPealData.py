@@ -2,10 +2,10 @@ import multiprocessing as mp
 import json
 import datetime
 
-from peals.utils.request import get_ids
-from peals.utils.PerformanceEncoder import PerformanceEncoder
-from peals.utils.getPerformances import get_performance
-from peals.utils.buildCounts import build_counts
+from utils.request import get_ids
+from utils.PerformanceEncoder import PerformanceEncoder
+from utils.getPerformances import get_performance
+from utils.buildCounts import build_counts
 
 
 def get_last_peal(all_perf):

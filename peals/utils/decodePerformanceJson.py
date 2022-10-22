@@ -7,7 +7,6 @@ from .Ringer import Ringer
 def load_performances_from_file():
     perf_json = load_json()
     performances = []
-    print(len(perf_json))
     for perf in perf_json:
         # print(perf)
         ringers = []

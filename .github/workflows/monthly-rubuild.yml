@@ -1,8 +1,8 @@
-name: update-calender-and-peal
+name: monthly-performances-rebuild
 
 on:
   schedule:
-    - cron: '0 5 * * *' # runs at 05:00 UTC everyday
+    - cron: '0 6 1 * *' # runs at 05:00 UTC everyday
   workflow_dispatch:
 
 jobs:
@@ -21,10 +21,6 @@ jobs:
       - name: install python packages
         run: |
           python -m pip install --upgrade pip
-          pip install -r calender/requirements.txt
-
-      - name: execute py script # run sj-gobierno.py to get the latest data
-        run: python calender/getCalData.py
 
       - name: execute py script # run sj-gobierno.py to get the latest data
         run: python peals/getPealDataChanges.py
@@ -34,7 +30,7 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add -A
-          git commit -m "update data" -a
+          git commit -m "rebuild database" -a
 
       - name: push changes
         uses: ad-m/github-push-action@v0.6.0

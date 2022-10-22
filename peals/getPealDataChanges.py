@@ -33,23 +33,27 @@ if __name__ == '__main__':
 
     performances_existing = load_performances_from_file()
 
-    print(len(performances_existing))
-
-    for performance in performances_existing:
-        for perf in performances:
-            if performance.id == perf.id:
-                performances_existing.remove(performance)
-
-    print(len(performances_existing))
-
     print("" + str(len(performances)) + " performances updated or added")
 
+    new_perf = []
+
     for performance in performances_existing:
-        performances.append(performance)
+        found = False
+        for perf in performances:
+            if performance.id == perf.id:
+                new_perf.append(perf)
+                found = True
+
+        if not found:
+            new_perf.append(performance)
+
+    performances = new_perf
 
     print("" + str(len(performances)) + " performances in file")
 
     print("Starting File Write")
+    performances.sort(key=lambda x: x.time_in_ms, reverse=True)
+
     get_last_peal(performances)
     f = open("peals/lastRinging.json", "w")
     if performances[0].date == performances[1].date:
@@ -60,6 +64,7 @@ if __name__ == '__main__':
     else:
         f.write(json.dumps(performances[0], indent=4, cls=PerformanceEncoder))
     f.close()
+
     currentTime = datetime.now()
     f = open("peals/lastEdit.json", "w")
     f.write("{\n    \"time\": \"" + currentTime.strftime("%d/%m/%Y at %X GMT") + "\"\n}")

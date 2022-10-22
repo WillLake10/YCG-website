@@ -2,6 +2,62 @@
     {
         "academic_year": "2022/23",
         "type": 1,
+        "date": "Wednesday, 19 October 2022",
+        "location": "Oratory Church of St Wilfrid, York, North Yorkshire",
+        "weight": "18-1-21 in F",
+        "time": "47m",
+        "changes": "1260",
+        "method": "Plain Bob Triples",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Benjamin J Hartley (St John)",
+                "bell": "1"
+            },
+            {
+                "name": "Rebecca A Hall (Langwith)",
+                "bell": "2"
+            },
+            {
+                "name": "Rosemary S Hall (Alcuin)",
+                "bell": "3"
+            },
+            {
+                "name": "Patrick W J Deakin (James)",
+                "bell": "4"
+            },
+            {
+                "name": "William J Lake (Langwith)",
+                "bell": "5"
+            },
+            {
+                "name": "Jemima Bleackley (Halifax)",
+                "bell": "6"
+            },
+            {
+                "name": "William M Regan (Friend) (C)",
+                "bell": "7"
+            },
+            {
+                "name": "Megan Bucknall (Anne Lister)",
+                "bell": "8"
+            }
+        ],
+        "footnotes": [
+            "To celebrate the marriages of Eric and Anna-Lena, and James and Xiao Li.",
+            "Birthday compliments to Rosemary S Hall for tomorrow.",
+            "First of Triples inside - 2.",
+            "First of Plain Bob Triples as Conductor.",
+            "Demanded this bell to circle the tower to quarters - 4.",
+            "Set the tenor at the first try - 8.",
+            "Went to the wrong tower - 1."
+        ],
+        "id": "1554386",
+        "time_in_ms": 16661340
+    },
+    {
+        "academic_year": "2022/23",
+        "type": 1,
         "date": "Saturday, 15 October 2022",
         "location": "St Olave, Marygate, York, North Yorkshire",
         "weight": "9-0-14 in G#",
@@ -16203,9 +16259,9 @@
             }
         ],
         "footnotes": [
-            "Published as part of YCG's effort to digitalise old records. All records uploaded exactly as they appear in our physical books, for any changes to names etc, please contact admin@ycg.org"
+            "Published as part of YCG's effort to digitalise old records. All records uploaded exactly as they appear in our physical books, for any changes to names etc, please contact admin@ycg.org.uk"
         ],
-        "id": "1500214",
+        "id": "1554465",
         "time_in_ms": 7711164
     },
     {
@@ -16245,9 +16301,9 @@
             }
         ],
         "footnotes": [
-            "Published as part of YCG's effort to digitalise old records. All records uploaded exactly as they appear in our physical books, for any changes to names etc, please contact admin@ycg.org"
+            "Published as part of YCG's effort to digitalise old records. All records uploaded exactly as they appear in our physical books, for any changes to names etc, please contact admin@ycg.org.uk"
         ],
-        "id": "1500213",
+        "id": "1554466",
         "time_in_ms": 7695612
     },
     {
@@ -16287,9 +16343,9 @@
             }
         ],
         "footnotes": [
-            "Published as part of YCG's effort to digitalise old records. All records uploaded exactly as they appear in our physical books, for any changes to names etc, please contact admin@ycg.org"
+            "Published as part of YCG's effort to digitalise old records. All records uploaded exactly as they appear in our physical books, for any changes to names etc, please contact admin@ycg.org.uk"
         ],
-        "id": "1500209",
+        "id": "1554467",
         "time_in_ms": 7548768
     },
     {
@@ -16329,9 +16385,9 @@
             }
         ],
         "footnotes": [
-            "Published as part of YCG's effort to digitalise old records. All records uploaded exactly as they appear in our physical books, for any changes to names etc, please contact admin@ycg.org"
+            "Published as part of YCG's effort to digitalise old records. All records uploaded exactly as they appear in our physical books, for any changes to names etc, please contact admin@ycg.org.uk"
         ],
-        "id": "1500208",
+        "id": "1554468",
         "time_in_ms": 7532352
     },
     {
@@ -16371,9 +16427,9 @@
             }
         ],
         "footnotes": [
-            "Published as part of YCG's effort to digitalise old records. All records uploaded exactly as they appear in our physical books, for any changes to names etc, please contact admin@ycg.org"
+            "Published as part of YCG's effort to digitalise old records. All records uploaded exactly as they appear in our physical books, for any changes to names etc, please contact admin@ycg.org.uk"
         ],
-        "id": "1500206",
+        "id": "1554469",
         "time_in_ms": 7517664
     },
     {
@@ -16414,9 +16470,9 @@
         ],
         "footnotes": [
             "Rung to congratulate Michelle Simmonds on gaining an upper second class degree in Chemistry",
-            "Published as part of YCG's effort to digitalise old records. All records uploaded exactly as they appear in our physical books, for any changes to names etc, please contact admin@ycg.org"
+            "Published as part of YCG's effort to digitalise old records. All records uploaded exactly as they appear in our physical books, for any changes to names etc, please contact admin@ycg.org.uk"
         ],
-        "id": "1500205",
+        "id": "1554470",
         "time_in_ms": 7407900
     },
     {
@@ -16457,9 +16513,9 @@
         ],
         "footnotes": [
             "During Dinner Weekend",
-            "Published as part of YCG's effort to digitalise old records. All records uploaded exactly as they appear in our physical books, for any changes to names etc, please contact admin@ycg.org"
+            "Published as part of YCG's effort to digitalise old records. All records uploaded exactly as they appear in our physical books, for any changes to names etc, please contact admin@ycg.org.uk"
         ],
-        "id": "1500204",
+        "id": "1554471",
         "time_in_ms": 7405308
     },
     {
@@ -16499,9 +16555,9 @@
             }
         ],
         "footnotes": [
-            "Published as part of YCG's effort to digitalise old records. All records uploaded exactly as they appear in our physical books, for any changes to names etc, please contact admin@ycg.org"
+            "Published as part of YCG's effort to digitalise old records. All records uploaded exactly as they appear in our physical books, for any changes to names etc, please contact admin@ycg.org.uk"
         ],
-        "id": "1500203",
+        "id": "1554472",
         "time_in_ms": 7356924
     },
     {
@@ -16542,9 +16598,9 @@
         ],
         "footnotes": [
             "First minor: 1",
-            "Published as part of YCG's effort to digitalise old records. All records uploaded exactly as they appear in our physical books, for any changes to names etc, please contact admin@ycg.org"
+            "Published as part of YCG's effort to digitalise old records. All records uploaded exactly as they appear in our physical books, for any changes to names etc, please contact admin@ycg.org.uk"
         ],
-        "id": "1500201",
+        "id": "1554473",
         "time_in_ms": 7320672
     },
     {
@@ -16584,9 +16640,9 @@
             }
         ],
         "footnotes": [
-            "Published as part of YCG's effort to digitalise old records. All records uploaded exactly as they appear in our physical books, for any changes to names etc, please contact admin@ycg.org"
+            "Published as part of YCG's effort to digitalise old records. All records uploaded exactly as they appear in our physical books, for any changes to names etc, please contact admin@ycg.org.uk"
         ],
-        "id": "1500200",
+        "id": "1554474",
         "time_in_ms": 7290432
     },
     {
@@ -16627,9 +16683,9 @@
         ],
         "footnotes": [
             "First inside: 2",
-            "Published as part of YCG's effort to digitalise old records. All records uploaded exactly as they appear in our physical books, for any changes to names etc, please contact admin@ycg.org"
+            "Published as part of YCG's effort to digitalise old records. All records uploaded exactly as they appear in our physical books, for any changes to names etc, please contact admin@ycg.org.uk"
         ],
-        "id": "1500199",
+        "id": "1554475",
         "time_in_ms": 7242048
     },
     {
@@ -16670,9 +16726,9 @@
         ],
         "footnotes": [
             "First minor as conductor: 6",
-            "Published as part of YCG's effort to digitalise old records. All records uploaded exactly as they appear in our physical books, for any changes to names etc, please contact admin@ycg.org"
+            "Published as part of YCG's effort to digitalise old records. All records uploaded exactly as they appear in our physical books, for any changes to names etc, please contact admin@ycg.org.uk"
         ],
-        "id": "1500198",
+        "id": "1554476",
         "time_in_ms": 7229952
     },
     {
@@ -16712,9 +16768,9 @@
             }
         ],
         "footnotes": [
-            "Published as part of YCG's effort to digitalise old records. All records uploaded exactly as they appear in our physical books, for any changes to names etc, please contact admin@ycg.org"
+            "Published as part of YCG's effort to digitalise old records. All records uploaded exactly as they appear in our physical books, for any changes to names etc, please contact admin@ycg.org.uk"
         ],
-        "id": "1500197",
+        "id": "1554477",
         "time_in_ms": 7215264
     },
     {
@@ -16755,9 +16811,9 @@
         ],
         "footnotes": [
             "Circled the tower: 1",
-            "Published as part of YCG's effort to digitalise old records. All records uploaded exactly as they appear in our physical books, for any changes to names etc, please contact admin@ycg.org"
+            "Published as part of YCG's effort to digitalise old records. All records uploaded exactly as they appear in our physical books, for any changes to names etc, please contact admin@ycg.org.uk"
         ],
-        "id": "1500196",
+        "id": "1554478",
         "time_in_ms": 7205760
     },
     {
@@ -16798,9 +16854,9 @@
         ],
         "footnotes": [
             "First QP: 1",
-            "Published as part of YCG's effort to digitalise old records. All records uploaded exactly as they appear in our physical books, for any changes to names etc, please contact admin@ycg.org"
+            "Published as part of YCG's effort to digitalise old records. All records uploaded exactly as they appear in our physical books, for any changes to names etc, please contact admin@ycg.org.uk"
         ],
-        "id": "1500194",
+        "id": "1554479",
         "time_in_ms": 7197084
     },
     {
@@ -16843,9 +16899,9 @@
             "Past Members Quarter Peals",
             "To celebrate the 40th birthdays of all the band during the year.",
             "All students at York in 1971/72",
-            "Published as part of YCG's effort to digitalise old records. All records uploaded exactly as they appear in our physical books, for any changes to names etc, please contact admin@ycg.org"
+            "Published as part of YCG's effort to digitalise old records. All records uploaded exactly as they appear in our physical books, for any changes to names etc, please contact admin@ycg.org.uk"
         ],
-        "id": "1500193",
+        "id": "1554480",
         "time_in_ms": 7133148
     },
     {
@@ -16886,9 +16942,9 @@
         ],
         "footnotes": [
             "Rung during dinner weekend.",
-            "Published as part of YCG's effort to digitalise old records. All records uploaded exactly as they appear in our physical books, for any changes to names etc, please contact admin@ycg.org"
+            "Published as part of YCG's effort to digitalise old records. All records uploaded exactly as they appear in our physical books, for any changes to names etc, please contact admin@ycg.org.uk"
         ],
-        "id": "1500195",
+        "id": "1554481",
         "time_in_ms": 7090812
     },
     {
@@ -16929,9 +16985,9 @@
         ],
         "footnotes": [
             "Rung during dinner weekend.",
-            "Published as part of YCG's effort to digitalise old records. All records uploaded exactly as they appear in our physical books, for any changes to names etc, please contact admin@ycg.org"
+            "Published as part of YCG's effort to digitalise old records. All records uploaded exactly as they appear in our physical books, for any changes to names etc, please contact admin@ycg.org.uk"
         ],
-        "id": "1500189",
+        "id": "1554482",
         "time_in_ms": 7090812
     },
     {
@@ -16971,9 +17027,9 @@
             }
         ],
         "footnotes": [
-            "Published as part of YCG's effort to digitalise old records. All records uploaded exactly as they appear in our physical books, for any changes to names etc, please contact admin@ycg.org"
+            "Published as part of YCG's effort to digitalise old records. All records uploaded exactly as they appear in our physical books, for any changes to names etc, please contact admin@ycg.org.uk"
         ],
-        "id": "1500188",
+        "id": "1554483",
         "time_in_ms": 7085628
     },
     {
@@ -17016,9 +17072,9 @@
             "Past Members Quarter Peals",
             "1st in Method: 2",
             "For Graham & Sue's Wedding",
-            "Published as part of YCG's effort to digitalise old records. All records uploaded exactly as they appear in our physical books, for any changes to names etc, please contact admin@ycg.org"
+            "Published as part of YCG's effort to digitalise old records. All records uploaded exactly as they appear in our physical books, for any changes to names etc, please contact admin@ycg.org.uk"
         ],
-        "id": "1500192",
+        "id": "1554484",
         "time_in_ms": 7072668
     },
     {
@@ -17059,9 +17115,9 @@
         ],
         "footnotes": [
             "First Surprise: 2",
-            "Published as part of YCG's effort to digitalise old records. All records uploaded exactly as they appear in our physical books, for any changes to names etc, please contact admin@ycg.org"
+            "Published as part of YCG's effort to digitalise old records. All records uploaded exactly as they appear in our physical books, for any changes to names etc, please contact admin@ycg.org.uk"
         ],
-        "id": "1500187",
+        "id": "1554485",
         "time_in_ms": 7072668
     },
     {
@@ -17101,9 +17157,9 @@
             }
         ],
         "footnotes": [
-            "Published as part of YCG's effort to digitalise old records. All records uploaded exactly as they appear in our physical books, for any changes to names etc, please contact admin@ycg.org"
+            "Published as part of YCG's effort to digitalise old records. All records uploaded exactly as they appear in our physical books, for any changes to names etc, please contact admin@ycg.org.uk"
         ],
-        "id": "1500185",
+        "id": "1554486",
         "time_in_ms": 7066620
     },
     {
@@ -17185,9 +17241,9 @@
             }
         ],
         "footnotes": [
-            "Published as part of YCG's effort to digitalise old records. All records uploaded exactly as they appear in our physical books, for any changes to names etc, please contact admin@ycg.org"
+            "Published as part of YCG's effort to digitalise old records. All records uploaded exactly as they appear in our physical books, for any changes to names etc, please contact admin@ycg.org.uk"
         ],
-        "id": "1500183",
+        "id": "1554488",
         "time_in_ms": 6998400
     },
     {
@@ -17227,9 +17283,9 @@
             }
         ],
         "footnotes": [
-            "Published as part of YCG's effort to digitalise old records. All records uploaded exactly as they appear in our physical books, for any changes to names etc, please contact admin@ycg.org"
+            "Published as part of YCG's effort to digitalise old records. All records uploaded exactly as they appear in our physical books, for any changes to names etc, please contact admin@ycg.org.uk"
         ],
-        "id": "1500182",
+        "id": "1554489",
         "time_in_ms": 6981984
     },
     {
@@ -17271,9 +17327,9 @@
         "footnotes": [
             "First Quarter Peal: 1",
             "First Conducted: 5",
-            "Published as part of YCG's effort to digitalise old records. All records uploaded exactly as they appear in our physical books, for any changes to names etc, please contact admin@ycg.org"
+            "Published as part of YCG's effort to digitalise old records. All records uploaded exactly as they appear in our physical books, for any changes to names etc, please contact admin@ycg.org.uk"
         ],
-        "id": "1500210",
+        "id": "1554490",
         "time_in_ms": 6975936
     },
     {
@@ -17313,9 +17369,9 @@
             }
         ],
         "footnotes": [
-            "Published as part of YCG's effort to digitalise old records. All records uploaded exactly as they appear in our physical books, for any changes to names etc, please contact admin@ycg.org"
+            "Published as part of YCG's effort to digitalise old records. All records uploaded exactly as they appear in our physical books, for any changes to names etc, please contact admin@ycg.org.uk"
         ],
-        "id": "1500179",
+        "id": "1554491",
         "time_in_ms": 6921504
     },
     {
@@ -17351,9 +17407,9 @@
             }
         ],
         "footnotes": [
-            "Published as part of YCG's effort to digitalise old records. All records uploaded exactly as they appear in our physical books, for any changes to names etc, please contact admin@ycg.org"
+            "Published as part of YCG's effort to digitalise old records. All records uploaded exactly as they appear in our physical books, for any changes to names etc, please contact admin@ycg.org.uk"
         ],
-        "id": "1500178",
+        "id": "1554492",
         "time_in_ms": 6919776
     },
     {
@@ -17393,9 +17449,9 @@
             }
         ],
         "footnotes": [
-            "Published as part of YCG's effort to digitalise old records. All records uploaded exactly as they appear in our physical books, for any changes to names etc, please contact admin@ycg.org"
+            "Published as part of YCG's effort to digitalise old records. All records uploaded exactly as they appear in our physical books, for any changes to names etc, please contact admin@ycg.org.uk"
         ],
-        "id": "1500177",
+        "id": "1554493",
         "time_in_ms": 6915456
     },
     {
@@ -17435,9 +17491,9 @@
             }
         ],
         "footnotes": [
-            "Published as part of YCG's effort to digitalise old records. All records uploaded exactly as they appear in our physical books, for any changes to names etc, please contact admin@ycg.org"
+            "Published as part of YCG's effort to digitalise old records. All records uploaded exactly as they appear in our physical books, for any changes to names etc, please contact admin@ycg.org.uk"
         ],
-        "id": "1500176",
+        "id": "1554494",
         "time_in_ms": 6897312
     },
     {
@@ -17477,9 +17533,9 @@
             }
         ],
         "footnotes": [
-            "Published as part of YCG's effort to digitalise old records. All records uploaded exactly as they appear in our physical books, for any changes to names etc, please contact admin@ycg.org"
+            "Published as part of YCG's effort to digitalise old records. All records uploaded exactly as they appear in our physical books, for any changes to names etc, please contact admin@ycg.org.uk"
         ],
-        "id": "1500175",
+        "id": "1554495",
         "time_in_ms": 6885180
     },
     {
@@ -17520,9 +17576,9 @@
         ],
         "footnotes": [
             "First away from cover: 2",
-            "Published as part of YCG's effort to digitalise old records. All records uploaded exactly as they appear in our physical books, for any changes to names etc, please contact admin@ycg.org"
+            "Published as part of YCG's effort to digitalise old records. All records uploaded exactly as they appear in our physical books, for any changes to names etc, please contact admin@ycg.org.uk"
         ],
-        "id": "1500172",
+        "id": "1554496",
         "time_in_ms": 6740892
     },
     {
@@ -17559,9 +17615,9 @@
         ],
         "footnotes": [
             "First quarter peal: 1",
-            "Published as part of YCG's effort to digitalise old records. All records uploaded exactly as they appear in our physical books, for any changes to names etc, please contact admin@ycg.org"
+            "Published as part of YCG's effort to digitalise old records. All records uploaded exactly as they appear in our physical books, for any changes to names etc, please contact admin@ycg.org.uk"
         ],
-        "id": "1500173",
+        "id": "1554497",
         "time_in_ms": 6668352
     },
     {
@@ -17602,9 +17658,9 @@
         ],
         "footnotes": [
             "First minor: 1",
-            "Published as part of YCG's effort to digitalise old records. All records uploaded exactly as they appear in our physical books, for any changes to names etc, please contact admin@ycg.org"
+            "Published as part of YCG's effort to digitalise old records. All records uploaded exactly as they appear in our physical books, for any changes to names etc, please contact admin@ycg.org.uk"
         ],
-        "id": "1500174",
+        "id": "1554498",
         "time_in_ms": 6667488
     },
     {
@@ -17644,9 +17700,9 @@
             }
         ],
         "footnotes": [
-            "Published as part of YCG's effort to digitalise old records. All records uploaded exactly as they appear in our physical books, for any changes to names etc, please contact admin@ycg.org"
+            "Published as part of YCG's effort to digitalise old records. All records uploaded exactly as they appear in our physical books, for any changes to names etc, please contact admin@ycg.org.uk"
         ],
-        "id": "1500124",
+        "id": "1554499",
         "time_in_ms": 6640704
     },
     {
@@ -17694,9 +17750,9 @@
             }
         ],
         "footnotes": [
-            "Published as part of YCG's effort to digitalise old records. All records uploaded exactly as they appear in our physical books, for any changes to names etc, please contact admin@ycg.org"
+            "Published as part of YCG's effort to digitalise old records. All records uploaded exactly as they appear in our physical books, for any changes to names etc, please contact admin@ycg.org.uk"
         ],
-        "id": "1500119",
+        "id": "1554500",
         "time_in_ms": 6600096
     },
     {
@@ -17744,9 +17800,9 @@
             }
         ],
         "footnotes": [
-            "Published as part of YCG's effort to digitalise old records. All records uploaded exactly as they appear in our physical books, for any changes to names etc, please contact admin@ycg.org"
+            "Published as part of YCG's effort to digitalise old records. All records uploaded exactly as they appear in our physical books, for any changes to names etc, please contact admin@ycg.org.uk"
         ],
-        "id": "1500121",
+        "id": "1554501",
         "time_in_ms": 6600096
     },
     {
@@ -17786,9 +17842,9 @@
             }
         ],
         "footnotes": [
-            "Published as part of YCG's effort to digitalise old records. All records uploaded exactly as they appear in our physical books, for any changes to names etc, please contact admin@ycg.org"
+            "Published as part of YCG's effort to digitalise old records. All records uploaded exactly as they appear in our physical books, for any changes to names etc, please contact admin@ycg.org.uk"
         ],
-        "id": "1500117",
+        "id": "1554502",
         "time_in_ms": 6594912
     },
     {
@@ -17828,9 +17884,9 @@
             }
         ],
         "footnotes": [
-            "Published as part of YCG's effort to digitalise old records. All records uploaded exactly as they appear in our physical books, for any changes to names etc, please contact admin@ycg.org"
+            "Published as part of YCG's effort to digitalise old records. All records uploaded exactly as they appear in our physical books, for any changes to names etc, please contact admin@ycg.org.uk"
         ],
-        "id": "1500116",
+        "id": "1554503",
         "time_in_ms": 6592320
     },
     {
@@ -17860,9 +17916,9 @@
         "footnotes": [
             "First on three: 3",
             "First on three as conductor: 1",
-            "Published as part of YCG's effort to digitalise old records. All records uploaded exactly as they appear in our physical books, for any changes to names etc, please contact admin@ycg.org"
+            "Published as part of YCG's effort to digitalise old records. All records uploaded exactly as they appear in our physical books, for any changes to names etc, please contact admin@ycg.org.uk"
         ],
-        "id": "1500130",
+        "id": "1554504",
         "time_in_ms": 6589728
     },
     {
@@ -17902,9 +17958,9 @@
             }
         ],
         "footnotes": [
-            "Published as part of YCG's effort to digitalise old records. All records uploaded exactly as they appear in our physical books, for any changes to names etc, please contact admin@ycg.org"
+            "Published as part of YCG's effort to digitalise old records. All records uploaded exactly as they appear in our physical books, for any changes to names etc, please contact admin@ycg.org.uk"
         ],
-        "id": "1500115",
+        "id": "1554505",
         "time_in_ms": 6588864
     },
     {
@@ -17944,9 +18000,9 @@
             }
         ],
         "footnotes": [
-            "Published as part of YCG's effort to digitalise old records. All records uploaded exactly as they appear in our physical books, for any changes to names etc, please contact admin@ycg.org"
+            "Published as part of YCG's effort to digitalise old records. All records uploaded exactly as they appear in our physical books, for any changes to names etc, please contact admin@ycg.org.uk"
         ],
-        "id": "1500114",
+        "id": "1554506",
         "time_in_ms": 6583680
     },
     {
@@ -17986,53 +18042,10 @@
             }
         ],
         "footnotes": [
-            "Published as part of YCG's effort to digitalise old records. All records uploaded exactly as they appear in our physical books, for any changes to names etc, please contact admin@ycg.org"
+            "Published as part of YCG's effort to digitalise old records. All records uploaded exactly as they appear in our physical books, for any changes to names etc, please contact admin@ycg.org.uk"
         ],
-        "id": "1500113",
+        "id": "1554507",
         "time_in_ms": 6562908
-    },
-    {
-        "academic_year": "1989/90",
-        "type": 1,
-        "date": "Sunday, 17 June 1990",
-        "location": "Spurriergate Centre, York, North Yorkshire",
-        "weight": "8-2-14 in A",
-        "time": "",
-        "changes": "1260",
-        "method": "Minor (3m)",
-        "details": "3m: Plain, Little, Heslington Alliance",
-        "ringers": [
-            {
-                "name": "Barbara J Rand",
-                "bell": "1"
-            },
-            {
-                "name": "Susan M Jones",
-                "bell": "2"
-            },
-            {
-                "name": "T P Hart",
-                "bell": "3"
-            },
-            {
-                "name": "A J Heywood",
-                "bell": "4"
-            },
-            {
-                "name": "R M Burgess",
-                "bell": "5"
-            },
-            {
-                "name": "D J Jones (C)",
-                "bell": "6"
-            }
-        ],
-        "footnotes": [
-            "Rung during the dinner weekend.",
-            "Published as part of YCG's effort to digitalise old records. All records uploaded exactly as they appear in our physical books, for any changes to names etc, please contact admin@ycg.org"
-        ],
-        "id": "1500112",
-        "time_in_ms": 6455772
     },
     {
         "academic_year": "1989/90",
@@ -18079,6 +18092,49 @@
     {
         "academic_year": "1989/90",
         "type": 1,
+        "date": "Sunday, 17 June 1990",
+        "location": "Spurriergate Centre, York, North Yorkshire",
+        "weight": "8-2-14 in A",
+        "time": "",
+        "changes": "1260",
+        "method": "Minor (3m)",
+        "details": "3m: Plain, Little, Heslington Alliance",
+        "ringers": [
+            {
+                "name": "Barbara J Rand",
+                "bell": "1"
+            },
+            {
+                "name": "Susan M Jones",
+                "bell": "2"
+            },
+            {
+                "name": "T P Hart",
+                "bell": "3"
+            },
+            {
+                "name": "A J Heywood",
+                "bell": "4"
+            },
+            {
+                "name": "R M Burgess",
+                "bell": "5"
+            },
+            {
+                "name": "D J Jones (C)",
+                "bell": "6"
+            }
+        ],
+        "footnotes": [
+            "Rung during the dinner weekend.",
+            "Published as part of YCG's effort to digitalise old records. All records uploaded exactly as they appear in our physical books, for any changes to names etc, please contact admin@ycg.org.uk"
+        ],
+        "id": "1554508",
+        "time_in_ms": 6455772
+    },
+    {
+        "academic_year": "1989/90",
+        "type": 1,
         "date": "Sunday, 20 May 1990",
         "location": "Spurriergate Centre, York, North Yorkshire",
         "weight": "8-2-14 in A",
@@ -18113,9 +18169,9 @@
             }
         ],
         "footnotes": [
-            "Published as part of YCG's effort to digitalise old records. All records uploaded exactly as they appear in our physical books, for any changes to names etc, please contact admin@ycg.org"
+            "Published as part of YCG's effort to digitalise old records. All records uploaded exactly as they appear in our physical books, for any changes to names etc, please contact admin@ycg.org.uk"
         ],
-        "id": "1500110",
+        "id": "1554509",
         "time_in_ms": 6431580
     },
     {
@@ -18155,9 +18211,9 @@
             }
         ],
         "footnotes": [
-            "Published as part of YCG's effort to digitalise old records. All records uploaded exactly as they appear in our physical books, for any changes to names etc, please contact admin@ycg.org"
+            "Published as part of YCG's effort to digitalise old records. All records uploaded exactly as they appear in our physical books, for any changes to names etc, please contact admin@ycg.org.uk"
         ],
-        "id": "1500109",
+        "id": "1554511",
         "time_in_ms": 6377184
     },
     {
@@ -18193,9 +18249,9 @@
             }
         ],
         "footnotes": [
-            "Published as part of YCG's effort to digitalise old records. All records uploaded exactly as they appear in our physical books, for any changes to names etc, please contact admin@ycg.org"
+            "Published as part of YCG's effort to digitalise old records. All records uploaded exactly as they appear in our physical books, for any changes to names etc, please contact admin@ycg.org.uk"
         ],
-        "id": "1500108",
+        "id": "1554512",
         "time_in_ms": 6352992
     },
     {
@@ -18236,9 +18292,9 @@
         ],
         "footnotes": [
             "50th Peal: 5",
-            "Published as part of YCG's effort to digitalise old records. All records uploaded exactly as they appear in our physical books, for any changes to names etc, please contact admin@ycg.org"
+            "Published as part of YCG's effort to digitalise old records. All records uploaded exactly as they appear in our physical books, for any changes to names etc, please contact admin@ycg.org.uk"
         ],
-        "id": "1500076",
+        "id": "1554513",
         "time_in_ms": 6340896
     },
     {
@@ -18278,9 +18334,9 @@
             }
         ],
         "footnotes": [
-            "Published as part of YCG's effort to digitalise old records. All records uploaded exactly as they appear in our physical books, for any changes to names etc, please contact admin@ycg.org"
+            "Published as part of YCG's effort to digitalise old records. All records uploaded exactly as they appear in our physical books, for any changes to names etc, please contact admin@ycg.org.uk"
         ],
-        "id": "1500088",
+        "id": "1554514",
         "time_in_ms": 6276960
     },
     {
@@ -18321,9 +18377,9 @@
         ],
         "footnotes": [
             "First Quarter: 6",
-            "Published as part of YCG's effort to digitalise old records. All records uploaded exactly as they appear in our physical books, for any changes to names etc, please contact admin@ycg.org"
+            "Published as part of YCG's effort to digitalise old records. All records uploaded exactly as they appear in our physical books, for any changes to names etc, please contact admin@ycg.org.uk"
         ],
-        "id": "1500077",
+        "id": "1554515",
         "time_in_ms": 6264864
     },
     {
@@ -18549,9 +18605,9 @@
         "footnotes": [
             "1st Attempt - 1",
             "First on towerbells as Conductor.",
-            "Published as part of YCG's effort to digitalise old records. All records uploaded exactly as they appear in our physical books, for any changes to names etc, please contact admin@ycg.org"
+            "Published as part of YCG's effort to digitalise old records. All records uploaded exactly as they appear in our physical books, for any changes to names etc, please contact admin@ycg.org.uk"
         ],
-        "id": "1517920",
+        "id": "1554516",
         "time_in_ms": 5754240
     },
     {
@@ -18593,9 +18649,9 @@
         "footnotes": [
             "1st Q in the method, York Colleges Guild Treble Place: -14-36-3456 56 lh 12, 142635.",
             "For Ash Wednesday Service by the York Colleges Guild. 60p",
-            "Published as part of YCG's effort to digitalise old records. All records uploaded exactly as they appear in our physical books, for any changes to names etc, please contact admin@ycg.org"
+            "Published as part of YCG's effort to digitalise old records. All records uploaded exactly as they appear in our physical books, for any changes to names etc, please contact admin@ycg.org.uk"
         ],
-        "id": "1517426",
+        "id": "1554517",
         "time_in_ms": 5418144
     },
     {
@@ -18763,9 +18819,9 @@
         "footnotes": [
             "For Dinner Day",
             "Compliment to Claire Louise, daughter of Derek and Susan Jones.",
-            "Published as part of YCG's effort to digitalise old records. All records uploaded exactly as they appear in our physical books, for any changes to names etc, please contact admin@ycg.org"
+            "Published as part of YCG's effort to digitalise old records. All records uploaded exactly as they appear in our physical books, for any changes to names etc, please contact admin@ycg.org.uk"
         ],
-        "id": "1517922",
+        "id": "1554518",
         "time_in_ms": 2988540
     },
     {
@@ -19217,9 +19273,9 @@
             }
         ],
         "footnotes": [
-            "Published as part of YCG's effort to digitalise old records. All records uploaded exactly as they appear in our physical books, for any changes to names etc, please contact admin@ycg.org"
+            "Published as part of YCG's effort to digitalise old records. All records uploaded exactly as they appear in our physical books, for any changes to names etc, please contact admin@ycg.org.uk"
         ],
-        "id": "1517921",
+        "id": "1554519",
         "time_in_ms": 2039868
     },
     {
@@ -19432,9 +19488,9 @@
         ],
         "footnotes": [
             "Conducted by D J Jones",
-            "Published as part of YCG's effort to digitalise old records. All records uploaded exactly as they appear in our physical books, for any changes to names etc, please contact admin@ycg.org"
+            "Published as part of YCG's effort to digitalise old records. All records uploaded exactly as they appear in our physical books, for any changes to names etc, please contact admin@ycg.org.uk"
         ],
-        "id": "1500558",
+        "id": "1554520",
         "time_in_ms": 1444572
     },
     {
@@ -19532,9 +19588,9 @@
             }
         ],
         "footnotes": [
-            "Published as part of YCG's effort to digitalise old records. All records uploaded exactly as they appear in our physical books, for any changes to names etc, please contact admin@ycg.org"
+            "Published as part of YCG's effort to digitalise old records. All records uploaded exactly as they appear in our physical books, for any changes to names etc, please contact admin@ycg.org.uk"
         ],
-        "id": "1527429",
+        "id": "1554521",
         "time_in_ms": 1308960
     },
     {
@@ -19625,9 +19681,9 @@
         ],
         "footnotes": [
             "Conducted by D J Jones",
-            "Published as part of YCG's effort to digitalise old records. All records uploaded exactly as they appear in our physical books, for any changes to names etc, please contact admin@ycg.org"
+            "Published as part of YCG's effort to digitalise old records. All records uploaded exactly as they appear in our physical books, for any changes to names etc, please contact admin@ycg.org.uk"
         ],
-        "id": "1500555",
+        "id": "1554522",
         "time_in_ms": 1296864
     },
     {
@@ -19781,9 +19837,9 @@
         "footnotes": [
             "1st peal for the Guild",
             "Rung as an engagement compliment to Princess Anne and Lt. Mark Phillips",
-            "Published as part of YCG's effort to digitalise old records. All records uploaded exactly as they appear in our physical books, for any changes to names etc, please contact admin@ycg.org"
+            "Published as part of YCG's effort to digitalise old records. All records uploaded exactly as they appear in our physical books, for any changes to names etc, please contact admin@ycg.org.uk"
         ],
-        "id": "1500168",
+        "id": "1554523",
         "time_in_ms": 1078236
     },
     {
@@ -19867,9 +19923,9 @@
         "footnotes": [
             "Conducted by D J Jones",
             "For Royal Wedding",
-            "Published as part of YCG's effort to digitalise old records. All records uploaded exactly as they appear in our physical books, for any changes to names etc, please contact admin@ycg.org"
+            "Published as part of YCG's effort to digitalise old records. All records uploaded exactly as they appear in our physical books, for any changes to names etc, please contact admin@ycg.org.uk"
         ],
-        "id": "1500554",
+        "id": "1554524",
         "time_in_ms": 919296
     },
     {
@@ -19918,9 +19974,9 @@
         ],
         "footnotes": [
             "Conducted by D J Jones",
-            "Published as part of YCG's effort to digitalise old records. All records uploaded exactly as they appear in our physical books, for any changes to names etc, please contact admin@ycg.org"
+            "Published as part of YCG's effort to digitalise old records. All records uploaded exactly as they appear in our physical books, for any changes to names etc, please contact admin@ycg.org.uk"
         ],
-        "id": "1515633",
+        "id": "1554525",
         "time_in_ms": 919296
     },
     {
@@ -20042,9 +20098,9 @@
             }
         ],
         "footnotes": [
-            "Published as part of YCG's effort to digitalise old records. All records uploaded exactly as they appear in our physical books, for any changes to names etc, please contact admin@ycg.org"
+            "Published as part of YCG's effort to digitalise old records. All records uploaded exactly as they appear in our physical books, for any changes to names etc, please contact admin@ycg.org.uk"
         ],
-        "id": "1507084",
+        "id": "1554526",
         "time_in_ms": 456156
     },
     {
@@ -20084,9 +20140,9 @@
             }
         ],
         "footnotes": [
-            "Published as part of YCG's effort to digitalise old records. All records uploaded exactly as they appear in our physical books, for any changes to names etc, please contact admin@ycg.org"
+            "Published as part of YCG's effort to digitalise old records. All records uploaded exactly as they appear in our physical books, for any changes to names etc, please contact admin@ycg.org.uk"
         ],
-        "id": "1507085",
+        "id": "1554527",
         "time_in_ms": 385308
     },
     {
@@ -20221,9 +20277,9 @@
         ],
         "footnotes": [
             "Conducted by D J Jones",
-            "Published as part of YCG's effort to digitalise old records. All records uploaded exactly as they appear in our physical books, for any changes to names etc, please contact admin@ycg.org"
+            "Published as part of YCG's effort to digitalise old records. All records uploaded exactly as they appear in our physical books, for any changes to names etc, please contact admin@ycg.org.uk"
         ],
-        "id": "1500547",
+        "id": "1554528",
         "time_in_ms": 247068
     },
     {
@@ -20272,9 +20328,9 @@
         ],
         "footnotes": [
             "Conducted by D J Jones",
-            "Published as part of YCG's effort to digitalise old records. All records uploaded exactly as they appear in our physical books, for any changes to names etc, please contact admin@ycg.org"
+            "Published as part of YCG's effort to digitalise old records. All records uploaded exactly as they appear in our physical books, for any changes to names etc, please contact admin@ycg.org.uk"
         ],
-        "id": "1515631",
+        "id": "1554529",
         "time_in_ms": 235836
     },
     {
@@ -20315,9 +20371,9 @@
         ],
         "footnotes": [
             "Conducted by D J Jones",
-            "Published as part of YCG's effort to digitalise old records. All records uploaded exactly as they appear in our physical books, for any changes to names etc, please contact admin@ycg.org"
+            "Published as part of YCG's effort to digitalise old records. All records uploaded exactly as they appear in our physical books, for any changes to names etc, please contact admin@ycg.org.uk"
         ],
-        "id": "1500545",
+        "id": "1554530",
         "time_in_ms": 129564
     },
     {
@@ -20401,9 +20457,9 @@
         ],
         "footnotes": [
             "Conducted by D J Jones",
-            "Published as part of YCG's effort to digitalise old records. All records uploaded exactly as they appear in our physical books, for any changes to names etc, please contact admin@ycg.org"
+            "Published as part of YCG's effort to digitalise old records. All records uploaded exactly as they appear in our physical books, for any changes to names etc, please contact admin@ycg.org.uk"
         ],
-        "id": "1500542",
+        "id": "1554531",
         "time_in_ms": 37980
     }
 ]

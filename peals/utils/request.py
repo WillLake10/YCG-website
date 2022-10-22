@@ -24,3 +24,14 @@ def get_ids():
         ids.append(x.attrib.get("href").replace("view.php?id=", ""))
 
     return ids
+
+
+def get_ids_changed_since_date(date):
+    data = send_request("/search.php?association_id=115&changed_since=" + date + "&pagesize=" + reqCount)
+    root = et.fromstring(data.decode("utf-8"))
+    ids = []
+
+    for x in root:
+        ids.append(x.attrib.get("href").replace("view.php?id=", ""))
+
+    return ids

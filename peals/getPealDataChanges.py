@@ -1,11 +1,12 @@
 import multiprocessing as mp
 import json
-import datetime
+from datetime import datetime, timedelta
 
-from peals.utils.request import get_ids
-from peals.utils.PerformanceEncoder import PerformanceEncoder
-from peals.utils.getPerformances import get_performance
-from peals.utils.buildCounts import build_counts
+from utils.request import get_ids_changed_since_date
+from utils.PerformanceEncoder import PerformanceEncoder
+from utils.getPerformances import get_performance
+from utils.buildCounts import build_counts
+from utils.decodePerformanceJson import load_performances_from_file
 
 
 def get_last_peal(all_perf):
@@ -20,23 +21,34 @@ def get_last_peal(all_perf):
 
 if __name__ == '__main__':
     print("--Starting API Call for IDs--")
-    all_ids = get_ids()
+    date_2_says_ago = datetime.now() - timedelta(days=2)
+    all_ids = get_ids_changed_since_date(date_2_says_ago.strftime('%Y-%m-%d'))
     print("--Ending API Call for IDs--")
     print("--Starting API Calls for Performances--")
+
     with mp.Pool(mp.cpu_count()) as p:
         performances = p.map(get_performance, all_ids)
 
-    # performances = [get_performance(all_ids[0])]
-
-    customIds = ["1107684", "1103088", "12526"]
-    with mp.Pool(mp.cpu_count()) as p:
-        performancesCustom = p.map(get_performance, customIds)
-
-    for perf in performancesCustom:
-        performances.append(perf)
-
     print("--API calls complete--")
-    print("" + str(len(performances)) + " recorded performances")
+
+    performances_existing = load_performances_from_file()
+
+    print(len(performances_existing))
+
+    for performance in performances_existing:
+        for perf in performances:
+            if performance.id == perf.id:
+                performances_existing.remove(performance)
+
+    print(len(performances_existing))
+
+    print("" + str(len(performances)) + " performances updated or added")
+
+    for performance in performances_existing:
+        performances.append(performance)
+
+    print("" + str(len(performances)) + " performances in file")
+
     print("Starting File Write")
     get_last_peal(performances)
     f = open("peals/lastRinging.json", "w")
@@ -48,7 +60,7 @@ if __name__ == '__main__':
     else:
         f.write(json.dumps(performances[0], indent=4, cls=PerformanceEncoder))
     f.close()
-    currentTime = datetime.datetime.now()
+    currentTime = datetime.now()
     f = open("peals/lastEdit.json", "w")
     f.write("{\n    \"time\": \"" + currentTime.strftime("%d/%m/%Y at %X GMT") + "\"\n}")
     f.close()

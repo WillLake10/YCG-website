@@ -23,7 +23,7 @@ jobs:
           python -m pip install --upgrade pip
 
       - name: rebuild database py script
-        run: python peals/getPealDataChanges.py
+        run: python peals/getPealData.py
 
       - name: commit files
         run: |

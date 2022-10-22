@@ -21,7 +21,7 @@ def get_performance(perf_id):
     date = perf.getElementsByTagName("date")[0].childNodes[0].data
     academic_year = get_academic_year(date)
     dt = datetime.datetime.strptime(date, '%Y-%m-%d')
-    timeMs = int(dt.timestamp() / 100)
+    time_ms = int(dt.timestamp() / 100)
     date = dt.strftime('%A, %d %B %Y')
     place = perf.getElementsByTagName("place")
     for pla in place:
@@ -58,18 +58,24 @@ def get_performance(perf_id):
 
             ringers.append(Ringer(name, bell))
 
+    time_ms = time_ms + len(ringers)
+    # print(type(int(changes)))
+    if changes != '':
+        if int(changes) > 5000:
+            time_ms = time_ms + 100
+
     fns = perf.getElementsByTagName("footnote")
     for f in fns:
         footnotes.append(get_child_node_data(f, "footnote", perf_id))
 
-    type = 2
+    type_of_performance = 2
     if changes != '':
         if int(changes) > 1200:
-            type = 1
+            type_of_performance = 1
         if int(changes) > 5000:
-            type = 0
+            type_of_performance = 0
 
-    return Performance(academic_year, type, date, location, weight, time, changes, method, details, ringers, footnotes, perf_id, timeMs)
+    return Performance(academic_year, type_of_performance, date, location, weight, time, changes, method, details, ringers, footnotes, perf_id, time_ms)
 
 
 def get_node(node, aspect, perf_id):

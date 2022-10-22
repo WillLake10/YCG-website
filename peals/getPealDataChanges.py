@@ -36,12 +36,13 @@ if __name__ == '__main__':
     print("" + str(len(performances)) + " performances updated or added")
 
     new_perf = []
+    for perf in performances:
+        new_perf.append(perf)
 
     for performance in performances_existing:
         found = False
         for perf in performances:
             if performance.id == perf.id:
-                new_perf.append(perf)
                 found = True
 
         if not found:

@@ -28,7 +28,8 @@ if __name__ == '__main__':
 
     # performances = [get_performance(all_ids[0])]
 
-    customIds = ["1107684", "1103088", "12526"]
+    customIds = ["1107684", "1103088", "12526", "1527256", "1527126", "1526223", "1523183", "1523517", "1523514",
+                 "1526423", "1526422"]
     with mp.Pool(mp.cpu_count()) as p:
         performancesCustom = p.map(get_performance, customIds)
 

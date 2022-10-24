@@ -2,10 +2,10 @@
     "tower": [
         {
             "tower": "York (St Lawrence), North Yorkshire",
-            "peals": 6,
-            "quarters": 129,
+            "peals": 7,
+            "quarters": 130,
             "other": 1,
-            "total": 136
+            "total": 138
         },
         {
             "tower": "York (St Martin le Grand, Coney Street), North Yorkshire",
@@ -30,10 +30,10 @@
         },
         {
             "tower": "Huntington (All Saints), North Yorkshire",
-            "peals": 0,
+            "peals": 1,
             "quarters": 7,
             "other": 0,
-            "total": 7
+            "total": 8
         },
         {
             "tower": "Acomb (St Stephen), North Yorkshire",
@@ -43,18 +43,18 @@
             "total": 6
         },
         {
+            "tower": "York (All Saints, North Street), North Yorkshire",
+            "peals": 1,
+            "quarters": 5,
+            "other": 0,
+            "total": 6
+        },
+        {
             "tower": "York (Spurriergate Centre), North Yorkshire",
             "peals": 0,
             "quarters": 6,
             "other": 0,
             "total": 6
-        },
-        {
-            "tower": "York (All Saints, North Street), North Yorkshire",
-            "peals": 0,
-            "quarters": 5,
-            "other": 0,
-            "total": 5
         },
         {
             "tower": "York (St Andrew, Bishopthorpe), North Yorkshire",
@@ -81,6 +81,20 @@
             "tower": "Bedale (St Gregory), North Yorkshire",
             "peals": 0,
             "quarters": 3,
+            "other": 0,
+            "total": 3
+        },
+        {
+            "tower": "Broughton in Craven (All Saints), North Yorkshire",
+            "peals": 1,
+            "quarters": 2,
+            "other": 0,
+            "total": 3
+        },
+        {
+            "tower": "Kirby Hill (All Saints), North Yorkshire",
+            "peals": 2,
+            "quarters": 1,
             "other": 0,
             "total": 3
         },
@@ -113,24 +127,10 @@
             "total": 2
         },
         {
-            "tower": "Broughton in Craven (All Saints), North Yorkshire",
-            "peals": 0,
-            "quarters": 2,
-            "other": 0,
-            "total": 2
-        },
-        {
             "tower": "Ipswich (532 Norwich Road (The Vestey Ring)), Suffolk",
             "peals": 0,
             "quarters": 2,
             "other": 0,
-            "total": 2
-        },
-        {
-            "tower": "University of York (East Campus), North Yorkshire",
-            "peals": 0,
-            "quarters": 0,
-            "other": 2,
             "total": 2
         },
         {
@@ -183,6 +183,13 @@
             "total": 1
         },
         {
+            "tower": "Cathedral Church of St Peter and St Wilfrid, Ripon, North Yorkshire",
+            "peals": 1,
+            "quarters": 0,
+            "other": 0,
+            "total": 1
+        },
+        {
             "tower": "Chieveley (St Mary the Virgin), Berkshire",
             "peals": 0,
             "quarters": 1,
@@ -226,13 +233,6 @@
         },
         {
             "tower": "Inveraray (All Saints), Argyll and Bute",
-            "peals": 0,
-            "quarters": 1,
-            "other": 0,
-            "total": 1
-        },
-        {
-            "tower": "Kirby Hill (All Saints), North Yorkshire",
             "peals": 0,
             "quarters": 1,
             "other": 0,
@@ -316,10 +316,31 @@
             "total": 1
         },
         {
+            "tower": "St Nicolas, North Stoneham, Hampshire",
+            "peals": 1,
+            "quarters": 0,
+            "other": 0,
+            "total": 1
+        },
+        {
+            "tower": "St Peter, Soberton, Hampshire",
+            "peals": 1,
+            "quarters": 0,
+            "other": 0,
+            "total": 1
+        },
+        {
             "tower": "Thorpe Arch (All Saints), West Yorkshire",
             "peals": 1,
             "quarters": 0,
             "other": 0,
+            "total": 1
+        },
+        {
+            "tower": "University of York (East Campus), North Yorkshire",
+            "peals": 0,
+            "quarters": 0,
+            "other": 1,
             "total": 1
         },
         {
@@ -401,9 +422,9 @@
         }
     ],
     "summary": {
-        "peals": 23,
-        "quarters": 430,
+        "peals": 33,
+        "quarters": 431,
         "other": 20,
-        "total": 473
+        "total": 484
     }
 }

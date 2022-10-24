@@ -286,9 +286,9 @@
             {
                 "tower": "York (St Lawrence), North Yorkshire",
                 "peals": 0,
-                "quarters": 13,
+                "quarters": 14,
                 "other": 0,
-                "total": 13
+                "total": 14
             },
             {
                 "tower": "Yatesbury (All Saints), Wiltshire\t",
@@ -342,9 +342,9 @@
         ],
         "summary": {
             "peals": 1,
-            "quarters": 19,
+            "quarters": 20,
             "other": 0,
-            "total": 20
+            "total": 21
         }
     },
     {
@@ -684,10 +684,10 @@
         "tower": [
             {
                 "tower": "York (St Lawrence), North Yorkshire",
-                "peals": 0,
+                "peals": 1,
                 "quarters": 13,
                 "other": 0,
-                "total": 13
+                "total": 14
             },
             {
                 "tower": "York (Spurriergate Centre), North Yorkshire",
@@ -796,10 +796,10 @@
             }
         ],
         "summary": {
-            "peals": 1,
+            "peals": 2,
             "quarters": 54,
             "other": 0,
-            "total": 55
+            "total": 56
         }
     },
     {
@@ -1333,6 +1333,13 @@
                 "total": 7
             },
             {
+                "tower": "York (All Saints, North Street), North Yorkshire",
+                "peals": 1,
+                "quarters": 0,
+                "other": 0,
+                "total": 1
+            },
+            {
                 "tower": "Strensall (St Mary the Virgin), North Yorkshire",
                 "peals": 0,
                 "quarters": 1,
@@ -1355,10 +1362,10 @@
             }
         ],
         "summary": {
-            "peals": 0,
+            "peals": 1,
             "quarters": 10,
             "other": 0,
-            "total": 10
+            "total": 11
         }
     },
     {
@@ -1506,6 +1513,13 @@
                 "total": 2
             },
             {
+                "tower": "Cathedral Church of St Peter and St Wilfrid, Ripon, North Yorkshire",
+                "peals": 1,
+                "quarters": 0,
+                "other": 0,
+                "total": 1
+            },
+            {
                 "tower": "York (St Martin le Grand, Coney Street), North Yorkshire",
                 "peals": 0,
                 "quarters": 1,
@@ -1514,10 +1528,10 @@
             }
         ],
         "summary": {
-            "peals": 1,
+            "peals": 2,
             "quarters": 7,
             "other": 0,
-            "total": 8
+            "total": 9
         }
     },
     {
@@ -1557,10 +1571,10 @@
         "tower": [
             {
                 "tower": "York (Former St John (Arts Center)), Yorkshire",
-                "peals": 1,
+                "peals": 2,
                 "quarters": 0,
                 "other": 0,
-                "total": 1
+                "total": 2
             },
             {
                 "tower": "York (St Martin le Grand, Coney Street), North Yorkshire",
@@ -1571,10 +1585,10 @@
             }
         ],
         "summary": {
-            "peals": 1,
+            "peals": 2,
             "quarters": 1,
             "other": 0,
-            "total": 2
+            "total": 3
         }
     },
     {
@@ -1661,13 +1675,20 @@
                 "quarters": 4,
                 "other": 0,
                 "total": 4
+            },
+            {
+                "tower": "Kirby Hill (All Saints), North Yorkshire",
+                "peals": 1,
+                "quarters": 0,
+                "other": 0,
+                "total": 1
             }
         ],
         "summary": {
-            "peals": 0,
+            "peals": 1,
             "quarters": 4,
             "other": 0,
-            "total": 4
+            "total": 5
         }
     },
     {
@@ -1679,13 +1700,41 @@
                 "quarters": 4,
                 "other": 0,
                 "total": 4
+            },
+            {
+                "tower": "St Peter, Soberton, Hampshire",
+                "peals": 1,
+                "quarters": 0,
+                "other": 0,
+                "total": 1
+            },
+            {
+                "tower": "St Nicolas, North Stoneham, Hampshire",
+                "peals": 1,
+                "quarters": 0,
+                "other": 0,
+                "total": 1
+            },
+            {
+                "tower": "Kirby Hill (All Saints), North Yorkshire",
+                "peals": 1,
+                "quarters": 0,
+                "other": 0,
+                "total": 1
+            },
+            {
+                "tower": "Broughton in Craven (All Saints), North Yorkshire",
+                "peals": 1,
+                "quarters": 0,
+                "other": 0,
+                "total": 1
             }
         ],
         "summary": {
-            "peals": 0,
+            "peals": 4,
             "quarters": 4,
             "other": 0,
-            "total": 4
+            "total": 8
         }
     },
     {
@@ -1864,6 +1913,38 @@
             "quarters": 6,
             "other": 0,
             "total": 6
+        }
+    },
+    {
+        "academic_year": "1969/70",
+        "tower": [
+            {
+                "tower": "York (Former St John (Arts Center)), Yorkshire",
+                "peals": 0,
+                "quarters": 1,
+                "other": 0,
+                "total": 1
+            },
+            {
+                "tower": "Huntington (All Saints), North Yorkshire",
+                "peals": 0,
+                "quarters": 1,
+                "other": 0,
+                "total": 1
+            },
+            {
+                "tower": "Broughton in Craven (All Saints), North Yorkshire",
+                "peals": 0,
+                "quarters": 1,
+                "other": 0,
+                "total": 1
+            }
+        ],
+        "summary": {
+            "peals": 0,
+            "quarters": 3,
+            "other": 0,
+            "total": 3
         }
     }
 ]

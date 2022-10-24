@@ -1401,9 +1401,9 @@
             }
         ],
         "footnotes": [
-            "Rang for peace in Ukraine, alongside the peaceful gathering in York"
+            "Rung for peace in Ukraine, alongside the peaceful gathering in York"
         ],
-        "id": "1522461",
+        "id": "1555429",
         "time_in_ms": 16464393
     },
     {
@@ -3321,6 +3321,48 @@
             "Rung on the morning of the 43rd annual York Colleges Guild dinner."
         ],
         "id": "1089032",
+        "time_in_ms": 13712550
+    },
+    {
+        "academic_year": "2012/13",
+        "type": 1,
+        "date": "Saturday, 15 June 2013",
+        "location": "St Lawrence, York, North Yorkshire",
+        "weight": "7-3-24",
+        "time": "41m",
+        "changes": "1269",
+        "method": "Plain Bob Doubles",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Alex Bishop",
+                "bell": "1"
+            },
+            {
+                "name": "James Baxter",
+                "bell": "2"
+            },
+            {
+                "name": "David Denbigh",
+                "bell": "3"
+            },
+            {
+                "name": "Sophie Palmer",
+                "bell": "4"
+            },
+            {
+                "name": "Simon Percy (C)",
+                "bell": "5"
+            },
+            {
+                "name": "Richard Mayers",
+                "bell": "6"
+            }
+        ],
+        "footnotes": [
+            "Rung for the YCG dinner day 2013"
+        ],
+        "id": "1149980",
         "time_in_ms": 13712550
     },
     {
@@ -9711,6 +9753,51 @@
         ],
         "id": "50660",
         "time_in_ms": 11474026
+    },
+    {
+        "academic_year": "2005/06",
+        "type": 0,
+        "date": "Sunday, 12 March 2006",
+        "location": "St Laurence, York, N Yorkshire",
+        "weight": "7-3-24",
+        "time": "2h 39",
+        "changes": "5040",
+        "method": "Plain Bob Minor",
+        "details": "7x720",
+        "ringers": [
+            {
+                "name": "Charlotte Elkington (Alcuin)",
+                "bell": "1"
+            },
+            {
+                "name": "Kevin Atkinson (Alcuin)",
+                "bell": "2"
+            },
+            {
+                "name": "Allen Eccles (Vanbrugh)",
+                "bell": "3"
+            },
+            {
+                "name": "Matthew D Greenaway (Vanbrugh)",
+                "bell": "4"
+            },
+            {
+                "name": "James R C Knowles (James)",
+                "bell": "5"
+            },
+            {
+                "name": "Matthew J Jones (Derwent) (C)",
+                "bell": "6"
+            }
+        ],
+        "footnotes": [
+            "First Peal: 1, 2, 3, 4",
+            "First Peal as Conductor.",
+            "To celebrate the completion of Charlotte Elkington's PhD.",
+            "First Peal by a resident YCG band since 2001. "
+        ],
+        "id": "996941",
+        "time_in_ms": 11421322
     },
     {
         "academic_year": "2005/06",
@@ -16434,6 +16521,48 @@
     },
     {
         "academic_year": "1992/93",
+        "type": 0,
+        "date": "Sunday, 15 August 1993",
+        "location": "All Saints, North Street, York, North Yorkshire",
+        "weight": "7-2-2 in A",
+        "time": "2h 51",
+        "changes": "5040",
+        "method": "Plain Bob Minor",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Martin Sutton",
+                "bell": "1"
+            },
+            {
+                "name": "Julien Hollingshurst",
+                "bell": "2"
+            },
+            {
+                "name": "Linda Beard",
+                "bell": "3"
+            },
+            {
+                "name": "Clive Vidgen",
+                "bell": "4"
+            },
+            {
+                "name": "John S Leech (C)",
+                "bell": "5"
+            },
+            {
+                "name": "Robert D C Richards",
+                "bell": "6"
+            }
+        ],
+        "footnotes": [
+            "1st peal on the bells. First peal for 1,2,4"
+        ],
+        "id": "1527256",
+        "time_in_ms": 7453834
+    },
+    {
+        "academic_year": "1992/93",
         "type": 1,
         "date": "Wednesday, 23 June 1993",
         "location": "St James, Nunburnholme, East Riding of Yorkshire",
@@ -18050,6 +18179,65 @@
     {
         "academic_year": "1989/90",
         "type": 0,
+        "date": "Monday, 28 May 1990",
+        "location": "Cathedral Church of St Peter and St Wilfrid, Ripon, North Yorkshire",
+        "weight": "23-0-24 in Eb",
+        "time": "3h 10",
+        "changes": "5040",
+        "method": "Plain Bob Royal",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Elizabeth S Riley (Goodricke)",
+                "bell": "1"
+            },
+            {
+                "name": "Sarah L Wood (Wentworth)",
+                "bell": "2"
+            },
+            {
+                "name": "Geoffrey W Johnson (St John's)",
+                "bell": "3"
+            },
+            {
+                "name": "Janine H Jones (St John's)",
+                "bell": "4"
+            },
+            {
+                "name": "Sarah L Appleyard (Ripon College)",
+                "bell": "5"
+            },
+            {
+                "name": "Robert D C Richards (Langwith)",
+                "bell": "6"
+            },
+            {
+                "name": "John S Leech (Vanburgh)",
+                "bell": "7"
+            },
+            {
+                "name": "Alan M Combes (Associate)",
+                "bell": "8"
+            },
+            {
+                "name": "Rupert M Burgess (Derwent)",
+                "bell": "9"
+            },
+            {
+                "name": "Anthony J Haywood (Goodricke) (C)",
+                "bell": "10"
+            }
+        ],
+        "footnotes": [
+            "1st on 10 - 4,5,6,9; !st on 10 as conductor; !st on 10 for YCG;",
+            "For the Ripon Edwardian Festival"
+        ],
+        "id": "1527126",
+        "time_in_ms": 6438638
+    },
+    {
+        "academic_year": "1989/90",
+        "type": 0,
         "date": "Sunday, 04 February 1990",
         "location": "Former St John, York, North Yorkshire",
         "weight": "9-0-4 in G#",
@@ -18562,6 +18750,48 @@
     },
     {
         "academic_year": "1987/88",
+        "type": 0,
+        "date": "Sunday, 01 November 1987",
+        "location": "Art's Centre, York, North Yorkshire",
+        "weight": "10-3-26",
+        "time": "2h 58",
+        "changes": "5040",
+        "method": "Plain Bob Minor",
+        "details": "Plain Bob Minor",
+        "ringers": [
+            {
+                "name": "Jenny K Hill",
+                "bell": "1"
+            },
+            {
+                "name": "Richard Rose",
+                "bell": "2"
+            },
+            {
+                "name": "Robert D C Richards",
+                "bell": "3"
+            },
+            {
+                "name": "Sarah L Wood",
+                "bell": "4"
+            },
+            {
+                "name": "Richard P Darley",
+                "bell": "5"
+            },
+            {
+                "name": "John S Leech (C)",
+                "bell": "6"
+            }
+        ],
+        "footnotes": [
+            "1st peal - Richard Rose.  For the patronal festival of All Saints, North Street"
+        ],
+        "id": "1526223",
+        "time_in_ms": 5627338
+    },
+    {
+        "academic_year": "1987/88",
         "type": 1,
         "date": "Sunday, 19 June 1988",
         "location": "St Martin le Grand, Coney Street, York, North Yorkshire",
@@ -18906,6 +19136,46 @@
     },
     {
         "academic_year": "1977/78",
+        "type": 0,
+        "date": "Friday, 17 February 1978",
+        "location": "All Saints, Kirby Hill, North Yorkshire",
+        "weight": "8-0-14 in A",
+        "time": "2h 30",
+        "changes": "5040",
+        "method": "Minor (5m)",
+        "details": "Oxford TB; Reverse Canterbury; Kent TB; St Clement's; Plain Bob (3 extents)",
+        "ringers": [
+            {
+                "name": "Rosina M Hearfield",
+                "bell": "1"
+            },
+            {
+                "name": "Cathy M Meades",
+                "bell": "2"
+            },
+            {
+                "name": "Susan Adams",
+                "bell": "3"
+            },
+            {
+                "name": "Melvyn A Redout",
+                "bell": "4"
+            },
+            {
+                "name": "John S Leech",
+                "bell": "5"
+            },
+            {
+                "name": "Glenn A A Taylor (C)",
+                "bell": "6"
+            }
+        ],
+        "footnotes": [],
+        "id": "1523183",
+        "time_in_ms": 2565322
+    },
+    {
+        "academic_year": "1977/78",
         "type": 1,
         "date": "Sunday, 12 March 1978",
         "location": "Art's Centre, York, North Yorkshire",
@@ -19067,6 +19337,184 @@
         "footnotes": [],
         "id": "1519105",
         "time_in_ms": 2494374
+    },
+    {
+        "academic_year": "1976/77",
+        "type": 0,
+        "date": "Friday, 17 June 1977",
+        "location": "All Saints, Holme on Spalding Moor, East Riding of Yorkshire",
+        "weight": "6-3-10 in A",
+        "time": "2h 36",
+        "changes": "5040",
+        "method": "8m Minor",
+        "details": "Norwich S; Oxford TB; Surfleet S & Beverley S; Kent TB; Cambridge S; St Clement's; Plain Bob",
+        "ringers": [
+            {
+                "name": "Stuart Heath",
+                "bell": "1"
+            },
+            {
+                "name": "Susan Adams",
+                "bell": "2"
+            },
+            {
+                "name": "Elizabeth S Balls",
+                "bell": "3"
+            },
+            {
+                "name": "John S Leech",
+                "bell": "4"
+            },
+            {
+                "name": "Michael G Barker",
+                "bell": "5"
+            },
+            {
+                "name": "Glenn A A Taylor (C)",
+                "bell": "6"
+            }
+        ],
+        "footnotes": [
+            "for the YCG Dinner Day weekend"
+        ],
+        "id": "1523517",
+        "time_in_ms": 2353642
+    },
+    {
+        "academic_year": "1976/77",
+        "type": 0,
+        "date": "Thursday, 16 June 1977",
+        "location": "All Saints, Kirby Hill, North Yorkshire",
+        "weight": "8-0-14 in A",
+        "time": "2h 57",
+        "changes": "5040",
+        "method": "6m Minor",
+        "details": "Surfleet; Beverley; St Clement's; Kent; Cambridge; Plain Bob * 2",
+        "ringers": [
+            {
+                "name": "Julie M Barrett",
+                "bell": "1"
+            },
+            {
+                "name": "Susan Adams",
+                "bell": "2"
+            },
+            {
+                "name": "Elizabeth S Balls",
+                "bell": "3"
+            },
+            {
+                "name": "John S Leech",
+                "bell": "4"
+            },
+            {
+                "name": "Michael G Barker",
+                "bell": "5"
+            },
+            {
+                "name": "Glenn A A Taylor (C)",
+                "bell": "6"
+            }
+        ],
+        "footnotes": [],
+        "id": "1523514",
+        "time_in_ms": 2352778
+    },
+    {
+        "academic_year": "1976/77",
+        "type": 0,
+        "date": "Monday, 03 January 1977",
+        "location": "St Peter, Soberton, Hampshire",
+        "weight": "13-1-24 in G",
+        "time": "2h 48",
+        "changes": "5152",
+        "method": "Yorkshire Surprise Major",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Susan Adams",
+                "bell": "1"
+            },
+            {
+                "name": "John S Leech",
+                "bell": "2"
+            },
+            {
+                "name": "Martin J Turner",
+                "bell": "3"
+            },
+            {
+                "name": "Michael G Barker",
+                "bell": "4"
+            },
+            {
+                "name": "Robin J Walker",
+                "bell": "5"
+            },
+            {
+                "name": "Glenn A A Taylor",
+                "bell": "6"
+            },
+            {
+                "name": "Nicholas Wilkins",
+                "bell": "7"
+            },
+            {
+                "name": "Christopher P Turner",
+                "bell": "8"
+            }
+        ],
+        "footnotes": [],
+        "id": "1526423",
+        "time_in_ms": 2211084
+    },
+    {
+        "academic_year": "1976/77",
+        "type": 0,
+        "date": "Sunday, 02 January 1977",
+        "location": "St Nicolas, North Stoneham, Hampshire",
+        "weight": "10-1-16 in G",
+        "time": "2h 54",
+        "changes": "5056",
+        "method": "Plain Bob Major",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Christopher P Turner",
+                "bell": "1"
+            },
+            {
+                "name": "Susan Adams",
+                "bell": "2"
+            },
+            {
+                "name": "Glenn A A Taylor",
+                "bell": "3"
+            },
+            {
+                "name": "Michael G Barker",
+                "bell": "4"
+            },
+            {
+                "name": "Nicholas Wilkins (C)",
+                "bell": "5"
+            },
+            {
+                "name": "John S Leech",
+                "bell": "6"
+            },
+            {
+                "name": "Robin J Walker",
+                "bell": "7"
+            },
+            {
+                "name": "Martin J Turner",
+                "bell": "8"
+            }
+        ],
+        "footnotes": [],
+        "id": "1526422",
+        "time_in_ms": 2210220
     },
     {
         "academic_year": "1976/77",
@@ -20461,5 +20909,49 @@
         ],
         "id": "1554531",
         "time_in_ms": 38022
+    },
+    {
+        "academic_year": "1965/66",
+        "type": 0,
+        "date": "Saturday, 07 May 1966",
+        "location": "All Saints, Huntington, North Yorkshire",
+        "weight": "5-0-17 in C",
+        "time": "2h 35",
+        "changes": "5040",
+        "method": "Plain Bob Minor",
+        "details": "7 different extents",
+        "ringers": [
+            {
+                "name": "F Chapman",
+                "bell": "1"
+            },
+            {
+                "name": "C R Folkes (University)",
+                "bell": "2"
+            },
+            {
+                "name": "R Smith",
+                "bell": "3"
+            },
+            {
+                "name": "R J Watkin",
+                "bell": "4"
+            },
+            {
+                "name": "G Pluckrose (Coventry Guild)",
+                "bell": "5"
+            },
+            {
+                "name": "D J Jones (University) (C)",
+                "bell": "6"
+            }
+        ],
+        "footnotes": [
+            "7 extents, all called differently.",
+            "First peal for St. John's College",
+            "Published as part of YCG's effort to digitalise old records. All records uploaded exactly as they appear in our physical books, for any changes to names etc, please contact admin@ycg.org.uk"
+        ],
+        "id": "1555481",
+        "time_in_ms": -1153334
     }
 ]

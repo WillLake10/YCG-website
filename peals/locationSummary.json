@@ -71,6 +71,13 @@
             "total": 5
         },
         {
+            "tower": "Broughton in Craven (All Saints), North Yorkshire",
+            "peals": 1,
+            "quarters": 3,
+            "other": 0,
+            "total": 4
+        },
+        {
             "tower": "Stockton-on-the-Forest (Holy Trinity), North Yorkshire",
             "peals": 0,
             "quarters": 4,
@@ -81,13 +88,6 @@
             "tower": "Bedale (St Gregory), North Yorkshire",
             "peals": 0,
             "quarters": 3,
-            "other": 0,
-            "total": 3
-        },
-        {
-            "tower": "Broughton in Craven (All Saints), North Yorkshire",
-            "peals": 1,
-            "quarters": 2,
             "other": 0,
             "total": 3
         },
@@ -309,7 +309,21 @@
             "total": 1
         },
         {
+            "tower": "St Mary, Anstey, Leicestershire",
+            "peals": 0,
+            "quarters": 1,
+            "other": 0,
+            "total": 1
+        },
+        {
             "tower": "St Mary, Northchurch, Hertfordshire",
+            "peals": 0,
+            "quarters": 1,
+            "other": 0,
+            "total": 1
+        },
+        {
+            "tower": "St Michael, Eastrington, East Riding of Yorkshire",
             "peals": 0,
             "quarters": 1,
             "other": 0,
@@ -423,8 +437,8 @@
     ],
     "summary": {
         "peals": 33,
-        "quarters": 431,
+        "quarters": 457,
         "other": 20,
-        "total": 484
+        "total": 510
     }
 }

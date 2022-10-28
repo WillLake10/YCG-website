@@ -146,7 +146,7 @@
     {
         "academic_year": "1996/97",
         "peals": 1,
-        "quarters": 20,
+        "quarters": 21,
         "other": 1
     },
     {
@@ -212,31 +212,31 @@
     {
         "academic_year": "1979/80",
         "peals": 0,
-        "quarters": 1,
+        "quarters": 3,
         "other": 0
     },
     {
         "academic_year": "1978/79",
         "peals": 1,
-        "quarters": 3,
+        "quarters": 5,
         "other": 0
     },
     {
         "academic_year": "1977/78",
         "peals": 1,
-        "quarters": 4,
+        "quarters": 9,
         "other": 0
     },
     {
         "academic_year": "1976/77",
         "peals": 4,
-        "quarters": 4,
+        "quarters": 17,
         "other": 0
     },
     {
         "academic_year": "1975/76",
         "peals": 1,
-        "quarters": 0,
+        "quarters": 2,
         "other": 0
     },
     {
@@ -272,7 +272,7 @@
     {
         "academic_year": "1969/70",
         "peals": 0,
-        "quarters": 3,
+        "quarters": 4,
         "other": 0
     }
 ]

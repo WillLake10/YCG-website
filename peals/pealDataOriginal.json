@@ -15081,6 +15081,49 @@
                 "bell": "4"
             },
             {
+                "name": "Glenn A A Taylor",
+                "bell": "5"
+            },
+            {
+                "name": "Dominic J Travis",
+                "bell": "6"
+            }
+        ],
+        "footnotes": [
+            "For dinner weekend and Martin's birthday",
+            "Published as part of YCG's effort to digitalise old records. All records uploaded exactly as they appear in our physical books, for any changes to names etc, please contact admin@ycg.org.uk"
+        ],
+        "id": "1556056",
+        "time_in_ms": 8669382
+    },
+    {
+        "academic_year": "1996/97",
+        "type": 1,
+        "date": "Sunday, 22 June 1997",
+        "location": "Former St John, York, North Yorkshire",
+        "weight": "9-0-4 in G#",
+        "time": "",
+        "changes": "1260",
+        "method": "Plain Bob Minor",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Nathan J Watkins",
+                "bell": "1"
+            },
+            {
+                "name": "Ian Broster",
+                "bell": "2"
+            },
+            {
+                "name": "Ian Mellor",
+                "bell": "3"
+            },
+            {
+                "name": "Martin Hardgreave",
+                "bell": "4"
+            },
+            {
                 "name": "Glenn Taylor",
                 "bell": "5"
             },
@@ -18935,6 +18978,48 @@
     {
         "academic_year": "1979/80",
         "type": 1,
+        "date": "Saturday, 03 May 1980",
+        "location": "St Michael, Eastrington, East Riding of Yorkshire",
+        "weight": "10-0-15 in G",
+        "time": "",
+        "changes": "1260",
+        "method": "Mixed Doubles (3m)",
+        "details": "60 Stedman, 600 each Plain Bob, Grandsire",
+        "ringers": [
+            {
+                "name": "J Anne Applegate",
+                "bell": "1"
+            },
+            {
+                "name": "J Ann Dickerson",
+                "bell": "2"
+            },
+            {
+                "name": "Neil G Curnow",
+                "bell": "3"
+            },
+            {
+                "name": "Glenn A A Taylor (C)",
+                "bell": "4"
+            },
+            {
+                "name": "Nicholas D Hughes",
+                "bell": "5"
+            },
+            {
+                "name": "John Cross",
+                "bell": "6"
+            }
+        ],
+        "footnotes": [
+            "For Evensong"
+        ],
+        "id": "1556053",
+        "time_in_ms": 3261606
+    },
+    {
+        "academic_year": "1979/80",
+        "type": 1,
         "date": "Sunday, 30 March 1980",
         "location": "Arts Centre, Micklegate, York, North Yorkshire",
         "weight": "",
@@ -18971,6 +19056,48 @@
         "footnotes": [],
         "id": "1519110",
         "time_in_ms": 3232230
+    },
+    {
+        "academic_year": "1979/80",
+        "type": 1,
+        "date": "Sunday, 16 March 1980",
+        "location": "Arts Centre, York, North Yorkshire",
+        "weight": "9-0-4 in G#",
+        "time": "",
+        "changes": "1272",
+        "method": "York Surprise Minor",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Derek J Barrett",
+                "bell": "1"
+            },
+            {
+                "name": "Susan M Jones",
+                "bell": "2"
+            },
+            {
+                "name": "J Ann Dickerson",
+                "bell": "3"
+            },
+            {
+                "name": "Susan Adams",
+                "bell": "4"
+            },
+            {
+                "name": "Glenn A A Taylor (C)",
+                "bell": "5"
+            },
+            {
+                "name": "Derek J Jones",
+                "bell": "6"
+            }
+        ],
+        "footnotes": [
+            "First in the method: 3"
+        ],
+        "id": "1556050",
+        "time_in_ms": 3220134
     },
     {
         "academic_year": "1978/79",
@@ -19066,6 +19193,48 @@
         "details": "",
         "ringers": [
             {
+                "name": "J Anne Applegate",
+                "bell": "1"
+            },
+            {
+                "name": "Barbara J Rand",
+                "bell": "2"
+            },
+            {
+                "name": "Susan M Adams",
+                "bell": "3"
+            },
+            {
+                "name": "Peter Wilkinson",
+                "bell": "4"
+            },
+            {
+                "name": "Glenn A A Taylor (C)",
+                "bell": "5"
+            },
+            {
+                "name": "Nicholas D Hughes",
+                "bell": "6"
+            }
+        ],
+        "footnotes": [
+            "75th quarter: 3"
+        ],
+        "id": "1556049",
+        "time_in_ms": 2960070
+    },
+    {
+        "academic_year": "1978/79",
+        "type": 1,
+        "date": "Sunday, 20 May 1979",
+        "location": "Arts Centre, Micklegate, York, North Yorkshire",
+        "weight": "",
+        "time": "",
+        "changes": "1260",
+        "method": "Plain Bob Minor",
+        "details": "",
+        "ringers": [
+            {
                 "name": "Ann Applegate",
                 "bell": "1"
             },
@@ -19093,6 +19262,49 @@
         "footnotes": [],
         "id": "1519109",
         "time_in_ms": 2960070
+    },
+    {
+        "academic_year": "1978/79",
+        "type": 1,
+        "date": "Sunday, 19 November 1978",
+        "location": "Arts Centre, Micklegate, York, North Yorkshire",
+        "weight": "",
+        "time": "",
+        "changes": "1260",
+        "method": "Cambridge Surprise Minor",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Sally M Walton",
+                "bell": "1"
+            },
+            {
+                "name": "Glenn A A Taylor (C)",
+                "bell": "2"
+            },
+            {
+                "name": "Susan M Adams",
+                "bell": "3"
+            },
+            {
+                "name": "Barbara J Rand",
+                "bell": "4"
+            },
+            {
+                "name": "David E Potter",
+                "bell": "5"
+            },
+            {
+                "name": "Michael G Barker",
+                "bell": "6"
+            }
+        ],
+        "footnotes": [
+            "Circled the tower: 6",
+            "Circled the tower three times: 2"
+        ],
+        "id": "1556048",
+        "time_in_ms": 2802822
     },
     {
         "academic_year": "1978/79",
@@ -19137,6 +19349,49 @@
     {
         "academic_year": "1977/78",
         "type": 1,
+        "date": "Wednesday, 12 April 1978",
+        "location": "Art's Centre, York, North Yorkshire",
+        "weight": "9-2-27 in G#",
+        "time": "",
+        "changes": "1260",
+        "method": "Plain Bob Minor",
+        "details": "",
+        "ringers": [
+            {
+                "name": "David E Potter",
+                "bell": "1"
+            },
+            {
+                "name": "Susan Adams (C)",
+                "bell": "2"
+            },
+            {
+                "name": "Rosina M Hearfield",
+                "bell": "3"
+            },
+            {
+                "name": "John S Leech",
+                "bell": "4"
+            },
+            {
+                "name": "Michael G Barker",
+                "bell": "5"
+            },
+            {
+                "name": "Glenn A A Taylor",
+                "bell": "6"
+            }
+        ],
+        "footnotes": [
+            "First as conductor",
+            "Submitted as part of the exercise to complete YCG records"
+        ],
+        "id": "1556047",
+        "time_in_ms": 2611878
+    },
+    {
+        "academic_year": "1977/78",
+        "type": 1,
         "date": "Sunday, 12 March 1978",
         "location": "Art's Centre, York, North Yorkshire",
         "weight": "9-2-27 in G#",
@@ -19175,6 +19430,50 @@
         ],
         "id": "1507092",
         "time_in_ms": 2585094
+    },
+    {
+        "academic_year": "1977/78",
+        "type": 1,
+        "date": "Sunday, 19 February 1978",
+        "location": "Art's Centre, York, North Yorkshire",
+        "weight": "9-2-27 in G#",
+        "time": "",
+        "changes": "1272",
+        "method": "Cambridge Surprise Minor",
+        "details": "",
+        "ringers": [
+            {
+                "name": "John S Leech",
+                "bell": "1"
+            },
+            {
+                "name": "Glenn A A Taylor",
+                "bell": "2"
+            },
+            {
+                "name": "Susan Adams",
+                "bell": "3"
+            },
+            {
+                "name": "Melvyn A Redout",
+                "bell": "4"
+            },
+            {
+                "name": "Catherine M Meades",
+                "bell": "5"
+            },
+            {
+                "name": "Peter Wilkinson (C)",
+                "bell": "6"
+            }
+        ],
+        "footnotes": [
+            "First surprise: 4",
+            "Circled the tower twice: 2",
+            "Submitted as part of the exercise to complete the YCG records"
+        ],
+        "id": "1556046",
+        "time_in_ms": 2566950
     },
     {
         "academic_year": "1977/78",
@@ -19270,6 +19569,48 @@
         "details": "",
         "ringers": [
             {
+                "name": "Rosina M Hearfield",
+                "bell": "1"
+            },
+            {
+                "name": "Sue M Adams",
+                "bell": "2"
+            },
+            {
+                "name": "Barbara J Rand",
+                "bell": "3"
+            },
+            {
+                "name": "Glenn A A Taylor (C)",
+                "bell": "4"
+            },
+            {
+                "name": "Catherine M Meades",
+                "bell": "5"
+            },
+            {
+                "name": "David E Potter",
+                "bell": "6"
+            }
+        ],
+        "footnotes": [
+            "First London Surprise: 2, 4"
+        ],
+        "id": "1556045",
+        "time_in_ms": 2542758
+    },
+    {
+        "academic_year": "1977/78",
+        "type": 1,
+        "date": "Sunday, 22 January 1978",
+        "location": "Arts Centre, Micklegate, York, North Yorkshire",
+        "weight": "",
+        "time": "",
+        "changes": "1260",
+        "method": "London Surprise Minor",
+        "details": "",
+        "ringers": [
+            {
                 "name": "Rosenna Hearfield",
                 "bell": "1"
             },
@@ -19310,6 +19651,49 @@
         "details": "",
         "ringers": [
             {
+                "name": "Catherine M Meades",
+                "bell": "1"
+            },
+            {
+                "name": "Rosina M Hearfield",
+                "bell": "2"
+            },
+            {
+                "name": "Sue Adams",
+                "bell": "3"
+            },
+            {
+                "name": "Barbara J Rand",
+                "bell": "4"
+            },
+            {
+                "name": "Peter Wilkinson",
+                "bell": "5"
+            },
+            {
+                "name": "Glenn A A Taylor (C)",
+                "bell": "6"
+            }
+        ],
+        "footnotes": [
+            "First Cambridge: 2",
+            "Worst Cambridge: 6"
+        ],
+        "id": "1556044",
+        "time_in_ms": 2494374
+    },
+    {
+        "academic_year": "1977/78",
+        "type": 1,
+        "date": "Sunday, 27 November 1977",
+        "location": "Arts Centre, Micklegate, York, North Yorkshire",
+        "weight": "",
+        "time": "",
+        "changes": "1260",
+        "method": "Cambridge Surprise Minor",
+        "details": "",
+        "ringers": [
+            {
                 "name": "Catherine Meades",
                 "bell": "1"
             },
@@ -19337,6 +19721,50 @@
         "footnotes": [],
         "id": "1519105",
         "time_in_ms": 2494374
+    },
+    {
+        "academic_year": "1977/78",
+        "type": 1,
+        "date": "Sunday, 20 November 1977",
+        "location": "Arts Centre, York, North Yorkshire",
+        "weight": "9-0-4 in G#",
+        "time": "",
+        "changes": "1260",
+        "method": "Plain Bob Doubles",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Glenn A A Taylor (C)",
+                "bell": "1"
+            },
+            {
+                "name": "Michael G Barker",
+                "bell": "2"
+            },
+            {
+                "name": "Cathy M Meades",
+                "bell": "3"
+            },
+            {
+                "name": "John Cross",
+                "bell": "4"
+            },
+            {
+                "name": "Peter Wilkinson",
+                "bell": "5"
+            },
+            {
+                "name": "Susan Adams",
+                "bell": "6"
+            }
+        ],
+        "footnotes": [
+            "100th quarter: 1",
+            "Circled the tower: 6",
+            "1st Plain Bob: 4"
+        ],
+        "id": "1556043",
+        "time_in_ms": 2488326
     },
     {
         "academic_year": "1976/77",
@@ -19423,6 +19851,86 @@
     {
         "academic_year": "1976/77",
         "type": 1,
+        "date": "Sunday, 12 June 1977",
+        "location": "Arts Centre, York, North Yorkshire",
+        "weight": "9-0-4 in G#",
+        "time": "",
+        "changes": "1260",
+        "method": "Mixed Doubles (29m)",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Michael G Barker",
+                "bell": "1"
+            },
+            {
+                "name": "Susan Adams",
+                "bell": "2"
+            },
+            {
+                "name": "Elizabeth S Balls",
+                "bell": "3"
+            },
+            {
+                "name": "Glenn A A Taylor",
+                "bell": "4"
+            },
+            {
+                "name": "Roger S Riley (C)",
+                "bell": "5"
+            }
+        ],
+        "footnotes": [
+            "Most doubles: 2, 4"
+        ],
+        "id": "1556042",
+        "time_in_ms": 2349221
+    },
+    {
+        "academic_year": "1976/77",
+        "type": 1,
+        "date": "Sunday, 05 June 1977",
+        "location": "Arts Centre, York, North Yorkshire",
+        "weight": "9-0-4 in G#",
+        "time": "",
+        "changes": "1272",
+        "method": "Norwich Surprise Minor",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Margaret Boam",
+                "bell": "1"
+            },
+            {
+                "name": "Susan Adams",
+                "bell": "2"
+            },
+            {
+                "name": "Elaine L V Tickner",
+                "bell": "3"
+            },
+            {
+                "name": "Elizabeth S Balls",
+                "bell": "4"
+            },
+            {
+                "name": "Michael G Barker",
+                "bell": "5"
+            },
+            {
+                "name": "Glenn A A Taylor (C)",
+                "bell": "6"
+            }
+        ],
+        "footnotes": [
+            "Rung for the Queen's Silver Jubilee"
+        ],
+        "id": "1556041",
+        "time_in_ms": 2343174
+    },
+    {
+        "academic_year": "1976/77",
+        "type": 1,
         "date": "Sunday, 22 May 1977",
         "location": "Art's Centre, York, North Yorkshire",
         "weight": "9-2-27 in G#",
@@ -19474,6 +19982,50 @@
         "details": "",
         "ringers": [
             {
+                "name": "Elizabeth S Balls",
+                "bell": "1"
+            },
+            {
+                "name": "Sue Adams",
+                "bell": "2"
+            },
+            {
+                "name": "Glenn A A Taylor",
+                "bell": "3"
+            },
+            {
+                "name": "Stuart Heath",
+                "bell": "4"
+            },
+            {
+                "name": "Margaret Boam",
+                "bell": "5"
+            },
+            {
+                "name": "Roger S Riley (C)",
+                "bell": "6"
+            }
+        ],
+        "footnotes": [
+            "Believed to be the first quarter in the method.",
+            "First variable hunt by all",
+            "Published as part of YCG's effort to digitalise old records. All records uploaded exactly as they appear in our physical books, for any changes to names etc, please contact admin@ycg.org.uk"
+        ],
+        "id": "1556040",
+        "time_in_ms": 2325030
+    },
+    {
+        "academic_year": "1976/77",
+        "type": 1,
+        "date": "Sunday, 15 May 1977",
+        "location": "Arts Centre, York, North Yorkshire",
+        "weight": "9-0-4 in G#",
+        "time": "",
+        "changes": "1280",
+        "method": "Little Bob Minor",
+        "details": "",
+        "ringers": [
+            {
                 "name": "Liz S Balls",
                 "bell": "1"
             },
@@ -19503,6 +20055,48 @@
         ],
         "id": "1527438",
         "time_in_ms": 2325030
+    },
+    {
+        "academic_year": "1976/77",
+        "type": 1,
+        "date": "Sunday, 08 May 1977",
+        "location": "Arts Centre, York, North Yorkshire",
+        "weight": "9-0-4 in G#",
+        "time": "",
+        "changes": "1260",
+        "method": "Plain Bob Minor",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Vernon C Wright",
+                "bell": "1"
+            },
+            {
+                "name": "Susan Adams",
+                "bell": "2"
+            },
+            {
+                "name": "Michael G Barker",
+                "bell": "3"
+            },
+            {
+                "name": "Carol A Townley",
+                "bell": "4"
+            },
+            {
+                "name": "Glenn A A Taylor (C)",
+                "bell": "5"
+            },
+            {
+                "name": "Margaret Boam",
+                "bell": "6"
+            }
+        ],
+        "footnotes": [
+            "Circled the tower as conductor"
+        ],
+        "id": "1556038",
+        "time_in_ms": 2318982
     },
     {
         "academic_year": "1976/77",
@@ -19554,6 +20148,49 @@
         "weight": "9-0-4 in G#",
         "time": "",
         "changes": "1260",
+        "method": "Spliced Plain Minor (2m)",
+        "details": "Two methods; St George, The Dragon",
+        "ringers": [
+            {
+                "name": "Margaret Boam",
+                "bell": "1"
+            },
+            {
+                "name": "Judy Goodyer",
+                "bell": "2"
+            },
+            {
+                "name": "Glenn A A Taylor",
+                "bell": "3"
+            },
+            {
+                "name": "Elizabeth S Balls",
+                "bell": "4"
+            },
+            {
+                "name": "Peter Wilkinson",
+                "bell": "5"
+            },
+            {
+                "name": "Roger S Riley (C)",
+                "bell": "6"
+            }
+        ],
+        "footnotes": [
+            "First in the methods by all.",
+            "Published as part of YCG's effort to digitalise old records. All records uploaded exactly as they appear in our physical books, for any changes to names etc, please contact admin@ycg.org.uk"
+        ],
+        "id": "1556037",
+        "time_in_ms": 2306886
+    },
+    {
+        "academic_year": "1976/77",
+        "type": 1,
+        "date": "Sunday, 24 April 1977",
+        "location": "Arts Centre, York, North Yorkshire",
+        "weight": "9-0-4 in G#",
+        "time": "",
+        "changes": "1260",
         "method": "St George and The Dragon Surprise Minor",
         "details": "",
         "ringers": [
@@ -19587,6 +20224,216 @@
         ],
         "id": "1527437",
         "time_in_ms": 2306886
+    },
+    {
+        "academic_year": "1976/77",
+        "type": 1,
+        "date": "Sunday, 13 March 1977",
+        "location": "Arts Centre, York, North Yorkshire",
+        "weight": "9-0-4 in G#",
+        "time": "",
+        "changes": "1320",
+        "method": "Cambridge Surprise Minor",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Michael G Barker",
+                "bell": "1"
+            },
+            {
+                "name": "Glenn A A Taylor (C)",
+                "bell": "2"
+            },
+            {
+                "name": "Carol A Townley",
+                "bell": "3"
+            },
+            {
+                "name": "Susan Adams",
+                "bell": "4"
+            },
+            {
+                "name": "Judy Goodyer",
+                "bell": "5"
+            },
+            {
+                "name": "Vernon C Wright",
+                "bell": "6"
+            }
+        ],
+        "footnotes": [
+            "First surprise: 3",
+            "Circled the tower: 1, 2"
+        ],
+        "id": "1556036",
+        "time_in_ms": 2270598
+    },
+    {
+        "academic_year": "1976/77",
+        "type": 1,
+        "date": "Sunday, 06 March 1977",
+        "location": "Arts Centre, York, North Yorkshire",
+        "weight": "9-0-4 in G#",
+        "time": "",
+        "changes": "1320",
+        "method": "Annable's London Surprise Minor",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Glenn A A Taylor (C)",
+                "bell": "1"
+            },
+            {
+                "name": "Elizabeth S Balls",
+                "bell": "2"
+            },
+            {
+                "name": "Judy Goodyer",
+                "bell": "3"
+            },
+            {
+                "name": "Vernon C Wright",
+                "bell": "4"
+            },
+            {
+                "name": "Michael G Barker",
+                "bell": "5"
+            },
+            {
+                "name": "Peter Wilkinson",
+                "bell": "6"
+            }
+        ],
+        "footnotes": [
+            "For the Salvation Army Underwater Band march past"
+        ],
+        "id": "1556035",
+        "time_in_ms": 2264550
+    },
+    {
+        "academic_year": "1976/77",
+        "type": 1,
+        "date": "Sunday, 20 February 1977",
+        "location": "Arts Centre, York, North Yorkshire",
+        "weight": "9-0-4 in G#",
+        "time": "",
+        "changes": "1260",
+        "method": "Mixed Doubles (12m)",
+        "details": "One extent each of: Grandsire, St Simons, St Martins, St Osmund, Eynsbury, Plain Bob, Rev Canterbury, St Nicholas, Huntley, Winchendon Place, St Remigius; 60 Stedman",
+        "ringers": [
+            {
+                "name": "Judy Goodyer",
+                "bell": "1"
+            },
+            {
+                "name": "Elaine L V Tickner",
+                "bell": "2"
+            },
+            {
+                "name": "Glenn A A Taylor",
+                "bell": "3"
+            },
+            {
+                "name": "Margaret Boam",
+                "bell": "4"
+            },
+            {
+                "name": "Vernon C Wright (C)",
+                "bell": "5"
+            },
+            {
+                "name": "Michael G Barker",
+                "bell": "6"
+            }
+        ],
+        "footnotes": [],
+        "id": "1556034",
+        "time_in_ms": 2252454
+    },
+    {
+        "academic_year": "1976/77",
+        "type": 1,
+        "date": "Sunday, 06 February 1977",
+        "location": "Arts Centre, York, North Yorkshire",
+        "weight": "9-0-4 in G#",
+        "time": "",
+        "changes": "1272",
+        "method": "Appleby Surprise Minor",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Peter Wilkinson",
+                "bell": "1"
+            },
+            {
+                "name": "Michael G Barker",
+                "bell": "2"
+            },
+            {
+                "name": "Susan Adams",
+                "bell": "3"
+            },
+            {
+                "name": "Judy Goodyer",
+                "bell": "4"
+            },
+            {
+                "name": "Margaret Boam",
+                "bell": "5"
+            },
+            {
+                "name": "Glenn A A Taylor (C)",
+                "bell": "6"
+            }
+        ],
+        "footnotes": [
+            "First in the method by all.",
+            "Rung on the 25th anniversary of the Queen's accession."
+        ],
+        "id": "1556032",
+        "time_in_ms": 2240358
+    },
+    {
+        "academic_year": "1976/77",
+        "type": 1,
+        "date": "Sunday, 16 January 1977",
+        "location": "Arts Centre, York, North Yorkshire",
+        "weight": "9-0-4 in G#",
+        "time": "",
+        "changes": "1320",
+        "method": "Mixed Surprise Minor (4m)",
+        "details": "Primrose, Cambridge, Beverley, Surfleet",
+        "ringers": [
+            {
+                "name": "Elizabeth S Balls",
+                "bell": "1"
+            },
+            {
+                "name": "Michael G Barker",
+                "bell": "2"
+            },
+            {
+                "name": "Susan Adams",
+                "bell": "3"
+            },
+            {
+                "name": "Glenn A A Taylor",
+                "bell": "4"
+            },
+            {
+                "name": "Peter Wilkinson",
+                "bell": "5"
+            },
+            {
+                "name": "Roger S Riley",
+                "bell": "6"
+            }
+        ],
+        "footnotes": [
+            "Most surprise minor: 3"
+        ],
+        "id": "1556031",
+        "time_in_ms": 2222214
     },
     {
         "academic_year": "1976/77",
@@ -19685,6 +20532,132 @@
         "time_in_ms": 2210220
     },
     {
+        "academic_year": "1976/77",
+        "type": 1,
+        "date": "Sunday, 28 November 1976",
+        "location": "Arts Centre, York, North Yorkshire",
+        "weight": "9-0-4 in G#",
+        "time": "",
+        "changes": "1296",
+        "method": "Cambridge Surprise Minor",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Margaret Boam",
+                "bell": "1"
+            },
+            {
+                "name": "Michael G Barker",
+                "bell": "2"
+            },
+            {
+                "name": "Susan Adams",
+                "bell": "3"
+            },
+            {
+                "name": "Elizabeth S Balls",
+                "bell": "4"
+            },
+            {
+                "name": "Peter Wilkinson",
+                "bell": "5"
+            },
+            {
+                "name": "Glenn A A Taylor (C)",
+                "bell": "6"
+            }
+        ],
+        "footnotes": [
+            "First surprise: 3"
+        ],
+        "id": "1556030",
+        "time_in_ms": 2179878
+    },
+    {
+        "academic_year": "1976/77",
+        "type": 1,
+        "date": "Friday, 19 November 1976",
+        "location": "All Saints, Holme on Spalding Moor, East Riding of Yorkshire",
+        "weight": "6-3-10 in A",
+        "time": "",
+        "changes": "1800",
+        "method": "Plain Bob Minor",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Margaret Boam",
+                "bell": "1"
+            },
+            {
+                "name": "Susan Adams",
+                "bell": "2"
+            },
+            {
+                "name": "Carol A Townley",
+                "bell": "3"
+            },
+            {
+                "name": "Elizabeth S Balls",
+                "bell": "4"
+            },
+            {
+                "name": "Michael G Barker",
+                "bell": "5"
+            },
+            {
+                "name": "Glenn A A Taylor (C)",
+                "bell": "6"
+            }
+        ],
+        "footnotes": [
+            "Eve of termly outing peal attempt brought round early."
+        ],
+        "id": "1556029",
+        "time_in_ms": 2172102
+    },
+    {
+        "academic_year": "1976/77",
+        "type": 1,
+        "date": "Monday, 25 October 1976",
+        "location": "Arts Centre, York, North Yorkshire",
+        "weight": "9-0-4 in G#",
+        "time": "",
+        "changes": "1272",
+        "method": "Reverse Cambridge Surprise Minor",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Susan Adams",
+                "bell": "1"
+            },
+            {
+                "name": "Elizabeth S Balls",
+                "bell": "2"
+            },
+            {
+                "name": "Michael G Barker",
+                "bell": "3"
+            },
+            {
+                "name": "Margaret Boam",
+                "bell": "4"
+            },
+            {
+                "name": "Roger S Riley",
+                "bell": "5"
+            },
+            {
+                "name": "Glenn A A Taylor (C)",
+                "bell": "6"
+            }
+        ],
+        "footnotes": [
+            "First in method by all."
+        ],
+        "id": "1556028",
+        "time_in_ms": 2150502
+    },
+    {
         "academic_year": "1975/76",
         "type": 0,
         "date": "Saturday, 19 June 1976",
@@ -19725,6 +20698,91 @@
         ],
         "id": "1554519",
         "time_in_ms": 2040010
+    },
+    {
+        "academic_year": "1975/76",
+        "type": 1,
+        "date": "Sunday, 23 November 1975",
+        "location": "Arts Centre, York, North Yorkshire",
+        "weight": "9-0-4 in G#",
+        "time": "",
+        "changes": "1296",
+        "method": "Cambridge Surprise Minor",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Elizabeth S Balls",
+                "bell": "1"
+            },
+            {
+                "name": "Gillian D Housden",
+                "bell": "2"
+            },
+            {
+                "name": "Michael G Barker",
+                "bell": "3"
+            },
+            {
+                "name": "Elaine L V Tickner",
+                "bell": "4"
+            },
+            {
+                "name": "Glenn A A Taylor",
+                "bell": "5"
+            },
+            {
+                "name": "Peter Wilkinson (C)",
+                "bell": "6"
+            }
+        ],
+        "footnotes": [
+            "First in method: 2"
+        ],
+        "id": "1556025",
+        "time_in_ms": 1859334
+    },
+    {
+        "academic_year": "1975/76",
+        "type": 1,
+        "date": "Sunday, 19 October 1975",
+        "location": "Arts Centre, York, North Yorkshire",
+        "weight": "9-0-4 in G#",
+        "time": "",
+        "changes": "1260",
+        "method": "Plain Bob Doubles",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Janet H Rowlands",
+                "bell": "1"
+            },
+            {
+                "name": "Elizabeth S Balls",
+                "bell": "2"
+            },
+            {
+                "name": "Gillian D Housden",
+                "bell": "3"
+            },
+            {
+                "name": "Glenn A A Taylor (C)",
+                "bell": "4"
+            },
+            {
+                "name": "Peter Wilkinson",
+                "bell": "5"
+            },
+            {
+                "name": "Timothy D H Metford",
+                "bell": "6"
+            }
+        ],
+        "footnotes": [
+            "First quarter: 6",
+            "First as conductor."
+        ],
+        "id": "1556023",
+        "time_in_ms": 1829094
     },
     {
         "academic_year": "1974/75",
@@ -20866,6 +21924,57 @@
         ],
         "id": "1524177",
         "time_in_ms": 108006
+    },
+    {
+        "academic_year": "1969/70",
+        "type": 1,
+        "date": "Thursday, 02 April 1970",
+        "location": "St Mary, Anstey, Leicestershire",
+        "weight": "10-2-4 in G",
+        "time": "",
+        "changes": "1264",
+        "method": "Plain Bob Major",
+        "details": "",
+        "ringers": [
+            {
+                "name": "R Smith",
+                "bell": "1"
+            },
+            {
+                "name": "Molly Barron",
+                "bell": "2"
+            },
+            {
+                "name": "Joy Pluckrose",
+                "bell": "3"
+            },
+            {
+                "name": "J Evans",
+                "bell": "4"
+            },
+            {
+                "name": "R Aldington",
+                "bell": "5"
+            },
+            {
+                "name": "C A Barron",
+                "bell": "6"
+            },
+            {
+                "name": "M King",
+                "bell": "7"
+            },
+            {
+                "name": "G Pluckrose (C)",
+                "bell": "8"
+            }
+        ],
+        "footnotes": [
+            "150th quarter: 6",
+            "By former members of St John's College, York (1, 3, 5, 7, 8) for Easter reunion"
+        ],
+        "id": "1556116",
+        "time_in_ms": 78632
     },
     {
         "academic_year": "1969/70",

@@ -1172,9 +1172,9 @@
             {
                 "tower": "York (Former St John (Arts Center)), Yorkshire",
                 "peals": 0,
-                "quarters": 2,
+                "quarters": 3,
                 "other": 0,
-                "total": 2
+                "total": 3
             },
             {
                 "tower": "Acomb (St Stephen), North Yorkshire",
@@ -1221,9 +1221,9 @@
         ],
         "summary": {
             "peals": 1,
-            "quarters": 20,
+            "quarters": 21,
             "other": 1,
-            "total": 22
+            "total": 23
         }
     },
     {
@@ -1622,6 +1622,13 @@
             {
                 "tower": "York (Former St John (Arts Center)), Yorkshire",
                 "peals": 0,
+                "quarters": 2,
+                "other": 0,
+                "total": 2
+            },
+            {
+                "tower": "St Michael, Eastrington, East Riding of Yorkshire",
+                "peals": 0,
                 "quarters": 1,
                 "other": 0,
                 "total": 1
@@ -1629,9 +1636,9 @@
         ],
         "summary": {
             "peals": 0,
-            "quarters": 1,
+            "quarters": 3,
             "other": 0,
-            "total": 1
+            "total": 3
         }
     },
     {
@@ -1640,9 +1647,9 @@
             {
                 "tower": "York (Former St John (Arts Center)), Yorkshire",
                 "peals": 0,
-                "quarters": 2,
+                "quarters": 4,
                 "other": 0,
-                "total": 2
+                "total": 4
             },
             {
                 "tower": "Wath juxta Ripon (St Mary), North Yorkshire",
@@ -1661,9 +1668,9 @@
         ],
         "summary": {
             "peals": 1,
-            "quarters": 3,
+            "quarters": 5,
             "other": 0,
-            "total": 4
+            "total": 6
         }
     },
     {
@@ -1672,9 +1679,9 @@
             {
                 "tower": "York (Former St John (Arts Center)), Yorkshire",
                 "peals": 0,
-                "quarters": 4,
+                "quarters": 9,
                 "other": 0,
-                "total": 4
+                "total": 9
             },
             {
                 "tower": "Kirby Hill (All Saints), North Yorkshire",
@@ -1686,9 +1693,9 @@
         ],
         "summary": {
             "peals": 1,
-            "quarters": 4,
+            "quarters": 9,
             "other": 0,
-            "total": 5
+            "total": 10
         }
     },
     {
@@ -1697,9 +1704,16 @@
             {
                 "tower": "York (Former St John (Arts Center)), Yorkshire",
                 "peals": 0,
-                "quarters": 4,
+                "quarters": 16,
                 "other": 0,
-                "total": 4
+                "total": 16
+            },
+            {
+                "tower": "Broughton in Craven (All Saints), North Yorkshire",
+                "peals": 1,
+                "quarters": 1,
+                "other": 0,
+                "total": 2
             },
             {
                 "tower": "St Peter, Soberton, Hampshire",
@@ -1721,25 +1735,25 @@
                 "quarters": 0,
                 "other": 0,
                 "total": 1
-            },
-            {
-                "tower": "Broughton in Craven (All Saints), North Yorkshire",
-                "peals": 1,
-                "quarters": 0,
-                "other": 0,
-                "total": 1
             }
         ],
         "summary": {
             "peals": 4,
-            "quarters": 4,
+            "quarters": 17,
             "other": 0,
-            "total": 8
+            "total": 21
         }
     },
     {
         "academic_year": "1975/76",
         "tower": [
+            {
+                "tower": "York (Former St John (Arts Center)), Yorkshire",
+                "peals": 0,
+                "quarters": 2,
+                "other": 0,
+                "total": 2
+            },
             {
                 "tower": "Nunburnholme (St James), East Riding of Yorkshire",
                 "peals": 1,
@@ -1750,9 +1764,9 @@
         ],
         "summary": {
             "peals": 1,
-            "quarters": 0,
+            "quarters": 2,
             "other": 0,
-            "total": 1
+            "total": 3
         }
     },
     {
@@ -1919,6 +1933,13 @@
         "academic_year": "1969/70",
         "tower": [
             {
+                "tower": "St Mary, Anstey, Leicestershire",
+                "peals": 0,
+                "quarters": 1,
+                "other": 0,
+                "total": 1
+            },
+            {
                 "tower": "York (Former St John (Arts Center)), Yorkshire",
                 "peals": 0,
                 "quarters": 1,
@@ -1942,9 +1963,9 @@
         ],
         "summary": {
             "peals": 0,
-            "quarters": 3,
+            "quarters": 4,
             "other": 0,
-            "total": 3
+            "total": 4
         }
     }
 ]

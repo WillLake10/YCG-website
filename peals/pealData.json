@@ -15077,6 +15077,49 @@
                 "bell": "3"
             },
             {
+                "name": "Martin Hardgrave",
+                "bell": "4"
+            },
+            {
+                "name": "Glenn A A Taylor",
+                "bell": "5"
+            },
+            {
+                "name": "Dominic J Travis",
+                "bell": "6"
+            }
+        ],
+        "footnotes": [
+            "For dinner weekend and Martin's birthday",
+            "Published as part of YCG's effort to digitalise old records. All records uploaded exactly as they appear in our physical books, for any changes to names etc, please contact admin@ycg.org.uk"
+        ],
+        "id": "1556451",
+        "time_in_ms": 8669382
+    },
+    {
+        "academic_year": "1996/97",
+        "type": 1,
+        "date": "Sunday, 22 June 1997",
+        "location": "Former St John, York, North Yorkshire",
+        "weight": "9-0-4 in G#",
+        "time": "",
+        "changes": "1260",
+        "method": "Plain Bob Minor",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Nathan J Watkins",
+                "bell": "1"
+            },
+            {
+                "name": "Ian Broster",
+                "bell": "2"
+            },
+            {
+                "name": "Ian Mellor",
+                "bell": "3"
+            },
+            {
                 "name": "Martin Hardgreave",
                 "bell": "4"
             },
@@ -19188,6 +19231,48 @@
         "location": "Arts Centre, Micklegate, York, North Yorkshire",
         "weight": "",
         "time": "",
+        "changes": "1261",
+        "method": "Plain Bob Minor",
+        "details": "",
+        "ringers": [
+            {
+                "name": "J Anne Applegate",
+                "bell": "1"
+            },
+            {
+                "name": "Barbara J Rand",
+                "bell": "2"
+            },
+            {
+                "name": "Susan M Adams",
+                "bell": "3"
+            },
+            {
+                "name": "Peter Wilkinson",
+                "bell": "4"
+            },
+            {
+                "name": "Glenn A A Taylor (C)",
+                "bell": "5"
+            },
+            {
+                "name": "Nicholas D Hughes",
+                "bell": "6"
+            }
+        ],
+        "footnotes": [
+            "75th quarter: 3"
+        ],
+        "id": "1556450",
+        "time_in_ms": 2960070
+    },
+    {
+        "academic_year": "1978/79",
+        "type": 1,
+        "date": "Sunday, 20 May 1979",
+        "location": "Arts Centre, Micklegate, York, North Yorkshire",
+        "weight": "",
+        "time": "",
         "changes": "1260",
         "method": "Plain Bob Minor",
         "details": "",
@@ -19262,6 +19347,49 @@
         "footnotes": [],
         "id": "1519109",
         "time_in_ms": 2960070
+    },
+    {
+        "academic_year": "1978/79",
+        "type": 1,
+        "date": "Sunday, 19 November 1978",
+        "location": "Arts Centre, Micklegate, York, North Yorkshire",
+        "weight": "",
+        "time": "",
+        "changes": "1317",
+        "method": "Cambridge Surprise Minor",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Sally M Walton",
+                "bell": "1"
+            },
+            {
+                "name": "Glenn A A Taylor (C)",
+                "bell": "2"
+            },
+            {
+                "name": "Susan M Adams",
+                "bell": "3"
+            },
+            {
+                "name": "Barbara J Rand",
+                "bell": "4"
+            },
+            {
+                "name": "David E Potter",
+                "bell": "5"
+            },
+            {
+                "name": "Michael G Barker",
+                "bell": "6"
+            }
+        ],
+        "footnotes": [
+            "Circled the tower: 6",
+            "Circled the tower three times: 2"
+        ],
+        "id": "1556449",
+        "time_in_ms": 2802822
     },
     {
         "academic_year": "1978/79",
@@ -19428,6 +19556,49 @@
         ],
         "id": "1556047",
         "time_in_ms": 2611878
+    },
+    {
+        "academic_year": "1977/78",
+        "type": 1,
+        "date": "Sunday, 12 March 1978",
+        "location": "Art's Centre, York, North Yorkshire",
+        "weight": "9-2-27 in G#",
+        "time": "",
+        "changes": "1260",
+        "method": "Plain Bob Minor",
+        "details": "",
+        "ringers": [
+            {
+                "name": "David E Potter",
+                "bell": "1"
+            },
+            {
+                "name": "Susan Adams (C)",
+                "bell": "2"
+            },
+            {
+                "name": "Rosina M Hearfield",
+                "bell": "3"
+            },
+            {
+                "name": "John S Leech",
+                "bell": "4"
+            },
+            {
+                "name": "Michael G Barker",
+                "bell": "5"
+            },
+            {
+                "name": "Glenn A A Taylor",
+                "bell": "6"
+            }
+        ],
+        "footnotes": [
+            "First as conductor",
+            "Submitted as part of the exercise to complete YCG records"
+        ],
+        "id": "1556455",
+        "time_in_ms": 2585094
     },
     {
         "academic_year": "1977/78",
@@ -19847,6 +20018,49 @@
         "footnotes": [],
         "id": "1523514",
         "time_in_ms": 2352778
+    },
+    {
+        "academic_year": "1976/77",
+        "type": 0,
+        "date": "Thursday, 12 May 1977",
+        "location": "All Saints, Holme on Spalding Moor, East Riding of Yorkshire",
+        "weight": "6-3-10 in A",
+        "time": "2h 40",
+        "changes": "5040",
+        "method": "Minor (7m)",
+        "details": "1 extent each of: Oxford TB, Surfleet Surprise, Beverley Surprise, St Clements, Kent TB, Cambridge Surprise, Plain Bob",
+        "ringers": [
+            {
+                "name": "Margaret Boam (St John)",
+                "bell": "1"
+            },
+            {
+                "name": "Michael G Barker (Goodricke)",
+                "bell": "2"
+            },
+            {
+                "name": "Elaine L V Tickner (Wentworth)",
+                "bell": "3"
+            },
+            {
+                "name": "Judy Goodyer",
+                "bell": "4"
+            },
+            {
+                "name": "Vernon C Wright (Askham Bryan)",
+                "bell": "5"
+            },
+            {
+                "name": "Glenn A A Taylor (Goodricke) (C)",
+                "bell": "6"
+            }
+        ],
+        "footnotes": [
+            "First inside: 3",
+            "Rung as a birthday compliment to Vernon"
+        ],
+        "id": "1556460",
+        "time_in_ms": 2322538
     },
     {
         "academic_year": "1976/77",
@@ -20701,6 +20915,50 @@
     },
     {
         "academic_year": "1975/76",
+        "type": 0,
+        "date": "Friday, 14 May 1976",
+        "location": "All Saints, Holme on Spalding Moor, East Riding of Yorkshire",
+        "weight": "6-3-10 in A",
+        "time": "2h 40",
+        "changes": "5040",
+        "method": "Plain Bob Minor",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Susan Adams (Langwith)",
+                "bell": "1"
+            },
+            {
+                "name": "Janet H Rowlands (St John)",
+                "bell": "2"
+            },
+            {
+                "name": "Michael G Barker (Goodricke)",
+                "bell": "3"
+            },
+            {
+                "name": "Keith Gatman",
+                "bell": "4"
+            },
+            {
+                "name": "Peter Wilkinson (St John)",
+                "bell": "5"
+            },
+            {
+                "name": "Glenn A A Taylor (Goodricke) (C)",
+                "bell": "6"
+            }
+        ],
+        "footnotes": [
+            "First peal: 1",
+            "First inside: 2",
+            "First as conductor"
+        ],
+        "id": "1556459",
+        "time_in_ms": 2008906
+    },
+    {
+        "academic_year": "1975/76",
         "type": 1,
         "date": "Sunday, 23 November 1975",
         "location": "Arts Centre, York, North Yorkshire",
@@ -21040,6 +21298,64 @@
         ],
         "id": "1519074",
         "time_in_ms": 1320198
+    },
+    {
+        "academic_year": "1973/74",
+        "type": 1,
+        "date": "Sunday, 24 February 1974",
+        "location": "Cathedral and Metropolitical Church of St Peter, York, North Yorkshire",
+        "weight": "59-1-23 in Bb",
+        "time": "",
+        "changes": "1295",
+        "method": "Plain Bob Caters",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Elaine Tickner",
+                "bell": "1"
+            },
+            {
+                "name": "Clare Noble",
+                "bell": "2"
+            },
+            {
+                "name": "Barbara J Rand",
+                "bell": "3"
+            },
+            {
+                "name": "Sue Jones",
+                "bell": "4"
+            },
+            {
+                "name": "Elaine L V Tickner",
+                "bell": "5"
+            },
+            {
+                "name": "Bert Sutton",
+                "bell": "6"
+            },
+            {
+                "name": "Peter Wilkinson",
+                "bell": "7"
+            },
+            {
+                "name": "Derek J Jones",
+                "bell": "8"
+            },
+            {
+                "name": "Roger S Riley (C)",
+                "bell": "9"
+            },
+            {
+                "name": "David E Potter",
+                "bell": "10"
+            }
+        ],
+        "footnotes": [
+            "Published as part of YCG's effort to digitalise old records. All records uploaded exactly as they appear in our physical books, for any changes to names etc, please contact admin@ycg.org.uk"
+        ],
+        "id": "1556456",
+        "time_in_ms": 1308970
     },
     {
         "academic_year": "1973/74",

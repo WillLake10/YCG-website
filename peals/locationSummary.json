@@ -43,6 +43,13 @@
             "total": 6
         },
         {
+            "tower": "Broughton in Craven (All Saints), North Yorkshire",
+            "peals": 3,
+            "quarters": 3,
+            "other": 0,
+            "total": 6
+        },
+        {
             "tower": "York (All Saints, North Street), North Yorkshire",
             "peals": 1,
             "quarters": 5,
@@ -69,13 +76,6 @@
             "quarters": 4,
             "other": 1,
             "total": 5
-        },
-        {
-            "tower": "Broughton in Craven (All Saints), North Yorkshire",
-            "peals": 1,
-            "quarters": 3,
-            "other": 0,
-            "total": 4
         },
         {
             "tower": "Stockton-on-the-Forest (Holy Trinity), North Yorkshire",
@@ -436,9 +436,9 @@
         }
     ],
     "summary": {
-        "peals": 33,
-        "quarters": 457,
+        "peals": 35,
+        "quarters": 462,
         "other": 20,
-        "total": 510
+        "total": 517
     }
 }

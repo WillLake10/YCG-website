@@ -1149,6 +1149,13 @@
                 "total": 5
             },
             {
+                "tower": "York (Former St John (Arts Center)), Yorkshire",
+                "peals": 0,
+                "quarters": 4,
+                "other": 0,
+                "total": 4
+            },
+            {
                 "tower": "York (St Olave, Marygate), North Yorkshire",
                 "peals": 0,
                 "quarters": 3,
@@ -1164,13 +1171,6 @@
             },
             {
                 "tower": "York (Oratory Church of St Wilfrid), North Yorkshire",
-                "peals": 0,
-                "quarters": 3,
-                "other": 0,
-                "total": 3
-            },
-            {
-                "tower": "York (Former St John (Arts Center)), Yorkshire",
                 "peals": 0,
                 "quarters": 3,
                 "other": 0,
@@ -1221,9 +1221,9 @@
         ],
         "summary": {
             "peals": 1,
-            "quarters": 21,
+            "quarters": 22,
             "other": 1,
-            "total": 23
+            "total": 24
         }
     },
     {
@@ -1647,9 +1647,9 @@
             {
                 "tower": "York (Former St John (Arts Center)), Yorkshire",
                 "peals": 0,
-                "quarters": 4,
+                "quarters": 6,
                 "other": 0,
-                "total": 4
+                "total": 6
             },
             {
                 "tower": "Wath juxta Ripon (St Mary), North Yorkshire",
@@ -1668,9 +1668,9 @@
         ],
         "summary": {
             "peals": 1,
-            "quarters": 5,
+            "quarters": 7,
             "other": 0,
-            "total": 6
+            "total": 8
         }
     },
     {
@@ -1679,9 +1679,9 @@
             {
                 "tower": "York (Former St John (Arts Center)), Yorkshire",
                 "peals": 0,
-                "quarters": 9,
+                "quarters": 10,
                 "other": 0,
-                "total": 9
+                "total": 10
             },
             {
                 "tower": "Kirby Hill (All Saints), North Yorkshire",
@@ -1693,9 +1693,9 @@
         ],
         "summary": {
             "peals": 1,
-            "quarters": 9,
+            "quarters": 10,
             "other": 0,
-            "total": 10
+            "total": 11
         }
     },
     {
@@ -1710,10 +1710,10 @@
             },
             {
                 "tower": "Broughton in Craven (All Saints), North Yorkshire",
-                "peals": 1,
+                "peals": 2,
                 "quarters": 1,
                 "other": 0,
-                "total": 2
+                "total": 3
             },
             {
                 "tower": "St Peter, Soberton, Hampshire",
@@ -1738,10 +1738,10 @@
             }
         ],
         "summary": {
-            "peals": 4,
+            "peals": 5,
             "quarters": 17,
             "other": 0,
-            "total": 21
+            "total": 22
         }
     },
     {
@@ -1760,13 +1760,20 @@
                 "quarters": 0,
                 "other": 0,
                 "total": 1
+            },
+            {
+                "tower": "Broughton in Craven (All Saints), North Yorkshire",
+                "peals": 1,
+                "quarters": 0,
+                "other": 0,
+                "total": 1
             }
         ],
         "summary": {
-            "peals": 1,
+            "peals": 2,
             "quarters": 2,
             "other": 0,
-            "total": 3
+            "total": 4
         }
     },
     {
@@ -1805,14 +1812,14 @@
                 "total": 4
             },
             {
-                "tower": "Escrick (St Helen), North Yorkshire",
+                "tower": "York (Cathedral and Metropolitical Church of St Peter), North Yorkshire",
                 "peals": 0,
-                "quarters": 1,
+                "quarters": 2,
                 "other": 0,
-                "total": 1
+                "total": 2
             },
             {
-                "tower": "York (Cathedral and Metropolitical Church of St Peter), North Yorkshire",
+                "tower": "Escrick (St Helen), North Yorkshire",
                 "peals": 0,
                 "quarters": 1,
                 "other": 0,
@@ -1828,9 +1835,9 @@
         ],
         "summary": {
             "peals": 0,
-            "quarters": 6,
+            "quarters": 7,
             "other": 1,
-            "total": 7
+            "total": 8
         }
     },
     {

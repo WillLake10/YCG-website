@@ -1149,13 +1149,6 @@
                 "total": 5
             },
             {
-                "tower": "York (Former St John (Arts Center)), Yorkshire",
-                "peals": 0,
-                "quarters": 4,
-                "other": 0,
-                "total": 4
-            },
-            {
                 "tower": "York (St Olave, Marygate), North Yorkshire",
                 "peals": 0,
                 "quarters": 3,
@@ -1175,6 +1168,13 @@
                 "quarters": 3,
                 "other": 0,
                 "total": 3
+            },
+            {
+                "tower": "York (Former St John (Arts Center)), Yorkshire",
+                "peals": 0,
+                "quarters": 2,
+                "other": 0,
+                "total": 2
             },
             {
                 "tower": "Acomb (St Stephen), North Yorkshire",
@@ -1221,9 +1221,9 @@
         ],
         "summary": {
             "peals": 1,
-            "quarters": 22,
+            "quarters": 20,
             "other": 1,
-            "total": 24
+            "total": 22
         }
     },
     {
@@ -1647,9 +1647,9 @@
             {
                 "tower": "York (Former St John (Arts Center)), Yorkshire",
                 "peals": 0,
-                "quarters": 6,
+                "quarters": 2,
                 "other": 0,
-                "total": 6
+                "total": 2
             },
             {
                 "tower": "Wath juxta Ripon (St Mary), North Yorkshire",
@@ -1668,9 +1668,9 @@
         ],
         "summary": {
             "peals": 1,
-            "quarters": 7,
+            "quarters": 3,
             "other": 0,
-            "total": 8
+            "total": 4
         }
     },
     {
@@ -1679,9 +1679,9 @@
             {
                 "tower": "York (Former St John (Arts Center)), Yorkshire",
                 "peals": 0,
-                "quarters": 10,
+                "quarters": 5,
                 "other": 0,
-                "total": 10
+                "total": 5
             },
             {
                 "tower": "Kirby Hill (All Saints), North Yorkshire",
@@ -1693,9 +1693,9 @@
         ],
         "summary": {
             "peals": 1,
-            "quarters": 10,
+            "quarters": 5,
             "other": 0,
-            "total": 11
+            "total": 6
         }
     },
     {
@@ -1704,9 +1704,9 @@
             {
                 "tower": "York (Former St John (Arts Center)), Yorkshire",
                 "peals": 0,
-                "quarters": 16,
+                "quarters": 14,
                 "other": 0,
-                "total": 16
+                "total": 14
             },
             {
                 "tower": "Broughton in Craven (All Saints), North Yorkshire",
@@ -1739,9 +1739,9 @@
         ],
         "summary": {
             "peals": 5,
-            "quarters": 17,
+            "quarters": 15,
             "other": 0,
-            "total": 22
+            "total": 20
         }
     },
     {
@@ -1812,14 +1812,14 @@
                 "total": 4
             },
             {
-                "tower": "York (Cathedral and Metropolitical Church of St Peter), North Yorkshire",
+                "tower": "Escrick (St Helen), North Yorkshire",
                 "peals": 0,
-                "quarters": 2,
+                "quarters": 1,
                 "other": 0,
-                "total": 2
+                "total": 1
             },
             {
-                "tower": "Escrick (St Helen), North Yorkshire",
+                "tower": "York (Cathedral and Metropolitical Church of St Peter), North Yorkshire",
                 "peals": 0,
                 "quarters": 1,
                 "other": 0,
@@ -1835,9 +1835,9 @@
         ],
         "summary": {
             "peals": 0,
-            "quarters": 7,
+            "quarters": 6,
             "other": 1,
-            "total": 8
+            "total": 7
         }
     },
     {

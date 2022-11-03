@@ -1,56 +1,44 @@
 {
     "academic_year": "2022/23",
     "type": 1,
-    "date": "Wednesday, 19 October 2022",
+    "date": "Wednesday, 02 November 2022",
     "location": "Oratory Church of St Wilfrid, York, North Yorkshire",
-    "weight": "18-1-21 in F",
-    "time": "47m",
+    "weight": "6-0-6 in C",
+    "time": "41m",
     "changes": "1260",
-    "method": "Plain Bob Triples",
-    "details": "",
+    "method": "Doubles (3m)",
+    "details": "540 Plain Bob, 360 St Martin's Bob, 360 St Simon's Bob",
     "ringers": [
         {
-            "name": "Benjamin J Hartley (St John)",
+            "name": "Clare Moon (St John)",
             "bell": "1"
         },
         {
-            "name": "Rebecca A Hall (Langwith)",
+            "name": "Megan Bucknall (Anne Lister)",
             "bell": "2"
         },
         {
-            "name": "Rosemary S Hall (Alcuin)",
+            "name": "Jemima Bleackley (Halifax)",
             "bell": "3"
         },
         {
-            "name": "Patrick W J Deakin (James)",
+            "name": "Rosemary S Hall (Alcuin)",
             "bell": "4"
         },
         {
-            "name": "William J Lake (Langwith)",
+            "name": "William J Lake (Langwith) (C)",
             "bell": "5"
         },
         {
-            "name": "Jemima Bleackley (Halifax)",
+            "name": "Joss Davis (Alcuin)",
             "bell": "6"
-        },
-        {
-            "name": "William M Regan (Friend) (C)",
-            "bell": "7"
-        },
-        {
-            "name": "Megan Bucknall (Anne Lister)",
-            "bell": "8"
         }
     ],
     "footnotes": [
-        "To celebrate the marriages of Eric and Anna-Lena, and James and Xiao Li.",
-        "Birthday compliments to Rosemary S Hall for tomorrow.",
-        "First of Triples inside - 2.",
-        "First of Plain Bob Triples as Conductor.",
-        "Demanded this bell to circle the tower to quarters - 4.",
-        "Set the tenor at the first try - 8.",
-        "Went to the wrong tower - 1."
+        "2: First Mixed Doubles",
+        "5: 25th Quarter",
+        "Rung in celebration of Megan's first ever jacket potato, eaten on the 21st of October 2022, after 19 years of life"
     ],
-    "id": "1554386",
-    "time_in_ms": 16661384
+    "id": "1557336",
+    "time_in_ms": 16673478
 }

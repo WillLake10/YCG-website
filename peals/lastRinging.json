@@ -1,44 +1,57 @@
 {
     "academic_year": "2022/23",
     "type": 1,
-    "date": "Wednesday, 02 November 2022",
+    "date": "Wednesday, 09 November 2022",
     "location": "Oratory Church of St Wilfrid, York, North Yorkshire",
-    "weight": "6-0-6 in C",
-    "time": "41m",
-    "changes": "1260",
-    "method": "Doubles (3m)",
-    "details": "540 Plain Bob, 360 St Martin's Bob, 360 St Simon's Bob",
+    "weight": "18-1-21 in F",
+    "time": "50m",
+    "changes": "1344",
+    "method": "Plain Bob Major",
+    "details": "",
     "ringers": [
         {
-            "name": "Clare Moon (St John)",
+            "name": "Amber M Burrows (Anne Lister)",
             "bell": "1"
         },
         {
-            "name": "Megan Bucknall (Anne Lister)",
+            "name": "Benjamin J Hartley (St John)",
             "bell": "2"
         },
         {
-            "name": "Jemima Bleackley (Halifax)",
+            "name": "William L K Brooke (Wentworth)",
             "bell": "3"
         },
         {
-            "name": "Rosemary S Hall (Alcuin)",
+            "name": "Jemima Bleackley (Halifax)",
             "bell": "4"
         },
         {
-            "name": "William J Lake (Langwith) (C)",
+            "name": "Natasha A Williams (Alcuin)",
             "bell": "5"
         },
         {
-            "name": "Joss Davis (Alcuin)",
+            "name": "Rosemary S Hall (Alcuin)",
             "bell": "6"
+        },
+        {
+            "name": "William J Lake (Langwith)",
+            "bell": "7"
+        },
+        {
+            "name": "William M Regan (Friend) (C)",
+            "bell": "8"
         }
     ],
     "footnotes": [
-        "2: First Mixed Doubles",
-        "5: 25th Quarter",
-        "Rung in celebration of Megan's first ever jacket potato, eaten on the 21st of October 2022, after 19 years of life"
+        "Rung to mark the installation of the statue of Her Late Majesty Queen Elizabeth II at York Minster, unveiled today by His Majesty King Charles III during his visit to York.",
+        "First of Major - 1.",
+        "First of Major inside - 5.",
+        "25th quarter peal - 5.",
+        "100th quarter peal - 6.",
+        "First quarter peal without shoes - 5.",
+        "Went to the correct church - 2.",
+        "First YCG quarter peal of Major in 3 years(ish)."
     ],
-    "id": "1557336",
-    "time_in_ms": 16673478
+    "id": "1559066",
+    "time_in_ms": 16679528
 }

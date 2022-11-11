@@ -48,6 +48,63 @@
             "First of Major - 1.",
             "First of Major inside - 5.",
             "25th quarter peal - 5.",
+            "Not her 100th quarter peal - 6.",
+            "First quarter peal without shoes - 5.",
+            "Went to the correct church - 2.",
+            "First YCG quarter peal of Major in 3 years(ish)."
+        ],
+        "id": "1559229",
+        "time_in_ms": 16679528
+    },
+    {
+        "academic_year": "2022/23",
+        "type": 1,
+        "date": "Wednesday, 09 November 2022",
+        "location": "Oratory Church of St Wilfrid, York, North Yorkshire",
+        "weight": "18-1-21 in F",
+        "time": "50m",
+        "changes": "1344",
+        "method": "Plain Bob Major",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Amber M Burrows (Anne Lister)",
+                "bell": "1"
+            },
+            {
+                "name": "Benjamin J Hartley (St John)",
+                "bell": "2"
+            },
+            {
+                "name": "William L K Brooke (Wentworth)",
+                "bell": "3"
+            },
+            {
+                "name": "Jemima Bleackley (Halifax)",
+                "bell": "4"
+            },
+            {
+                "name": "Natasha A Williams (Alcuin)",
+                "bell": "5"
+            },
+            {
+                "name": "Rosemary S Hall (Alcuin)",
+                "bell": "6"
+            },
+            {
+                "name": "William J Lake (Langwith)",
+                "bell": "7"
+            },
+            {
+                "name": "William M Regan (Friend) (C)",
+                "bell": "8"
+            }
+        ],
+        "footnotes": [
+            "Rung to mark the installation of the statue of Her Late Majesty Queen Elizabeth II at York Minster, unveiled today by His Majesty King Charles III during his visit to York.",
+            "First of Major - 1.",
+            "First of Major inside - 5.",
+            "25th quarter peal - 5.",
             "100th quarter peal - 6.",
             "First quarter peal without shoes - 5.",
             "Went to the correct church - 2.",
@@ -99,6 +156,63 @@
         ],
         "id": "1557336",
         "time_in_ms": 16673478
+    },
+    {
+        "academic_year": "2022/23",
+        "type": 1,
+        "date": "Wednesday, 19 October 2022",
+        "location": "Oratory Church of St Wilfrid, York, North Yorkshire",
+        "weight": "18-1-21 in F",
+        "time": "47m",
+        "changes": "1260",
+        "method": "Plain Bob Triples",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Benjamin J Hartley (St John)",
+                "bell": "1"
+            },
+            {
+                "name": "Rebecca A Hall (Langwith)",
+                "bell": "2"
+            },
+            {
+                "name": "Rosemary S Hall (Alcuin)",
+                "bell": "3"
+            },
+            {
+                "name": "Patrick W J Deakin (James)",
+                "bell": "4"
+            },
+            {
+                "name": "William J Lake (Langwith)",
+                "bell": "5"
+            },
+            {
+                "name": "Jemima Bleackley (Halifax)",
+                "bell": "6"
+            },
+            {
+                "name": "William M Regan (Friend) (C)",
+                "bell": "7"
+            },
+            {
+                "name": "Megan Bucknall (Anne Lister)",
+                "bell": "8"
+            }
+        ],
+        "footnotes": [
+            "To celebrate the marriages of Eric and Anna-Lena, and James and Xiao Li.",
+            "Birthday compliments to Rosemary S Hall for tomorrow.",
+            "100th quarter peal - 3",
+            "First of Triples inside - 2.",
+            "First of Plain Bob Triples as Conductor.",
+            "Demanded this bell to circle the tower to quarters - 4.",
+            "Set the tenor at the first try - 8.",
+            "Went to the wrong tower - 1."
+        ],
+        "id": "1559303",
+        "time_in_ms": 16661384
     },
     {
         "academic_year": "2022/23",
@@ -1050,6 +1164,50 @@
         ],
         "id": "1544335",
         "time_in_ms": 16554248
+    },
+    {
+        "academic_year": "2021/22",
+        "type": 1,
+        "date": "Friday, 17 June 2022",
+        "location": "St Lawrence, York, North Yorkshire",
+        "weight": "7-3-24 in A",
+        "time": "48m",
+        "changes": "1440",
+        "method": "Plain Bob Minor",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Joss Davis (Alcuin)",
+                "bell": "1"
+            },
+            {
+                "name": "Jemima Bleackley (Halifax)",
+                "bell": "2"
+            },
+            {
+                "name": "William Lake (Langwith)",
+                "bell": "3"
+            },
+            {
+                "name": "Matthew O Hall (Vanbrugh)",
+                "bell": "4"
+            },
+            {
+                "name": "Rosemary S Hall (Alcuin)",
+                "bell": "5"
+            },
+            {
+                "name": "James D Austin (Derwent) (C)",
+                "bell": "6"
+            }
+        ],
+        "footnotes": [
+            "Rung by current members for the YCG Dinner Day.",
+            "Rung on the eve of Matthew Hall\u2019s birthday.",
+            "First away from the tenor: 1."
+        ],
+        "id": "1559193",
+        "time_in_ms": 16554246
     },
     {
         "academic_year": "2021/22",

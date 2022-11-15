@@ -89,7 +89,7 @@
         //            Tweet content
         $t = strtotime($tweet->createdAt);
         if ($tweet->hasImg) {
-            $size = "3vw";
+            $size = "2.5vw";
             if ($lenString > 100) {
                 $size = "2vw";
             }
@@ -109,7 +109,7 @@
             echo "</div>";
             echo "</div>";
         } else {
-            $size = "6vw";
+            $size = "5vw";
             if ($lenString > 100) {
                 $size = "4vw";
             }

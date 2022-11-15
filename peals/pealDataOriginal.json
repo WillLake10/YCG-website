@@ -2,6 +2,149 @@
     {
         "academic_year": "2022/23",
         "type": 1,
+        "date": "Sunday, 13 November 2022",
+        "location": "All Saints, Bubwith, East Riding of Yorkshire",
+        "weight": "7-3-24 in A",
+        "time": "42m",
+        "changes": "1320",
+        "method": "Cambridge Surprise Minor",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Charlotte Alford",
+                "bell": "1"
+            },
+            {
+                "name": "William L K Brooke",
+                "bell": "2"
+            },
+            {
+                "name": "Claire Pearson",
+                "bell": "3"
+            },
+            {
+                "name": "Lucy Williamson",
+                "bell": "4"
+            },
+            {
+                "name": "Nathan Cox",
+                "bell": "5"
+            },
+            {
+                "name": "Ryan Mills (C)",
+                "bell": "6"
+            }
+        ],
+        "footnotes": [
+            "Half-muffled following the Remembrance service"
+        ],
+        "id": "1559834",
+        "time_in_ms": 16682982
+    },
+    {
+        "academic_year": "2022/23",
+        "type": 1,
+        "date": "Wednesday, 09 November 2022",
+        "location": "Oratory Church of St Wilfrid, York, North Yorkshire",
+        "weight": "18-1-21 in F",
+        "time": "50m",
+        "changes": "1344",
+        "method": "Plain Bob Major",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Amber M Burrows (Anne Lister)",
+                "bell": "1"
+            },
+            {
+                "name": "Benjamin J Hartley (St John)",
+                "bell": "2"
+            },
+            {
+                "name": "William L K Brooke (Wentworth)",
+                "bell": "3"
+            },
+            {
+                "name": "Jemima Bleackley (Halifax)",
+                "bell": "4"
+            },
+            {
+                "name": "Natasha A Williams (Alcuin)",
+                "bell": "5"
+            },
+            {
+                "name": "Rosemary S Hall (Alcuin)",
+                "bell": "6"
+            },
+            {
+                "name": "William J Lake (Langwith)",
+                "bell": "7"
+            },
+            {
+                "name": "William M Regan (Friend) (C)",
+                "bell": "8"
+            }
+        ],
+        "footnotes": [
+            "Rung to mark the installation of the statue of Her Late Majesty Queen Elizabeth II at York Minster, unveiled today by His Majesty King Charles III during his visit to York.",
+            "First of Major - 1.",
+            "First of Major inside - 5.",
+            "25th quarter peal - 5.",
+            "Not her 100th quarter peal - 6.",
+            "First quarter peal without shoes - 5.",
+            "Went to the correct church - 2.",
+            "First YCG quarter peal of Major in 3 years(ish)."
+        ],
+        "id": "1559229",
+        "time_in_ms": 16679528
+    },
+    {
+        "academic_year": "2022/23",
+        "type": 1,
+        "date": "Wednesday, 02 November 2022",
+        "location": "Oratory Church of St Wilfrid, York, North Yorkshire",
+        "weight": "6-0-6 in C",
+        "time": "41m",
+        "changes": "1260",
+        "method": "Doubles (3m)",
+        "details": "540 Plain Bob, 360 St Martin's Bob, 360 St Simon's Bob",
+        "ringers": [
+            {
+                "name": "Clare Moon (St John)",
+                "bell": "1"
+            },
+            {
+                "name": "Megan Bucknall (Anne Lister)",
+                "bell": "2"
+            },
+            {
+                "name": "Jemima Bleackley (Halifax)",
+                "bell": "3"
+            },
+            {
+                "name": "Rosemary S Hall (Alcuin)",
+                "bell": "4"
+            },
+            {
+                "name": "William J Lake (Langwith) (C)",
+                "bell": "5"
+            },
+            {
+                "name": "Joss Davis (Alcuin)",
+                "bell": "6"
+            }
+        ],
+        "footnotes": [
+            "2: First Mixed Doubles",
+            "5: 25th Quarter",
+            "Rung in celebration of Megan's first ever jacket potato, eaten on the 21st of October 2022, after 19 years of life"
+        ],
+        "id": "1557336",
+        "time_in_ms": 16673478
+    },
+    {
+        "academic_year": "2022/23",
+        "type": 1,
         "date": "Wednesday, 19 October 2022",
         "location": "Oratory Church of St Wilfrid, York, North Yorkshire",
         "weight": "18-1-21 in F",
@@ -46,13 +189,14 @@
         "footnotes": [
             "To celebrate the marriages of Eric and Anna-Lena, and James and Xiao Li.",
             "Birthday compliments to Rosemary S Hall for tomorrow.",
+            "100th quarter peal - 3",
             "First of Triples inside - 2.",
             "First of Plain Bob Triples as Conductor.",
             "Demanded this bell to circle the tower to quarters - 4.",
             "Set the tenor at the first try - 8.",
             "Went to the wrong tower - 1."
         ],
-        "id": "1554386",
+        "id": "1559303",
         "time_in_ms": 16661384
     },
     {
@@ -978,7 +1122,7 @@
                 "bell": "4"
             },
             {
-                "name": "Rosie S Hall (Alcuin)",
+                "name": "Rosemary S Hall (Alcuin)",
                 "bell": "5"
             },
             {
@@ -991,7 +1135,7 @@
             "Rung on the eve of Matthew Hall\u2019s birthday.",
             "First away from the tenor: 1."
         ],
-        "id": "1524822",
+        "id": "1559193",
         "time_in_ms": 16554246
     },
     {
@@ -15077,7 +15221,7 @@
                 "bell": "3"
             },
             {
-                "name": "Martin Hardgreave",
+                "name": "Martin Hardgrave",
                 "bell": "4"
             },
             {
@@ -15093,50 +15237,7 @@
             "For dinner weekend and Martin's birthday",
             "Published as part of YCG's effort to digitalise old records. All records uploaded exactly as they appear in our physical books, for any changes to names etc, please contact admin@ycg.org.uk"
         ],
-        "id": "1556056",
-        "time_in_ms": 8669382
-    },
-    {
-        "academic_year": "1996/97",
-        "type": 1,
-        "date": "Sunday, 22 June 1997",
-        "location": "Former St John, York, North Yorkshire",
-        "weight": "9-0-4 in G#",
-        "time": "",
-        "changes": "1260",
-        "method": "Plain Bob Minor",
-        "details": "",
-        "ringers": [
-            {
-                "name": "Nathan J Watkins",
-                "bell": "1"
-            },
-            {
-                "name": "Ian Broster",
-                "bell": "2"
-            },
-            {
-                "name": "Ian Mellor",
-                "bell": "3"
-            },
-            {
-                "name": "Martin Hardgreave",
-                "bell": "4"
-            },
-            {
-                "name": "Glenn Taylor",
-                "bell": "5"
-            },
-            {
-                "name": "Dominic J Travis",
-                "bell": "6"
-            }
-        ],
-        "footnotes": [
-            "For dinner weekend and Martin's birthday",
-            "Published as part of YCG's effort to digitalise old records. All records uploaded exactly as they appear in our physical books, for any changes to names etc, please contact admin@ycg.org.uk"
-        ],
-        "id": "1554063",
+        "id": "1556451",
         "time_in_ms": 8669382
     },
     {
@@ -19188,7 +19289,7 @@
         "location": "Arts Centre, Micklegate, York, North Yorkshire",
         "weight": "",
         "time": "",
-        "changes": "1260",
+        "changes": "1261",
         "method": "Plain Bob Minor",
         "details": "",
         "ringers": [
@@ -19220,47 +19321,7 @@
         "footnotes": [
             "75th quarter: 3"
         ],
-        "id": "1556049",
-        "time_in_ms": 2960070
-    },
-    {
-        "academic_year": "1978/79",
-        "type": 1,
-        "date": "Sunday, 20 May 1979",
-        "location": "Arts Centre, Micklegate, York, North Yorkshire",
-        "weight": "",
-        "time": "",
-        "changes": "1260",
-        "method": "Plain Bob Minor",
-        "details": "",
-        "ringers": [
-            {
-                "name": "Ann Applegate",
-                "bell": "1"
-            },
-            {
-                "name": "Barbara J Rand",
-                "bell": "2"
-            },
-            {
-                "name": "Sue M Adams",
-                "bell": "3"
-            },
-            {
-                "name": "Peter Wilkinson",
-                "bell": "4"
-            },
-            {
-                "name": "Glenn A A Taylor (C)",
-                "bell": "5"
-            },
-            {
-                "name": "Nicholas Hughes",
-                "bell": "6"
-            }
-        ],
-        "footnotes": [],
-        "id": "1519109",
+        "id": "1556450",
         "time_in_ms": 2960070
     },
     {
@@ -19270,7 +19331,7 @@
         "location": "Arts Centre, Micklegate, York, North Yorkshire",
         "weight": "",
         "time": "",
-        "changes": "1260",
+        "changes": "1317",
         "method": "Cambridge Surprise Minor",
         "details": "",
         "ringers": [
@@ -19303,53 +19364,13 @@
             "Circled the tower: 6",
             "Circled the tower three times: 2"
         ],
-        "id": "1556048",
-        "time_in_ms": 2802822
-    },
-    {
-        "academic_year": "1978/79",
-        "type": 1,
-        "date": "Sunday, 19 November 1978",
-        "location": "Arts Centre, Micklegate, York, North Yorkshire",
-        "weight": "",
-        "time": "",
-        "changes": "1260",
-        "method": "Cambridge Surprise Minor",
-        "details": "",
-        "ringers": [
-            {
-                "name": "Sally Walton",
-                "bell": "1"
-            },
-            {
-                "name": "Glenn A A Taylor (C)",
-                "bell": "2"
-            },
-            {
-                "name": "Sue M Adams",
-                "bell": "3"
-            },
-            {
-                "name": "Barbara J Rand",
-                "bell": "4"
-            },
-            {
-                "name": "David E Potter",
-                "bell": "5"
-            },
-            {
-                "name": "Michael Barker",
-                "bell": "6"
-            }
-        ],
-        "footnotes": [],
-        "id": "1519108",
+        "id": "1556449",
         "time_in_ms": 2802822
     },
     {
         "academic_year": "1977/78",
         "type": 1,
-        "date": "Wednesday, 12 April 1978",
+        "date": "Sunday, 12 March 1978",
         "location": "Art's Centre, York, North Yorkshire",
         "weight": "9-2-27 in G#",
         "time": "",
@@ -19386,49 +19407,7 @@
             "First as conductor",
             "Submitted as part of the exercise to complete YCG records"
         ],
-        "id": "1556047",
-        "time_in_ms": 2611878
-    },
-    {
-        "academic_year": "1977/78",
-        "type": 1,
-        "date": "Sunday, 12 March 1978",
-        "location": "Art's Centre, York, North Yorkshire",
-        "weight": "9-2-27 in G#",
-        "time": "",
-        "changes": "1260",
-        "method": "Plain Bob Minor",
-        "details": "",
-        "ringers": [
-            {
-                "name": "David E Potter",
-                "bell": "1"
-            },
-            {
-                "name": "Susan Adams (C)",
-                "bell": "2"
-            },
-            {
-                "name": "Rosina Hearfield",
-                "bell": "3"
-            },
-            {
-                "name": "John S Leech",
-                "bell": "4"
-            },
-            {
-                "name": "Michael G Barker",
-                "bell": "5"
-            },
-            {
-                "name": "Glenn A A Taylor",
-                "bell": "6"
-            }
-        ],
-        "footnotes": [
-            "submitted as part of the exercise to complete YCG records"
-        ],
-        "id": "1507092",
+        "id": "1556455",
         "time_in_ms": 2585094
     },
     {
@@ -19473,48 +19452,6 @@
             "Submitted as part of the exercise to complete the YCG records"
         ],
         "id": "1556046",
-        "time_in_ms": 2566950
-    },
-    {
-        "academic_year": "1977/78",
-        "type": 1,
-        "date": "Sunday, 19 February 1978",
-        "location": "Art's Centre, York, North Yorkshire",
-        "weight": "9-2-27 in G#",
-        "time": "",
-        "changes": "1272",
-        "method": "Cambridge Surprise Minor",
-        "details": "",
-        "ringers": [
-            {
-                "name": "John S Leech",
-                "bell": "1"
-            },
-            {
-                "name": "Glenn A A Taylor",
-                "bell": "2"
-            },
-            {
-                "name": "Susan Adams",
-                "bell": "3"
-            },
-            {
-                "name": "Melvyn A Redout",
-                "bell": "4"
-            },
-            {
-                "name": "Cathy Meades",
-                "bell": "5"
-            },
-            {
-                "name": "Peter Wilkinson (C)",
-                "bell": "6"
-            }
-        ],
-        "footnotes": [
-            "submitted as part of the exercise to complete the YCG records"
-        ],
-        "id": "1507088",
         "time_in_ms": 2566950
     },
     {
@@ -19602,46 +19539,6 @@
     {
         "academic_year": "1977/78",
         "type": 1,
-        "date": "Sunday, 22 January 1978",
-        "location": "Arts Centre, Micklegate, York, North Yorkshire",
-        "weight": "",
-        "time": "",
-        "changes": "1260",
-        "method": "London Surprise Minor",
-        "details": "",
-        "ringers": [
-            {
-                "name": "Rosenna Hearfield",
-                "bell": "1"
-            },
-            {
-                "name": "Sue M Adams",
-                "bell": "2"
-            },
-            {
-                "name": "Barbara J Rand",
-                "bell": "3"
-            },
-            {
-                "name": "Glenn A A Taylor (C)",
-                "bell": "4"
-            },
-            {
-                "name": "Catherine Meades",
-                "bell": "5"
-            },
-            {
-                "name": "David E Potter",
-                "bell": "6"
-            }
-        ],
-        "footnotes": [],
-        "id": "1519107",
-        "time_in_ms": 2542758
-    },
-    {
-        "academic_year": "1977/78",
-        "type": 1,
         "date": "Sunday, 27 November 1977",
         "location": "Arts Centre, Micklegate, York, North Yorkshire",
         "weight": "",
@@ -19680,46 +19577,6 @@
             "Worst Cambridge: 6"
         ],
         "id": "1556044",
-        "time_in_ms": 2494374
-    },
-    {
-        "academic_year": "1977/78",
-        "type": 1,
-        "date": "Sunday, 27 November 1977",
-        "location": "Arts Centre, Micklegate, York, North Yorkshire",
-        "weight": "",
-        "time": "",
-        "changes": "1260",
-        "method": "Cambridge Surprise Minor",
-        "details": "",
-        "ringers": [
-            {
-                "name": "Catherine Meades",
-                "bell": "1"
-            },
-            {
-                "name": "Rosenna Hearfield",
-                "bell": "2"
-            },
-            {
-                "name": "Sue Adams",
-                "bell": "3"
-            },
-            {
-                "name": "Barbara J Rand",
-                "bell": "4"
-            },
-            {
-                "name": "Peter Wilkinson",
-                "bell": "5"
-            },
-            {
-                "name": "Glenn A A Taylor (C)",
-                "bell": "6"
-            }
-        ],
-        "footnotes": [],
-        "id": "1519105",
         "time_in_ms": 2494374
     },
     {
@@ -19803,7 +19660,8 @@
             }
         ],
         "footnotes": [
-            "for the YCG Dinner Day weekend"
+            "For the YCG Dinner Day weekend",
+            "Most methods: 2, 5"
         ],
         "id": "1523517",
         "time_in_ms": 2353642
@@ -19844,7 +19702,9 @@
                 "bell": "6"
             }
         ],
-        "footnotes": [],
+        "footnotes": [
+            "Most methods: 2"
+        ],
         "id": "1523514",
         "time_in_ms": 2352778
     },
@@ -20016,45 +19876,46 @@
     },
     {
         "academic_year": "1976/77",
-        "type": 1,
-        "date": "Sunday, 15 May 1977",
-        "location": "Arts Centre, York, North Yorkshire",
-        "weight": "9-0-4 in G#",
-        "time": "",
-        "changes": "1280",
-        "method": "Little Bob Minor",
-        "details": "",
+        "type": 0,
+        "date": "Thursday, 12 May 1977",
+        "location": "All Saints, Holme on Spalding Moor, East Riding of Yorkshire",
+        "weight": "6-3-10 in A",
+        "time": "2h 40",
+        "changes": "5040",
+        "method": "Minor (7m)",
+        "details": "1 extent each of: Oxford TB, Surfleet Surprise, Beverley Surprise, St Clements, Kent TB, Cambridge Surprise, Plain Bob",
         "ringers": [
             {
-                "name": "Liz S Balls",
+                "name": "Margaret Boam (St John)",
                 "bell": "1"
             },
             {
-                "name": "Sue Adams",
+                "name": "Michael G Barker (Goodricke)",
                 "bell": "2"
             },
             {
-                "name": "Glenn A A Taylor",
+                "name": "Elaine L V Tickner (Wentworth)",
                 "bell": "3"
             },
             {
-                "name": "Stuart Heath",
+                "name": "Judy Goodyer",
                 "bell": "4"
             },
             {
-                "name": "Margaret Boam",
+                "name": "Vernon C Wright (Askham Bryan)",
                 "bell": "5"
             },
             {
-                "name": "Roger S Riley (C)",
+                "name": "Glenn A A Taylor (Goodricke) (C)",
                 "bell": "6"
             }
         ],
         "footnotes": [
-            "Published as part of YCG's effort to digitalise old records. All records uploaded exactly as they appear in our physical books, for any changes to names etc, please contact admin@ycg.org.uk"
+            "First inside: 3",
+            "Rung as a birthday compliment to Vernon"
         ],
-        "id": "1527438",
-        "time_in_ms": 2325030
+        "id": "1556460",
+        "time_in_ms": 2322538
     },
     {
         "academic_year": "1976/77",
@@ -20181,48 +20042,6 @@
             "Published as part of YCG's effort to digitalise old records. All records uploaded exactly as they appear in our physical books, for any changes to names etc, please contact admin@ycg.org.uk"
         ],
         "id": "1556037",
-        "time_in_ms": 2306886
-    },
-    {
-        "academic_year": "1976/77",
-        "type": 1,
-        "date": "Sunday, 24 April 1977",
-        "location": "Arts Centre, York, North Yorkshire",
-        "weight": "9-0-4 in G#",
-        "time": "",
-        "changes": "1260",
-        "method": "St George and The Dragon Surprise Minor",
-        "details": "",
-        "ringers": [
-            {
-                "name": "Margaret Boam",
-                "bell": "1"
-            },
-            {
-                "name": "Liz S Balls",
-                "bell": "2"
-            },
-            {
-                "name": "___ ___",
-                "bell": "3"
-            },
-            {
-                "name": "Glenn A A Taylor (C)",
-                "bell": "4"
-            },
-            {
-                "name": "Peter Wilkinson",
-                "bell": "5"
-            },
-            {
-                "name": "Roger S Riley",
-                "bell": "6"
-            }
-        ],
-        "footnotes": [
-            "Published as part of YCG's effort to digitalise old records. All records uploaded exactly as they appear in our physical books, for any changes to names etc, please contact admin@ycg.org.uk"
-        ],
-        "id": "1527437",
         "time_in_ms": 2306886
     },
     {
@@ -20475,11 +20294,17 @@
                 "bell": "7"
             },
             {
-                "name": "Christopher P Turner",
+                "name": "Christopher P Turner (C)",
                 "bell": "8"
             }
         ],
-        "footnotes": [],
+        "footnotes": [
+            "First T.B. Major: 1",
+            "First Yorkshire: 2",
+            "First Surprise Major: 4",
+            "First Major as conductor",
+            "Rung at the end of the YCG Easter Tour"
+        ],
         "id": "1526423",
         "time_in_ms": 2211084
     },
@@ -20527,7 +20352,9 @@
                 "bell": "8"
             }
         ],
-        "footnotes": [],
+        "footnotes": [
+            "First on 8: 2"
+        ],
         "id": "1526422",
         "time_in_ms": 2210220
     },
@@ -20698,6 +20525,50 @@
         ],
         "id": "1554519",
         "time_in_ms": 2040010
+    },
+    {
+        "academic_year": "1975/76",
+        "type": 0,
+        "date": "Friday, 14 May 1976",
+        "location": "All Saints, Holme on Spalding Moor, East Riding of Yorkshire",
+        "weight": "6-3-10 in A",
+        "time": "2h 40",
+        "changes": "5040",
+        "method": "Plain Bob Minor",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Susan Adams (Langwith)",
+                "bell": "1"
+            },
+            {
+                "name": "Janet H Rowlands (St John)",
+                "bell": "2"
+            },
+            {
+                "name": "Michael G Barker (Goodricke)",
+                "bell": "3"
+            },
+            {
+                "name": "Keith Gatman",
+                "bell": "4"
+            },
+            {
+                "name": "Peter Wilkinson (St John)",
+                "bell": "5"
+            },
+            {
+                "name": "Glenn A A Taylor (Goodricke) (C)",
+                "bell": "6"
+            }
+        ],
+        "footnotes": [
+            "First peal: 1",
+            "First inside: 2",
+            "First as conductor"
+        ],
+        "id": "1556459",
+        "time_in_ms": 2008906
     },
     {
         "academic_year": "1975/76",
@@ -21069,7 +20940,7 @@
                 "bell": "4"
             },
             {
-                "name": "___ Tickner",
+                "name": "Elaine L V Tickner",
                 "bell": "5"
             },
             {
@@ -21096,7 +20967,7 @@
         "footnotes": [
             "Published as part of YCG's effort to digitalise old records. All records uploaded exactly as they appear in our physical books, for any changes to names etc, please contact admin@ycg.org.uk"
         ],
-        "id": "1554521",
+        "id": "1556456",
         "time_in_ms": 1308970
     },
     {

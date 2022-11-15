@@ -11,7 +11,6 @@
 </head>
 
 <body>
-<?php //include "getTweets.php"; ?>
 <div class="carousel">
     <?php
     $tweets_url = 'data/tweets.json';
@@ -195,5 +194,8 @@
         window.location.reload();
     }, 3600000);
 </script>
+
+<?php include "getTweets.php"; ?>
+
 </body>
 

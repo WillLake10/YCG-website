@@ -11,7 +11,7 @@
 </head>
 
 <body>
-<?php include "getTweets.php"; ?>
+<?php //include "getTweets.php"; ?>
 <div class="carousel">
     <?php
     $tweets_url = 'data/tweets.json';

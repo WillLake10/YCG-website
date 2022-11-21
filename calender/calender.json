@@ -1,78 +1,6 @@
 [
     {
         "s_date": {
-            "day": "18",
-            "month": "November",
-            "year": "2022",
-            "time": "00:00",
-            "weekday": "Friday",
-            "full": "Friday 18 November"
-        },
-        "e_date": {
-            "day": "21",
-            "month": "November",
-            "year": "2022",
-            "time": "00:00",
-            "weekday": "Monday",
-            "full": "Monday 21 November"
-        },
-        "title": "NUA",
-        "location": "Manchester, UK",
-        "description": "Annual Northern University Association get-together and striking competition",
-        "social": false,
-        "practice": false,
-        "allDay": true
-    },
-    {
-        "s_date": {
-            "day": "20",
-            "month": "November",
-            "year": "2022",
-            "time": "09:30",
-            "weekday": "Sunday",
-            "full": "09:30, Sunday 20 November"
-        },
-        "e_date": {
-            "day": "20",
-            "month": "November",
-            "year": "2022",
-            "time": "10:15",
-            "weekday": "Sunday",
-            "full": "10:15, Sunday 20 November"
-        },
-        "title": "Sunday Service Ringing",
-        "location": "St Lawrence Parish Church, York",
-        "description": "Weekly morning service ringing at St Lawrence that some YCG members attend",
-        "social": false,
-        "practice": false,
-        "allDay": false
-    },
-    {
-        "s_date": {
-            "day": "20",
-            "month": "November",
-            "year": "2022",
-            "time": "17:45",
-            "weekday": "Sunday",
-            "full": "17:45, Sunday 20 November"
-        },
-        "e_date": {
-            "day": "20",
-            "month": "November",
-            "year": "2022",
-            "time": "18:30",
-            "weekday": "Sunday",
-            "full": "18:30, Sunday 20 November"
-        },
-        "title": "Sunday Evensong Ringing",
-        "location": "St Lawrence Parish Church, York",
-        "description": "Weekly evening service ringing at St Lawrence after normal YCG practice",
-        "social": false,
-        "practice": false,
-        "allDay": false
-    },
-    {
-        "s_date": {
             "day": "21",
             "month": "November",
             "year": "2022",
@@ -2083,6 +2011,54 @@
         "title": "Sunday Evensong Ringing",
         "location": "St Lawrence Parish Church, York",
         "description": "Weekly evening service ringing at St Lawrence after normal YCG practice",
+        "social": false,
+        "practice": false,
+        "allDay": false
+    },
+    {
+        "s_date": {
+            "day": "20",
+            "month": "February",
+            "year": "2023",
+            "time": "19:00",
+            "weekday": "Monday",
+            "full": "19:00, Monday 20 February"
+        },
+        "e_date": {
+            "day": "20",
+            "month": "February",
+            "year": "2023",
+            "time": "19:30",
+            "weekday": "Monday",
+            "full": "19:30, Monday 20 February"
+        },
+        "title": "St Lawrence Handling Practice",
+        "location": "St Lawrence Parish Church, York",
+        "description": " Extra Handling Practices at St Lawrence before the main practice",
+        "social": false,
+        "practice": true,
+        "allDay": false
+    },
+    {
+        "s_date": {
+            "day": "20",
+            "month": "February",
+            "year": "2023",
+            "time": "19:30",
+            "weekday": "Monday",
+            "full": "19:30, Monday 20 February"
+        },
+        "e_date": {
+            "day": "20",
+            "month": "February",
+            "year": "2023",
+            "time": "21:00",
+            "weekday": "Monday",
+            "full": "21:00, Monday 20 February"
+        },
+        "title": "St Lawrence Practice",
+        "location": "St Lawrence Parish Church, York",
+        "description": "St Lawrence weekly practice that many members attend",
         "social": false,
         "practice": false,
         "allDay": false

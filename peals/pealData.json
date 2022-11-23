@@ -2,6 +2,57 @@
     {
         "academic_year": "2022/23",
         "type": 1,
+        "date": "Wednesday, 23 November 2022",
+        "location": "St Lawrence, York, North Yorkshire",
+        "weight": "7-3-24 in A",
+        "time": "41m",
+        "changes": "1250",
+        "method": "Yorkshire Surprise Major",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Natasha A Williams (Alcuin)",
+                "bell": "1"
+            },
+            {
+                "name": "Simon W Edwards (Alcuin)",
+                "bell": "2"
+            },
+            {
+                "name": "Jemima Bleackley (Halifax)",
+                "bell": "3"
+            },
+            {
+                "name": "Matthew O Hall (Vanbrugh)",
+                "bell": "4"
+            },
+            {
+                "name": "Ewan G A Hull (Associate)",
+                "bell": "5"
+            },
+            {
+                "name": "William M Regan (Friend) (C)",
+                "bell": "6"
+            },
+            {
+                "name": "Patrick W J Deakin (James)",
+                "bell": "7"
+            },
+            {
+                "name": "Joseph E T Waters (SUGCR)",
+                "bell": "8"
+            }
+        ],
+        "footnotes": [
+            "Rung to welcome Bob the Badger's new mascotty friends to York.",
+            "First quarter peal of Yorkshire - 3, 4, and as conductor."
+        ],
+        "id": "1562676",
+        "time_in_ms": 16691624
+    },
+    {
+        "academic_year": "2022/23",
+        "type": 1,
         "date": "Wednesday, 16 November 2022",
         "location": "St Lawrence, York, North Yorkshire",
         "weight": "7-3-24 in A",

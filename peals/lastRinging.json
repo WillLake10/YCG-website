@@ -1,51 +1,43 @@
 {
     "academic_year": "2022/23",
     "type": 1,
-    "date": "Wednesday, 23 November 2022",
+    "date": "Saturday, 26 November 2022",
     "location": "St Lawrence, York, North Yorkshire",
     "weight": "7-3-24 in A",
-    "time": "41m",
-    "changes": "1250",
-    "method": "Yorkshire Surprise Major",
+    "time": "40m",
+    "changes": "1260",
+    "method": "Plain Bob Minor",
     "details": "",
     "ringers": [
         {
-            "name": "Natasha A Williams (Alcuin)",
+            "name": "William M Regan (Friend) (C)",
             "bell": "1"
         },
         {
-            "name": "Simon W Edwards (Alcuin)",
+            "name": "Natasha A Williams (Alcuin)",
             "bell": "2"
         },
         {
-            "name": "Jemima Bleackley (Halifax)",
+            "name": "Megan Bucknall (Anne Lister)",
             "bell": "3"
         },
         {
-            "name": "Matthew O Hall (Vanbrugh)",
+            "name": "Joss Davis (Alcuin)",
             "bell": "4"
         },
         {
-            "name": "Ewan G A Hull (Associate)",
+            "name": "David Denbigh (Langwith)",
             "bell": "5"
         },
         {
-            "name": "William M Regan (Friend) (C)",
+            "name": "William J Lake (Langwith)",
             "bell": "6"
-        },
-        {
-            "name": "Patrick W J Deakin (James)",
-            "bell": "7"
-        },
-        {
-            "name": "Joseph E T Waters (SUGCR)",
-            "bell": "8"
         }
     ],
     "footnotes": [
-        "Rung to welcome Bob the Badger's new mascotty friends to York.",
-        "First quarter peal of Yorkshire - 3, 4, and as conductor."
+        "Rung for the parish's Advent Procession",
+        "First quarter peal of Minor inside - 4."
     ],
-    "id": "1562676",
-    "time_in_ms": 16691624
+    "id": "1563619",
+    "time_in_ms": 16694214
 }

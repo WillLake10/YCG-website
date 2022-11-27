@@ -19,9 +19,9 @@
             {
                 "tower": "York (St Lawrence), North Yorkshire",
                 "peals": 0,
-                "quarters": 5,
+                "quarters": 6,
                 "other": 0,
-                "total": 5
+                "total": 6
             },
             {
                 "tower": "University of York (East Campus), North Yorkshire",
@@ -54,9 +54,9 @@
         ],
         "summary": {
             "peals": 0,
-            "quarters": 15,
+            "quarters": 16,
             "other": 11,
-            "total": 26
+            "total": 27
         }
     },
     {

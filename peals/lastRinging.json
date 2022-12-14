@@ -1,42 +1,43 @@
 {
     "academic_year": "2022/23",
     "type": 1,
-    "date": "Sunday, 13 November 2022",
-    "location": "All Saints, Bubwith, East Riding of Yorkshire",
+    "date": "Saturday, 26 November 2022",
+    "location": "St Lawrence, York, North Yorkshire",
     "weight": "7-3-24 in A",
-    "time": "42m",
-    "changes": "1320",
-    "method": "Cambridge Surprise Minor",
+    "time": "40m",
+    "changes": "1260",
+    "method": "Plain Bob Minor",
     "details": "",
     "ringers": [
         {
-            "name": "Charlotte Alford",
+            "name": "William M Regan (Friend) (C)",
             "bell": "1"
         },
         {
-            "name": "William L K Brooke",
+            "name": "Natasha A Williams (Alcuin)",
             "bell": "2"
         },
         {
-            "name": "Claire Pearson",
+            "name": "Megan Bucknall (Anne Lister)",
             "bell": "3"
         },
         {
-            "name": "Lucy Williamson",
+            "name": "Joss Davis (Alcuin)",
             "bell": "4"
         },
         {
-            "name": "Nathan Cox",
+            "name": "David Denbigh (Langwith)",
             "bell": "5"
         },
         {
-            "name": "Ryan Mills (C)",
+            "name": "William J Lake (Langwith)",
             "bell": "6"
         }
     ],
     "footnotes": [
-        "Half-muffled following the Remembrance service"
+        "Rung for the parish's Advent Procession",
+        "First quarter peal of Minor inside - 4."
     ],
-    "id": "1559834",
-    "time_in_ms": 16682982
+    "id": "1563619",
+    "time_in_ms": 16694214
 }

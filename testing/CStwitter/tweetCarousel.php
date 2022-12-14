@@ -195,7 +195,7 @@
     }, 3600000);
 </script>
 
-<?php include "getTweets.php"; ?>
+<?php //include "getTweets.php"; ?>
 
 </body>
 

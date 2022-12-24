@@ -1,43 +1,52 @@
 {
     "academic_year": "2022/23",
     "type": 1,
-    "date": "Saturday, 26 November 2022",
-    "location": "St Lawrence, York, North Yorkshire",
-    "weight": "7-3-24 in A",
-    "time": "40m",
-    "changes": "1260",
-    "method": "Plain Bob Minor",
+    "date": "Friday, 02 December 2022",
+    "location": "Oratory Church of St Wilfrid, York, North Yorkshire",
+    "weight": "18-1-21 in F",
+    "time": "51m",
+    "changes": "1344",
+    "method": "Grandsire Triples",
     "details": "",
     "ringers": [
         {
-            "name": "William M Regan (Friend) (C)",
+            "name": "Rebecca A Hall (Langwith)",
             "bell": "1"
         },
         {
-            "name": "Natasha A Williams (Alcuin)",
+            "name": "Amber M Burrows (Anne Lister)",
             "bell": "2"
         },
         {
-            "name": "Megan Bucknall (Anne Lister)",
+            "name": "Matthew O Hall (Vanbrugh)",
             "bell": "3"
         },
         {
-            "name": "Joss Davis (Alcuin)",
+            "name": "William M Regan (Friend) (C)",
             "bell": "4"
         },
         {
-            "name": "David Denbigh (Langwith)",
+            "name": "Jemima Bleackley (Halifax)",
             "bell": "5"
         },
         {
-            "name": "William J Lake (Langwith)",
+            "name": "Patrick W J Deakin (James)",
             "bell": "6"
+        },
+        {
+            "name": "Ewan G A Hull (Associate)",
+            "bell": "7"
+        },
+        {
+            "name": "Natasha A Williams (Alcuin)",
+            "bell": "8"
         }
     ],
     "footnotes": [
-        "Rung for the parish's Advent Procession",
-        "First quarter peal of Minor inside - 4."
+        "Rung in memory of Maya Maldonado.",
+        "First of Grandsire and first of Triples inside - 2.",
+        "50th quarter peal - 5."
     ],
-    "id": "1563619",
-    "time_in_ms": 16694214
+    "id": "1565211",
+    "time_in_ms": 16699400
 }

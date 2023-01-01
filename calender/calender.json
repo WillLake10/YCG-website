@@ -2,606 +2,6 @@
     {
         "s_date": {
             "day": "01",
-            "month": "December",
-            "year": "2022",
-            "time": "19:00",
-            "weekday": "Thursday",
-            "full": "19:00, Thursday 01 December"
-        },
-        "e_date": {
-            "day": "01",
-            "month": "December",
-            "year": "2022",
-            "time": "21:00",
-            "weekday": "Thursday",
-            "full": "21:00, Thursday 01 December"
-        },
-        "title": "York Oratory Practice",
-        "location": "York Oratory, Duncombe Pl",
-        "description": "St Wilfrid's weekly practice that many members attend",
-        "social": false,
-        "practice": false,
-        "allDay": false
-    },
-    {
-        "s_date": {
-            "day": "04",
-            "month": "December",
-            "year": "2022",
-            "time": "09:30",
-            "weekday": "Sunday",
-            "full": "09:30, Sunday 04 December"
-        },
-        "e_date": {
-            "day": "04",
-            "month": "December",
-            "year": "2022",
-            "time": "10:15",
-            "weekday": "Sunday",
-            "full": "10:15, Sunday 04 December"
-        },
-        "title": "Sunday Service Ringing",
-        "location": "St Lawrence Parish Church, York",
-        "description": "Weekly morning service ringing at St Lawrence that some YCG members attend",
-        "social": false,
-        "practice": false,
-        "allDay": false
-    },
-    {
-        "s_date": {
-            "day": "04",
-            "month": "December",
-            "year": "2022",
-            "time": "14:30",
-            "weekday": "Sunday",
-            "full": "14:30, Sunday 04 December"
-        },
-        "e_date": {
-            "day": "04",
-            "month": "December",
-            "year": "2022",
-            "time": "16:00",
-            "weekday": "Sunday",
-            "full": "16:00, Sunday 04 December"
-        },
-        "title": "YCG Practice",
-        "location": "York Oratory, Duncombe Pl",
-        "description": " Weekly YCG Practice",
-        "social": false,
-        "practice": true,
-        "allDay": false
-    },
-    {
-        "s_date": {
-            "day": "04",
-            "month": "December",
-            "year": "2022",
-            "time": "17:45",
-            "weekday": "Sunday",
-            "full": "17:45, Sunday 04 December"
-        },
-        "e_date": {
-            "day": "04",
-            "month": "December",
-            "year": "2022",
-            "time": "18:30",
-            "weekday": "Sunday",
-            "full": "18:30, Sunday 04 December"
-        },
-        "title": "Sunday Evensong Ringing",
-        "location": "St Lawrence Parish Church, York",
-        "description": "Weekly evening service ringing at St Lawrence after normal YCG practice",
-        "social": false,
-        "practice": false,
-        "allDay": false
-    },
-    {
-        "s_date": {
-            "day": "05",
-            "month": "December",
-            "year": "2022",
-            "time": "19:00",
-            "weekday": "Monday",
-            "full": "19:00, Monday 05 December"
-        },
-        "e_date": {
-            "day": "05",
-            "month": "December",
-            "year": "2022",
-            "time": "19:30",
-            "weekday": "Monday",
-            "full": "19:30, Monday 05 December"
-        },
-        "title": "St Lawrence Handling Practice",
-        "location": "St Lawrence Parish Church, York",
-        "description": " Extra Handling Practices at St Lawrence before the main practice",
-        "social": false,
-        "practice": true,
-        "allDay": false
-    },
-    {
-        "s_date": {
-            "day": "05",
-            "month": "December",
-            "year": "2022",
-            "time": "19:30",
-            "weekday": "Monday",
-            "full": "19:30, Monday 05 December"
-        },
-        "e_date": {
-            "day": "05",
-            "month": "December",
-            "year": "2022",
-            "time": "21:00",
-            "weekday": "Monday",
-            "full": "21:00, Monday 05 December"
-        },
-        "title": "St Lawrence Practice",
-        "location": "St Lawrence Parish Church, York",
-        "description": "St Lawrence weekly practice that many members attend",
-        "social": false,
-        "practice": false,
-        "allDay": false
-    },
-    {
-        "s_date": {
-            "day": "06",
-            "month": "December",
-            "year": "2022",
-            "time": "19:00",
-            "weekday": "Tuesday",
-            "full": "19:00, Tuesday 06 December"
-        },
-        "e_date": {
-            "day": "06",
-            "month": "December",
-            "year": "2022",
-            "time": "21:00",
-            "weekday": "Tuesday",
-            "full": "21:00, Tuesday 06 December"
-        },
-        "title": "York Minster Practice",
-        "location": "York Minster, Deangate",
-        "description": "Weekly practice at the Minster that some members attend",
-        "social": false,
-        "practice": false,
-        "allDay": false
-    },
-    {
-        "s_date": {
-            "day": "08",
-            "month": "December",
-            "year": "2022",
-            "time": "19:00",
-            "weekday": "Thursday",
-            "full": "19:00, Thursday 08 December"
-        },
-        "e_date": {
-            "day": "08",
-            "month": "December",
-            "year": "2022",
-            "time": "21:00",
-            "weekday": "Thursday",
-            "full": "21:00, Thursday 08 December"
-        },
-        "title": "York Oratory Practice",
-        "location": "York Oratory, Duncombe Pl",
-        "description": "St Wilfrid's weekly practice that many members attend",
-        "social": false,
-        "practice": false,
-        "allDay": false
-    },
-    {
-        "s_date": {
-            "day": "11",
-            "month": "December",
-            "year": "2022",
-            "time": "09:30",
-            "weekday": "Sunday",
-            "full": "09:30, Sunday 11 December"
-        },
-        "e_date": {
-            "day": "11",
-            "month": "December",
-            "year": "2022",
-            "time": "10:15",
-            "weekday": "Sunday",
-            "full": "10:15, Sunday 11 December"
-        },
-        "title": "Sunday Service Ringing",
-        "location": "St Lawrence Parish Church, York",
-        "description": "Weekly morning service ringing at St Lawrence that some YCG members attend",
-        "social": false,
-        "practice": false,
-        "allDay": false
-    },
-    {
-        "s_date": {
-            "day": "11",
-            "month": "December",
-            "year": "2022",
-            "time": "17:45",
-            "weekday": "Sunday",
-            "full": "17:45, Sunday 11 December"
-        },
-        "e_date": {
-            "day": "11",
-            "month": "December",
-            "year": "2022",
-            "time": "18:30",
-            "weekday": "Sunday",
-            "full": "18:30, Sunday 11 December"
-        },
-        "title": "Sunday Evensong Ringing",
-        "location": "St Lawrence Parish Church, York",
-        "description": "Weekly evening service ringing at St Lawrence after normal YCG practice",
-        "social": false,
-        "practice": false,
-        "allDay": false
-    },
-    {
-        "s_date": {
-            "day": "12",
-            "month": "December",
-            "year": "2022",
-            "time": "19:00",
-            "weekday": "Monday",
-            "full": "19:00, Monday 12 December"
-        },
-        "e_date": {
-            "day": "12",
-            "month": "December",
-            "year": "2022",
-            "time": "19:30",
-            "weekday": "Monday",
-            "full": "19:30, Monday 12 December"
-        },
-        "title": "St Lawrence Handling Practice",
-        "location": "St Lawrence Parish Church, York",
-        "description": " Extra Handling Practices at St Lawrence before the main practice",
-        "social": false,
-        "practice": true,
-        "allDay": false
-    },
-    {
-        "s_date": {
-            "day": "12",
-            "month": "December",
-            "year": "2022",
-            "time": "19:30",
-            "weekday": "Monday",
-            "full": "19:30, Monday 12 December"
-        },
-        "e_date": {
-            "day": "12",
-            "month": "December",
-            "year": "2022",
-            "time": "21:00",
-            "weekday": "Monday",
-            "full": "21:00, Monday 12 December"
-        },
-        "title": "St Lawrence Practice",
-        "location": "St Lawrence Parish Church, York",
-        "description": "St Lawrence weekly practice that many members attend",
-        "social": false,
-        "practice": false,
-        "allDay": false
-    },
-    {
-        "s_date": {
-            "day": "13",
-            "month": "December",
-            "year": "2022",
-            "time": "19:00",
-            "weekday": "Tuesday",
-            "full": "19:00, Tuesday 13 December"
-        },
-        "e_date": {
-            "day": "13",
-            "month": "December",
-            "year": "2022",
-            "time": "21:00",
-            "weekday": "Tuesday",
-            "full": "21:00, Tuesday 13 December"
-        },
-        "title": "York Minster Practice",
-        "location": "York Minster, Deangate",
-        "description": "Weekly practice at the Minster that some members attend",
-        "social": false,
-        "practice": false,
-        "allDay": false
-    },
-    {
-        "s_date": {
-            "day": "15",
-            "month": "December",
-            "year": "2022",
-            "time": "19:00",
-            "weekday": "Thursday",
-            "full": "19:00, Thursday 15 December"
-        },
-        "e_date": {
-            "day": "15",
-            "month": "December",
-            "year": "2022",
-            "time": "21:00",
-            "weekday": "Thursday",
-            "full": "21:00, Thursday 15 December"
-        },
-        "title": "York Oratory Practice",
-        "location": "York Oratory, Duncombe Pl",
-        "description": "St Wilfrid's weekly practice that many members attend",
-        "social": false,
-        "practice": false,
-        "allDay": false
-    },
-    {
-        "s_date": {
-            "day": "18",
-            "month": "December",
-            "year": "2022",
-            "time": "09:30",
-            "weekday": "Sunday",
-            "full": "09:30, Sunday 18 December"
-        },
-        "e_date": {
-            "day": "18",
-            "month": "December",
-            "year": "2022",
-            "time": "10:15",
-            "weekday": "Sunday",
-            "full": "10:15, Sunday 18 December"
-        },
-        "title": "Sunday Service Ringing",
-        "location": "St Lawrence Parish Church, York",
-        "description": "Weekly morning service ringing at St Lawrence that some YCG members attend",
-        "social": false,
-        "practice": false,
-        "allDay": false
-    },
-    {
-        "s_date": {
-            "day": "18",
-            "month": "December",
-            "year": "2022",
-            "time": "17:45",
-            "weekday": "Sunday",
-            "full": "17:45, Sunday 18 December"
-        },
-        "e_date": {
-            "day": "18",
-            "month": "December",
-            "year": "2022",
-            "time": "18:30",
-            "weekday": "Sunday",
-            "full": "18:30, Sunday 18 December"
-        },
-        "title": "Sunday Evensong Ringing",
-        "location": "St Lawrence Parish Church, York",
-        "description": "Weekly evening service ringing at St Lawrence after normal YCG practice",
-        "social": false,
-        "practice": false,
-        "allDay": false
-    },
-    {
-        "s_date": {
-            "day": "19",
-            "month": "December",
-            "year": "2022",
-            "time": "19:00",
-            "weekday": "Monday",
-            "full": "19:00, Monday 19 December"
-        },
-        "e_date": {
-            "day": "19",
-            "month": "December",
-            "year": "2022",
-            "time": "19:30",
-            "weekday": "Monday",
-            "full": "19:30, Monday 19 December"
-        },
-        "title": "St Lawrence Handling Practice",
-        "location": "St Lawrence Parish Church, York",
-        "description": " Extra Handling Practices at St Lawrence before the main practice",
-        "social": false,
-        "practice": true,
-        "allDay": false
-    },
-    {
-        "s_date": {
-            "day": "19",
-            "month": "December",
-            "year": "2022",
-            "time": "19:30",
-            "weekday": "Monday",
-            "full": "19:30, Monday 19 December"
-        },
-        "e_date": {
-            "day": "19",
-            "month": "December",
-            "year": "2022",
-            "time": "21:00",
-            "weekday": "Monday",
-            "full": "21:00, Monday 19 December"
-        },
-        "title": "St Lawrence Practice",
-        "location": "St Lawrence Parish Church, York",
-        "description": "St Lawrence weekly practice that many members attend",
-        "social": false,
-        "practice": false,
-        "allDay": false
-    },
-    {
-        "s_date": {
-            "day": "22",
-            "month": "December",
-            "year": "2022",
-            "time": "19:00",
-            "weekday": "Thursday",
-            "full": "19:00, Thursday 22 December"
-        },
-        "e_date": {
-            "day": "22",
-            "month": "December",
-            "year": "2022",
-            "time": "21:00",
-            "weekday": "Thursday",
-            "full": "21:00, Thursday 22 December"
-        },
-        "title": "York Oratory Practice",
-        "location": "York Oratory, Duncombe Pl",
-        "description": "St Wilfrid's weekly practice that many members attend",
-        "social": false,
-        "practice": false,
-        "allDay": false
-    },
-    {
-        "s_date": {
-            "day": "25",
-            "month": "December",
-            "year": "2022",
-            "time": "09:30",
-            "weekday": "Sunday",
-            "full": "09:30, Sunday 25 December"
-        },
-        "e_date": {
-            "day": "25",
-            "month": "December",
-            "year": "2022",
-            "time": "10:15",
-            "weekday": "Sunday",
-            "full": "10:15, Sunday 25 December"
-        },
-        "title": "Sunday Service Ringing",
-        "location": "St Lawrence Parish Church, York",
-        "description": "Weekly morning service ringing at St Lawrence that some YCG members attend",
-        "social": false,
-        "practice": false,
-        "allDay": false
-    },
-    {
-        "s_date": {
-            "day": "25",
-            "month": "December",
-            "year": "2022",
-            "time": "17:45",
-            "weekday": "Sunday",
-            "full": "17:45, Sunday 25 December"
-        },
-        "e_date": {
-            "day": "25",
-            "month": "December",
-            "year": "2022",
-            "time": "18:30",
-            "weekday": "Sunday",
-            "full": "18:30, Sunday 25 December"
-        },
-        "title": "Sunday Evensong Ringing",
-        "location": "St Lawrence Parish Church, York",
-        "description": "Weekly evening service ringing at St Lawrence after normal YCG practice",
-        "social": false,
-        "practice": false,
-        "allDay": false
-    },
-    {
-        "s_date": {
-            "day": "26",
-            "month": "December",
-            "year": "2022",
-            "time": "19:00",
-            "weekday": "Monday",
-            "full": "19:00, Monday 26 December"
-        },
-        "e_date": {
-            "day": "26",
-            "month": "December",
-            "year": "2022",
-            "time": "19:30",
-            "weekday": "Monday",
-            "full": "19:30, Monday 26 December"
-        },
-        "title": "St Lawrence Handling Practice",
-        "location": "St Lawrence Parish Church, York",
-        "description": " Extra Handling Practices at St Lawrence before the main practice",
-        "social": false,
-        "practice": true,
-        "allDay": false
-    },
-    {
-        "s_date": {
-            "day": "26",
-            "month": "December",
-            "year": "2022",
-            "time": "19:30",
-            "weekday": "Monday",
-            "full": "19:30, Monday 26 December"
-        },
-        "e_date": {
-            "day": "26",
-            "month": "December",
-            "year": "2022",
-            "time": "21:00",
-            "weekday": "Monday",
-            "full": "21:00, Monday 26 December"
-        },
-        "title": "St Lawrence Practice",
-        "location": "St Lawrence Parish Church, York",
-        "description": "St Lawrence weekly practice that many members attend",
-        "social": false,
-        "practice": false,
-        "allDay": false
-    },
-    {
-        "s_date": {
-            "day": "27",
-            "month": "December",
-            "year": "2022",
-            "time": "19:00",
-            "weekday": "Tuesday",
-            "full": "19:00, Tuesday 27 December"
-        },
-        "e_date": {
-            "day": "27",
-            "month": "December",
-            "year": "2022",
-            "time": "21:00",
-            "weekday": "Tuesday",
-            "full": "21:00, Tuesday 27 December"
-        },
-        "title": "York Minster Practice",
-        "location": "York Minster, Deangate",
-        "description": "Weekly practice at the Minster that some members attend",
-        "social": false,
-        "practice": false,
-        "allDay": false
-    },
-    {
-        "s_date": {
-            "day": "29",
-            "month": "December",
-            "year": "2022",
-            "time": "19:00",
-            "weekday": "Thursday",
-            "full": "19:00, Thursday 29 December"
-        },
-        "e_date": {
-            "day": "29",
-            "month": "December",
-            "year": "2022",
-            "time": "21:00",
-            "weekday": "Thursday",
-            "full": "21:00, Thursday 29 December"
-        },
-        "title": "York Oratory Practice",
-        "location": "York Oratory, Duncombe Pl",
-        "description": "St Wilfrid's weekly practice that many members attend",
-        "social": false,
-        "practice": false,
-        "allDay": false
-    },
-    {
-        "s_date": {
-            "day": "01",
             "month": "January",
             "year": "2023",
             "time": "09:30",
@@ -865,30 +265,6 @@
     },
     {
         "s_date": {
-            "day": "11",
-            "month": "January",
-            "year": "2023",
-            "time": "19:30",
-            "weekday": "Wednesday",
-            "full": "19:30, Wednesday 11 January"
-        },
-        "e_date": {
-            "day": "11",
-            "month": "January",
-            "year": "2023",
-            "time": "21:00",
-            "weekday": "Wednesday",
-            "full": "21:00, Wednesday 11 January"
-        },
-        "title": "Clifton Practice",
-        "location": "Clifton Parish Church St Philip & St James, Clifton Vicarage",
-        "description": "",
-        "social": false,
-        "practice": false,
-        "allDay": false
-    },
-    {
-        "s_date": {
             "day": "12",
             "month": "January",
             "year": "2023",
@@ -933,6 +309,30 @@
         "description": "Weekly morning service ringing at St Lawrence that some YCG members attend",
         "social": false,
         "practice": false,
+        "allDay": false
+    },
+    {
+        "s_date": {
+            "day": "15",
+            "month": "January",
+            "year": "2023",
+            "time": "14:30",
+            "weekday": "Sunday",
+            "full": "14:30, Sunday 15 January"
+        },
+        "e_date": {
+            "day": "15",
+            "month": "January",
+            "year": "2023",
+            "time": "16:00",
+            "weekday": "Sunday",
+            "full": "16:00, Sunday 15 January"
+        },
+        "title": "YCG Practice (Simulator)",
+        "location": "York Oratory, Duncombe Pl",
+        "description": " Weekly YCG Practice",
+        "social": false,
+        "practice": true,
         "allDay": false
     },
     {
@@ -1221,6 +621,30 @@
         "description": "Weekly morning service ringing at St Lawrence that some YCG members attend",
         "social": false,
         "practice": false,
+        "allDay": false
+    },
+    {
+        "s_date": {
+            "day": "29",
+            "month": "January",
+            "year": "2023",
+            "time": "14:30",
+            "weekday": "Sunday",
+            "full": "14:30, Sunday 29 January"
+        },
+        "e_date": {
+            "day": "29",
+            "month": "January",
+            "year": "2023",
+            "time": "16:00",
+            "weekday": "Sunday",
+            "full": "16:00, Sunday 29 January"
+        },
+        "title": "YCG Practice",
+        "location": "York Oratory, Duncombe Pl",
+        "description": " Weekly YCG Practice",
+        "social": false,
+        "practice": true,
         "allDay": false
     },
     {
@@ -1540,6 +964,30 @@
             "day": "12",
             "month": "February",
             "year": "2023",
+            "time": "14:30",
+            "weekday": "Sunday",
+            "full": "14:30, Sunday 12 February"
+        },
+        "e_date": {
+            "day": "12",
+            "month": "February",
+            "year": "2023",
+            "time": "16:00",
+            "weekday": "Sunday",
+            "full": "16:00, Sunday 12 February"
+        },
+        "title": "YCG Practice",
+        "location": "York Oratory, Duncombe Pl",
+        "description": " Weekly YCG Practice",
+        "social": false,
+        "practice": true,
+        "allDay": false
+    },
+    {
+        "s_date": {
+            "day": "12",
+            "month": "February",
+            "year": "2023",
             "time": "17:45",
             "weekday": "Sunday",
             "full": "17:45, Sunday 12 February"
@@ -1852,6 +1300,30 @@
             "day": "26",
             "month": "February",
             "year": "2023",
+            "time": "14:30",
+            "weekday": "Sunday",
+            "full": "14:30, Sunday 26 February"
+        },
+        "e_date": {
+            "day": "26",
+            "month": "February",
+            "year": "2023",
+            "time": "16:00",
+            "weekday": "Sunday",
+            "full": "16:00, Sunday 26 February"
+        },
+        "title": "YCG Practice",
+        "location": "York Oratory, Duncombe Pl",
+        "description": " Weekly YCG Practice",
+        "social": false,
+        "practice": true,
+        "allDay": false
+    },
+    {
+        "s_date": {
+            "day": "26",
+            "month": "February",
+            "year": "2023",
             "time": "17:45",
             "weekday": "Sunday",
             "full": "17:45, Sunday 26 February"
@@ -1915,6 +1387,678 @@
         "title": "St Lawrence Practice",
         "location": "St Lawrence Parish Church, York",
         "description": "St Lawrence weekly practice that many members attend",
+        "social": false,
+        "practice": false,
+        "allDay": false
+    },
+    {
+        "s_date": {
+            "day": "28",
+            "month": "February",
+            "year": "2023",
+            "time": "19:00",
+            "weekday": "Tuesday",
+            "full": "19:00, Tuesday 28 February"
+        },
+        "e_date": {
+            "day": "28",
+            "month": "February",
+            "year": "2023",
+            "time": "21:00",
+            "weekday": "Tuesday",
+            "full": "21:00, Tuesday 28 February"
+        },
+        "title": "York Minster Practice",
+        "location": "York Minster, Deangate",
+        "description": "Weekly practice at the Minster that some members attend",
+        "social": false,
+        "practice": false,
+        "allDay": false
+    },
+    {
+        "s_date": {
+            "day": "02",
+            "month": "March",
+            "year": "2023",
+            "time": "19:00",
+            "weekday": "Thursday",
+            "full": "19:00, Thursday 02 March"
+        },
+        "e_date": {
+            "day": "02",
+            "month": "March",
+            "year": "2023",
+            "time": "21:00",
+            "weekday": "Thursday",
+            "full": "21:00, Thursday 02 March"
+        },
+        "title": "York Oratory Practice",
+        "location": "York Oratory, Duncombe Pl",
+        "description": "St Wilfrid's weekly practice that many members attend",
+        "social": false,
+        "practice": false,
+        "allDay": false
+    },
+    {
+        "s_date": {
+            "day": "05",
+            "month": "March",
+            "year": "2023",
+            "time": "09:30",
+            "weekday": "Sunday",
+            "full": "09:30, Sunday 05 March"
+        },
+        "e_date": {
+            "day": "05",
+            "month": "March",
+            "year": "2023",
+            "time": "10:15",
+            "weekday": "Sunday",
+            "full": "10:15, Sunday 05 March"
+        },
+        "title": "Sunday Service Ringing",
+        "location": "St Lawrence Parish Church, York",
+        "description": "Weekly morning service ringing at St Lawrence that some YCG members attend",
+        "social": false,
+        "practice": false,
+        "allDay": false
+    },
+    {
+        "s_date": {
+            "day": "05",
+            "month": "March",
+            "year": "2023",
+            "time": "17:45",
+            "weekday": "Sunday",
+            "full": "17:45, Sunday 05 March"
+        },
+        "e_date": {
+            "day": "05",
+            "month": "March",
+            "year": "2023",
+            "time": "18:30",
+            "weekday": "Sunday",
+            "full": "18:30, Sunday 05 March"
+        },
+        "title": "Sunday Evensong Ringing",
+        "location": "St Lawrence Parish Church, York",
+        "description": "Weekly evening service ringing at St Lawrence after normal YCG practice",
+        "social": false,
+        "practice": false,
+        "allDay": false
+    },
+    {
+        "s_date": {
+            "day": "06",
+            "month": "March",
+            "year": "2023",
+            "time": "19:00",
+            "weekday": "Monday",
+            "full": "19:00, Monday 06 March"
+        },
+        "e_date": {
+            "day": "06",
+            "month": "March",
+            "year": "2023",
+            "time": "19:30",
+            "weekday": "Monday",
+            "full": "19:30, Monday 06 March"
+        },
+        "title": "St Lawrence Handling Practice",
+        "location": "St Lawrence Parish Church, York",
+        "description": " Extra Handling Practices at St Lawrence before the main practice",
+        "social": false,
+        "practice": true,
+        "allDay": false
+    },
+    {
+        "s_date": {
+            "day": "06",
+            "month": "March",
+            "year": "2023",
+            "time": "19:30",
+            "weekday": "Monday",
+            "full": "19:30, Monday 06 March"
+        },
+        "e_date": {
+            "day": "06",
+            "month": "March",
+            "year": "2023",
+            "time": "21:00",
+            "weekday": "Monday",
+            "full": "21:00, Monday 06 March"
+        },
+        "title": "St Lawrence Practice",
+        "location": "St Lawrence Parish Church, York",
+        "description": "St Lawrence weekly practice that many members attend",
+        "social": false,
+        "practice": false,
+        "allDay": false
+    },
+    {
+        "s_date": {
+            "day": "07",
+            "month": "March",
+            "year": "2023",
+            "time": "19:00",
+            "weekday": "Tuesday",
+            "full": "19:00, Tuesday 07 March"
+        },
+        "e_date": {
+            "day": "07",
+            "month": "March",
+            "year": "2023",
+            "time": "21:00",
+            "weekday": "Tuesday",
+            "full": "21:00, Tuesday 07 March"
+        },
+        "title": "York Minster Practice",
+        "location": "York Minster, Deangate",
+        "description": "Weekly practice at the Minster that some members attend",
+        "social": false,
+        "practice": false,
+        "allDay": false
+    },
+    {
+        "s_date": {
+            "day": "08",
+            "month": "March",
+            "year": "2023",
+            "time": "19:30",
+            "weekday": "Wednesday",
+            "full": "19:30, Wednesday 08 March"
+        },
+        "e_date": {
+            "day": "08",
+            "month": "March",
+            "year": "2023",
+            "time": "21:00",
+            "weekday": "Wednesday",
+            "full": "21:00, Wednesday 08 March"
+        },
+        "title": "Clifton Practice",
+        "location": "Clifton Parish Church St Philip & St James, Clifton Vicarage",
+        "description": "",
+        "social": false,
+        "practice": false,
+        "allDay": false
+    },
+    {
+        "s_date": {
+            "day": "09",
+            "month": "March",
+            "year": "2023",
+            "time": "19:00",
+            "weekday": "Thursday",
+            "full": "19:00, Thursday 09 March"
+        },
+        "e_date": {
+            "day": "09",
+            "month": "March",
+            "year": "2023",
+            "time": "21:00",
+            "weekday": "Thursday",
+            "full": "21:00, Thursday 09 March"
+        },
+        "title": "York Oratory Practice",
+        "location": "York Oratory, Duncombe Pl",
+        "description": "St Wilfrid's weekly practice that many members attend",
+        "social": false,
+        "practice": false,
+        "allDay": false
+    },
+    {
+        "s_date": {
+            "day": "12",
+            "month": "March",
+            "year": "2023",
+            "time": "09:30",
+            "weekday": "Sunday",
+            "full": "09:30, Sunday 12 March"
+        },
+        "e_date": {
+            "day": "12",
+            "month": "March",
+            "year": "2023",
+            "time": "10:15",
+            "weekday": "Sunday",
+            "full": "10:15, Sunday 12 March"
+        },
+        "title": "Sunday Service Ringing",
+        "location": "St Lawrence Parish Church, York",
+        "description": "Weekly morning service ringing at St Lawrence that some YCG members attend",
+        "social": false,
+        "practice": false,
+        "allDay": false
+    },
+    {
+        "s_date": {
+            "day": "12",
+            "month": "March",
+            "year": "2023",
+            "time": "14:30",
+            "weekday": "Sunday",
+            "full": "14:30, Sunday 12 March"
+        },
+        "e_date": {
+            "day": "12",
+            "month": "March",
+            "year": "2023",
+            "time": "16:00",
+            "weekday": "Sunday",
+            "full": "16:00, Sunday 12 March"
+        },
+        "title": "YCG Practice (Simulator)",
+        "location": "York Oratory, Duncombe Pl",
+        "description": " Weekly YCG Practice",
+        "social": false,
+        "practice": true,
+        "allDay": false
+    },
+    {
+        "s_date": {
+            "day": "12",
+            "month": "March",
+            "year": "2023",
+            "time": "17:45",
+            "weekday": "Sunday",
+            "full": "17:45, Sunday 12 March"
+        },
+        "e_date": {
+            "day": "12",
+            "month": "March",
+            "year": "2023",
+            "time": "18:30",
+            "weekday": "Sunday",
+            "full": "18:30, Sunday 12 March"
+        },
+        "title": "Sunday Evensong Ringing",
+        "location": "St Lawrence Parish Church, York",
+        "description": "Weekly evening service ringing at St Lawrence after normal YCG practice",
+        "social": false,
+        "practice": false,
+        "allDay": false
+    },
+    {
+        "s_date": {
+            "day": "13",
+            "month": "March",
+            "year": "2023",
+            "time": "19:00",
+            "weekday": "Monday",
+            "full": "19:00, Monday 13 March"
+        },
+        "e_date": {
+            "day": "13",
+            "month": "March",
+            "year": "2023",
+            "time": "19:30",
+            "weekday": "Monday",
+            "full": "19:30, Monday 13 March"
+        },
+        "title": "St Lawrence Handling Practice",
+        "location": "St Lawrence Parish Church, York",
+        "description": " Extra Handling Practices at St Lawrence before the main practice",
+        "social": false,
+        "practice": true,
+        "allDay": false
+    },
+    {
+        "s_date": {
+            "day": "13",
+            "month": "March",
+            "year": "2023",
+            "time": "19:30",
+            "weekday": "Monday",
+            "full": "19:30, Monday 13 March"
+        },
+        "e_date": {
+            "day": "13",
+            "month": "March",
+            "year": "2023",
+            "time": "21:00",
+            "weekday": "Monday",
+            "full": "21:00, Monday 13 March"
+        },
+        "title": "St Lawrence Practice",
+        "location": "St Lawrence Parish Church, York",
+        "description": "St Lawrence weekly practice that many members attend",
+        "social": false,
+        "practice": false,
+        "allDay": false
+    },
+    {
+        "s_date": {
+            "day": "14",
+            "month": "March",
+            "year": "2023",
+            "time": "19:00",
+            "weekday": "Tuesday",
+            "full": "19:00, Tuesday 14 March"
+        },
+        "e_date": {
+            "day": "14",
+            "month": "March",
+            "year": "2023",
+            "time": "21:00",
+            "weekday": "Tuesday",
+            "full": "21:00, Tuesday 14 March"
+        },
+        "title": "York Minster Practice",
+        "location": "York Minster, Deangate",
+        "description": "Weekly practice at the Minster that some members attend",
+        "social": false,
+        "practice": false,
+        "allDay": false
+    },
+    {
+        "s_date": {
+            "day": "16",
+            "month": "March",
+            "year": "2023",
+            "time": "19:00",
+            "weekday": "Thursday",
+            "full": "19:00, Thursday 16 March"
+        },
+        "e_date": {
+            "day": "16",
+            "month": "March",
+            "year": "2023",
+            "time": "21:00",
+            "weekday": "Thursday",
+            "full": "21:00, Thursday 16 March"
+        },
+        "title": "York Oratory Practice",
+        "location": "York Oratory, Duncombe Pl",
+        "description": "St Wilfrid's weekly practice that many members attend",
+        "social": false,
+        "practice": false,
+        "allDay": false
+    },
+    {
+        "s_date": {
+            "day": "19",
+            "month": "March",
+            "year": "2023",
+            "time": "09:30",
+            "weekday": "Sunday",
+            "full": "09:30, Sunday 19 March"
+        },
+        "e_date": {
+            "day": "19",
+            "month": "March",
+            "year": "2023",
+            "time": "10:15",
+            "weekday": "Sunday",
+            "full": "10:15, Sunday 19 March"
+        },
+        "title": "Sunday Service Ringing",
+        "location": "St Lawrence Parish Church, York",
+        "description": "Weekly morning service ringing at St Lawrence that some YCG members attend",
+        "social": false,
+        "practice": false,
+        "allDay": false
+    },
+    {
+        "s_date": {
+            "day": "19",
+            "month": "March",
+            "year": "2023",
+            "time": "17:45",
+            "weekday": "Sunday",
+            "full": "17:45, Sunday 19 March"
+        },
+        "e_date": {
+            "day": "19",
+            "month": "March",
+            "year": "2023",
+            "time": "18:30",
+            "weekday": "Sunday",
+            "full": "18:30, Sunday 19 March"
+        },
+        "title": "Sunday Evensong Ringing",
+        "location": "St Lawrence Parish Church, York",
+        "description": "Weekly evening service ringing at St Lawrence after normal YCG practice",
+        "social": false,
+        "practice": false,
+        "allDay": false
+    },
+    {
+        "s_date": {
+            "day": "20",
+            "month": "March",
+            "year": "2023",
+            "time": "19:00",
+            "weekday": "Monday",
+            "full": "19:00, Monday 20 March"
+        },
+        "e_date": {
+            "day": "20",
+            "month": "March",
+            "year": "2023",
+            "time": "19:30",
+            "weekday": "Monday",
+            "full": "19:30, Monday 20 March"
+        },
+        "title": "St Lawrence Handling Practice",
+        "location": "St Lawrence Parish Church, York",
+        "description": " Extra Handling Practices at St Lawrence before the main practice",
+        "social": false,
+        "practice": true,
+        "allDay": false
+    },
+    {
+        "s_date": {
+            "day": "20",
+            "month": "March",
+            "year": "2023",
+            "time": "19:30",
+            "weekday": "Monday",
+            "full": "19:30, Monday 20 March"
+        },
+        "e_date": {
+            "day": "20",
+            "month": "March",
+            "year": "2023",
+            "time": "21:00",
+            "weekday": "Monday",
+            "full": "21:00, Monday 20 March"
+        },
+        "title": "St Lawrence Practice",
+        "location": "St Lawrence Parish Church, York",
+        "description": "St Lawrence weekly practice that many members attend",
+        "social": false,
+        "practice": false,
+        "allDay": false
+    },
+    {
+        "s_date": {
+            "day": "21",
+            "month": "March",
+            "year": "2023",
+            "time": "19:00",
+            "weekday": "Tuesday",
+            "full": "19:00, Tuesday 21 March"
+        },
+        "e_date": {
+            "day": "21",
+            "month": "March",
+            "year": "2023",
+            "time": "21:00",
+            "weekday": "Tuesday",
+            "full": "21:00, Tuesday 21 March"
+        },
+        "title": "York Minster Practice",
+        "location": "York Minster, Deangate",
+        "description": "Weekly practice at the Minster that some members attend",
+        "social": false,
+        "practice": false,
+        "allDay": false
+    },
+    {
+        "s_date": {
+            "day": "23",
+            "month": "March",
+            "year": "2023",
+            "time": "19:00",
+            "weekday": "Thursday",
+            "full": "19:00, Thursday 23 March"
+        },
+        "e_date": {
+            "day": "23",
+            "month": "March",
+            "year": "2023",
+            "time": "21:00",
+            "weekday": "Thursday",
+            "full": "21:00, Thursday 23 March"
+        },
+        "title": "York Oratory Practice",
+        "location": "York Oratory, Duncombe Pl",
+        "description": "St Wilfrid's weekly practice that many members attend",
+        "social": false,
+        "practice": false,
+        "allDay": false
+    },
+    {
+        "s_date": {
+            "day": "26",
+            "month": "March",
+            "year": "2023",
+            "time": "09:30",
+            "weekday": "Sunday",
+            "full": "09:30, Sunday 26 March"
+        },
+        "e_date": {
+            "day": "26",
+            "month": "March",
+            "year": "2023",
+            "time": "10:15",
+            "weekday": "Sunday",
+            "full": "10:15, Sunday 26 March"
+        },
+        "title": "Sunday Service Ringing",
+        "location": "St Lawrence Parish Church, York",
+        "description": "Weekly morning service ringing at St Lawrence that some YCG members attend",
+        "social": false,
+        "practice": false,
+        "allDay": false
+    },
+    {
+        "s_date": {
+            "day": "26",
+            "month": "March",
+            "year": "2023",
+            "time": "17:45",
+            "weekday": "Sunday",
+            "full": "17:45, Sunday 26 March"
+        },
+        "e_date": {
+            "day": "26",
+            "month": "March",
+            "year": "2023",
+            "time": "18:30",
+            "weekday": "Sunday",
+            "full": "18:30, Sunday 26 March"
+        },
+        "title": "Sunday Evensong Ringing",
+        "location": "St Lawrence Parish Church, York",
+        "description": "Weekly evening service ringing at St Lawrence after normal YCG practice",
+        "social": false,
+        "practice": false,
+        "allDay": false
+    },
+    {
+        "s_date": {
+            "day": "27",
+            "month": "March",
+            "year": "2023",
+            "time": "19:00",
+            "weekday": "Monday",
+            "full": "19:00, Monday 27 March"
+        },
+        "e_date": {
+            "day": "27",
+            "month": "March",
+            "year": "2023",
+            "time": "19:30",
+            "weekday": "Monday",
+            "full": "19:30, Monday 27 March"
+        },
+        "title": "St Lawrence Handling Practice",
+        "location": "St Lawrence Parish Church, York",
+        "description": " Extra Handling Practices at St Lawrence before the main practice",
+        "social": false,
+        "practice": true,
+        "allDay": false
+    },
+    {
+        "s_date": {
+            "day": "27",
+            "month": "March",
+            "year": "2023",
+            "time": "19:30",
+            "weekday": "Monday",
+            "full": "19:30, Monday 27 March"
+        },
+        "e_date": {
+            "day": "27",
+            "month": "March",
+            "year": "2023",
+            "time": "21:00",
+            "weekday": "Monday",
+            "full": "21:00, Monday 27 March"
+        },
+        "title": "St Lawrence Practice",
+        "location": "St Lawrence Parish Church, York",
+        "description": "St Lawrence weekly practice that many members attend",
+        "social": false,
+        "practice": false,
+        "allDay": false
+    },
+    {
+        "s_date": {
+            "day": "28",
+            "month": "March",
+            "year": "2023",
+            "time": "19:00",
+            "weekday": "Tuesday",
+            "full": "19:00, Tuesday 28 March"
+        },
+        "e_date": {
+            "day": "28",
+            "month": "March",
+            "year": "2023",
+            "time": "21:00",
+            "weekday": "Tuesday",
+            "full": "21:00, Tuesday 28 March"
+        },
+        "title": "York Minster Practice",
+        "location": "York Minster, Deangate",
+        "description": "Weekly practice at the Minster that some members attend",
+        "social": false,
+        "practice": false,
+        "allDay": false
+    },
+    {
+        "s_date": {
+            "day": "30",
+            "month": "March",
+            "year": "2023",
+            "time": "19:00",
+            "weekday": "Thursday",
+            "full": "19:00, Thursday 30 March"
+        },
+        "e_date": {
+            "day": "30",
+            "month": "March",
+            "year": "2023",
+            "time": "21:00",
+            "weekday": "Thursday",
+            "full": "21:00, Thursday 30 March"
+        },
+        "title": "York Oratory Practice",
+        "location": "York Oratory, Duncombe Pl",
+        "description": "St Wilfrid's weekly practice that many members attend",
         "social": false,
         "practice": false,
         "allDay": false

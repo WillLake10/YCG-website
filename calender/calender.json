@@ -1,25 +1,25 @@
 [
     {
         "s_date": {
-            "day": "19",
+            "day": "20",
             "month": "January",
             "year": "2023",
             "time": "19:00",
-            "weekday": "Thursday",
-            "full": "19:00, Thursday 19 January"
+            "weekday": "Friday",
+            "full": "19:00, Friday 20 January"
         },
         "e_date": {
-            "day": "19",
+            "day": "20",
             "month": "January",
             "year": "2023",
-            "time": "21:00",
-            "weekday": "Thursday",
-            "full": "21:00, Thursday 19 January"
+            "time": "23:00",
+            "weekday": "Friday",
+            "full": "23:00, Friday 20 January"
         },
-        "title": "York Oratory Practice",
-        "location": "York Oratory, Duncombe Pl",
-        "description": "St Wilfrid's weekly practice that many members attend",
-        "social": false,
+        "title": "Rosie's Pub Crawl\u2122\ufe0f",
+        "location": "V-Bar, Vanbrugh College",
+        "description": " An evening of chaos planned by the lovely Rosie...\n\nGood luck to us all",
+        "social": true,
         "practice": false,
         "allDay": false
     },
@@ -139,30 +139,6 @@
         "title": "St Lawrence Practice",
         "location": "St Lawrence Parish Church, York",
         "description": "St Lawrence weekly practice that many members attend",
-        "social": false,
-        "practice": false,
-        "allDay": false
-    },
-    {
-        "s_date": {
-            "day": "24",
-            "month": "January",
-            "year": "2023",
-            "time": "19:00",
-            "weekday": "Tuesday",
-            "full": "19:00, Tuesday 24 January"
-        },
-        "e_date": {
-            "day": "24",
-            "month": "January",
-            "year": "2023",
-            "time": "21:00",
-            "weekday": "Tuesday",
-            "full": "21:00, Tuesday 24 January"
-        },
-        "title": "York Minster Practice",
-        "location": "York Minster, Deangate",
-        "description": "Weekly practice at the Minster that some members attend",
         "social": false,
         "practice": false,
         "allDay": false

@@ -1990,5 +1990,29 @@
         "social": false,
         "practice": false,
         "allDay": false
+    },
+    {
+        "s_date": {
+            "day": "25",
+            "month": "April",
+            "year": "2023",
+            "time": "19:00",
+            "weekday": "Tuesday",
+            "full": "19:00, Tuesday 25 April"
+        },
+        "e_date": {
+            "day": "25",
+            "month": "April",
+            "year": "2023",
+            "time": "21:00",
+            "weekday": "Tuesday",
+            "full": "21:00, Tuesday 25 April"
+        },
+        "title": "York Minster Practice",
+        "location": "York Minster, Deangate",
+        "description": "Weekly practice at the Minster that some members attend",
+        "social": false,
+        "practice": false,
+        "allDay": false
     }
 ]

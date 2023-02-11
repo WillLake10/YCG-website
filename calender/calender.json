@@ -1918,5 +1918,29 @@
         "social": false,
         "practice": false,
         "allDay": false
+    },
+    {
+        "s_date": {
+            "day": "10",
+            "month": "May",
+            "year": "2023",
+            "time": "19:30",
+            "weekday": "Wednesday",
+            "full": "19:30, Wednesday 10 May"
+        },
+        "e_date": {
+            "day": "10",
+            "month": "May",
+            "year": "2023",
+            "time": "21:00",
+            "weekday": "Wednesday",
+            "full": "21:00, Wednesday 10 May"
+        },
+        "title": "Clifton Practice",
+        "location": "Clifton Parish Church St Philip & St James, Clifton Vicarage",
+        "description": "",
+        "social": false,
+        "practice": false,
+        "allDay": false
     }
 ]

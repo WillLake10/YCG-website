@@ -139,6 +139,53 @@
         "details": "",
         "ringers": [
             {
+                "name": "Rosemary S Hall (Alcuin) (C)",
+                "bell": "1"
+            },
+            {
+                "name": "Natasha A Williams (Alcuin) (C)",
+                "bell": "2"
+            },
+            {
+                "name": "William J Lake (Langwith) (C)",
+                "bell": "3"
+            }
+        ],
+        "footnotes": [
+            "Rung on the lightest minor 3 in the tower to celebrate the repair of the spider by the Steeple Keeper, Tower Captain, and Deputy Tower Captain, as is YCG tradition.",
+            "Also rung to welcome in the New Year.",
+            "Jointly Conducted.",
+            "First Original for all.",
+            "First Singles for all.",
+            "Fastest Quarter for all.",
+            "First participation in jointly conducting for all.",
+            "Circled the tower: 1, 2",
+            "First YCG Quarter of the Year.",
+            "First Quarter on the bells this year.",
+            "First YCG Original in 16.5 years.",
+            "First YCG Singles in 16.5 years.",
+            "First Quarter of Original this year.",
+            "First Quarter of Singles this year.",
+            "First quarter with no method mistakes: 2",
+            "Longest YCG footnote.",
+            "The band would like to associate David Denbigh's drill with this performance.",
+            "\"This was a bad idea\" - Nat at extent 45"
+        ],
+        "id": "1595555",
+        "time_in_ms": 16727043
+    },
+    {
+        "academic_year": "2022/23",
+        "type": 1,
+        "date": "Tuesday, 03 January 2023",
+        "location": "St Lawrence, York, North Yorkshire",
+        "weight": "2-1-15",
+        "time": "32m",
+        "changes": "1272",
+        "method": "Original Singles",
+        "details": "",
+        "ringers": [
+            {
                 "name": "Rosemary S Hall (Alcuin)",
                 "bell": "1"
             },

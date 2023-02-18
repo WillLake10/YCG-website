@@ -2,6 +2,53 @@
     {
         "academic_year": "2022/23",
         "type": 1,
+        "date": "Friday, 17 February 2023",
+        "location": "Oratory Church of St Wilfrid, York, North Yorkshire",
+        "weight": "6-0-6 in C",
+        "time": "41m",
+        "changes": "1266",
+        "method": "Stedman Doubles",
+        "details": "10 different extents + 66",
+        "ringers": [
+            {
+                "name": "W Mark Regan (Fwiend)",
+                "bell": "1"
+            },
+            {
+                "name": "Rebecca A Hall (Langwith)",
+                "bell": "2"
+            },
+            {
+                "name": "Simon W Edwards (Alcuin) (C)",
+                "bell": "3"
+            },
+            {
+                "name": "Rosemary S Hall (Alcuin)",
+                "bell": "4"
+            },
+            {
+                "name": "Natasha A Williams (Alcuin)",
+                "bell": "5"
+            },
+            {
+                "name": "Amber M Burrows (Anne Lister)",
+                "bell": "6"
+            }
+        ],
+        "footnotes": [
+            "First of Stedman: 2",
+            "First of Stedman Doubles: 1,4,5",
+            "First in a cardigan, and first in seated position: 1",
+            "First in a long sleeve top: 5",
+            "Feeling left out of the footnotes: 3,6",
+            "To celebrate Megan Bucknall's first trip into town since the piggyback, and Susan Hall's ability to go on the bus sans neck brace."
+        ],
+        "id": "1595830",
+        "time_in_ms": 16765926
+    },
+    {
+        "academic_year": "2022/23",
+        "type": 1,
         "date": "Wednesday, 08 February 2023",
         "location": "Oratory Church of St Wilfrid, York, North Yorkshire",
         "weight": "6-0-6 in C",
@@ -1023,6 +1070,28 @@
         ],
         "id": "1544330",
         "time_in_ms": 16632006
+    },
+    {
+        "academic_year": "2022/23",
+        "type": 2,
+        "date": "Friday, 17 February 2023",
+        "location": "Spurriergate Centre, York, North Yorkshire",
+        "weight": "8-2-14 in A",
+        "time": "6m",
+        "changes": "16",
+        "method": "Tolling",
+        "details": "6 tellers, followed by 16 blows",
+        "ringers": [
+            {
+                "name": "Natasha A Williams",
+                "bell": ""
+            }
+        ],
+        "footnotes": [
+            "Rung in memory of Brianna Ghey, immediately prior to the candlelit vigil held in her memory at St Helen's Square in York."
+        ],
+        "id": "1595808",
+        "time_in_ms": 16765921
     },
     {
         "academic_year": "2022/23",

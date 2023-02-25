@@ -1,30 +1,6 @@
 [
     {
         "s_date": {
-            "day": "24",
-            "month": "February",
-            "year": "2023",
-            "time": "19:30",
-            "weekday": "Friday",
-            "full": "19:30, Friday 24 February"
-        },
-        "e_date": {
-            "day": "24",
-            "month": "February",
-            "year": "2023",
-            "time": "22:00",
-            "weekday": "Friday",
-            "full": "22:00, Friday 24 February"
-        },
-        "title": "Puss In Boots Social",
-        "location": "SLB/101",
-        "description": " Watching the new Puss in Boots film",
-        "social": true,
-        "practice": false,
-        "allDay": false
-    },
-    {
-        "s_date": {
             "day": "26",
             "month": "February",
             "year": "2023",

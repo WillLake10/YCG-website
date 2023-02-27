@@ -12,9 +12,9 @@
             {
                 "tower": "York (St Lawrence), North Yorkshire",
                 "peals": 0,
-                "quarters": 10,
+                "quarters": 11,
                 "other": 0,
-                "total": 10
+                "total": 11
             },
             {
                 "tower": "York (Cathedral and Metropolitical Church of St Peter), North Yorkshire",
@@ -61,9 +61,9 @@
         ],
         "summary": {
             "peals": 0,
-            "quarters": 25,
+            "quarters": 26,
             "other": 12,
-            "total": 37
+            "total": 38
         }
     },
     {

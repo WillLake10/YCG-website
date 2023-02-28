@@ -1,54 +1,6 @@
 [
     {
         "s_date": {
-            "day": "27",
-            "month": "February",
-            "year": "2023",
-            "time": "19:00",
-            "weekday": "Monday",
-            "full": "19:00, Monday 27 February"
-        },
-        "e_date": {
-            "day": "27",
-            "month": "February",
-            "year": "2023",
-            "time": "19:30",
-            "weekday": "Monday",
-            "full": "19:30, Monday 27 February"
-        },
-        "title": "St Lawrence Handling Practice",
-        "location": "St Lawrence Parish Church, York",
-        "description": " Extra Handling Practices at St Lawrence before the main practice",
-        "social": false,
-        "practice": true,
-        "allDay": false
-    },
-    {
-        "s_date": {
-            "day": "27",
-            "month": "February",
-            "year": "2023",
-            "time": "19:30",
-            "weekday": "Monday",
-            "full": "19:30, Monday 27 February"
-        },
-        "e_date": {
-            "day": "27",
-            "month": "February",
-            "year": "2023",
-            "time": "21:00",
-            "weekday": "Monday",
-            "full": "21:00, Monday 27 February"
-        },
-        "title": "St Lawrence Practice",
-        "location": "St Lawrence Parish Church, York",
-        "description": "St Lawrence weekly practice that many members attend",
-        "social": false,
-        "practice": false,
-        "allDay": false
-    },
-    {
-        "s_date": {
             "day": "28",
             "month": "February",
             "year": "2023",
@@ -116,6 +68,30 @@
         "location": "York Oratory, Duncombe Pl",
         "description": "Annual meeting of the York Oratory ringers to discuss annual meetingy type stuff",
         "social": false,
+        "practice": false,
+        "allDay": false
+    },
+    {
+        "s_date": {
+            "day": "03",
+            "month": "March",
+            "year": "2023",
+            "time": "19:30",
+            "weekday": "Friday",
+            "full": "19:30, Friday 03 March"
+        },
+        "e_date": {
+            "day": "03",
+            "month": "March",
+            "year": "2023",
+            "time": "22:00",
+            "weekday": "Friday",
+            "full": "22:00, Friday 03 March"
+        },
+        "title": "Drinks and Games Social",
+        "location": "Alcuin College, Alcuin Way",
+        "description": " Drinks and Games as Alcuin JCR",
+        "social": true,
         "practice": false,
         "allDay": false
     },

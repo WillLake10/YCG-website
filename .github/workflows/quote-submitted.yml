@@ -24,7 +24,7 @@ jobs:
 
       - name: quote submitted python code
         run: |
-          INPUT_STORE=${{ github.event.client_payload.input }} python peals/getPealData.py
+          INPUT_STORE=${{ github.event.client_payload.input }} python quotes/quoteSubmitted.py
 
 #      - name: commit files
 #        run: |

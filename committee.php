@@ -43,7 +43,7 @@ Author: Will Lake
                     foreach ($year as $i => $member) {
                         if ($i > 0) {
                         echo "<p><span class=\"quotesName\"> $member[0]: </span>";
-                        echo "<span class=\"quotesBody\"> $member[1]: </span></p>";
+                        echo "<span class=\"quotesBody\"> $member[1] </span></p>";
                         }
                     }
                     echo "</div>";

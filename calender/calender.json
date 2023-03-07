@@ -1,54 +1,6 @@
 [
     {
         "s_date": {
-            "day": "06",
-            "month": "March",
-            "year": "2023",
-            "time": "19:00",
-            "weekday": "Monday",
-            "full": "19:00, Monday 06 March"
-        },
-        "e_date": {
-            "day": "06",
-            "month": "March",
-            "year": "2023",
-            "time": "19:30",
-            "weekday": "Monday",
-            "full": "19:30, Monday 06 March"
-        },
-        "title": "St Lawrence Handling Practice",
-        "location": "St Lawrence Parish Church, York",
-        "description": " Extra Handling Practices at St Lawrence before the main practice",
-        "social": false,
-        "practice": true,
-        "allDay": false
-    },
-    {
-        "s_date": {
-            "day": "06",
-            "month": "March",
-            "year": "2023",
-            "time": "19:30",
-            "weekday": "Monday",
-            "full": "19:30, Monday 06 March"
-        },
-        "e_date": {
-            "day": "06",
-            "month": "March",
-            "year": "2023",
-            "time": "21:00",
-            "weekday": "Monday",
-            "full": "21:00, Monday 06 March"
-        },
-        "title": "St Lawrence Practice",
-        "location": "St Lawrence Parish Church, York",
-        "description": "St Lawrence weekly practice that many members attend",
-        "social": false,
-        "practice": false,
-        "allDay": false
-    },
-    {
-        "s_date": {
             "day": "07",
             "month": "March",
             "year": "2023",
@@ -97,30 +49,6 @@
     },
     {
         "s_date": {
-            "day": "08",
-            "month": "March",
-            "year": "2023",
-            "time": "19:30",
-            "weekday": "Wednesday",
-            "full": "19:30, Wednesday 08 March"
-        },
-        "e_date": {
-            "day": "08",
-            "month": "March",
-            "year": "2023",
-            "time": "21:00",
-            "weekday": "Wednesday",
-            "full": "21:00, Wednesday 08 March"
-        },
-        "title": "Clifton Practice",
-        "location": "Clifton Parish Church St Philip & St James, Clifton Vicarage",
-        "description": "",
-        "social": false,
-        "practice": false,
-        "allDay": false
-    },
-    {
-        "s_date": {
             "day": "09",
             "month": "March",
             "year": "2023",
@@ -140,6 +68,30 @@
         "location": "York Oratory, Duncombe Pl",
         "description": "St Wilfrid's weekly practice that many members attend",
         "social": false,
+        "practice": false,
+        "allDay": false
+    },
+    {
+        "s_date": {
+            "day": "10",
+            "month": "March",
+            "year": "2023",
+            "time": "19:30",
+            "weekday": "Friday",
+            "full": "19:30, Friday 10 March"
+        },
+        "e_date": {
+            "day": "10",
+            "month": "March",
+            "year": "2023",
+            "time": "22:00",
+            "weekday": "Friday",
+            "full": "22:00, Friday 10 March"
+        },
+        "title": "Mead and Cheese Social",
+        "location": "The Ron Cooke Hub, 133 Deramore Ln",
+        "description": " Mead and Cheese evening on East Campus",
+        "social": true,
         "practice": false,
         "allDay": false
     },
@@ -196,23 +148,23 @@
             "day": "12",
             "month": "March",
             "year": "2023",
-            "time": "14:30",
+            "time": "13:30",
             "weekday": "Sunday",
-            "full": "14:30, Sunday 12 March"
+            "full": "13:30, Sunday 12 March"
         },
         "e_date": {
             "day": "12",
             "month": "March",
             "year": "2023",
-            "time": "16:00",
+            "time": "15:00",
             "weekday": "Sunday",
-            "full": "16:00, Sunday 12 March"
+            "full": "15:00, Sunday 12 March"
         },
-        "title": "YCG Practice (Simulator)",
-        "location": "York Oratory, Duncombe Pl",
-        "description": " Weekly YCG Practice",
+        "title": "Northallerton outing with Duscr",
+        "location": "All Saints Parish Church/High St, Northallerton DL7 8DJ",
+        "description": "!Website Trip to Northallerton with DUSCR",
         "social": false,
-        "practice": true,
+        "practice": false,
         "allDay": false
     },
     {
@@ -307,6 +259,30 @@
         "title": "York Minster Practice",
         "location": "York Minster, Deangate",
         "description": "Weekly practice at the Minster that some members attend",
+        "social": false,
+        "practice": false,
+        "allDay": false
+    },
+    {
+        "s_date": {
+            "day": "15",
+            "month": "March",
+            "year": "2023",
+            "time": "19:00",
+            "weekday": "Wednesday",
+            "full": "19:00, Wednesday 15 March"
+        },
+        "e_date": {
+            "day": "15",
+            "month": "March",
+            "year": "2023",
+            "time": "20:30",
+            "weekday": "Wednesday",
+            "full": "20:30, Wednesday 15 March"
+        },
+        "title": "St Olave's Ringing Practice",
+        "location": "St Olave's Church York, 8 Marygate Ln",
+        "description": "St Olave&#39;s Monthly Ringing Practice",
         "social": false,
         "practice": false,
         "allDay": false
@@ -1963,6 +1939,30 @@
         "title": "St Lawrence Practice",
         "location": "St Lawrence Parish Church, York",
         "description": "St Lawrence weekly practice that many members attend",
+        "social": false,
+        "practice": false,
+        "allDay": false
+    },
+    {
+        "s_date": {
+            "day": "06",
+            "month": "June",
+            "year": "2023",
+            "time": "19:00",
+            "weekday": "Tuesday",
+            "full": "19:00, Tuesday 06 June"
+        },
+        "e_date": {
+            "day": "06",
+            "month": "June",
+            "year": "2023",
+            "time": "21:00",
+            "weekday": "Tuesday",
+            "full": "21:00, Tuesday 06 June"
+        },
+        "title": "York Minster Practice",
+        "location": "York Minster, Deangate",
+        "description": "Weekly practice at the Minster that some members attend",
         "social": false,
         "practice": false,
         "allDay": false

@@ -24,8 +24,8 @@ jobs:
 
       - name: quote submitted python code
         run: |
-          INPUT_STORE=${{ github.event.client_payload.input }} python quotes/quoteSubmitted.py
-
+          python quotes/quoteSubmitted.py
+# INPUT_STORE=${{ github.event.client_payload.input }}
 #      - name: commit files
 #        run: |
 #          git config --local user.email "action@github.com"

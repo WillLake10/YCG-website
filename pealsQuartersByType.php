@@ -2,7 +2,7 @@
 <!--
 Website: York Colleges Guild
 Type: PHP
-Page: Peals and Quarters
+Page: Peals and Quarters by Type
 Created: 20th April 2020
 Last modified: 19th September 2022
 Author: Will Lake

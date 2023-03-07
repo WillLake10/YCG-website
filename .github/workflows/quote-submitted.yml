@@ -23,7 +23,8 @@ jobs:
           python -m pip install --upgrade pip
 
       - name: quote submitted python code
-        run: INPUT_STORE=${{ github.event.client_payload.input }} python peals/getPealData.py
+        run: |
+          INPUT_STORE=${{ github.event.client_payload.input }} python peals/getPealData.py
 
 #      - name: commit files
 #        run: |

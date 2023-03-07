@@ -23,7 +23,7 @@ jobs:
           python -m pip install --upgrade pip
 
       - name: Set env
-        run: echo "INPUT_STORE=${{ github.event.client_payload.input }}" >> $GITHUB_ENV
+        run: echo "INPUT_STORE="${{ github.event.client_payload.input }}"" >> $GITHUB_ENV
 
       - name: quote submitted python code
         run: |

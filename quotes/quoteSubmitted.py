@@ -6,14 +6,14 @@ input_variable = {
     "email": os.environ['INPUT_EMAIL'],
     "code": os.environ['INPUT_CODE'],
     "quote": {
-        "name1": os.environ['INPUT_CODE'],
-        "quote1": os.environ['INPUT_CODE'],
-        "name2": os.environ['INPUT_CODE'],
-        "quote2": os.environ['INPUT_CODE'],
-        "name3": os.environ['INPUT_CODE'],
-        "quote3": os.environ['INPUT_CODE'],
-        "name4": os.environ['INPUT_CODE'],
-        "quote4": os.environ['INPUT_CODE']
+        "name1": os.environ['INPUT_QUOTE_NAME1'],
+        "quote1": os.environ['INPUT_QUOTE_QUOTE1'],
+        "name2": os.environ['INPUT_QUOTE_NAME2'],
+        "quote2": os.environ['INPUT_QUOTE_QUOTE2'],
+        "name3": os.environ['INPUT_QUOTE_NAME3'],
+        "quote3": os.environ['INPUT_QUOTE_QUOTE3'],
+        "name4": os.environ['INPUT_QUOTE_NAME4'],
+        "quote4": os.environ['INPUT_QUOTE_QUOTE4']
     }
 }
 

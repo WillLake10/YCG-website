@@ -15,7 +15,7 @@ Author: Will Lake
 </head>
 <body>
 
-<?php include('../componants/standardPageTop.php'); ?>
+<?php include('standardPageTop.php'); ?>
 
 <section id="pagetitle">
     <div class="container pt-3 pb-3">

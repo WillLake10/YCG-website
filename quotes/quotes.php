@@ -9,13 +9,13 @@ Author: Will Lake
 -->
 <html lang="en">
 <head>
-    <?php include ('componants/head.html'); ?>
+    <?php include ('../componants/head.html'); ?>
     <title>Quotes - York Colleges Guild</title>
     <link rel="stylesheet" href="styles/quotes.css" type="text/css">
 </head>
 <body>
 
-<?php include ('componants/standardPageTop.php'); ?>
+<?php include ('standardPageTop.php'); ?>
 
 <section id="pagetitle">
     <div class="container pt-3 pb-3">
@@ -34,7 +34,7 @@ Author: Will Lake
     <div class="container">
         <p>Got a quote that you would like to see here? <a href="quotesSubmit.php">Submit it here</a></p>
         <?php
-            $url = 'data/quotes.json'; // path to your JSON file
+            $url = '../data/quotes.json'; // path to your JSON file
             $data = file_get_contents($url); // put the contents of the file into a variable
             $quotes = json_decode($data);
             foreach ($quotes as $quote) {

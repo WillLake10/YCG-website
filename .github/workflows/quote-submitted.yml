@@ -44,8 +44,8 @@ jobs:
         uses: cinotify/github-action@main
         with:
           to: 'william.j.lake2000@gmail.com'
-          subject: 'building main'
-          body: 'This is a notification from GitHub actions.'
+          subject: New Quote Submitted by ${{ github.event.client_payload.quote.name1 }}
+          body: There is a new quote available for review vist http://www.ycg.org.uk/main/quotes/${{ github.run_id }}-${{ github.run_attempt }}.php.
 
 
       - name: commit files
@@ -53,7 +53,7 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add -A
-          git commit -m "rebuild database" -a
+          git commit -m "New Quote Submitted" -a
 
       - name: push changes
         uses: ad-m/github-push-action@v0.6.0

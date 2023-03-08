@@ -1,5 +1,15 @@
 import os
 import json
+import string
+import random
+
+
+def id_generator(size=6, chars=string.ascii_letters + string.digits):
+    return ''.join(random.choice(chars) for _ in range(size))
+
+
+quote_id = id_generator(15)
+print(quote_id)
 
 input_variable = {
     "username": os.environ['INPUT_USERNAME'],
@@ -17,3 +27,11 @@ input_variable = {
 }
 
 print("Input Variable:", json.dumps(input_variable))
+
+data_file = open((quote_id + ".json"), "x")
+data_file.write(json.dumps(input_variable))
+
+page_file = open((quote_id + ".php"), "x")
+page_file.write(open("quoteTop.txt", "r").read())
+page_file.write(quote_id)
+page_file.write(open("quoteBottem.txt", "r").read())

@@ -1,0 +1,6 @@
+{
+  "event_type": "quote-submitted",
+  "client_payload": {
+    "input": "{\"username\": \"sazd\", \"email\": \"a\f\",\"code\": \"sg\",\"quote\": {\"name1\" : \"dsf\",\"quote1\" : \"a\",\"name2\" : \"\",\"quote2\" : \"\",\"name3\" : \"\",\"quote3\" : \"\",\"name4\" : \"\",\"quote4\" : \"\"}}"
+  }
+}

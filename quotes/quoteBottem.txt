@@ -3,6 +3,8 @@
 )
 );
 
+$url = '../../token.txt'; // path to your JSON file
+$data = file_get_contents($url);
 
 $curl = curl_init();
 
@@ -18,7 +20,7 @@ CURLOPT_CUSTOMREQUEST => "POST",
 CURLOPT_POSTFIELDS => $payload,
 CURLOPT_HTTPHEADER => [
 "Accept: application/vnd.github.everest-preview+json",
-"Authorization: Bearer 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",
+"Authorization: Bearer " . $data,
 "Content-Type: application/json",
 "User-Agent: WillLake10"
 ],

@@ -82,7 +82,8 @@ Author: Will Lake
                     )
                 )
             );
-
+            $url = '../token.txt'; // path to your JSON file
+            $data = file_get_contents($url);
 
             $curl = curl_init();
 
@@ -98,7 +99,7 @@ Author: Will Lake
                 CURLOPT_POSTFIELDS => $payload,
                 CURLOPT_HTTPHEADER => [
                     "Accept: application/vnd.github.everest-preview+json",
-                    "Authorization: Bearer " .$_ENV["TOKEN"] ,
+                    "Authorization: Bearer " . $data ,
                     "Content-Type: application/json",
                     "User-Agent: WillLake10"
                 ],

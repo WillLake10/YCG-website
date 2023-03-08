@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Quotes - York Colleges Guild</title>
+    <link rel="stylesheet" href="styles/quotes.css" type="text/css">
+</head>
+<body>
+
+<?php
+$payload = json_encode(
+    array(
+        "event_type" => "quote-approved",
+        "client_payload" => array(
+            "quote_id" => "

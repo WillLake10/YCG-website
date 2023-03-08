@@ -1,8 +1,6 @@
 name: quote-approved
 
 on:
-  repository_dispatch:
-    types: [ quote-approved ]
   workflow_dispatch:
 
 jobs:

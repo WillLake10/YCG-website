@@ -1,8 +1,8 @@
 import json
 import os
 
-# quote_id = os.environ['INPUT_QUOTE_ID']
-quote_id = "4367698854-1"
+quote_id = os.environ['INPUT_QUOTE_ID']
+# quote_id = "4367698854-1"
 
 print(quote_id)
 

@@ -7,12 +7,11 @@ def id_generator(size=6, chars=string.ascii_letters + string.digits):
     return ''.join(random.choice(chars) for _ in range(size))
 
 
-quote_id = id_generator(15)
+quote_id = os.environ['INPUT_ID']
 print(quote_id)
 
 input_variable = {
     "username": os.environ['INPUT_USERNAME'],
-    "email": os.environ['INPUT_EMAIL'],
     "quote": {
         "name1": os.environ['INPUT_QUOTE_NAME1'],
         "quote1": os.environ['INPUT_QUOTE_QUOTE1'],

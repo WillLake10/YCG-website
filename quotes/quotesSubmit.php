@@ -56,10 +56,6 @@ Author: Will Lake
                     <td style="width:30%">Name:</td>
                     <td><input type="text" name="username"></td>
                 </tr>
-                <tr>
-                    <td>E-mail:</td>
-                    <td><input type="text" name="email"></td>
-                </tr>
             </table>
             <table style="width:100%">
                 <tr>

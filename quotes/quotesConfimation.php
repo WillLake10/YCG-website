@@ -148,7 +148,7 @@ Author: Will Lake
             }
 
             ?>
-            <img src="egg.jpeg" alt="Easter Egg">
+            <img src="egg.jpeg" alt="Easter Egg" style="width:100%">
         </div>
     </div>
     </div>

@@ -26,7 +26,6 @@ jobs:
         run: |
           echo "INPUT_USERNAME="${{ github.event.client_payload.username }}"" >> $GITHUB_ENV
           echo "INPUT_EMAIL="${{ github.event.client_payload.email }}"" >> $GITHUB_ENV
-          echo "INPUT_CODE="${{ github.event.client_payload.code }}"" >> $GITHUB_ENV
           echo "INPUT_QUOTE_NAME1="${{ github.event.client_payload.quote.name1 }}"" >> $GITHUB_ENV
           echo "INPUT_QUOTE_QUOTE1="${{ github.event.client_payload.quote.quote1 }}"" >> $GITHUB_ENV
           echo "INPUT_QUOTE_NAME2="${{ github.event.client_payload.quote.name2 }}"" >> $GITHUB_ENV

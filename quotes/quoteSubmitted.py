@@ -4,7 +4,6 @@ import json
 input_variable = {
     "username": os.environ['INPUT_USERNAME'],
     "email": os.environ['INPUT_EMAIL'],
-    "code": os.environ['INPUT_CODE'],
     "quote": {
         "name1": os.environ['INPUT_QUOTE_NAME1'],
         "quote1": os.environ['INPUT_QUOTE_QUOTE1'],

@@ -49,7 +49,7 @@ Author: Will Lake
                 }
                 echo "</div></div>";
 
-            include ('componants/splitterFull.html');
+            include ('../componants/splitterFull.html');
             }
         ?>
     </div>

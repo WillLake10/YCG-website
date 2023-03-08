@@ -5,10 +5,6 @@
     <link rel="stylesheet" href="styles/quotes.css" type="text/css">
 </head>
 <body>
-
-<?php
-$payload = json_encode(
-    array(
-        "event_type" => "quote-approved",
-        "client_payload" => array(
-            "quote_id" => "
+<h1>New Quote for quote page</h1>
+<p>Click Approve To add </p>
+<p>Quote is:</p>

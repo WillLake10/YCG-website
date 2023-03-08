@@ -29,7 +29,6 @@ jobs:
         run: |
           python quotes/quoteApproved.py
 
-# INPUT_STORE=${{ github.event.client_payload.input }}
 #      - name: commit files
 #        run: |
 #          git config --local user.email "action@github.com"

@@ -34,7 +34,7 @@ Author: Will Lake
     <div class="container">
         <p>Got a quote that you would like to see here? <a href="quotesSubmit.php">Submit it here</a></p>
         <?php
-            $url = '../data/quotes.json'; // path to your JSON file
+            $url = 'quotes.json'; // path to your JSON file
             $data = file_get_contents($url); // put the contents of the file into a variable
             $quotes = json_decode($data);
             foreach ($quotes as $quote) {

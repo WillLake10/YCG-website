@@ -2,9 +2,9 @@
 <!--
 Website: York Colleges Guild
 Type: PHP
-Page: Bob the Badger
+Page: Quotes
 Created: 22nd April 2020
-Last modified: 22nd April 2020
+Last modified: 7th March 2023
 Author: Will Lake
 -->
 <html lang="en">
@@ -32,7 +32,7 @@ Author: Will Lake
 
 <section id="quotes">
     <div class="container">
-        <p>Got a quote that you would like to see here? Drop us a message now!</p>
+        <p>Got a quote that you would like to see here? <a href="quotesSubmit.php">Submit it here</a></p>
         <?php
             $url = 'data/quotes.json'; // path to your JSON file
             $data = file_get_contents($url); // put the contents of the file into a variable

@@ -10,7 +10,7 @@
 
 $payload = json_encode(
     array(
-        "event_type" => "quote-approved",
+        "event_type" => "quote-disapproved",
         "client_payload" => array(
             "quote_id" => $_POST["quoteId"],
         )
@@ -48,5 +48,5 @@ curl_close($curl);
 if ($err) {
     echo "cURL Error #:" . $err;
 } else {
-    echo "Quote will appear on website soon";
+    echo "Quote has been removed";
 }

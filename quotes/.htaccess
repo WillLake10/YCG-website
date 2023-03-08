@@ -1,1 +1,17 @@
 RewriteEngine Off
+
+<IfModule mod_auth.c>
+ <Files "quotes.php">
+  AuthName "Username and password required"
+  AuthUserFile /home/u940566739/domains/ycg.org.uk/public_html/main/.htpasswd
+  Require valid-user
+  AuthType Basic
+ </Files>
+ <Files "quotesSubmit.php">
+  AuthName "Username and password required"
+  AuthUserFile /home/u940566739/domains/ycg.org.uk/public_html/main/.htpasswd
+  Require valid-user
+  AuthType Basic
+ </Files>
+</IfModule>
+

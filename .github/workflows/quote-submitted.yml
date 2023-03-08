@@ -52,7 +52,7 @@ jobs:
             ${{ github.event.client_payload.quote.name3 }}: ${{ github.event.client_payload.quote.quote3 }}
             ${{ github.event.client_payload.quote.name4 }}: ${{ github.event.client_payload.quote.quote4 }}
             
-            To Approve vist www.ycg.org.uk/main/quotes/${{ github.run_id }}-${{ github.run_attempt }}.php
+            To Approve vist www.ycg.org.uk/main/quotes/pending/${{ github.run_id }}-${{ github.run_attempt }}.php
 
       - name: commit files
         run: |

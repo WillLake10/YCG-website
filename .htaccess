@@ -22,4 +22,10 @@ RewriteRule ^ %{REQUEST_URI}.php [NC,L]
   Require valid-user
   AuthType Basic
  </Files>
+ <Files "quotesSubmit.php">
+  RewriteEngine Off
+ </Files>
+ <Files "quotesConfimation.php">
+  RewriteEngine Off
+ </Files>
 </IfModule>

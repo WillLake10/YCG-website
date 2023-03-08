@@ -63,20 +63,24 @@ Author: Will Lake
             //            ))
             //        ));
 
+            function escape($in_string) {
+                return str_replace("(", "!bracketO!", str_replace(")", "!bracketC!",addslashes($in_string)));
+            }
+
             $payload = json_encode(
                 array(
                     "event_type" => "quote-submitted",
                     "client_payload" => array(
-                        "username" => addslashes($_POST["username"]),
+                        "username" => escape($_POST["username"]),
                         "quote" => array(
-                            "name1" => addslashes($_POST["name1"]),
-                            "quote1" => addslashes($_POST["quote1"]),
-                            "name2" => addslashes($_POST["name2"]),
-                            "quote2" => addslashes($_POST["quote2"]),
-                            "name3" => addslashes($_POST["name3"]),
-                            "quote3" => addslashes($_POST["quote3"]),
-                            "name4" => addslashes($_POST["name4"]),
-                            "quote4" => addslashes($_POST["quote4"])
+                            "name1" => escape($_POST["name1"]),
+                            "quote1" => escape($_POST["quote1"]),
+                            "name2" => escape($_POST["name2"]),
+                            "quote2" => escape($_POST["quote2"]),
+                            "name3" => escape($_POST["name3"]),
+                            "quote3" => escape($_POST["quote3"]),
+                            "name4" => escape($_POST["name4"]),
+                            "quote4" => escape($_POST["quote4"])
                         )
                     )
                 )
@@ -144,6 +148,7 @@ Author: Will Lake
             }
 
             ?>
+            <img src="egg.jpeg" alt="Easter Egg">
         </div>
     </div>
     </div>

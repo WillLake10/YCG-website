@@ -28,10 +28,10 @@ input_variable = {
 
 print("Input Variable:", json.dumps(input_variable))
 
-data_file = open((quote_id + ".json"), "x")
+data_file = open(("quotes/" + quote_id + ".json"), "x")
 data_file.write(json.dumps(input_variable))
 
-page_file = open((quote_id + ".php"), "x")
-page_file.write(open("quoteTop.txt", "r").read())
+page_file = open(("quotes/" + quote_id + ".php"), "x")
+page_file.write(open("quotes/quoteTop.txt", "r").read())
 page_file.write(quote_id)
-page_file.write(open("quoteBottem.txt", "r").read())
+page_file.write(open("quotes/quoteBottem.txt", "r").read())

@@ -11,7 +11,7 @@ Author: Will Lake
 <head>
     <?php include ('../componants/head.html'); ?>
     <title>Quotes - York Colleges Guild</title>
-    <link rel="stylesheet" href="/styles/quotes.css" type="text/css">
+    <link rel="stylesheet" href="styles/quotes.css" type="text/css">
 </head>
 <body>
 

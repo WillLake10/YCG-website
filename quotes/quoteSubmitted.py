@@ -3,6 +3,9 @@ import json
 import string
 import random
 
+import smtplib
+from email.mime.text import MIMEText
+
 
 def id_generator(size=6, chars=string.ascii_letters + string.digits):
     return ''.join(random.choice(chars) for _ in range(size))
@@ -35,3 +38,19 @@ page_file = open(("quotes/" + quote_id + ".php"), "x")
 page_file.write(open("quotes/quoteTop.txt", "r").read())
 page_file.write(quote_id)
 page_file.write(open("quotes/quoteBottem.txt", "r").read())
+
+msg = MIMEText("A new quote has been submitted for the YCG quote page")
+
+senderEmail = "ycg.new.quote@gmail.com"
+receverEmail = "william.j.lake2000@gmail.com"
+senderPw = open("quotes/email.txt", "r").read()
+
+msg['Subject'] = "Email subject"
+msg['From'] = senderEmail
+msg['To'] = receverEmail
+msg.set_content("This is eamil message")
+
+# send email
+with smtplib.SMTP_SSL('smtp.gmail.com', 465) as smtp:
+    smtp.login(senderEmail, senderPw)
+    smtp.send_message(msg)

@@ -21,6 +21,7 @@ jobs:
       - name: install python packages
         run: |
           python -m pip install --upgrade pip
+          pip install google-auth google-auth-oauthlib google-auth-httplib2 google-api-python-client
 
       - name: Set env
         run: |
@@ -39,7 +40,14 @@ jobs:
         run: |
           python quotes/quoteSubmitted.py
 
-# INPUT_STORE=${{ github.event.client_payload.input }}
+      - name: Send email
+        uses: cinotify/github-action@main
+        with:
+          to: 'william.j.lake2000@gmail.com'
+          subject: 'building main'
+          body: 'This is a notification from GitHub actions.'
+
+
 #      - name: commit files
 #        run: |
 #          git config --local user.email "action@github.com"

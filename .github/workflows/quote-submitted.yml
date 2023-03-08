@@ -44,7 +44,7 @@ jobs:
         uses: cinotify/github-action@main
         with:
           to: 'william.j.lake2000@gmail.com'
-          subject: "New Quote Submitted by ${{ github.event.client_payload.quote.name1 }}"
+          subject: "New Quote Submitted by ${{ github.event.client_payload.username }}"
           body: |
             "There is a new quote available for review" 
             "${{ github.event.client_payload.quote.name1 }}: ${{ github.event.client_payload.quote.quote1 }}"

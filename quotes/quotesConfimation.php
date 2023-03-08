@@ -67,17 +67,16 @@ Author: Will Lake
                 array(
                     "event_type" => "quote-submitted",
                     "client_payload" => array(
-                        "username" => $_POST["username"],
-                        "email" => $_POST["email"],
+                        "username" => addslashes($_POST["username"]),
                         "quote" => array(
-                            "name1" => $_POST["name1"],
-                            "quote1" => $_POST["quote1"],
-                            "name2" => $_POST["name2"],
-                            "quote2" => $_POST["quote2"],
-                            "name3" => $_POST["name3"],
-                            "quote3" => $_POST["quote3"],
-                            "name4" => $_POST["name4"],
-                            "quote4" => $_POST["quote4"]
+                            "name1" => addslashes($_POST["name1"]),
+                            "quote1" => addslashes($_POST["quote1"]),
+                            "name2" => addslashes($_POST["name2"]),
+                            "quote2" => addslashes($_POST["quote2"]),
+                            "name3" => addslashes($_POST["name3"]),
+                            "quote3" => addslashes($_POST["quote3"]),
+                            "name4" => addslashes($_POST["name4"]),
+                            "quote4" => addslashes($_POST["quote4"])
                         )
                     )
                 )

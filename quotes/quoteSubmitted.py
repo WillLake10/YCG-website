@@ -37,7 +37,7 @@ page_file.write(input_variable["quote"]["name2"] + ": " + input_variable["quote"
 page_file.write(input_variable["quote"]["name3"] + ": " + input_variable["quote"]["quote3"] + "<br>")
 page_file.write(input_variable["quote"]["name4"] + ": " + input_variable["quote"]["quote4"] + "</p>")
 page_file.write("<br><p> Submitted by " + input_variable["username"] + "</p>")
-page_file.write("<form action=\"quoteApproved.php\" method=\"post\">")
+page_file.write("<form action=\"../quoteApproved.php\" method=\"post\">")
 page_file.write("<input id=\"quoteId\" name=\"quoteId\" value=\"" + quote_id + "\" />")
 page_file.write("<input type=\"submit\" value=\"Approve\" />")
 page_file.write("</form>")

@@ -7,4 +7,4 @@
 <body>
 <h1>New Quote for quote page</h1>
 <p>Click Approve To add </p>
-<p>Quote is:</p><p>Will L: poo<br>: <br>: <br>: </p><br><p> Submitted by WillJLake123</p><form action="quoteApproved.php" method="post"><input id="quoteId" name="quoteId" value="4367468367-1" /><input type="submit" value="Approve" /></form>
+<p>Quote is:</p><p>Will L: poo<br>: <br>: <br>: </p><br><p> Submitted by WillJLake123</p><form action="../quoteApproved.php" method="post"><input id="quoteId" name="quoteId" value="4367468367-1" /><input type="submit" value="Approve" /></form>

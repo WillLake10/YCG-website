@@ -9,13 +9,13 @@ Author: Will Lake
 -->
 <html lang="en">
 <head>
-    <?php include('componants/head.html'); ?>
+    <?php include('../componants/head.html'); ?>
     <title>Quotes - York Colleges Guild</title>
     <link rel="stylesheet" href="styles/quotes.css" type="text/css">
 </head>
 <body>
 
-<?php include('componants/standardPageTop.php'); ?>
+<?php include('../componants/standardPageTop.php'); ?>
 
 <section id="pagetitle">
     <div class="container pt-3 pb-3">
@@ -82,7 +82,7 @@ Author: Will Lake
                     )
                 )
             );
-            $url = '../token.txt'; // path to your JSON file
+            $url = '../../token.txt'; // path to your JSON file
             $data = file_get_contents($url);
 
             $curl = curl_init();

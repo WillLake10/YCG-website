@@ -49,7 +49,6 @@ Author: Will Lake
 
 <section id="quotes">
     <div class="container">
-        <p>Please Do not use yet, not working atm</p>
         <form action="quotesConfimation.php" method="post">
             <table>
                 <tr>

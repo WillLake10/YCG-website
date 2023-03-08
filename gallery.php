@@ -58,7 +58,7 @@ Author: Will Lake
                             $folders = json_decode($data);
                             $number = 0;
                             foreach (array_reverse($folders) as $folder) {
-                                $directory = "/gallery/$folder[0]";
+                                $directory = "../gallery/$folder[0]";
                                 $images = glob($directory . "/*.jpg");
 
                                 foreach ($images as $image) {

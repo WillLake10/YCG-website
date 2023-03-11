@@ -1,30 +1,6 @@
 [
     {
         "s_date": {
-            "day": "10",
-            "month": "March",
-            "year": "2023",
-            "time": "19:30",
-            "weekday": "Friday",
-            "full": "19:30, Friday 10 March"
-        },
-        "e_date": {
-            "day": "10",
-            "month": "March",
-            "year": "2023",
-            "time": "22:00",
-            "weekday": "Friday",
-            "full": "22:00, Friday 10 March"
-        },
-        "title": "Mead and Cheese Social",
-        "location": "The Ron Cooke Hub, 133 Deramore Ln",
-        "description": " Mead and Cheese evening on East Campus",
-        "social": true,
-        "practice": false,
-        "allDay": false
-    },
-    {
-        "s_date": {
             "day": "12",
             "month": "March",
             "year": "2023",
@@ -1918,5 +1894,29 @@
         "social": false,
         "practice": false,
         "allDay": false
+    },
+    {
+        "s_date": {
+            "day": "10",
+            "month": "June",
+            "year": "2023",
+            "time": "00:00",
+            "weekday": "Saturday",
+            "full": "Saturday 10 June"
+        },
+        "e_date": {
+            "day": "11",
+            "month": "June",
+            "year": "2023",
+            "time": "00:00",
+            "weekday": "Sunday",
+            "full": "Sunday 11 June"
+        },
+        "title": "51st Annual Dinner Day",
+        "location": "Park Inn by Radisson York City Centre, North St",
+        "description": " Annual Dinner Day for the York Colleges Guild",
+        "social": true,
+        "practice": false,
+        "allDay": true
     }
 ]

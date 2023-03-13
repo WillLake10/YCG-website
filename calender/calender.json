@@ -1,102 +1,6 @@
 [
     {
         "s_date": {
-            "day": "12",
-            "month": "March",
-            "year": "2023",
-            "time": "09:00",
-            "weekday": "Sunday",
-            "full": "09:00, Sunday 12 March"
-        },
-        "e_date": {
-            "day": "12",
-            "month": "March",
-            "year": "2023",
-            "time": "10:00",
-            "weekday": "Sunday",
-            "full": "10:00, Sunday 12 March"
-        },
-        "title": "St Lawrence AGM",
-        "location": "St Lawrence Parish Church, York",
-        "description": "Meeting to discuss General things that happen Annually",
-        "social": false,
-        "practice": false,
-        "allDay": false
-    },
-    {
-        "s_date": {
-            "day": "12",
-            "month": "March",
-            "year": "2023",
-            "time": "09:30",
-            "weekday": "Sunday",
-            "full": "09:30, Sunday 12 March"
-        },
-        "e_date": {
-            "day": "12",
-            "month": "March",
-            "year": "2023",
-            "time": "10:15",
-            "weekday": "Sunday",
-            "full": "10:15, Sunday 12 March"
-        },
-        "title": "Sunday Service Ringing",
-        "location": "St Lawrence Parish Church, York",
-        "description": "Weekly morning service ringing at St Lawrence that some YCG members attend",
-        "social": false,
-        "practice": false,
-        "allDay": false
-    },
-    {
-        "s_date": {
-            "day": "12",
-            "month": "March",
-            "year": "2023",
-            "time": "13:30",
-            "weekday": "Sunday",
-            "full": "13:30, Sunday 12 March"
-        },
-        "e_date": {
-            "day": "12",
-            "month": "March",
-            "year": "2023",
-            "time": "15:00",
-            "weekday": "Sunday",
-            "full": "15:00, Sunday 12 March"
-        },
-        "title": "Northallerton outing with Duscr",
-        "location": "All Saints Parish Church/High St, Northallerton DL7 8DJ",
-        "description": " Trip to Northallerton with DUSCR",
-        "social": false,
-        "practice": true,
-        "allDay": false
-    },
-    {
-        "s_date": {
-            "day": "12",
-            "month": "March",
-            "year": "2023",
-            "time": "17:45",
-            "weekday": "Sunday",
-            "full": "17:45, Sunday 12 March"
-        },
-        "e_date": {
-            "day": "12",
-            "month": "March",
-            "year": "2023",
-            "time": "18:30",
-            "weekday": "Sunday",
-            "full": "18:30, Sunday 12 March"
-        },
-        "title": "Sunday Evensong Ringing",
-        "location": "St Lawrence Parish Church, York",
-        "description": "Weekly evening service ringing at St Lawrence after normal YCG practice",
-        "social": false,
-        "practice": false,
-        "allDay": false
-    },
-    {
-        "s_date": {
             "day": "13",
             "month": "March",
             "year": "2023",
@@ -1914,10 +1818,58 @@
         },
         "title": "51st Annual Dinner Day",
         "location": "Park Inn by Radisson York City Centre, North St",
-        "description": " Annual Dinner Day for the York Colleges Guild",
-        "social": true,
+        "description": "Annual Dinner Day for the York Colleges Guild",
+        "social": false,
         "practice": false,
         "allDay": true
+    },
+    {
+        "s_date": {
+            "day": "10",
+            "month": "June",
+            "year": "2023",
+            "time": "10:00",
+            "weekday": "Saturday",
+            "full": "10:00, Saturday 10 June"
+        },
+        "e_date": {
+            "day": "10",
+            "month": "June",
+            "year": "2023",
+            "time": "11:00",
+            "weekday": "Saturday",
+            "full": "11:00, Saturday 10 June"
+        },
+        "title": "Dinner Day Tour - Selby Abbey",
+        "location": "Selby Abbey, The Crescent",
+        "description": " The first stop on this year's Dinner Day ringing tour! Open ringing for York Colleges Guild members past and present at Selby Abbey",
+        "social": false,
+        "practice": true,
+        "allDay": false
+    },
+    {
+        "s_date": {
+            "day": "10",
+            "month": "June",
+            "year": "2023",
+            "time": "12:45",
+            "weekday": "Saturday",
+            "full": "12:45, Saturday 10 June"
+        },
+        "e_date": {
+            "day": "10",
+            "month": "June",
+            "year": "2023",
+            "time": "13:45",
+            "weekday": "Saturday",
+            "full": "13:45, Saturday 10 June"
+        },
+        "title": "Dinner Day Tour - York Oratory",
+        "location": "",
+        "description": " The second stop on this year's Dinner Day ringing tour! Open ringing for York Colleges Guild members past and present at York Oratory",
+        "social": false,
+        "practice": true,
+        "allDay": false
     },
     {
         "s_date": {
@@ -1963,6 +1915,54 @@
         "title": "Sunday Evensong Ringing",
         "location": "St Lawrence Parish Church, York",
         "description": "Weekly evening service ringing at St Lawrence after normal YCG practice",
+        "social": false,
+        "practice": false,
+        "allDay": false
+    },
+    {
+        "s_date": {
+            "day": "12",
+            "month": "June",
+            "year": "2023",
+            "time": "19:00",
+            "weekday": "Monday",
+            "full": "19:00, Monday 12 June"
+        },
+        "e_date": {
+            "day": "12",
+            "month": "June",
+            "year": "2023",
+            "time": "19:30",
+            "weekday": "Monday",
+            "full": "19:30, Monday 12 June"
+        },
+        "title": "St Lawrence Handling Practice",
+        "location": "St Lawrence Parish Church, York",
+        "description": " Extra Handling Practices at St Lawrence before the main practice",
+        "social": false,
+        "practice": true,
+        "allDay": false
+    },
+    {
+        "s_date": {
+            "day": "12",
+            "month": "June",
+            "year": "2023",
+            "time": "19:30",
+            "weekday": "Monday",
+            "full": "19:30, Monday 12 June"
+        },
+        "e_date": {
+            "day": "12",
+            "month": "June",
+            "year": "2023",
+            "time": "21:00",
+            "weekday": "Monday",
+            "full": "21:00, Monday 12 June"
+        },
+        "title": "St Lawrence Practice",
+        "location": "St Lawrence Parish Church, York",
+        "description": "St Lawrence weekly practice that many members attend",
         "social": false,
         "practice": false,
         "allDay": false

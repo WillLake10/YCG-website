@@ -57,13 +57,20 @@
                 "quarters": 0,
                 "other": 1,
                 "total": 1
+            },
+            {
+                "tower": "Between the Rook and Gaskill and Wetherspoons, York, ",
+                "peals": 0,
+                "quarters": 0,
+                "other": 1,
+                "total": 1
             }
         ],
         "summary": {
             "peals": 0,
             "quarters": 23,
-            "other": 12,
-            "total": 35
+            "other": 13,
+            "total": 36
         }
     },
     {

@@ -169,6 +169,13 @@
             "total": 1
         },
         {
+            "tower": "Between the Rook and Gaskill and Wetherspoons, York, ",
+            "peals": 0,
+            "quarters": 0,
+            "other": 1,
+            "total": 1
+        },
+        {
             "tower": "Bilborough (St Martin of Tours), Nottinghamshire",
             "peals": 0,
             "quarters": 1,
@@ -445,7 +452,7 @@
     "summary": {
         "peals": 35,
         "quarters": 461,
-        "other": 21,
-        "total": 517
+        "other": 22,
+        "total": 518
     }
 }

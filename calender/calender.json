@@ -1,30 +1,6 @@
 [
     {
         "s_date": {
-            "day": "14",
-            "month": "March",
-            "year": "2023",
-            "time": "19:00",
-            "weekday": "Tuesday",
-            "full": "19:00, Tuesday 14 March"
-        },
-        "e_date": {
-            "day": "14",
-            "month": "March",
-            "year": "2023",
-            "time": "21:00",
-            "weekday": "Tuesday",
-            "full": "21:00, Tuesday 14 March"
-        },
-        "title": "York Minster Practice",
-        "location": "York Minster, Deangate",
-        "description": "Weekly practice at the Minster that some members attend",
-        "social": false,
-        "practice": false,
-        "allDay": false
-    },
-    {
-        "s_date": {
             "day": "15",
             "month": "March",
             "year": "2023",
@@ -68,6 +44,30 @@
         "location": "York Oratory, Duncombe Pl",
         "description": "St Wilfrid's weekly practice that many members attend",
         "social": false,
+        "practice": false,
+        "allDay": false
+    },
+    {
+        "s_date": {
+            "day": "17",
+            "month": "March",
+            "year": "2023",
+            "time": "19:30",
+            "weekday": "Friday",
+            "full": "19:30, Friday 17 March"
+        },
+        "e_date": {
+            "day": "17",
+            "month": "March",
+            "year": "2023",
+            "time": "21:00",
+            "weekday": "Friday",
+            "full": "21:00, Friday 17 March"
+        },
+        "title": "Waggon & Horses",
+        "location": "Waggon & Horses, 19 Lawrence St",
+        "description": " Last Social of the term at the Waggon",
+        "social": true,
         "practice": false,
         "allDay": false
     },
@@ -1817,7 +1817,7 @@
             "full": "13:45, Saturday 10 June"
         },
         "title": "Dinner Day Tour - York Oratory",
-        "location": "",
+        "location": "York Oratory, Duncombe Pl",
         "description": " The second stop on this year's Dinner Day ringing tour! Open ringing for York Colleges Guild members past and present at York Oratory",
         "social": false,
         "practice": true,
@@ -1939,6 +1939,30 @@
         "title": "York Minster Practice",
         "location": "York Minster, Deangate",
         "description": "Weekly practice at the Minster that some members attend",
+        "social": false,
+        "practice": false,
+        "allDay": false
+    },
+    {
+        "s_date": {
+            "day": "14",
+            "month": "June",
+            "year": "2023",
+            "time": "19:30",
+            "weekday": "Wednesday",
+            "full": "19:30, Wednesday 14 June"
+        },
+        "e_date": {
+            "day": "14",
+            "month": "June",
+            "year": "2023",
+            "time": "21:00",
+            "weekday": "Wednesday",
+            "full": "21:00, Wednesday 14 June"
+        },
+        "title": "Clifton Practice",
+        "location": "Clifton Parish Church St Philip & St James, Clifton Vicarage",
+        "description": "",
         "social": false,
         "practice": false,
         "allDay": false

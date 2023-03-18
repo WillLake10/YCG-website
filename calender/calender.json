@@ -1,30 +1,6 @@
 [
     {
         "s_date": {
-            "day": "17",
-            "month": "March",
-            "year": "2023",
-            "time": "19:30",
-            "weekday": "Friday",
-            "full": "19:30, Friday 17 March"
-        },
-        "e_date": {
-            "day": "17",
-            "month": "March",
-            "year": "2023",
-            "time": "21:00",
-            "weekday": "Friday",
-            "full": "21:00, Friday 17 March"
-        },
-        "title": "Waggon & Horses",
-        "location": "Waggon & Horses, 19 Lawrence St",
-        "description": " Last Social of the term at the Waggon",
-        "social": true,
-        "practice": false,
-        "allDay": false
-    },
-    {
-        "s_date": {
             "day": "19",
             "month": "March",
             "year": "2023",

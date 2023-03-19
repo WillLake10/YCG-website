@@ -3,18 +3,18 @@
         "academic_year": "2022/23",
         "tower": [
             {
-                "tower": "York (Oratory Church of St Wilfrid), North Yorkshire",
+                "tower": "York (St Lawrence), North Yorkshire",
                 "peals": 0,
                 "quarters": 12,
                 "other": 0,
                 "total": 12
             },
             {
-                "tower": "York (St Lawrence), North Yorkshire",
+                "tower": "York (Oratory Church of St Wilfrid), North Yorkshire",
                 "peals": 0,
-                "quarters": 11,
+                "quarters": 12,
                 "other": 0,
-                "total": 11
+                "total": 12
             },
             {
                 "tower": "York (Cathedral and Metropolitical Church of St Peter), North Yorkshire",
@@ -68,9 +68,9 @@
         ],
         "summary": {
             "peals": 0,
-            "quarters": 25,
+            "quarters": 26,
             "other": 13,
-            "total": 38
+            "total": 39
         }
     },
     {

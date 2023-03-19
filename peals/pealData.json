@@ -2,6 +2,52 @@
     {
         "academic_year": "2022/23",
         "type": 1,
+        "date": "Sunday, 19 March 2023",
+        "location": "St Lawrence, York, North Yorkshire",
+        "weight": "7-3-24 in A",
+        "time": "45m",
+        "changes": "1320",
+        "method": "Mothering Sunday Doubles",
+        "details": "Fifield Bob with Chicken Extremes",
+        "ringers": [
+            {
+                "name": "Begot by Natalie Bleackley",
+                "bell": "1"
+            },
+            {
+                "name": "Begot by Linda Deakin (C)",
+                "bell": "2"
+            },
+            {
+                "name": "Begot by Melanie Williams",
+                "bell": "3"
+            },
+            {
+                "name": "Begot by Melanie Davis",
+                "bell": "4"
+            },
+            {
+                "name": "Begot by Susan Hall",
+                "bell": "5"
+            },
+            {
+                "name": "Begot by Helen Hall",
+                "bell": "6"
+            }
+        ],
+        "footnotes": [
+            "Rung by children of ringing Mothers in celebration of Mothering Sunday.",
+            "This is the record length of Mothering Sunday.",
+            "First in variation by all.",
+            "First Chicken Extremes for all.",
+            "A special mention to Ben's Mum "
+        ],
+        "id": "1603516",
+        "time_in_ms": 16791846
+    },
+    {
+        "academic_year": "2022/23",
+        "type": 1,
         "date": "Wednesday, 15 March 2023",
         "location": "St Lawrence, York, North Yorkshire",
         "weight": "7-3-24 in A",

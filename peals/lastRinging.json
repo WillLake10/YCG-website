@@ -1,46 +1,44 @@
 {
     "academic_year": "2022/23",
     "type": 1,
-    "date": "Sunday, 19 March 2023",
+    "date": "Thursday, 23 March 2023",
     "location": "St Lawrence, York, North Yorkshire",
     "weight": "7-3-24 in A",
-    "time": "45m",
-    "changes": "1320",
-    "method": "Mothering Sunday Doubles",
-    "details": "Fifield Bob with Chicken Extremes",
+    "time": "41m",
+    "changes": "1260",
+    "method": "Reverse Canterbury Pleasure Place Doubles",
+    "details": "",
     "ringers": [
         {
-            "name": "Begot by Natalie Bleackley",
+            "name": "Simon W Edwards",
             "bell": "1"
         },
         {
-            "name": "Begot by Linda Deakin (C)",
+            "name": "James D Austin",
             "bell": "2"
         },
         {
-            "name": "Begot by Melanie Williams",
+            "name": "Rosemary S Hall",
             "bell": "3"
         },
         {
-            "name": "Begot by Melanie Davis",
+            "name": "Natasha A Williams",
             "bell": "4"
         },
         {
-            "name": "Begot by Susan Hall",
+            "name": "Jemima Bleackley",
             "bell": "5"
         },
         {
-            "name": "Begot by Helen Hall",
+            "name": "William M Regan (C)",
             "bell": "6"
         }
     ],
     "footnotes": [
-        "Rung by children of ringing Mothers in celebration of Mothering Sunday.",
-        "This is the record length of Mothering Sunday.",
-        "First in variation by all.",
-        "First Chicken Extremes for all.",
-        "A special mention to Ben's Mum "
+        "Rung half muffled in memory of Miew Seng McCarthy, mother of a friend to the 5.",
+        "First blows of the method: 4, 5.",
+        "First in method: 3."
     ],
-    "id": "1603516",
-    "time_in_ms": 16791846
+    "id": "1604435",
+    "time_in_ms": 16795302
 }

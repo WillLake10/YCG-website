@@ -121,6 +121,30 @@
     },
     {
         "s_date": {
+            "day": "29",
+            "month": "March",
+            "year": "2023",
+            "time": "19:00",
+            "weekday": "Wednesday",
+            "full": "19:00, Wednesday 29 March"
+        },
+        "e_date": {
+            "day": "29",
+            "month": "March",
+            "year": "2023",
+            "time": "20:30",
+            "weekday": "Wednesday",
+            "full": "20:30, Wednesday 29 March"
+        },
+        "title": "St Olave's Ringing Practice",
+        "location": "St Olave's Church York, 8 Marygate Ln",
+        "description": "St Olave&#39;s Monthly Ringing Practice",
+        "social": false,
+        "practice": false,
+        "allDay": false
+    },
+    {
+        "s_date": {
             "day": "30",
             "month": "March",
             "year": "2023",
@@ -307,30 +331,6 @@
         "title": "York Minster Practice",
         "location": "York Minster, Deangate",
         "description": "Weekly practice at the Minster that some members attend",
-        "social": false,
-        "practice": false,
-        "allDay": false
-    },
-    {
-        "s_date": {
-            "day": "12",
-            "month": "April",
-            "year": "2023",
-            "time": "19:30",
-            "weekday": "Wednesday",
-            "full": "19:30, Wednesday 12 April"
-        },
-        "e_date": {
-            "day": "12",
-            "month": "April",
-            "year": "2023",
-            "time": "21:00",
-            "weekday": "Wednesday",
-            "full": "21:00, Wednesday 12 April"
-        },
-        "title": "Clifton Practice",
-        "location": "Clifton Parish Church St Philip & St James, Clifton Vicarage",
-        "description": "",
         "social": false,
         "practice": false,
         "allDay": false
@@ -907,30 +907,6 @@
         "title": "York Minster Practice",
         "location": "York Minster, Deangate",
         "description": "Weekly practice at the Minster that some members attend",
-        "social": false,
-        "practice": false,
-        "allDay": false
-    },
-    {
-        "s_date": {
-            "day": "10",
-            "month": "May",
-            "year": "2023",
-            "time": "19:30",
-            "weekday": "Wednesday",
-            "full": "19:30, Wednesday 10 May"
-        },
-        "e_date": {
-            "day": "10",
-            "month": "May",
-            "year": "2023",
-            "time": "21:00",
-            "weekday": "Wednesday",
-            "full": "21:00, Wednesday 10 May"
-        },
-        "title": "Clifton Practice",
-        "location": "Clifton Parish Church St Philip & St James, Clifton Vicarage",
-        "description": "",
         "social": false,
         "practice": false,
         "allDay": false
@@ -1723,30 +1699,6 @@
         "title": "York Minster Practice",
         "location": "York Minster, Deangate",
         "description": "Weekly practice at the Minster that some members attend",
-        "social": false,
-        "practice": false,
-        "allDay": false
-    },
-    {
-        "s_date": {
-            "day": "14",
-            "month": "June",
-            "year": "2023",
-            "time": "19:30",
-            "weekday": "Wednesday",
-            "full": "19:30, Wednesday 14 June"
-        },
-        "e_date": {
-            "day": "14",
-            "month": "June",
-            "year": "2023",
-            "time": "21:00",
-            "weekday": "Wednesday",
-            "full": "21:00, Wednesday 14 June"
-        },
-        "title": "Clifton Practice",
-        "location": "Clifton Parish Church St Philip & St James, Clifton Vicarage",
-        "description": "",
         "social": false,
         "practice": false,
         "allDay": false

@@ -3,9 +3,9 @@
         {
             "tower": "York (St Lawrence), North Yorkshire",
             "peals": 7,
-            "quarters": 142,
+            "quarters": 140,
             "other": 1,
-            "total": 150
+            "total": 148
         },
         {
             "tower": "York (St Martin le Grand, Coney Street), North Yorkshire",
@@ -128,13 +128,6 @@
         },
         {
             "tower": "Ipswich (532 Norwich Road (The Vestey Ring)), Suffolk",
-            "peals": 0,
-            "quarters": 2,
-            "other": 0,
-            "total": 2
-        },
-        {
-            "tower": "Rufforth (All Saints), North Yorkshire",
             "peals": 0,
             "quarters": 2,
             "other": 0,
@@ -316,6 +309,13 @@
             "total": 1
         },
         {
+            "tower": "Rufforth (All Saints), North Yorkshire",
+            "peals": 0,
+            "quarters": 1,
+            "other": 0,
+            "total": 1
+        },
+        {
             "tower": "Seale (St Lawrence), Surrey",
             "peals": 0,
             "quarters": 1,
@@ -450,9 +450,9 @@
         }
     ],
     "summary": {
-        "peals": 36,
-        "quarters": 470,
+        "peals": 35,
+        "quarters": 465,
         "other": 22,
-        "total": 528
+        "total": 522
     }
 }

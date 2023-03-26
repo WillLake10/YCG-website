@@ -17253,6 +17253,49 @@
             }
         ],
         "footnotes": [
+            "Rung during 25th dinner weekend.",
+            "Published as part of YCG's effort to digitalise old records. All records uploaded exactly as they appear in our physical books, for any changes to names etc, please contact admin@ycg.org.uk"
+        ],
+        "id": "1604945",
+        "time_in_ms": 7719846
+    },
+    {
+        "academic_year": "1993/94",
+        "type": 1,
+        "date": "Sunday, 19 June 1994",
+        "location": "Spurriergate Centre, York, North Yorkshire",
+        "weight": "8-2-14 in A",
+        "time": "",
+        "changes": "1260",
+        "method": "Plain Bob Minor",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Alex Clements",
+                "bell": "1"
+            },
+            {
+                "name": "Michelle Simmonds",
+                "bell": "2"
+            },
+            {
+                "name": "Helen Cocker",
+                "bell": "3"
+            },
+            {
+                "name": "Scott Hume",
+                "bell": "4"
+            },
+            {
+                "name": "David Ball (C)",
+                "bell": "5"
+            },
+            {
+                "name": "Christopher Rudge",
+                "bell": "6"
+            }
+        ],
+        "footnotes": [
             "Rung during 24th dinner weekend.",
             "Published as part of YCG's effort to digitalise old records. All records uploaded exactly as they appear in our physical books, for any changes to names etc, please contact admin@ycg.org.uk"
         ],
@@ -17937,6 +17980,48 @@
         ],
         "id": "1554479",
         "time_in_ms": 7197126
+    },
+    {
+        "academic_year": "1991/92",
+        "type": 0,
+        "date": "Friday, 08 May 1992",
+        "location": "Spurriergate Centre, York, North Yorkshire",
+        "weight": "8-2-14 in A",
+        "time": "2h 42",
+        "changes": "5040",
+        "method": "Doubles (7m)",
+        "details": "7m, 1p: (1-2) Stedman; (3-9) St Nicholas; (10-16) Winchendon Place; (17-23) St Simon; (24-30) St Martin; (31-36) Rev. Canterbury; (37-42) Plain Bob",
+        "ringers": [
+            {
+                "name": "Emma Ashford (Y S F C)",
+                "bell": "1"
+            },
+            {
+                "name": "Kerry J Robinson (Goodricke)",
+                "bell": "2"
+            },
+            {
+                "name": "Timothy P Hart (Alcuin)",
+                "bell": "3"
+            },
+            {
+                "name": "Christopher M Rudge (Langwith)",
+                "bell": "4"
+            },
+            {
+                "name": "Rupert M Burgess (Derwent) (C)",
+                "bell": "5"
+            },
+            {
+                "name": "Scott A Hume (Derwent)",
+                "bell": "6"
+            }
+        ],
+        "footnotes": [
+            "First Peal: 2, 6"
+        ],
+        "id": "1604939",
+        "time_in_ms": 7052938
     },
     {
         "academic_year": "1991/92",
@@ -18929,6 +19014,38 @@
     {
         "academic_year": "1990/91",
         "type": 1,
+        "date": "Thursday, 29 November 1990",
+        "location": "All Saints, Rufforth, North Yorkshire",
+        "weight": "3-3-9 in D",
+        "time": "",
+        "changes": "1260",
+        "method": "Stedman Singles",
+        "details": "",
+        "ringers": [
+            {
+                "name": "T P Hart (C)",
+                "bell": "1"
+            },
+            {
+                "name": "R M Burgess",
+                "bell": "2"
+            },
+            {
+                "name": "Emma Ashford",
+                "bell": "3"
+            }
+        ],
+        "footnotes": [
+            "First on three: 3",
+            "First on three as conductor: 1",
+            "Published as part of YCG's effort to digitalise old records. All records uploaded exactly as they appear in our physical books, for any changes to names etc, please contact admin@ycg.org.uk"
+        ],
+        "id": "1604935",
+        "time_in_ms": 6598371
+    },
+    {
+        "academic_year": "1990/91",
+        "type": 1,
         "date": "Sunday, 25 November 1990",
         "location": "Spurriergate Centre, York, North Yorkshire",
         "weight": "8-2-14 in A",
@@ -19125,6 +19242,48 @@
         ],
         "id": "1554507",
         "time_in_ms": 6562950
+    },
+    {
+        "academic_year": "1990/91",
+        "type": 1,
+        "date": "Sunday, 14 October 1990",
+        "location": "Spurriergate Centre, York, North Yorkshire",
+        "weight": "8-2-14 in A",
+        "time": "",
+        "changes": "1320",
+        "method": "Cambridge Surprise Minor",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Rachel J Storr",
+                "bell": "1"
+            },
+            {
+                "name": "B Heys",
+                "bell": "2"
+            },
+            {
+                "name": "Samantha J Barre",
+                "bell": "3"
+            },
+            {
+                "name": "Louise M Bland",
+                "bell": "4"
+            },
+            {
+                "name": "T P Hart",
+                "bell": "5"
+            },
+            {
+                "name": "R M Burgess (C)",
+                "bell": "6"
+            }
+        ],
+        "footnotes": [
+            "Published as part of YCG's effort to digitalise old records. All records uploaded exactly as they appear in our physical books, for any changes to names etc, please contact admin@ycg.org.uk"
+        ],
+        "id": "1604931",
+        "time_in_ms": 6558630
     },
     {
         "academic_year": "1989/90",

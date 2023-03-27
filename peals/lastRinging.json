@@ -1,42 +1,44 @@
 {
     "academic_year": "2022/23",
-    "type": 1,
-    "date": "Friday, 24 March 2023",
+    "type": 2,
+    "date": "Sunday, 26 March 2023",
     "location": "St Lawrence, York, North Yorkshire",
     "weight": "7-3-24 in A",
-    "time": "44m",
-    "changes": "1440",
-    "method": "Plain Bob Minor",
-    "details": "Two different \"singles only\" 720s",
+    "time": "5m",
+    "changes": "120",
+    "method": "York Colleges Guild Dinner Day Doubles",
+    "details": "",
     "ringers": [
         {
-            "name": "Natasha A Williams (C)",
+            "name": "Jonathan R Galloway (Vanbrugh)",
             "bell": "1"
         },
         {
-            "name": "David C Pye",
+            "name": "Joseph E T Waters (SUGCR)",
             "bell": "2"
         },
         {
-            "name": "Simon W Edwards",
+            "name": "Patrick J W Deakin (James)",
             "bell": "3"
         },
         {
-            "name": "Jemima Bleackley",
+            "name": "Rosemary S Hall (Alcuin)",
             "bell": "4"
         },
         {
-            "name": "Rosemary S Hall",
+            "name": "Natasha A Williams (Alcuin) (C)",
             "bell": "5"
         },
         {
-            "name": "William M Regan",
+            "name": "Rebecca A Hall (Langwith)",
             "bell": "6"
         }
     ],
     "footnotes": [
-        "Rung half-muffled in memory of Anne Cooper, wife of Percy Cooper and mother of David Cooper, ringers in the Isle of Axholme, and in memory of Diane Holland, mother of Adele Neale, ringer in the Isle of Axholme"
+        "Rung prior to Evensong as part of the service ringing.",
+        "The variation 16vu (Reverse Bob with Grandsire Plains) is rung for the first time. The band would like to name this variation \"York Colleges Guild Dinner Day\".",
+        "Not rung on the York Colleges Guild Dinner Day, but named so that we can ring a whole quarter in the variation when it comes to it."
     ],
-    "id": "1604729",
-    "time_in_ms": 16796166
+    "id": "1605565",
+    "time_in_ms": 16797894
 }

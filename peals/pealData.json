@@ -1277,6 +1277,50 @@
     {
         "academic_year": "2022/23",
         "type": 2,
+        "date": "Sunday, 26 March 2023",
+        "location": "St Lawrence, York, North Yorkshire",
+        "weight": "7-3-24 in A",
+        "time": "5m",
+        "changes": "120",
+        "method": "York Colleges Guild Dinner Day Doubles",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Jonathan R Galloway (Vanbrugh)",
+                "bell": "1"
+            },
+            {
+                "name": "Joseph E T Waters (SUGCR)",
+                "bell": "2"
+            },
+            {
+                "name": "Patrick J W Deakin (James)",
+                "bell": "3"
+            },
+            {
+                "name": "Rosemary S Hall (Alcuin)",
+                "bell": "4"
+            },
+            {
+                "name": "Natasha A Williams (Alcuin) (C)",
+                "bell": "5"
+            },
+            {
+                "name": "Rebecca A Hall (Langwith)",
+                "bell": "6"
+            }
+        ],
+        "footnotes": [
+            "Rung prior to Evensong as part of the service ringing.",
+            "The variation 16vu (Reverse Bob with Grandsire Plains) is rung for the first time. The band would like to name this variation \"York Colleges Guild Dinner Day\".",
+            "Not rung on the York Colleges Guild Dinner Day, but named so that we can ring a whole quarter in the variation when it comes to it."
+        ],
+        "id": "1605565",
+        "time_in_ms": 16797894
+    },
+    {
+        "academic_year": "2022/23",
+        "type": 2,
         "date": "Monday, 13 March 2023",
         "location": "Between the Rook and Gaskill and Wetherspoons, York, ",
         "weight": "",

@@ -1,54 +1,6 @@
 [
     {
         "s_date": {
-            "day": "27",
-            "month": "March",
-            "year": "2023",
-            "time": "19:00",
-            "weekday": "Monday",
-            "full": "19:00, Monday 27 March"
-        },
-        "e_date": {
-            "day": "27",
-            "month": "March",
-            "year": "2023",
-            "time": "19:30",
-            "weekday": "Monday",
-            "full": "19:30, Monday 27 March"
-        },
-        "title": "St Lawrence Handling Practice",
-        "location": "St Lawrence Parish Church, York",
-        "description": " Extra Handling Practices at St Lawrence before the main practice",
-        "social": false,
-        "practice": true,
-        "allDay": false
-    },
-    {
-        "s_date": {
-            "day": "27",
-            "month": "March",
-            "year": "2023",
-            "time": "19:30",
-            "weekday": "Monday",
-            "full": "19:30, Monday 27 March"
-        },
-        "e_date": {
-            "day": "27",
-            "month": "March",
-            "year": "2023",
-            "time": "21:00",
-            "weekday": "Monday",
-            "full": "21:00, Monday 27 March"
-        },
-        "title": "St Lawrence Practice",
-        "location": "St Lawrence Parish Church, York",
-        "description": "St Lawrence weekly practice that many members attend",
-        "social": false,
-        "practice": false,
-        "allDay": false
-    },
-    {
-        "s_date": {
             "day": "28",
             "month": "March",
             "year": "2023",
@@ -1537,6 +1489,30 @@
     },
     {
         "s_date": {
+            "day": "10",
+            "month": "June",
+            "year": "2023",
+            "time": "14:15",
+            "weekday": "Saturday",
+            "full": "14:15, Saturday 10 June"
+        },
+        "e_date": {
+            "day": "10",
+            "month": "June",
+            "year": "2023",
+            "time": "15:15",
+            "weekday": "Saturday",
+            "full": "15:15, Saturday 10 June"
+        },
+        "title": "Dinner Day Tour - Clifton ",
+        "location": "Clifton Parish Church St Philip & St James, Clifton Vicarage",
+        "description": " The final stop on this year's Dinner Day ringing tour! Open ringing for York Colleges Guild members past and present at Clifton Parish Church",
+        "social": false,
+        "practice": true,
+        "allDay": false
+    },
+    {
+        "s_date": {
             "day": "11",
             "month": "June",
             "year": "2023",
@@ -1915,6 +1891,30 @@
         "title": "St Lawrence Practice",
         "location": "St Lawrence Parish Church, York",
         "description": "St Lawrence weekly practice that many members attend",
+        "social": false,
+        "practice": false,
+        "allDay": false
+    },
+    {
+        "s_date": {
+            "day": "27",
+            "month": "June",
+            "year": "2023",
+            "time": "19:00",
+            "weekday": "Tuesday",
+            "full": "19:00, Tuesday 27 June"
+        },
+        "e_date": {
+            "day": "27",
+            "month": "June",
+            "year": "2023",
+            "time": "21:00",
+            "weekday": "Tuesday",
+            "full": "21:00, Tuesday 27 June"
+        },
+        "title": "York Minster Practice",
+        "location": "York Minster, Deangate",
+        "description": "Weekly practice at the Minster that some members attend",
         "social": false,
         "practice": false,
         "allDay": false

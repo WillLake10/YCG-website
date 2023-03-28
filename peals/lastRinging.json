@@ -1,44 +1,44 @@
 {
     "academic_year": "2022/23",
     "type": 2,
-    "date": "Sunday, 26 March 2023",
+    "date": "Monday, 27 March 2023",
     "location": "St Lawrence, York, North Yorkshire",
     "weight": "7-3-24 in A",
-    "time": "5m",
+    "time": "3m",
     "changes": "120",
-    "method": "York Colleges Guild Dinner Day Doubles",
+    "method": "Llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch Doubles",
     "details": "",
     "ringers": [
         {
-            "name": "Jonathan R Galloway (Vanbrugh)",
+            "name": "Lydia Mayfield",
             "bell": "1"
         },
         {
-            "name": "Joseph E T Waters (SUGCR)",
+            "name": "William L K Brooke",
             "bell": "2"
         },
         {
-            "name": "Patrick J W Deakin (James)",
+            "name": "Rosemary S Hall",
             "bell": "3"
         },
         {
-            "name": "Rosemary S Hall (Alcuin)",
+            "name": "Jonathan R Galloway",
             "bell": "4"
         },
         {
-            "name": "Natasha A Williams (Alcuin) (C)",
+            "name": "Natasha A Williams (C)",
             "bell": "5"
         },
         {
-            "name": "Rebecca A Hall (Langwith)",
+            "name": "Ryan Mills",
             "bell": "6"
         }
     ],
     "footnotes": [
-        "Rung prior to Evensong as part of the service ringing.",
-        "The variation 16vu (Reverse Bob with Grandsire Plains) is rung for the first time. The band would like to name this variation \"York Colleges Guild Dinner Day\".",
-        "Not rung on the York Colleges Guild Dinner Day, but named so that we can ring a whole quarter in the variation when it comes to it."
+        "The variation 16zv (Reverse Bob with Reverse Gwendroc Singles) is rung for the first time. The band would like to name this variation Llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch.",
+        "Rung because early today, an inferior York band rang and named the variation we were going to ring and name.",
+        "The band would like to associate Benjamin J Hartley with this performance, who was scribbling some crazy method on the blackboard during this performance."
     ],
-    "id": "1605565",
-    "time_in_ms": 16797894
+    "id": "1605971",
+    "time_in_ms": 16798758
 }

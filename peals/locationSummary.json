@@ -4,8 +4,8 @@
             "tower": "York (St Lawrence), North Yorkshire",
             "peals": 7,
             "quarters": 140,
-            "other": 3,
-            "total": 150
+            "other": 4,
+            "total": 151
         },
         {
             "tower": "York (St Martin le Grand, Coney Street), North Yorkshire",
@@ -193,6 +193,13 @@
             "tower": "Brewster (Melrose School), New York",
             "peals": 0,
             "quarters": 1,
+            "other": 0,
+            "total": 1
+        },
+        {
+            "tower": "Cathedral Church of St Anne, Leeds, West Yorkshire",
+            "peals": 1,
+            "quarters": 0,
             "other": 0,
             "total": 1
         },
@@ -450,9 +457,9 @@
         }
     ],
     "summary": {
-        "peals": 35,
+        "peals": 36,
         "quarters": 465,
-        "other": 24,
-        "total": 524
+        "other": 25,
+        "total": 526
     }
 }

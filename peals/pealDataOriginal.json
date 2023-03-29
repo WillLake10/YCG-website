@@ -37,6 +37,50 @@
         ],
         "footnotes": [
             "The variation 16zv (Reverse Bob with Reverse Gwendroc Singles) is rung for the first time. The band would like to name this variation Llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch.",
+            "Rung because earlier today, an inferior York band rang and named the variation we were going to ring and name.",
+            "The band would like to associate Benjamin J Hartley with this performance, who was scribbling some crazy method on the blackboard during this ringing."
+        ],
+        "id": "1606075",
+        "time_in_ms": 16798758
+    },
+    {
+        "academic_year": "2022/23",
+        "type": 2,
+        "date": "Monday, 27 March 2023",
+        "location": "St Lawrence, York, North Yorkshire",
+        "weight": "7-3-24 in A",
+        "time": "3m",
+        "changes": "120",
+        "method": "Llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch Doubles",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Lydia Mayfield",
+                "bell": "1"
+            },
+            {
+                "name": "William L K Brooke",
+                "bell": "2"
+            },
+            {
+                "name": "Rosemary S Hall",
+                "bell": "3"
+            },
+            {
+                "name": "Jonathan R Galloway",
+                "bell": "4"
+            },
+            {
+                "name": "Natasha A Williams (C)",
+                "bell": "5"
+            },
+            {
+                "name": "Ryan Mills",
+                "bell": "6"
+            }
+        ],
+        "footnotes": [
+            "The variation 16zv (Reverse Bob with Reverse Gwendroc Singles) is rung for the first time. The band would like to name this variation Llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch.",
             "Rung because early today, an inferior York band rang and named the variation we were going to ring and name.",
             "The band would like to associate Benjamin J Hartley with this performance, who was scribbling some crazy method on the blackboard during this performance."
         ],
@@ -13350,6 +13394,56 @@
         ],
         "id": "389779",
         "time_in_ms": 11020326
+    },
+    {
+        "academic_year": "2003/04",
+        "type": 0,
+        "date": "Wednesday, 21 April 2004",
+        "location": "Cathedral Church of St Anne, Leeds, West Yorkshire",
+        "weight": "9-1-4 in A",
+        "time": "2h 39",
+        "changes": "5088",
+        "method": "April Surprise Major",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Jeffery P Cooper",
+                "bell": "1"
+            },
+            {
+                "name": "Christopher Bostock",
+                "bell": "2"
+            },
+            {
+                "name": "Andrew D Yardley",
+                "bell": "3"
+            },
+            {
+                "name": "Nicholas D Soanes",
+                "bell": "4"
+            },
+            {
+                "name": "Roger S Riley",
+                "bell": "5"
+            },
+            {
+                "name": "Philip R Brook",
+                "bell": "6"
+            },
+            {
+                "name": "Peter C Kirby",
+                "bell": "7"
+            },
+            {
+                "name": "C Barrie Dove (C)",
+                "bell": "8"
+            }
+        ],
+        "footnotes": [
+            "Circled the tower to peals - 5. 75th peal on this bell - 8."
+        ],
+        "id": "1606017",
+        "time_in_ms": 10825164
     },
     {
         "academic_year": "2002/03",

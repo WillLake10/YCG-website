@@ -3,7 +3,7 @@
         "academic_year": "2022/23",
         "peals": 0,
         "quarters": 27,
-        "other": 15
+        "other": 16
     },
     {
         "academic_year": "2021/22",
@@ -105,6 +105,12 @@
         "academic_year": "2004/05",
         "peals": 0,
         "quarters": 12,
+        "other": 0
+    },
+    {
+        "academic_year": "2003/04",
+        "peals": 1,
+        "quarters": 0,
         "other": 0
     },
     {

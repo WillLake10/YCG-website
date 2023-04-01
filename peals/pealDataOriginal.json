@@ -46,50 +46,6 @@
     {
         "academic_year": "2022/23",
         "type": 2,
-        "date": "Monday, 27 March 2023",
-        "location": "St Lawrence, York, North Yorkshire",
-        "weight": "7-3-24 in A",
-        "time": "3m",
-        "changes": "120",
-        "method": "Llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch Doubles",
-        "details": "",
-        "ringers": [
-            {
-                "name": "Lydia Mayfield",
-                "bell": "1"
-            },
-            {
-                "name": "William L K Brooke",
-                "bell": "2"
-            },
-            {
-                "name": "Rosemary S Hall",
-                "bell": "3"
-            },
-            {
-                "name": "Jonathan R Galloway",
-                "bell": "4"
-            },
-            {
-                "name": "Natasha A Williams (C)",
-                "bell": "5"
-            },
-            {
-                "name": "Ryan Mills",
-                "bell": "6"
-            }
-        ],
-        "footnotes": [
-            "The variation 16zv (Reverse Bob with Reverse Gwendroc Singles) is rung for the first time. The band would like to name this variation Llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch.",
-            "Rung because early today, an inferior York band rang and named the variation we were going to ring and name.",
-            "The band would like to associate Benjamin J Hartley with this performance, who was scribbling some crazy method on the blackboard during this performance."
-        ],
-        "id": "1605971",
-        "time_in_ms": 16798758
-    },
-    {
-        "academic_year": "2022/23",
-        "type": 2,
         "date": "Sunday, 26 March 2023",
         "location": "St Lawrence, York, North Yorkshire",
         "weight": "7-3-24 in A",

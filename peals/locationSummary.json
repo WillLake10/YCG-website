@@ -4,8 +4,8 @@
             "tower": "York (St Lawrence), North Yorkshire",
             "peals": 7,
             "quarters": 140,
-            "other": 4,
-            "total": 151
+            "other": 3,
+            "total": 150
         },
         {
             "tower": "York (St Martin le Grand, Coney Street), North Yorkshire",
@@ -459,7 +459,7 @@
     "summary": {
         "peals": 36,
         "quarters": 465,
-        "other": 25,
-        "total": 526
+        "other": 24,
+        "total": 525
     }
 }

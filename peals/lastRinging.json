@@ -1,44 +1,46 @@
 {
     "academic_year": "2022/23",
-    "type": 2,
-    "date": "Monday, 27 March 2023",
-    "location": "St Lawrence, York, North Yorkshire",
-    "weight": "7-3-24 in A",
-    "time": "3m",
-    "changes": "120",
-    "method": "Llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch Doubles",
-    "details": "",
+    "type": 1,
+    "date": "Sunday, 09 April 2023",
+    "location": "St Philip and St James, Clifton, North Yorkshire",
+    "weight": "3-1-23 in Eb",
+    "time": "35m",
+    "changes": "1296",
+    "method": "Surprise Minor (2m)",
+    "details": "720 Norwich S, 576 Cambridge S",
     "ringers": [
         {
-            "name": "Lydia Mayfield",
+            "name": "Ewan G A Hull (Associate)",
             "bell": "1"
         },
         {
-            "name": "William L K Brooke",
+            "name": "Natasha A Williams (Alcuin)",
             "bell": "2"
         },
         {
-            "name": "Rosemary S Hall",
+            "name": "Rachel L Mahoney (BUSCR)",
             "bell": "3"
         },
         {
-            "name": "Jonathan R Galloway",
+            "name": "Joseph E T Waters (SUGCR)",
             "bell": "4"
         },
         {
-            "name": "Natasha A Williams (C)",
+            "name": "William M Regan (Friend) (C)",
             "bell": "5"
         },
         {
-            "name": "Ryan Mills",
+            "name": "Patrick W J Deakin (James)",
             "bell": "6"
         }
     ],
     "footnotes": [
-        "The variation 16zv (Reverse Bob with Reverse Gwendroc Singles) is rung for the first time. The band would like to name this variation Llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch.",
-        "Rung because earlier today, an inferior York band rang and named the variation we were going to ring and name.",
-        "The band would like to associate Benjamin J Hartley with this performance, who was scribbling some crazy method on the blackboard during this ringing."
+        "Rung for Easter Sunday, and to celebrate the visit of King Charles III to York on Maundy Thursday.",
+        "Rung to celebrate the YCG Instagram being back up to date",
+        "First blows of Norwich, first mixed Surprise Minor and fastest quarter - 2.",
+        "First YCG quarter - 3.",
+        "First YCG quarter at the tower in 11 years"
     ],
-    "id": "1606075",
-    "time_in_ms": 16798758
+    "id": "1609203",
+    "time_in_ms": 16809990
 }

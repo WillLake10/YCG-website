@@ -64,17 +64,17 @@
             "total": 6
         },
         {
+            "tower": "York (St Philip and St James, Clifton), North Yorkshire",
+            "peals": 0,
+            "quarters": 5,
+            "other": 1,
+            "total": 6
+        },
+        {
             "tower": "York (St Andrew, Bishopthorpe), North Yorkshire",
             "peals": 0,
             "quarters": 5,
             "other": 0,
-            "total": 5
-        },
-        {
-            "tower": "York (St Philip and St James, Clifton), North Yorkshire",
-            "peals": 0,
-            "quarters": 4,
-            "other": 1,
             "total": 5
         },
         {
@@ -458,8 +458,8 @@
     ],
     "summary": {
         "peals": 36,
-        "quarters": 465,
+        "quarters": 466,
         "other": 24,
-        "total": 525
+        "total": 526
     }
 }

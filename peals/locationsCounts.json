@@ -24,6 +24,13 @@
                 "total": 8
             },
             {
+                "tower": "York (St Philip and St James, Clifton), North Yorkshire",
+                "peals": 0,
+                "quarters": 1,
+                "other": 1,
+                "total": 2
+            },
+            {
                 "tower": "University of York (East Campus), North Yorkshire",
                 "peals": 0,
                 "quarters": 0,
@@ -45,13 +52,6 @@
                 "total": 1
             },
             {
-                "tower": "York (St Philip and St James, Clifton), North Yorkshire",
-                "peals": 0,
-                "quarters": 0,
-                "other": 1,
-                "total": 1
-            },
-            {
                 "tower": "York (Spurriergate Centre), North Yorkshire",
                 "peals": 0,
                 "quarters": 0,
@@ -68,9 +68,9 @@
         ],
         "summary": {
             "peals": 0,
-            "quarters": 27,
+            "quarters": 28,
             "other": 15,
-            "total": 42
+            "total": 43
         }
     },
     {

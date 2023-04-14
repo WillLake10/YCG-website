@@ -1,46 +1,48 @@
 {
     "academic_year": "2022/23",
     "type": 1,
-    "date": "Sunday, 09 April 2023",
-    "location": "St Philip and St James, Clifton, North Yorkshire",
-    "weight": "3-1-23 in Eb",
-    "time": "35m",
-    "changes": "1296",
-    "method": "Surprise Minor (2m)",
-    "details": "720 Norwich S, 576 Cambridge S",
+    "date": "Thursday, 13 April 2023",
+    "location": "St Mary and St Nicholas, Leatherhead, Surrey",
+    "weight": "8-0-5 in Bb",
+    "time": "43m",
+    "changes": "1272",
+    "method": "Cambridge Surprise Minor",
+    "details": "",
     "ringers": [
         {
-            "name": "Ewan G A Hull (Associate)",
+            "name": "Natalie Bleackley (Friend)",
             "bell": "1"
         },
         {
-            "name": "Natasha A Williams (Alcuin)",
+            "name": "Matthew O Hall (Vanbrugh)",
             "bell": "2"
         },
         {
-            "name": "Rachel L Mahoney (BUSCR)",
+            "name": "Natasha A Williams (Alcuin)",
             "bell": "3"
         },
         {
-            "name": "Joseph E T Waters (SUGCR)",
+            "name": "Rosemary S Hall (Alcuin)",
             "bell": "4"
         },
         {
-            "name": "William M Regan (Friend) (C)",
+            "name": "Jemima Bleackley (Halifax)",
             "bell": "5"
         },
         {
-            "name": "Patrick W J Deakin (James)",
+            "name": "William J Lake (Langwith) (C)",
             "bell": "6"
         }
     ],
     "footnotes": [
-        "Rung for Easter Sunday, and to celebrate the visit of King Charles III to York on Maundy Thursday.",
-        "Rung to celebrate the YCG Instagram being back up to date",
-        "First blows of Norwich, first mixed Surprise Minor and fastest quarter - 2.",
-        "First YCG quarter - 3.",
-        "First YCG quarter at the tower in 11 years"
+        "First treble to surprise: 1",
+        "First YCG quarter: 1",
+        "First in the south: 3",
+        "Most southern YCG Quarter",
+        "To celebrate the wedding anniversary of Peter and Shiela Ford, grandparents of the 4th and bellringers of this tower",
+        "First in the church where her parents married: 4",
+        "Rung to celebrate the Treble ringer showing the ringer of the third the ringer of the fifth's dance shows"
     ],
-    "id": "1609203",
-    "time_in_ms": 16809990
+    "id": "1610230",
+    "time_in_ms": 16813446
 }

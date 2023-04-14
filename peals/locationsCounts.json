@@ -45,6 +45,13 @@
                 "total": 1
             },
             {
+                "tower": "St Mary and St Nicholas, Leatherhead, Surrey",
+                "peals": 0,
+                "quarters": 1,
+                "other": 0,
+                "total": 1
+            },
+            {
                 "tower": "All Saints, Bubwith, East Riding of Yorkshire",
                 "peals": 0,
                 "quarters": 1,
@@ -68,9 +75,9 @@
         ],
         "summary": {
             "peals": 0,
-            "quarters": 28,
+            "quarters": 29,
             "other": 15,
-            "total": 43
+            "total": 44
         }
     },
     {

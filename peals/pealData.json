@@ -1371,6 +1371,52 @@
     {
         "academic_year": "2022/23",
         "type": 2,
+        "date": "Monday, 17 April 2023",
+        "location": "St Lawrence, York, North Yorkshire",
+        "weight": "7-3-24 in A",
+        "time": "3m",
+        "changes": "120",
+        "method": "Broken Light In The Ringing Chamber Doubles",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Natasha A Williams (Alcuin) (C)",
+                "bell": "1"
+            },
+            {
+                "name": "Joss Davis (Alcuin)",
+                "bell": "2"
+            },
+            {
+                "name": "Matthew O Hall (Vanbrugh)",
+                "bell": "3"
+            },
+            {
+                "name": "Rosemary S Hall (Alcuin)",
+                "bell": "4"
+            },
+            {
+                "name": "Philippa C M Stokoe (Staff)",
+                "bell": "5"
+            },
+            {
+                "name": "Huw D Foden (Wentworth)",
+                "bell": "6"
+            }
+        ],
+        "footnotes": [
+            "The variation 868t (Primrose Bob with Minster Bobs) is rung for the first time. The band would like to name this variation \"Broken Light in the Ringing Chamber\".",
+            "Rung because there's not many of us at the practice this evening.",
+            "Named because someone else named a variation that we were going to name this one, and because Joseph E T Waters did not like the name \"Shmalent Shminnovations\".",
+            "Rung to mark the start of the rivalry between the York Colleges Guild and Talent Innovations, who keep stealing the variations we plan to ring.",
+            "The band would like to associate Kevin D Atkinson with this performance, who was rummaging for a spare lightbulb for the duration."
+        ],
+        "id": "1611596",
+        "time_in_ms": 16816902
+    },
+    {
+        "academic_year": "2022/23",
+        "type": 2,
         "date": "Monday, 27 March 2023",
         "location": "St Lawrence, York, North Yorkshire",
         "weight": "7-3-24 in A",

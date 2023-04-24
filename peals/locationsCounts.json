@@ -6,8 +6,8 @@
                 "tower": "York (St Lawrence), North Yorkshire",
                 "peals": 0,
                 "quarters": 14,
-                "other": 7,
-                "total": 21
+                "other": 8,
+                "total": 22
             },
             {
                 "tower": "York (Oratory Church of St Wilfrid), North Yorkshire",
@@ -76,8 +76,8 @@
         "summary": {
             "peals": 0,
             "quarters": 30,
-            "other": 20,
-            "total": 50
+            "other": 21,
+            "total": 51
         }
     },
     {

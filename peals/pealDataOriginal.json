@@ -1,6 +1,112 @@
 [
     {
         "academic_year": "2022/23",
+        "type": 1,
+        "date": "Wednesday, 26 April 2023",
+        "location": "Oratory Church of St Wilfrid, York, North Yorkshire",
+        "weight": "18-1-21 in F",
+        "time": "50m",
+        "changes": "1259",
+        "method": "Grandsire Caters",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Patrick W J Deakin (James) (C)",
+                "bell": "1"
+            },
+            {
+                "name": "David G Hull (Associate)",
+                "bell": "2"
+            },
+            {
+                "name": "Natasha A Williams (Alcuin)",
+                "bell": "3"
+            },
+            {
+                "name": "Elva R Ainsworth (Friend)",
+                "bell": "4"
+            },
+            {
+                "name": "William J Lake (Langwith)",
+                "bell": "5"
+            },
+            {
+                "name": "Matthew O Hall (Vanbrugh)",
+                "bell": "6"
+            },
+            {
+                "name": "Simon W Edwards (Alcuin)",
+                "bell": "7"
+            },
+            {
+                "name": "William M Regan (Friend)",
+                "bell": "8"
+            },
+            {
+                "name": "Jemima Bleackley (Halifax)",
+                "bell": "9"
+            },
+            {
+                "name": "Joanna M Ainsworth (Friend)",
+                "bell": "10"
+            }
+        ],
+        "footnotes": [
+            "First on 10 inside: 3,6"
+        ],
+        "id": "1614075",
+        "time_in_ms": 16824682
+    },
+    {
+        "academic_year": "2022/23",
+        "type": 2,
+        "date": "Wednesday, 19 April 2023",
+        "location": "St Lawrence, York, North Yorkshire",
+        "weight": "7-3-24 in A",
+        "time": "3m",
+        "changes": "120",
+        "method": "(redacted) Doubles",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Natasha A Williams (Alcuin) (C)",
+                "bell": "1"
+            },
+            {
+                "name": "Jemima Bleackley (Halifax)",
+                "bell": "2"
+            },
+            {
+                "name": "James D Austin (Derwent)",
+                "bell": "3"
+            },
+            {
+                "name": "Simon W Edwards (Alcuin)",
+                "bell": "4"
+            },
+            {
+                "name": "William J Lake (Langwith)",
+                "bell": "5"
+            },
+            {
+                "name": "Joss Davis (Alcuin)",
+                "bell": "6"
+            }
+        ],
+        "footnotes": [
+            "Rung after a successful YCG Practice",
+            "The variation 868jp (Primrose Bob with Gloster Extremes) is rung for the first time.",
+            "The ringer of the 4th would like to extend hugs and kisses to Patrick Deakin.",
+            "First variation: 2, 3, 5",
+            "With thanks to Kevin D Atkinson for letting us overrun a little bit.",
+            "The band would like to associate Rosemary S Hall and William M Regan (Friend) with this performance.",
+            "Matthew O Hall does not wish to be associated with this performance. \"I've rung enough stupid doubles things with you lot\"."
+        ],
+        "id": "1613997",
+        "time_in_ms": 16818630
+    },
+    {
+        "academic_year": "2022/23",
         "type": 2,
         "date": "Wednesday, 19 April 2023",
         "location": "St Lawrence, York, North Yorkshire",

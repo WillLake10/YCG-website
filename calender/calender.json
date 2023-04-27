@@ -1,30 +1,6 @@
 [
     {
         "s_date": {
-            "day": "26",
-            "month": "April",
-            "year": "2023",
-            "time": "17:30",
-            "weekday": "Wednesday",
-            "full": "17:30, Wednesday 26 April"
-        },
-        "e_date": {
-            "day": "26",
-            "month": "April",
-            "year": "2023",
-            "time": "19:00",
-            "weekday": "Wednesday",
-            "full": "19:00, Wednesday 26 April"
-        },
-        "title": "YCG Practice",
-        "location": "St Lawrence Parish Church, York",
-        "description": " YCG Weekly Practice",
-        "social": false,
-        "practice": true,
-        "allDay": false
-    },
-    {
-        "s_date": {
             "day": "27",
             "month": "April",
             "year": "2023",

@@ -1,58 +1,75 @@
 {
     "academic_year": "2022/23",
-    "type": 1,
-    "date": "Wednesday, 26 April 2023",
-    "location": "Oratory Church of St Wilfrid, York, North Yorkshire",
-    "weight": "18-1-21 in F",
-    "time": "50m",
-    "changes": "1259",
-    "method": "Grandsire Caters",
+    "type": 2,
+    "date": "Monday, 01 May 2023",
+    "location": "St Lawrence, York, North Yorkshire",
+    "weight": "7-3-24 in A",
+    "time": "30m",
+    "changes": "",
+    "method": "Rounds and Call Changes",
     "details": "",
     "ringers": [
         {
-            "name": "Patrick W J Deakin (James) (C)",
-            "bell": "1"
+            "name": "Abi M Wood (Vanbrugh)",
+            "bell": ""
         },
         {
-            "name": "David G Hull (Associate)",
-            "bell": "2"
+            "name": "Benjamin J Hartley (St John)",
+            "bell": ""
         },
         {
-            "name": "Natasha A Williams (Alcuin)",
-            "bell": "3"
+            "name": "Brendan T Johnson (Alcuin)",
+            "bell": ""
         },
         {
-            "name": "Elva R Ainsworth (Friend)",
-            "bell": "4"
+            "name": "Caitlin E Routledge (Alcuin)",
+            "bell": ""
         },
         {
-            "name": "William J Lake (Langwith)",
-            "bell": "5"
+            "name": "Dominic D O'Neill (Alcuin)",
+            "bell": ""
         },
         {
-            "name": "Matthew O Hall (Vanbrugh)",
-            "bell": "6"
-        },
-        {
-            "name": "Simon W Edwards (Alcuin)",
-            "bell": "7"
-        },
-        {
-            "name": "William M Regan (Friend)",
-            "bell": "8"
+            "name": "Ewan G A Hull (Associate)",
+            "bell": ""
         },
         {
             "name": "Jemima Bleackley (Halifax)",
-            "bell": "9"
+            "bell": ""
         },
         {
-            "name": "Joanna M Ainsworth (Friend)",
-            "bell": "10"
+            "name": "Joseph A Carter (James)",
+            "bell": ""
+        },
+        {
+            "name": "Lucy R Haddock-Williams (Halifax)",
+            "bell": ""
+        },
+        {
+            "name": "Megan Bucknall (Anne Lister)",
+            "bell": ""
+        },
+        {
+            "name": "Natasha A Williams (Alcuin)",
+            "bell": ""
+        },
+        {
+            "name": "Rosemary S Hall (Alcuin)",
+            "bell": ""
+        },
+        {
+            "name": "William J Lake (Langwith)",
+            "bell": ""
+        },
+        {
+            "name": "William M Regan (Friend)",
+            "bell": ""
         }
     ],
     "footnotes": [
-        "First on 10 inside: 3,6"
+        "Rung for the upcoming coronation of His Majesty Charles the Third, by the Grace of God, of the United Kingdom of Great Britain and Northern Ireland and of His other Realms and Territories King, Head of the Commonwealth, Defender of the Faith.",
+        "Arranged and rung for our excellent new learners."
     ],
-    "id": "1614075",
-    "time_in_ms": 16824682
+    "id": "1615262",
+    "time_in_ms": 16829006
 }

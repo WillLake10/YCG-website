@@ -3,9 +3,9 @@
         {
             "tower": "York (St Lawrence), North Yorkshire",
             "peals": 7,
-            "quarters": 141,
-            "other": 5,
-            "total": 153
+            "quarters": 142,
+            "other": 6,
+            "total": 155
         },
         {
             "tower": "York (St Martin le Grand, Coney Street), North Yorkshire",
@@ -145,6 +145,13 @@
             "peals": 0,
             "quarters": 1,
             "other": 0,
+            "total": 1
+        },
+        {
+            "tower": ", The Waggon and Horses, Yorkshire",
+            "peals": 0,
+            "quarters": 0,
+            "other": 1,
             "total": 1
         },
         {
@@ -465,8 +472,8 @@
     ],
     "summary": {
         "peals": 36,
-        "quarters": 469,
-        "other": 26,
-        "total": 531
+        "quarters": 470,
+        "other": 28,
+        "total": 534
     }
 }

@@ -76,6 +76,50 @@
     },
     {
         "academic_year": "2022/23",
+        "type": 1,
+        "date": "Monday, 01 May 2023",
+        "location": "St Lawrence, York, North Yorkshire",
+        "weight": "7-3-24 in A",
+        "time": "38m",
+        "changes": "1260",
+        "method": "Plain Bob Doubles",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Dominic D O'Neill (Alcuin)",
+                "bell": "1"
+            },
+            {
+                "name": "William M Regan (Friend)",
+                "bell": "2"
+            },
+            {
+                "name": "Benjamin J Hartley (St John)",
+                "bell": "3"
+            },
+            {
+                "name": "William J Lake (Langwith) (C)",
+                "bell": "4"
+            },
+            {
+                "name": "Rosemary S Hall (Alcuin)",
+                "bell": "5"
+            },
+            {
+                "name": "Amber M Burrows (Anne Lister)",
+                "bell": "6"
+            }
+        ],
+        "footnotes": [
+            "Rung for the Coronation of King Charles III",
+            "First away from tenor: 1",
+            "Best Wishes for the Christening of Joseph Cockburn 07/05/2023"
+        ],
+        "id": "1615256",
+        "time_in_ms": 16828998
+    },
+    {
+        "academic_year": "2022/23",
         "type": 2,
         "date": "Monday, 01 May 2023",
         "location": ", The Waggon and Horses, Yorkshire",
@@ -117,50 +161,6 @@
             "Umpire/s: Brendan T Johnson"
         ],
         "id": "1615309",
-        "time_in_ms": 16828998
-    },
-    {
-        "academic_year": "2022/23",
-        "type": 1,
-        "date": "Monday, 01 May 2023",
-        "location": "St Lawrence, York, North Yorkshire",
-        "weight": "7-3-24 in A",
-        "time": "38m",
-        "changes": "1260",
-        "method": "Plain Bob Doubles",
-        "details": "",
-        "ringers": [
-            {
-                "name": "Dominic D O'Neill (Alcuin)",
-                "bell": "1"
-            },
-            {
-                "name": "William M Regan (Friend)",
-                "bell": "2"
-            },
-            {
-                "name": "Benjamin J Hartley (St John)",
-                "bell": "3"
-            },
-            {
-                "name": "William J Lake (Langwith) (C)",
-                "bell": "4"
-            },
-            {
-                "name": "Rosemary S Hall (Alcuin)",
-                "bell": "5"
-            },
-            {
-                "name": "Amber M Burrows (Anne Lister)",
-                "bell": "6"
-            }
-        ],
-        "footnotes": [
-            "Rung for the Coronation of King Charles III",
-            "First away from tenor: 1",
-            "Best Wishes for the Christening of Joseph Cockburn 07/05/2023"
-        ],
-        "id": "1615256",
         "time_in_ms": 16828998
     },
     {

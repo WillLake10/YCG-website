@@ -1,65 +1,47 @@
 {
     "academic_year": "2022/23",
-    "type": 1,
-    "date": "Friday, 05 May 2023",
-    "location": "Oratory Church of St Wilfrid, York, North Yorkshire",
-    "weight": "18-1-21 in F",
-    "time": "51m",
-    "changes": "1440",
-    "method": "April Day Royal",
-    "details": "",
+    "type": 0,
+    "date": "Saturday, 06 May 2023",
+    "location": "St Philip and St James, Clifton, North Yorkshire",
+    "weight": "3-1-23 in Eb",
+    "time": "2h 26",
+    "changes": "5040",
+    "method": "Minor (3m)",
+    "details": "1 extent Plain Bob, two extents each: Cambridge S, St Clements College Bob, Plain Bob",
     "ringers": [
         {
-            "name": "Natasha A Williams (Alcuin) (C)",
+            "name": "Simon W Edwards (Alcuin)",
             "bell": "1"
         },
         {
-            "name": "Iain J Anderson (CUGCR)",
+            "name": "Jemima Bleackley (Halifax)",
             "bell": "2"
         },
         {
-            "name": "James D Austin (Derwent)",
+            "name": "Natasha A Williams (Alcuin)",
             "bell": "3"
         },
         {
-            "name": "William J Lake (Langwith)",
+            "name": "C Mark G Ockleton (CUGCR)",
             "bell": "4"
         },
         {
-            "name": "David G Hull (Staff)",
+            "name": "William J Lake (Langwith)",
             "bell": "5"
         },
         {
-            "name": "Matthew O Hall (Vanbrugh)",
+            "name": "William M Regan (Friend) (C)",
             "bell": "6"
-        },
-        {
-            "name": "Jonathan R Galloway (Vanbrugh)",
-            "bell": "7"
-        },
-        {
-            "name": "Simon W Edwards (Alcuin)",
-            "bell": "8"
-        },
-        {
-            "name": "Ewan G A Hull (Associate)",
-            "bell": "9"
-        },
-        {
-            "name": "William M Regan (Friend)",
-            "bell": "10"
         }
     ],
     "footnotes": [
-        "Rung for the upcoming coronation of King Charles III",
-        "Believed to be the first quarter of April Day Royal",
-        "First Royal: 1, 4, 6",
-        "First on 10 as conductor",
-        "First as composer",
-        "First of April Day Royal for all, except 2, who does not believe it's a real thing",
-        "50th quarter: 1",
-        "Hopefully last April day royal: 2, 3, 4, 5, 6, 7, 9"
+        "Rung for the coronation of King Charles III.",
+        "First peal - 3, 5.",
+        "First peal of Minor - 2, and as Conductor.",
+        "First YCG peal for 7 years.",
+        "First peal on the bells in 11 years.",
+        "First YCG peal in the tower."
     ],
-    "id": "1616567",
-    "time_in_ms": 16832458
+    "id": "1618421",
+    "time_in_ms": 16833418
 }

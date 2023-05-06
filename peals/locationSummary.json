@@ -3,9 +3,9 @@
         {
             "tower": "York (St Lawrence), North Yorkshire",
             "peals": 7,
-            "quarters": 143,
+            "quarters": 144,
             "other": 6,
-            "total": 156
+            "total": 157
         },
         {
             "tower": "York (St Martin le Grand, Coney Street), North Yorkshire",
@@ -36,6 +36,13 @@
             "total": 8
         },
         {
+            "tower": "York (St Philip and St James, Clifton), North Yorkshire",
+            "peals": 1,
+            "quarters": 5,
+            "other": 1,
+            "total": 7
+        },
+        {
             "tower": "Acomb (St Stephen), North Yorkshire",
             "peals": 0,
             "quarters": 6,
@@ -61,13 +68,6 @@
             "peals": 0,
             "quarters": 6,
             "other": 0,
-            "total": 6
-        },
-        {
-            "tower": "York (St Philip and St James, Clifton), North Yorkshire",
-            "peals": 0,
-            "quarters": 5,
-            "other": 1,
             "total": 6
         },
         {
@@ -471,9 +471,9 @@
         }
     ],
     "summary": {
-        "peals": 36,
-        "quarters": 472,
+        "peals": 37,
+        "quarters": 473,
         "other": 28,
-        "total": 536
+        "total": 538
     }
 }

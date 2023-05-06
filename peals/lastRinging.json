@@ -1,75 +1,65 @@
 {
     "academic_year": "2022/23",
-    "type": 2,
-    "date": "Monday, 01 May 2023",
-    "location": "St Lawrence, York, North Yorkshire",
-    "weight": "7-3-24 in A",
-    "time": "30m",
-    "changes": "",
-    "method": "Rounds and Call Changes",
+    "type": 1,
+    "date": "Friday, 05 May 2023",
+    "location": "Oratory Church of St Wilfrid, York, North Yorkshire",
+    "weight": "18-1-21 in F",
+    "time": "51m",
+    "changes": "1440",
+    "method": "April Day Royal",
     "details": "",
     "ringers": [
         {
-            "name": "Abi M Wood (Vanbrugh)",
-            "bell": ""
+            "name": "Natasha A Williams (Alcuin) (C)",
+            "bell": "1"
         },
         {
-            "name": "Benjamin J Hartley (St John)",
-            "bell": ""
+            "name": "Iain J Anderson (CUGCR)",
+            "bell": "2"
         },
         {
-            "name": "Brendan T Johnson (Alcuin)",
-            "bell": ""
-        },
-        {
-            "name": "Caitlin E Routledge (Alcuin)",
-            "bell": ""
-        },
-        {
-            "name": "Dominic D O'Neill (Alcuin)",
-            "bell": ""
-        },
-        {
-            "name": "Ewan G A Hull (Associate)",
-            "bell": ""
-        },
-        {
-            "name": "Jemima Bleackley (Halifax)",
-            "bell": ""
-        },
-        {
-            "name": "Joseph A Carter (James)",
-            "bell": ""
-        },
-        {
-            "name": "Lucy R Haddock-Williams (Halifax)",
-            "bell": ""
-        },
-        {
-            "name": "Megan Bucknall (Anne Lister)",
-            "bell": ""
-        },
-        {
-            "name": "Natasha A Williams (Alcuin)",
-            "bell": ""
-        },
-        {
-            "name": "Rosemary S Hall (Alcuin)",
-            "bell": ""
+            "name": "James D Austin (Derwent)",
+            "bell": "3"
         },
         {
             "name": "William J Lake (Langwith)",
-            "bell": ""
+            "bell": "4"
+        },
+        {
+            "name": "David G Hull (Staff)",
+            "bell": "5"
+        },
+        {
+            "name": "Matthew O Hall (Vanbrugh)",
+            "bell": "6"
+        },
+        {
+            "name": "Jonathan R Galloway (Vanbrugh)",
+            "bell": "7"
+        },
+        {
+            "name": "Simon W Edwards (Alcuin)",
+            "bell": "8"
+        },
+        {
+            "name": "Ewan G A Hull (Associate)",
+            "bell": "9"
         },
         {
             "name": "William M Regan (Friend)",
-            "bell": ""
+            "bell": "10"
         }
     ],
     "footnotes": [
-        "Rung for the upcoming coronation of His Majesty Charles the Third, by the Grace of God, of the United Kingdom of Great Britain and Northern Ireland and of His other Realms and Territories King, Head of the Commonwealth, Defender of the Faith.",
-        "Arranged and rung for our excellent new learners."
+        "Rung for the upcoming coronation of King Charles III",
+        "Believed to be the first quarter of April Day Royal",
+        "First Royal: 1, 4, 6",
+        "First on 10 as conductor",
+        "First as composer",
+        "First of April Day Royal for all, except 2, who does not believe it's a real thing",
+        "50th quarter: 1",
+        "Hopefully last April day royal: 2, 3, 4, 5, 6, 7, 9"
     ],
-    "id": "1615262",
-    "time_in_ms": 16829006
+    "id": "1616567",
+    "time_in_ms": 16832458
 }

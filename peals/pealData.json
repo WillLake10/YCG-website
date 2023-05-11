@@ -1723,6 +1723,51 @@
     {
         "academic_year": "2022/23",
         "type": 2,
+        "date": "Wednesday, 10 May 2023",
+        "location": "St Lawrence, York, North Yorkshire",
+        "weight": "7-3-24 in A",
+        "time": "4m",
+        "changes": "120",
+        "method": "Mincing Doubles",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Natasha A Williams (Alcuin) (C)",
+                "bell": "1"
+            },
+            {
+                "name": "Jemima Bleackley (Halifax)",
+                "bell": "2"
+            },
+            {
+                "name": "Matthew O Hall (Vanbrugh)",
+                "bell": "3"
+            },
+            {
+                "name": "William J Lake (Langwith)",
+                "bell": "4"
+            },
+            {
+                "name": "Simon W Edwards (Alcuin)",
+                "bell": "5"
+            },
+            {
+                "name": "Alexander Davies (UEGCR)",
+                "bell": "6"
+            }
+        ],
+        "footnotes": [
+            "Rung in memory of Joseph E T Waters fluttering into The Market Cat after an unsuccessful peal attempt. The band would like it known that the cause of the loss for this peal was Patrick W J Deakin missing his 5/6 dodge.",
+            "Also celebrating Luke Londesbrough circling the Rook and Gaskill to pints.",
+            "The variation 148wv (St Faith Place with Reverse Earls Court Singles) is rung for the first time. The band would like to name this variation \"Mincing\" Doubles.",
+            "First ringing for the University of Edinburgh Guild of Change Ringers since 2019"
+        ],
+        "id": "1625761",
+        "time_in_ms": 16836774
+    },
+    {
+        "academic_year": "2022/23",
+        "type": 2,
         "date": "Monday, 01 May 2023",
         "location": "St Lawrence, York, North Yorkshire",
         "weight": "7-3-24 in A",

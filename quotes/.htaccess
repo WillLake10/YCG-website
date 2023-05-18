@@ -13,5 +13,11 @@ RewriteEngine Off
   Require valid-user
   AuthType Basic
  </Files>
+  <Files "pending.php">
+   AuthName "Username and password required"
+   AuthUserFile /home/u940566739/domains/ycg.org.uk/public_html/main/.htpasswd
+   Require valid-user
+   AuthType Basic
+  </Files>
 </IfModule>
 

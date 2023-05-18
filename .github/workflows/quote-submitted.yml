@@ -35,19 +35,19 @@ jobs:
         run: |
           python quotes/quoteSubmitted.py
 
-      - name: Send email
-        uses: cinotify/github-action@main
-        with:
-          to: 'quotes@ycg.org.uk'
-          subject: "New Quote Submitted by ${{ github.event.client_payload.username }}"
-          body: |
-            There is a new quote available for review
-            ${{ github.event.client_payload.quote.name1 }}: ${{ github.event.client_payload.quote.quote1 }}
-            ${{ github.event.client_payload.quote.name2 }}: ${{ github.event.client_payload.quote.quote2 }}
-            ${{ github.event.client_payload.quote.name3 }}: ${{ github.event.client_payload.quote.quote3 }}
-            ${{ github.event.client_payload.quote.name4 }}: ${{ github.event.client_payload.quote.quote4 }}
-            
-            To approve or remove visit www.ycg.org.uk/main/quotes/pending/${{ github.run_id }}-${{ github.run_attempt }}.php
+#      - name: Send email
+#        uses: cinotify/github-action@main
+#        with:
+#          to: 'quotes@ycg.org.uk'
+#          subject: "New Quote Submitted by ${{ github.event.client_payload.username }}"
+#          body: |
+#            There is a new quote available for review
+#            ${{ github.event.client_payload.quote.name1 }}: ${{ github.event.client_payload.quote.quote1 }}
+#            ${{ github.event.client_payload.quote.name2 }}: ${{ github.event.client_payload.quote.quote2 }}
+#            ${{ github.event.client_payload.quote.name3 }}: ${{ github.event.client_payload.quote.quote3 }}
+#            ${{ github.event.client_payload.quote.name4 }}: ${{ github.event.client_payload.quote.quote4 }}
+#
+#            To approve or remove visit www.ycg.org.uk/main/quotes/pending/${{ github.run_id }}-${{ github.run_attempt }}.php
 
       - name: commit files
         run: |

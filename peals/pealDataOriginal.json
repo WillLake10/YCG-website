@@ -1,6 +1,58 @@
 [
     {
         "academic_year": "2022/23",
+        "type": 1,
+        "date": "Friday, 26 May 2023",
+        "location": "St Lawrence, York, North Yorkshire",
+        "weight": "7-3-24 in A",
+        "time": "42m",
+        "changes": "1260",
+        "method": "Stedman Triples",
+        "details": "",
+        "ringers": [
+            {
+                "name": "William J Lake (Langwith)",
+                "bell": "1"
+            },
+            {
+                "name": "Bridget Hartley (Friend)",
+                "bell": "2"
+            },
+            {
+                "name": "Benjamin J Hartley (St John)",
+                "bell": "3"
+            },
+            {
+                "name": "Rosemary S Hall (Alcuin)",
+                "bell": "4"
+            },
+            {
+                "name": "Simon Hartley (Friend)",
+                "bell": "5"
+            },
+            {
+                "name": "James D Austin (Derwent)",
+                "bell": "6"
+            },
+            {
+                "name": "William M Regan (Friend) (C)",
+                "bell": "7"
+            },
+            {
+                "name": "Matthew O Hall (Vanbrugh)",
+                "bell": "8"
+            }
+        ],
+        "footnotes": [
+            "Birthday compliments to Benjamin Jenjamin Hartley.",
+            "First of Stedman Triples: 1 and 3.",
+            "Circled the tower: 1."
+        ],
+        "id": "1632738",
+        "time_in_ms": 16850600
+    },
+    {
+        "academic_year": "2022/23",
         "type": 2,
         "date": "Monday, 22 May 2023",
         "location": "St Lawrence, York, North Yorkshire",

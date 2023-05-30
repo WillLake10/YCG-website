@@ -1780,6 +1780,49 @@
         "weight": "7-3-24 in A",
         "time": "4m",
         "changes": "120",
+        "method": "Duck Doubles",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Natasha A Williams (Alcuin) (C)",
+                "bell": "1"
+            },
+            {
+                "name": "Jemima Bleackley (Halifax)",
+                "bell": "2"
+            },
+            {
+                "name": "William L K Brooke (Wentworth)",
+                "bell": "3"
+            },
+            {
+                "name": "William J Lake (Langwith)",
+                "bell": "4"
+            },
+            {
+                "name": "Rosemary S Hall (Alcuin)",
+                "bell": "5"
+            },
+            {
+                "name": "Benjamin J Hartley (St John)",
+                "bell": "6"
+            }
+        ],
+        "footnotes": [
+            "The variation 148vw (St Faith Place with Reverse Barons Court Singles) is rung for the first time. The band would like to name this variation Duck Doubles.",
+            "Quack"
+        ],
+        "id": "1633571",
+        "time_in_ms": 16847142
+    },
+    {
+        "academic_year": "2022/23",
+        "type": 2,
+        "date": "Monday, 22 May 2023",
+        "location": "St Lawrence, York, North Yorkshire",
+        "weight": "7-3-24 in A",
+        "time": "4m",
+        "changes": "120",
         "method": "Every Time A Duck Gets Published, Someone's Blood Pressure Doubles",
         "details": "",
         "ringers": [

@@ -6,8 +6,8 @@
                 "tower": "York (St Lawrence), North Yorkshire",
                 "peals": 0,
                 "quarters": 18,
-                "other": 10,
-                "total": 28
+                "other": 8,
+                "total": 26
             },
             {
                 "tower": "York (Oratory Church of St Wilfrid), North Yorkshire",
@@ -71,20 +71,13 @@
                 "quarters": 0,
                 "other": 1,
                 "total": 1
-            },
-            {
-                "tower": ", The Waggon and Horses, Yorkshire",
-                "peals": 0,
-                "quarters": 0,
-                "other": 1,
-                "total": 1
             }
         ],
         "summary": {
             "peals": 1,
             "quarters": 36,
-            "other": 24,
-            "total": 61
+            "other": 21,
+            "total": 58
         }
     },
     {

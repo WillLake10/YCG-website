@@ -1,54 +1,6 @@
 [
     {
         "s_date": {
-            "day": "05",
-            "month": "June",
-            "year": "2023",
-            "time": "19:00",
-            "weekday": "Monday",
-            "full": "19:00, Monday 05 June"
-        },
-        "e_date": {
-            "day": "05",
-            "month": "June",
-            "year": "2023",
-            "time": "19:30",
-            "weekday": "Monday",
-            "full": "19:30, Monday 05 June"
-        },
-        "title": "St Lawrence Handling Practice",
-        "location": "St Lawrence Parish Church, York",
-        "description": " Extra Handling Practices at St Lawrence before the main practice",
-        "social": false,
-        "practice": true,
-        "allDay": false
-    },
-    {
-        "s_date": {
-            "day": "05",
-            "month": "June",
-            "year": "2023",
-            "time": "19:30",
-            "weekday": "Monday",
-            "full": "19:30, Monday 05 June"
-        },
-        "e_date": {
-            "day": "05",
-            "month": "June",
-            "year": "2023",
-            "time": "21:00",
-            "weekday": "Monday",
-            "full": "21:00, Monday 05 June"
-        },
-        "title": "St Lawrence Practice",
-        "location": "St Lawrence Parish Church, York",
-        "description": "St Lawrence weekly practice that many members attend",
-        "social": false,
-        "practice": false,
-        "allDay": false
-    },
-    {
-        "s_date": {
             "day": "06",
             "month": "June",
             "year": "2023",
@@ -213,6 +165,54 @@
         "description": " The final stop on this year's Dinner Day ringing tour! Open ringing for York Colleges Guild members past and present at Clifton Parish Church",
         "social": false,
         "practice": true,
+        "allDay": false
+    },
+    {
+        "s_date": {
+            "day": "10",
+            "month": "June",
+            "year": "2023",
+            "time": "18:00",
+            "weekday": "Saturday",
+            "full": "18:00, Saturday 10 June"
+        },
+        "e_date": {
+            "day": "10",
+            "month": "June",
+            "year": "2023",
+            "time": "19:00",
+            "weekday": "Saturday",
+            "full": "19:00, Saturday 10 June"
+        },
+        "title": "Dinner Day Tour - All Saints North Street",
+        "location": "All Saints North Street (The Shrine and Parish Church), North St",
+        "description": " An extra stop for some extra ringing before the Dinner at All Saints North Street. Open ringing for York Colleges Guild members",
+        "social": false,
+        "practice": true,
+        "allDay": false
+    },
+    {
+        "s_date": {
+            "day": "10",
+            "month": "June",
+            "year": "2023",
+            "time": "19:00",
+            "weekday": "Saturday",
+            "full": "19:00, Saturday 10 June"
+        },
+        "e_date": {
+            "day": "10",
+            "month": "June",
+            "year": "2023",
+            "time": "23:00",
+            "weekday": "Saturday",
+            "full": "23:00, Saturday 10 June"
+        },
+        "title": "51st Annual Dinner Day",
+        "location": "Radisson Hotel York, North St",
+        "description": " 51st Annual Dinner Day!",
+        "social": true,
+        "practice": false,
         "allDay": false
     },
     {
@@ -2083,6 +2083,30 @@
         "title": "St Lawrence Practice",
         "location": "St Lawrence Parish Church, York",
         "description": "St Lawrence weekly practice that many members attend",
+        "social": false,
+        "practice": false,
+        "allDay": false
+    },
+    {
+        "s_date": {
+            "day": "05",
+            "month": "September",
+            "year": "2023",
+            "time": "19:00",
+            "weekday": "Tuesday",
+            "full": "19:00, Tuesday 05 September"
+        },
+        "e_date": {
+            "day": "05",
+            "month": "September",
+            "year": "2023",
+            "time": "21:00",
+            "weekday": "Tuesday",
+            "full": "21:00, Tuesday 05 September"
+        },
+        "title": "York Minster Practice",
+        "location": "York Minster, Deangate",
+        "description": "Weekly practice at the Minster that some members attend",
         "social": false,
         "practice": false,
         "allDay": false

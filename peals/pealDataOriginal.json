@@ -2,6 +2,56 @@
     {
         "academic_year": "2022/23",
         "type": 2,
+        "date": "Saturday, 10 June 2023",
+        "location": "All Saints, North Street, York, North Yorkshire",
+        "weight": "4-3-2 in C",
+        "time": "7m",
+        "changes": "177",
+        "method": "Stedman Triples",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Richard H Mayers (Vanbrugh)",
+                "bell": "1"
+            },
+            {
+                "name": "Jonathan R Galloway (Vanbrugh)",
+                "bell": "2"
+            },
+            {
+                "name": "Benjamin J Hartley (St John)",
+                "bell": "3"
+            },
+            {
+                "name": "Matthew O Hall (Vanbrugh)",
+                "bell": "4"
+            },
+            {
+                "name": "William J Lake (Langwith)",
+                "bell": "5"
+            },
+            {
+                "name": "Rosemary S Hall (Alcuin)",
+                "bell": "6"
+            },
+            {
+                "name": "William M Regan (Friend) (C)",
+                "bell": "7"
+            },
+            {
+                "name": "Rebecca A Hall (Langwith)",
+                "bell": "8"
+            }
+        ],
+        "footnotes": [
+            "Rung by past and present members (and Friend) of the York Colleges Guild immediately prior to the annual society dinner."
+        ],
+        "id": "1637596",
+        "time_in_ms": 16863560
+    },
+    {
+        "academic_year": "2022/23",
+        "type": 2,
         "date": "Wednesday, 31 May 2023",
         "location": "St Lawrence, York, North Yorkshire",
         "weight": "7-3-24 in A",

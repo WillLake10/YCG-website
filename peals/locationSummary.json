@@ -36,6 +36,13 @@
             "total": 8
         },
         {
+            "tower": "York (All Saints, North Street), North Yorkshire",
+            "peals": 1,
+            "quarters": 5,
+            "other": 1,
+            "total": 7
+        },
+        {
             "tower": "York (St Philip and St James, Clifton), North Yorkshire",
             "peals": 1,
             "quarters": 5,
@@ -53,13 +60,6 @@
             "tower": "Broughton in Craven (All Saints), North Yorkshire",
             "peals": 3,
             "quarters": 3,
-            "other": 0,
-            "total": 6
-        },
-        {
-            "tower": "York (All Saints, North Street), North Yorkshire",
-            "peals": 1,
-            "quarters": 5,
             "other": 0,
             "total": 6
         },
@@ -466,7 +466,7 @@
     "summary": {
         "peals": 37,
         "quarters": 474,
-        "other": 30,
-        "total": 541
+        "other": 31,
+        "total": 542
     }
 }

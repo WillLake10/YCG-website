@@ -1,43 +1,50 @@
 {
     "academic_year": "2022/23",
     "type": 2,
-    "date": "Wednesday, 31 May 2023",
-    "location": "St Lawrence, York, North Yorkshire",
-    "weight": "7-3-24 in A",
-    "time": "3m",
-    "changes": "120",
-    "method": "Are We Blind? Deploy The Birthday Wishes Doubles",
-    "details": "PPBPPSPPPSBP",
+    "date": "Saturday, 10 June 2023",
+    "location": "All Saints, North Street, York, North Yorkshire",
+    "weight": "4-3-2 in C",
+    "time": "7m",
+    "changes": "177",
+    "method": "Stedman Triples",
+    "details": "",
     "ringers": [
         {
-            "name": "William M Regan (Friend) (C)",
+            "name": "Richard H Mayers (Vanbrugh)",
             "bell": "1"
         },
         {
-            "name": "Natasha A Williams (Alcuin)",
+            "name": "Jonathan R Galloway (Vanbrugh)",
             "bell": "2"
         },
         {
-            "name": "James D Austin (Derwent)",
+            "name": "Benjamin J Hartley (St John)",
             "bell": "3"
         },
         {
-            "name": "Jemima Bleackley (Halifax)",
+            "name": "Matthew O Hall (Vanbrugh)",
             "bell": "4"
         },
         {
-            "name": "Simon W Edwards (Alcuin)",
+            "name": "William J Lake (Langwith)",
             "bell": "5"
         },
         {
-            "name": "Aidan T Derby (Derwent)",
+            "name": "Rosemary S Hall (Alcuin)",
             "bell": "6"
+        },
+        {
+            "name": "William M Regan (Friend) (C)",
+            "bell": "7"
+        },
+        {
+            "name": "Rebecca A Hall (Langwith)",
+            "bell": "8"
         }
     ],
     "footnotes": [
-        "Best wishes to Ioan B G Normington on his 19th birthday today.",
-        "The variation 148a/c (St Faith Place with Reverse Canterbury Bobs and Grandsire Singles) is rung for the first time. The band would like to name the variation Are We Blind? Deploy The Birthday Wishes Doubles."
+        "Rung by past and present members (and Friend) of the York Colleges Guild immediately prior to the annual society dinner."
     ],
-    "id": "1634155",
-    "time_in_ms": 16854918
+    "id": "1637596",
+    "time_in_ms": 16863560
 }

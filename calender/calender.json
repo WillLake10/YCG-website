@@ -1,150 +1,6 @@
 [
     {
         "s_date": {
-            "day": "10",
-            "month": "June",
-            "year": "2023",
-            "time": "00:00",
-            "weekday": "Saturday",
-            "full": "Saturday 10 June"
-        },
-        "e_date": {
-            "day": "11",
-            "month": "June",
-            "year": "2023",
-            "time": "00:00",
-            "weekday": "Sunday",
-            "full": "Sunday 11 June"
-        },
-        "title": "51st Annual Dinner Day",
-        "location": "Park Inn by Radisson York City Centre, North St",
-        "description": "Annual Dinner Day for the York Colleges Guild",
-        "social": false,
-        "practice": false,
-        "allDay": true
-    },
-    {
-        "s_date": {
-            "day": "10",
-            "month": "June",
-            "year": "2023",
-            "time": "10:00",
-            "weekday": "Saturday",
-            "full": "10:00, Saturday 10 June"
-        },
-        "e_date": {
-            "day": "10",
-            "month": "June",
-            "year": "2023",
-            "time": "11:00",
-            "weekday": "Saturday",
-            "full": "11:00, Saturday 10 June"
-        },
-        "title": "Dinner Day Tour - Selby Abbey",
-        "location": "Selby Abbey, The Crescent",
-        "description": " The first stop on this year's Dinner Day ringing tour! Open ringing for York Colleges Guild members past and present at Selby Abbey",
-        "social": false,
-        "practice": true,
-        "allDay": false
-    },
-    {
-        "s_date": {
-            "day": "10",
-            "month": "June",
-            "year": "2023",
-            "time": "12:45",
-            "weekday": "Saturday",
-            "full": "12:45, Saturday 10 June"
-        },
-        "e_date": {
-            "day": "10",
-            "month": "June",
-            "year": "2023",
-            "time": "13:45",
-            "weekday": "Saturday",
-            "full": "13:45, Saturday 10 June"
-        },
-        "title": "Dinner Day Tour - York Oratory",
-        "location": "York Oratory, Duncombe Pl",
-        "description": " The second stop on this year's Dinner Day ringing tour! Open ringing for York Colleges Guild members past and present at York Oratory",
-        "social": false,
-        "practice": true,
-        "allDay": false
-    },
-    {
-        "s_date": {
-            "day": "10",
-            "month": "June",
-            "year": "2023",
-            "time": "14:15",
-            "weekday": "Saturday",
-            "full": "14:15, Saturday 10 June"
-        },
-        "e_date": {
-            "day": "10",
-            "month": "June",
-            "year": "2023",
-            "time": "15:15",
-            "weekday": "Saturday",
-            "full": "15:15, Saturday 10 June"
-        },
-        "title": "Dinner Day Tour - Clifton ",
-        "location": "Clifton Parish Church St Philip & St James, Clifton Vicarage",
-        "description": " The final stop on this year's Dinner Day ringing tour! Open ringing for York Colleges Guild members past and present at Clifton Parish Church",
-        "social": false,
-        "practice": true,
-        "allDay": false
-    },
-    {
-        "s_date": {
-            "day": "10",
-            "month": "June",
-            "year": "2023",
-            "time": "18:00",
-            "weekday": "Saturday",
-            "full": "18:00, Saturday 10 June"
-        },
-        "e_date": {
-            "day": "10",
-            "month": "June",
-            "year": "2023",
-            "time": "19:00",
-            "weekday": "Saturday",
-            "full": "19:00, Saturday 10 June"
-        },
-        "title": "Dinner Day Tour - All Saints North Street",
-        "location": "All Saints North Street (The Shrine and Parish Church), North St",
-        "description": " An extra stop for some extra ringing before the Dinner at All Saints North Street. Open ringing for York Colleges Guild members",
-        "social": false,
-        "practice": true,
-        "allDay": false
-    },
-    {
-        "s_date": {
-            "day": "10",
-            "month": "June",
-            "year": "2023",
-            "time": "19:00",
-            "weekday": "Saturday",
-            "full": "19:00, Saturday 10 June"
-        },
-        "e_date": {
-            "day": "10",
-            "month": "June",
-            "year": "2023",
-            "time": "23:00",
-            "weekday": "Saturday",
-            "full": "23:00, Saturday 10 June"
-        },
-        "title": "51st Annual Dinner Day",
-        "location": "Radisson Hotel York, North St",
-        "description": " 51st Annual Dinner Day!",
-        "social": true,
-        "practice": false,
-        "allDay": false
-    },
-    {
-        "s_date": {
             "day": "11",
             "month": "June",
             "year": "2023",
@@ -2059,6 +1915,54 @@
         "title": "York Oratory Practice",
         "location": "York Oratory, Duncombe Pl",
         "description": "St Wilfrid's weekly practice that many members attend",
+        "social": false,
+        "practice": false,
+        "allDay": false
+    },
+    {
+        "s_date": {
+            "day": "10",
+            "month": "September",
+            "year": "2023",
+            "time": "09:30",
+            "weekday": "Sunday",
+            "full": "09:30, Sunday 10 September"
+        },
+        "e_date": {
+            "day": "10",
+            "month": "September",
+            "year": "2023",
+            "time": "10:15",
+            "weekday": "Sunday",
+            "full": "10:15, Sunday 10 September"
+        },
+        "title": "Sunday Service Ringing",
+        "location": "St Lawrence Parish Church, York",
+        "description": "Weekly morning service ringing at St Lawrence that some YCG members attend",
+        "social": false,
+        "practice": false,
+        "allDay": false
+    },
+    {
+        "s_date": {
+            "day": "10",
+            "month": "September",
+            "year": "2023",
+            "time": "17:45",
+            "weekday": "Sunday",
+            "full": "17:45, Sunday 10 September"
+        },
+        "e_date": {
+            "day": "10",
+            "month": "September",
+            "year": "2023",
+            "time": "18:30",
+            "weekday": "Sunday",
+            "full": "18:30, Sunday 10 September"
+        },
+        "title": "Sunday Evensong Ringing",
+        "location": "St Lawrence Parish Church, York",
+        "description": "Weekly evening service ringing at St Lawrence after normal YCG practice",
         "social": false,
         "practice": false,
         "allDay": false

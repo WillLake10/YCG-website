@@ -1,6 +1,246 @@
 [
     {
         "academic_year": "2022/23",
+        "type": 1,
+        "date": "Sunday, 11 June 2023",
+        "location": "St Lawrence, York, North Yorkshire",
+        "weight": "7-3-24 in A",
+        "time": "41m",
+        "changes": "1260",
+        "method": "Grandsire Triples",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Natasha A Williams (Alcuin) (C)",
+                "bell": "1"
+            },
+            {
+                "name": "Jemima Bleackley (Halifax)",
+                "bell": "2"
+            },
+            {
+                "name": "Ryan E Mills (Halifax)",
+                "bell": "3"
+            },
+            {
+                "name": "Alexander Davies (UEGCR)",
+                "bell": "4"
+            },
+            {
+                "name": "David G Denbigh (Langwith)",
+                "bell": "5"
+            },
+            {
+                "name": "William L K Brooke (Wentworth)",
+                "bell": "6"
+            },
+            {
+                "name": "William M Regan (Friend)",
+                "bell": "7"
+            },
+            {
+                "name": "Rosemary S Hall (Alcuin)",
+                "bell": "8"
+            }
+        ],
+        "footnotes": [
+            "Rung by attendees of the 51st York Colleges Guild Annual Dinner Day in celebration of a successful event.",
+            "Circled the tower as conductor with no repetition, and first of Grandsire Triples as conductor: 1",
+            "First of Grandsire inside and first YCG quarter: 4"
+        ],
+        "id": "1637858",
+        "time_in_ms": 16864424
+    },
+    {
+        "academic_year": "2022/23",
+        "type": 2,
+        "date": "Saturday, 10 June 2023",
+        "location": "All Saints, North Street, York, North Yorkshire",
+        "weight": "4-3-2 in C",
+        "time": "7m",
+        "changes": "177",
+        "method": "Stedman Triples",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Richard H Mayers (Vanbrugh)",
+                "bell": "1"
+            },
+            {
+                "name": "Jonathan R Galloway (Vanbrugh)",
+                "bell": "2"
+            },
+            {
+                "name": "Benjamin J Hartley (St John)",
+                "bell": "3"
+            },
+            {
+                "name": "Matthew O Hall (Vanbrugh)",
+                "bell": "4"
+            },
+            {
+                "name": "William J Lake (Langwith)",
+                "bell": "5"
+            },
+            {
+                "name": "Rosemary S Hall (Alcuin)",
+                "bell": "6"
+            },
+            {
+                "name": "William M Regan (Friend) (C)",
+                "bell": "7"
+            },
+            {
+                "name": "Rebecca A Hall (Langwith)",
+                "bell": "8"
+            }
+        ],
+        "footnotes": [
+            "Rung by past and present members (and Friend) of the York Colleges Guild immediately prior to the annual society dinner."
+        ],
+        "id": "1637596",
+        "time_in_ms": 16863560
+    },
+    {
+        "academic_year": "2022/23",
+        "type": 2,
+        "date": "Wednesday, 31 May 2023",
+        "location": "St Lawrence, York, North Yorkshire",
+        "weight": "7-3-24 in A",
+        "time": "3m",
+        "changes": "120",
+        "method": "Are We Blind? Deploy The Birthday Wishes Doubles",
+        "details": "PPBPPSPPPSBP",
+        "ringers": [
+            {
+                "name": "William M Regan (Friend) (C)",
+                "bell": "1"
+            },
+            {
+                "name": "Natasha A Williams (Alcuin)",
+                "bell": "2"
+            },
+            {
+                "name": "James D Austin (Derwent)",
+                "bell": "3"
+            },
+            {
+                "name": "Jemima Bleackley (Halifax)",
+                "bell": "4"
+            },
+            {
+                "name": "Simon W Edwards (Alcuin)",
+                "bell": "5"
+            },
+            {
+                "name": "Aidan T Derby (Derwent)",
+                "bell": "6"
+            }
+        ],
+        "footnotes": [
+            "Best wishes to Ioan B G Normington on his 19th birthday today.",
+            "The variation 148a/c (St Faith Place with Reverse Canterbury Bobs and Grandsire Singles) is rung for the first time. The band would like to name the variation Are We Blind? Deploy The Birthday Wishes Doubles."
+        ],
+        "id": "1634155",
+        "time_in_ms": 16854918
+    },
+    {
+        "academic_year": "2022/23",
+        "type": 1,
+        "date": "Friday, 26 May 2023",
+        "location": "St Lawrence, York, North Yorkshire",
+        "weight": "7-3-24 in A",
+        "time": "42m",
+        "changes": "1260",
+        "method": "Stedman Triples",
+        "details": "",
+        "ringers": [
+            {
+                "name": "William J Lake (Langwith)",
+                "bell": "1"
+            },
+            {
+                "name": "Bridget Hartley (Friend)",
+                "bell": "2"
+            },
+            {
+                "name": "Benjamin J Hartley (St John)",
+                "bell": "3"
+            },
+            {
+                "name": "Rosemary S Hall (Alcuin)",
+                "bell": "4"
+            },
+            {
+                "name": "Simon Hartley (Friend)",
+                "bell": "5"
+            },
+            {
+                "name": "James D Austin (Derwent)",
+                "bell": "6"
+            },
+            {
+                "name": "William M Regan (Friend) (C)",
+                "bell": "7"
+            },
+            {
+                "name": "Matthew O Hall (Vanbrugh)",
+                "bell": "8"
+            }
+        ],
+        "footnotes": [
+            "Birthday compliments to Benjamin Jenjamin Hartley.",
+            "First of Stedman Triples: 1 and 3.",
+            "Circled the tower: 1."
+        ],
+        "id": "1632738",
+        "time_in_ms": 16850600
+    },
+    {
+        "academic_year": "2022/23",
+        "type": 2,
+        "date": "Monday, 22 May 2023",
+        "location": "St Lawrence, York, North Yorkshire",
+        "weight": "7-3-24 in A",
+        "time": "4m",
+        "changes": "120",
+        "method": "Duck Doubles",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Natasha A Williams (Alcuin) (C)",
+                "bell": "1"
+            },
+            {
+                "name": "Jemima Bleackley (Halifax)",
+                "bell": "2"
+            },
+            {
+                "name": "William L K Brooke (Wentworth)",
+                "bell": "3"
+            },
+            {
+                "name": "William J Lake (Langwith)",
+                "bell": "4"
+            },
+            {
+                "name": "Rosemary S Hall (Alcuin)",
+                "bell": "5"
+            },
+            {
+                "name": "Benjamin J Hartley (St John)",
+                "bell": "6"
+            }
+        ],
+        "footnotes": [
+            "The variation 148vw (St Faith Place with Reverse Barons Court Singles) is rung for the first time. The band would like to name this variation Duck Doubles.",
+            "Quack"
+        ],
+        "id": "1633571",
+        "time_in_ms": 16847142
+    },
+    {
+        "academic_year": "2022/23",
         "type": 2,
         "date": "Wednesday, 10 May 2023",
         "location": "St Lawrence, York, North Yorkshire",
@@ -325,81 +565,6 @@
     },
     {
         "academic_year": "2022/23",
-        "type": 2,
-        "date": "Monday, 01 May 2023",
-        "location": "St Lawrence, York, North Yorkshire",
-        "weight": "7-3-24 in A",
-        "time": "30m",
-        "changes": "",
-        "method": "Rounds and Call Changes",
-        "details": "",
-        "ringers": [
-            {
-                "name": "Abi M Wood (Vanbrugh)",
-                "bell": ""
-            },
-            {
-                "name": "Benjamin J Hartley (St John)",
-                "bell": ""
-            },
-            {
-                "name": "Brendan T Johnson (Alcuin)",
-                "bell": ""
-            },
-            {
-                "name": "Caitlin E Routledge (Alcuin)",
-                "bell": ""
-            },
-            {
-                "name": "Dominic D O'Neill (Alcuin)",
-                "bell": ""
-            },
-            {
-                "name": "Ewan G A Hull (Associate)",
-                "bell": ""
-            },
-            {
-                "name": "Jemima Bleackley (Halifax)",
-                "bell": ""
-            },
-            {
-                "name": "Joseph A Carter (James)",
-                "bell": ""
-            },
-            {
-                "name": "Lucy R Haddock-Williams (Halifax)",
-                "bell": ""
-            },
-            {
-                "name": "Megan Bucknall (Anne Lister)",
-                "bell": ""
-            },
-            {
-                "name": "Natasha A Williams (Alcuin)",
-                "bell": ""
-            },
-            {
-                "name": "Rosemary S Hall (Alcuin)",
-                "bell": ""
-            },
-            {
-                "name": "William J Lake (Langwith)",
-                "bell": ""
-            },
-            {
-                "name": "William M Regan (Friend)",
-                "bell": ""
-            }
-        ],
-        "footnotes": [
-            "Rung for the upcoming coronation of His Majesty Charles the Third, by the Grace of God, of the United Kingdom of Great Britain and Northern Ireland and of His other Realms and Territories King, Head of the Commonwealth, Defender of the Faith.",
-            "Arranged and rung for our excellent new learners."
-        ],
-        "id": "1615262",
-        "time_in_ms": 16829006
-    },
-    {
-        "academic_year": "2022/23",
         "type": 1,
         "date": "Monday, 01 May 2023",
         "location": "St Lawrence, York, North Yorkshire",
@@ -440,51 +605,6 @@
             "Best Wishes for the Christening of Joseph Cockburn 07/05/2023"
         ],
         "id": "1615256",
-        "time_in_ms": 16828998
-    },
-    {
-        "academic_year": "2022/23",
-        "type": 2,
-        "date": "Monday, 01 May 2023",
-        "location": ", The Waggon and Horses, Yorkshire",
-        "weight": "",
-        "time": "",
-        "changes": "10",
-        "method": "Original Doubles",
-        "details": "Rung by sipping pints",
-        "ringers": [
-            {
-                "name": "Natasha A Williams (Alcuin)",
-                "bell": "1"
-            },
-            {
-                "name": "Caitlin E Routledge (Alcuin)",
-                "bell": "2"
-            },
-            {
-                "name": "Rosemary S Hall (Alcuin)",
-                "bell": "3"
-            },
-            {
-                "name": "W J Mark Regan (Fwiend) (C)",
-                "bell": "4"
-            },
-            {
-                "name": "David Denbigh (Langwith)",
-                "bell": "5"
-            },
-            {
-                "name": "Benjamin J Hartley (YSJ)",
-                "bell": "6"
-            }
-        ],
-        "footnotes": [
-            "Rung after a successful St Lawrence practice.",
-            "Ewan G A Hull and Jemima C Bleackley does not wish to be associated with performance",
-            "Tenor weight: BG Sips",
-            "Umpire/s: Brendan T Johnson"
-        ],
-        "id": "1615309",
         "time_in_ms": 16828998
     },
     {

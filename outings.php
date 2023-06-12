@@ -9,12 +9,12 @@ Author: Will Lake
 -->
 <html lang="en">
 <head>
-     <?php include ('componants/head.html'); ?>
-     <title>Outings - York Colleges Guild</title>
+    <?php include('componants/head.html'); ?>
+    <title>Outings - York Colleges Guild</title>
 </head>
 <body>
 
-<?php include ('componants/standardPageTop.php'); ?>
+<?php include('componants/standardPageTop.php'); ?>
 
 <section id="pagetitle">
     <div class="container pt-3 pb-3">
@@ -45,6 +45,7 @@ Author: Will Lake
                 <li class="nav-item"><a class="nav-link" href="#Manchester">Manchester 2010</a></li>
                 <li class="nav-item"><a class="nav-link" href="#WestYorkshire">West Yorkshire 2008</a></li>
                 <li class="nav-item"><a class="nav-link" href="#Ripon">Ripon 2004</a></li>
+                <li class="nav-item"><a class="nav-link" href="#NUA2004">NUA Sheffield 2004</a></li>
                 <li class="nav-item"><a class="nav-link" href="#Swaledale">Swaledale 2003</a></li>
             </ul>
         </nav>
@@ -66,13 +67,13 @@ Author: Will Lake
                     Green.</p>
             </div>
             <div class="col-md-4 col-sm-6">
-                <img src="images/gallery/2010_03_OutingManchester/IMG_0273_2.jpg" class="img-fluid mx-auto d-block">
+                <img src="../gallery/2010_03_OutingManchester/IMG_0273_2.jpg" class="img-fluid mx-auto d-block">
             </div>
         </div>
 
         <div class="row">
             <div class="col-md-4 col-sm-6">
-                <img src="images/gallery/2010_03_OutingManchester/IMG_0275_3.jpg" class="img-fluid mx-auto d-block">
+                <img src="../gallery/2010_03_OutingManchester/IMG_0275_3.jpg" class="img-fluid mx-auto d-block">
             </div>
             <div class="col-md-8 col-sm-6">
                 <p>Our first excitement in Manchester was a ride on the tramline to Victoria (including several photos
@@ -101,13 +102,13 @@ Author: Will Lake
                     rushed to our next destination via a train to Ashton-under-Lyne.</p>
             </div>
             <div class="col-md-4 col-sm-6">
-                <img src="images/gallery/2010_03_OutingManchester/IMG_0279.JPG" class="img-fluid mx-auto d-block">
+                <img src="../gallery/2010_03_OutingManchester/IMG_0279.JPG" class="img-fluid mx-auto d-block">
             </div>
         </div>
 
         <div class="row">
             <div class="col-md-4 col-sm-6">
-                <img src="images/gallery/2010_03_OutingManchester/IMG_0311.JPG" class="img-fluid mx-auto d-block">
+                <img src="../gallery/2010_03_OutingManchester/IMG_0311.jpg" class="img-fluid mx-auto d-block">
             </div>
             <div class="col-md-8 col-sm-6">
                 <p>Our third tower of the afternoon was St Peter's, another 8 bell tower, which sat on an island
@@ -138,7 +139,7 @@ Author: Will Lake
                     Collard and his umbrella strike again.</p>
             </div>
             <div class="col-md-4 col-sm-6">
-                <img src="images/gallery/2010_03_OutingManchester/IMG_0329.JPG" class="img-fluid mx-auto d-block">
+                <img src="../gallery/2010_03_OutingManchester/IMG_0329.JPG" class="img-fluid mx-auto d-block">
             </div>
         </div>
 
@@ -156,7 +157,7 @@ Author: Will Lake
 
 <script src="scripts/backToTop.js"></script>
 
-<?php include ('componants/splitterFull.html'); ?>
+<?php include('componants/splitterFull.html'); ?>
 
 <section id="WestYorkshire">
     <div class="container">
@@ -203,7 +204,7 @@ Author: Will Lake
 </section>
 
 <script src="scripts/backToTop.js"></script>
-<?php include ('componants/splitterFull.html'); ?>
+<?php include('componants/splitterFull.html'); ?>
 
 <section id="Ripon">
     <div class="container">
@@ -220,13 +221,13 @@ Author: Will Lake
                     attracted favourable comment.</p>
             </div>
             <div class="col-md-4 col-sm-6">
-                <img src="images/gallery/2004_05_30%20outing2004/minibus.jpg" class="img-fluid mx-auto d-block">
+                <img src="../gallery/2004_05_30%20outing2004/minibus.jpg" class="img-fluid mx-auto d-block">
             </div>
         </div>
 
         <div class="row">
             <div class="col-md-4 col-sm-6">
-                <img src="images/gallery/2004_05_30%20outing2004/ringers.jpg" class="img-fluid mx-auto d-block">
+                <img src="../gallery/2004_05_30%20outing2004/ringers.jpg" class="img-fluid mx-auto d-block">
             </div>
             <div class="col-md-8 col-sm-6">
                 <p>We arrived at the pretty church at the allotted time, and everybody had chance to ring although some
@@ -260,13 +261,13 @@ Author: Will Lake
                     headed there. The food was excellent - definitely a pub worth visiting again.</p>
             </div>
             <div class="col-md-4 col-sm-6">
-                <img src="images/gallery/2004_05_30%20outing2004/group.jpg" class="img-fluid mx-auto d-block">
+                <img src="../gallery/2004_05_30%20outing2004/group.jpg" class="img-fluid mx-auto d-block">
             </div>
         </div>
 
         <div class="row">
             <div class="col-md-4 col-sm-6">
-                <img src="images/gallery/2004_05_30%20outing2004/frisbee.jpg" class="img-fluid mx-auto d-block">
+                <img src="../gallery/2004_05_30%20outing2004/frisbee.jpg" class="img-fluid mx-auto d-block">
             </div>
             <div class="col-md-8 col-sm-6">
                 <p>Then on to Burneston. The church was the finest of the day, an impressive largely Perpendicular
@@ -291,7 +292,50 @@ Author: Will Lake
 </section>
 
 <script src="scripts/backToTop.js"></script>
-<?php include ('componants/splitterFull.html'); ?>
+<?php include('componants/splitterFull.html'); ?>
+
+<section id="NUA2004">
+    <div class="container">
+        <div class="row pt-3">
+                <div class="head_title text-ycgGreen">NUA Sheffield 2004</div>
+                <p>This year's NUA was in Sheffield. Owing to the shocking reliability of trains these days, one of our
+                    team managed to miss the train and so had to be waited for by half of the team. Rebecca had a
+                    project that went on late and so had to join us on Saturday morning.</p>
+                <p>Getting there, we found that ringing had finished early and everyone had gone to the pub (surprise,
+                    surprise). So we made use of their guest ale and cider collections, their extravagently expensive
+                    cash machine and settled down to the usual jollities of meeting new and interesting people and
+                    taking the piss out of Mike.</p>
+                <p>I won't bother the reader with details about where we rang because that is available using the link
+                    below. However, I would like to pay tribute to Charlotte's excellent map-reading and public
+                    transport capabilities, without which we'd probably have had to buy a house and settle down there.
+                    We had to dispense with the striking competition on the basis that we couldn't get there and also
+                    Beighton and Norton, instead having lunch in Rotherham. </p>
+                <p>After we finished at the Cathedral we set out for take aways and doubled the annual turnover of the
+                    shop. So it came as a surprise that after everyone had gone, Kevin and Arthur were still waiting for
+                    the simplest pizza imaginable. The evening brought the quiz, hosted by someone as eager to get to
+                    the pub as the rest of us. Complaints naturally about whether a hammer is known as a Birmingham
+                    screwdriver or spanner - I think the civilised world is agreed on this. But not Newcastle. </p>
+                <p>Then the boat race. Cunningly taking a place at the end of the line as far from the judges as
+                    possible, nobody seemed to notice that we were still drinking while the awards were being handed
+                    out. By some staggering coincidence, the umpire, winning team, losing team and host were from
+                    Sheffield. Hmmm. </p>
+                <p>To the pub until closing time, then back to the hall for more socialising, games and drinking, plus
+                    for me the chance to take advantage of some cold unwanted pizza. Also available to damage your
+                    health was Mavis's game (I'll explain it to you sometime if you're interested) and the Astral Pole
+                    game, where you can voluntarily dislocate one of your own limbs in the name of fun. </p>
+                <p>The following morning, we found that we had to clear out of the hall by 10 owing to some unforeseen
+                    double-booking. So while those organised enough went Sunday morning ringing, the rest of us set
+                    about to cleaning and clearing up after a party of 90 within the space of a couple of hours. That
+                    done, we went to the Fat Cat, in the heart of what used to be Industrial Sheffield, and now winner
+                    of several CAMRA awards for real ale. And while we're on the subject, why is it that ringers
+                    invariably go for bitter? Good food, then headed back to the station.
+                </p>
+            </div>
+    </div>
+</section>
+
+<script src="scripts/backToTop.js"></script>
+<?php include('componants/splitterFull.html'); ?>
 
 <section id="Swaledale">
     <div class="container">
@@ -311,13 +355,13 @@ Author: Will Lake
                     handling, which is obviously hard to believe!</p>
             </div>
             <div class="col-md-4 col-sm-6">
-                <img src="images/gallery/2003_05_17%20swaledale/group.jpg" class="img-fluid mx-auto d-block">
+                <img src="../gallery/2003_05_17%20swaledale/group.jpg" class="img-fluid mx-auto d-block">
             </div>
         </div>
 
         <div class="row">
             <div class="col-md-4 col-sm-6">
-                <img src="images/gallery/2003_05_17%20swaledale/minibus_2.jpg" class="img-fluid mx-auto d-block">
+                <img src="../gallery/2003_05_17%20swaledale/minibus_2.jpg" class="img-fluid mx-auto d-block">
             </div>
             <div class="col-md-8 col-sm-6">
                 <p>Following a brief stop at Richmond market for sustenance, we headed for the pretty village of
@@ -356,7 +400,7 @@ Author: Will Lake
                     chatting up every bloke in Goodricke Bar, to the amusement of many onlookers.</p>
             </div>
             <div class="col-md-4 col-sm-6">
-                <img src="images/gallery/2003_05_17%20swaledale/rob.jpg" class="img-fluid mx-auto d-block">
+                <img src="../gallery/2003_05_17%20swaledale/rob.jpg" class="img-fluid mx-auto d-block">
             </div>
         </div>
 

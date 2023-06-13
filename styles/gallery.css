@@ -28,7 +28,7 @@
 
 .galleryImg {
     width: 100%; /* width of container */
-    height: 200px; /* height of container */
+    height: auto; /* height of container */
     object-fit: cover;
     object-position: 20% 10%;
     border: 3px solid black;

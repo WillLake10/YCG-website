@@ -1,52 +1,43 @@
 {
     "academic_year": "2022/23",
     "type": 1,
-    "date": "Sunday, 11 June 2023",
+    "date": "Wednesday, 14 June 2023",
     "location": "St Lawrence, York, North Yorkshire",
     "weight": "7-3-24 in A",
-    "time": "41m",
+    "time": "40m",
     "changes": "1260",
-    "method": "Grandsire Triples",
+    "method": "Grandsire Doubles",
     "details": "",
     "ringers": [
         {
-            "name": "Natasha A Williams (Alcuin) (C)",
+            "name": "Rosemary S Hall (Alcuin)",
             "bell": "1"
         },
         {
-            "name": "Jemima Bleackley (Halifax)",
+            "name": "Natasha A Williams (Alcuin)",
             "bell": "2"
         },
         {
-            "name": "Ryan E Mills (Halifax)",
+            "name": "Jemima Bleackley (Halifax) (C)",
             "bell": "3"
         },
         {
-            "name": "Alexander Davies (UEGCR)",
+            "name": "William J Lake (Langwith)",
             "bell": "4"
         },
         {
-            "name": "David G Denbigh (Langwith)",
+            "name": "William M Regan (Friend)",
             "bell": "5"
         },
         {
-            "name": "William L K Brooke (Wentworth)",
+            "name": "Caitlin E Routledge (Alcuin)",
             "bell": "6"
-        },
-        {
-            "name": "William M Regan (Friend)",
-            "bell": "7"
-        },
-        {
-            "name": "Rosemary S Hall (Alcuin)",
-            "bell": "8"
         }
     ],
     "footnotes": [
-        "Rung by attendees of the 51st York Colleges Guild Annual Dinner Day in celebration of a successful event.",
-        "Circled the tower as conductor with no repetition, and first of Grandsire Triples as conductor: 1",
-        "First of Grandsire inside and first YCG quarter: 4"
+        "First quarter at first attempt: 6",
+        "Tried to sabotage the quarter: 2,5"
     ],
-    "id": "1637858",
-    "time_in_ms": 16864424
+    "id": "1638485",
+    "time_in_ms": 16867014
 }

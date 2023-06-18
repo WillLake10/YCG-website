@@ -3,9 +3,9 @@
         {
             "tower": "York (St Lawrence), North Yorkshire",
             "peals": 7,
-            "quarters": 148,
+            "quarters": 147,
             "other": 9,
-            "total": 164
+            "total": 163
         },
         {
             "tower": "York (St Martin le Grand, Coney Street), North Yorkshire",
@@ -36,14 +36,14 @@
             "total": 8
         },
         {
-            "tower": "York (All Saints, North Street), North Yorkshire",
-            "peals": 1,
+            "tower": "York (St Philip and St James, Clifton), North Yorkshire",
+            "peals": 2,
             "quarters": 5,
             "other": 1,
-            "total": 7
+            "total": 8
         },
         {
-            "tower": "York (St Philip and St James, Clifton), North Yorkshire",
+            "tower": "York (All Saints, North Street), North Yorkshire",
             "peals": 1,
             "quarters": 5,
             "other": 1,
@@ -464,8 +464,8 @@
         }
     ],
     "summary": {
-        "peals": 37,
-        "quarters": 477,
+        "peals": 38,
+        "quarters": 476,
         "other": 31,
         "total": 545
     }

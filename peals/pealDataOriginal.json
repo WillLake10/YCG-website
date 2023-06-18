@@ -1,6 +1,53 @@
 [
     {
         "academic_year": "2022/23",
+        "type": 0,
+        "date": "Sunday, 18 June 2023",
+        "location": "St Philip and St James, Clifton, North Yorkshire",
+        "weight": "3-1-23 in Eb",
+        "time": "2h 40",
+        "changes": "5040",
+        "method": "Minor (3m)",
+        "details": "720 St Clements; 2160 each: Cambridge S and Plain Bob",
+        "ringers": [
+            {
+                "name": "James D Austin (Derwent)",
+                "bell": "1"
+            },
+            {
+                "name": "Natasha A Williams (Alcuin)",
+                "bell": "2"
+            },
+            {
+                "name": "Jemima Bleackley (Halifax)",
+                "bell": "3"
+            },
+            {
+                "name": "William J Lake (Langwith)",
+                "bell": "4"
+            },
+            {
+                "name": "Matthew O Hall (Vanbrugh)",
+                "bell": "5"
+            },
+            {
+                "name": "Simon W Edwards (Alcuin) (C)",
+                "bell": "6"
+            }
+        ],
+        "footnotes": [
+            "Believed to be the first YCG peal rung by a complete band of current undergraduates.",
+            "With congratulations to William J Lake for the completion of his final exams and upcoming graduation.   Also wishing him well as he leaves us to begin a new life in London - Southwark; you have been warned!",
+            "Also a birthday compliment to Matthew Hall, welcoming him to the Roaring Twenties.",
+            "Rung also for Father's Day, and for the birthday of HM King Charles III",
+            "Superb recovery in the sixth extent: 2",
+            "The band would like to associate William M Regan with this peal (whether he likes it or not!)."
+        ],
+        "id": "1639324",
+        "time_in_ms": 16870570
+    },
+    {
+        "academic_year": "2022/23",
         "type": 1,
         "date": "Wednesday, 14 June 2023",
         "location": "St Lawrence, York, North Yorkshire",
@@ -94,58 +141,6 @@
             "First in a dress: 2"
         ],
         "id": "1638421",
-        "time_in_ms": 16864424
-    },
-    {
-        "academic_year": "2022/23",
-        "type": 1,
-        "date": "Sunday, 11 June 2023",
-        "location": "St Lawrence, York, North Yorkshire",
-        "weight": "7-3-24 in A",
-        "time": "41m",
-        "changes": "1260",
-        "method": "Grandsire Triples",
-        "details": "",
-        "ringers": [
-            {
-                "name": "Natasha A Williams (Alcuin) (C)",
-                "bell": "1"
-            },
-            {
-                "name": "Jemima Bleackley (Halifax)",
-                "bell": "2"
-            },
-            {
-                "name": "Ryan E Mills (Halifax)",
-                "bell": "3"
-            },
-            {
-                "name": "Alexander Davies (UEGCR)",
-                "bell": "4"
-            },
-            {
-                "name": "David G Denbigh (Langwith)",
-                "bell": "5"
-            },
-            {
-                "name": "William L K Brooke (Wentworth)",
-                "bell": "6"
-            },
-            {
-                "name": "William M Regan (Friend)",
-                "bell": "7"
-            },
-            {
-                "name": "Rosemary S Hall (Alcuin)",
-                "bell": "8"
-            }
-        ],
-        "footnotes": [
-            "Rung by attendees of the 51st York Colleges Guild Annual Dinner Day in celebration of a successful event.",
-            "Circled the tower as conductor with no repetition, and first of Grandsire Triples as conductor: 1",
-            "First of Grandsire inside and first YCG quarter: 4"
-        ],
-        "id": "1637858",
         "time_in_ms": 16864424
     },
     {

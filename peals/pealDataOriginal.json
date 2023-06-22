@@ -2,6 +2,51 @@
     {
         "academic_year": "2022/23",
         "type": 1,
+        "date": "Wednesday, 21 June 2023",
+        "location": "St Lawrence, York, North Yorkshire",
+        "weight": "7-3-24 in A",
+        "time": "45m",
+        "changes": "1296",
+        "method": "Cambridge Surprise Minor",
+        "details": "",
+        "ringers": [
+            {
+                "name": "William M Regan (Friend)",
+                "bell": "1"
+            },
+            {
+                "name": "Rosemary S Hall (Alcuin)",
+                "bell": "2"
+            },
+            {
+                "name": "Natasha A Williams (Alcuin)",
+                "bell": "3"
+            },
+            {
+                "name": "Alexander Davies (UEGCR)",
+                "bell": "4"
+            },
+            {
+                "name": "Simon W Edwards (Alcuin)",
+                "bell": "5"
+            },
+            {
+                "name": "Matthew O Hall (Vanbrugh) (C)",
+                "bell": "6"
+            }
+        ],
+        "footnotes": [
+            "First Surprise as conductor: 6",
+            "First Surprise in England: 4",
+            "40th YCG Quarter this academic year",
+            "Remembering absent friends"
+        ],
+        "id": "1640676",
+        "time_in_ms": 16873062
+    },
+    {
+        "academic_year": "2022/23",
+        "type": 1,
         "date": "Monday, 19 June 2023",
         "location": "St Lawrence, York, North Yorkshire",
         "weight": "7-3-24 in A",

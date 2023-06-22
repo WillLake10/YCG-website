@@ -1,44 +1,45 @@
 {
     "academic_year": "2022/23",
     "type": 1,
-    "date": "Monday, 19 June 2023",
+    "date": "Wednesday, 21 June 2023",
     "location": "St Lawrence, York, North Yorkshire",
     "weight": "7-3-24 in A",
-    "time": "42m",
-    "changes": "1260",
-    "method": "Grandsire Doubles",
+    "time": "45m",
+    "changes": "1296",
+    "method": "Cambridge Surprise Minor",
     "details": "",
     "ringers": [
         {
-            "name": "Rosemary S Hall (Alcuin)",
+            "name": "William M Regan (Friend)",
             "bell": "1"
         },
         {
-            "name": "Simon W Edwards (Alcuin)",
+            "name": "Rosemary S Hall (Alcuin)",
             "bell": "2"
         },
         {
-            "name": "Matthew O Hall (Vanbrugh) (C)",
+            "name": "Natasha A Williams (Alcuin)",
             "bell": "3"
         },
         {
-            "name": "Natasha A Williams (Alcuin)",
+            "name": "Alexander Davies (UEGCR)",
             "bell": "4"
         },
         {
-            "name": "William J Lake (Langwith)",
+            "name": "Simon W Edwards (Alcuin)",
             "bell": "5"
         },
         {
-            "name": "Jemima Bleackley (Halifax)",
+            "name": "Matthew O Hall (Vanbrugh) (C)",
             "bell": "6"
         }
     ],
     "footnotes": [
-        "Rung half muffled in solidarity with NUSCR, as a tribute to the victims of the attack that took place last week in Nottingham",
-        "First of Grandsire as conductor: 3",
-        "Circled the tower to quarters: 6"
+        "First Surprise as conductor: 6",
+        "First Surprise in England: 4",
+        "40th YCG Quarter this academic year",
+        "Remembering absent friends"
     ],
-    "id": "1639879",
-    "time_in_ms": 16871334
+    "id": "1640676",
+    "time_in_ms": 16873062
 }

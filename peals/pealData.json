@@ -143,6 +143,63 @@
     {
         "academic_year": "2022/23",
         "type": 1,
+        "date": "Wednesday, 28 June 2023",
+        "location": "St Lawrence, York, North Yorkshire",
+        "weight": "7-3-24 in A",
+        "time": "40m",
+        "changes": "1260",
+        "method": "Doubles (11v)",
+        "details": "60 April Day, 120 each of Stonewall; Steed; Procrastination; Who's Going To Keep The Steeple Now?; Silly Little Performance; Dodge Here; One-Eyed One-Horned Flying Purple People Eater; Itsy Bitsy Teeny Weeny Yellow Polka Dot Panini; Absent Friends; Absent Minded",
+        "ringers": [
+            {
+                "name": "Rosemary S Hall (Alcuin)",
+                "bell": "1"
+            },
+            {
+                "name": "Alexander Davies (UEGCR)",
+                "bell": "2"
+            },
+            {
+                "name": "Simon W Edwards (Alcuin)",
+                "bell": "3"
+            },
+            {
+                "name": "Jemima Bleackley (Halifax)",
+                "bell": "4"
+            },
+            {
+                "name": "Natasha A Williams (Alcuin) (C)",
+                "bell": "5"
+            },
+            {
+                "name": "Matthew O Hall (Vanbrugh)",
+                "bell": "6"
+            }
+        ],
+        "footnotes": [
+            "Rung on the anniversary of the Stonewall riots.",
+            "Rung to prove that Nat can in fact conduct variations from inside.",
+            "Most variations to a quarter for all, and for the Guild.",
+            "First blows in April Day, first new variation inside, longest distance travelled while learning a quarter peal (200 miles), and longest footnote: 2",
+            "Wishing Helen Nichols and Clive a Happy Birthday.",
+            "The variation 148as (St Faith Place with Roman Bobs) is rung for the first time. The band would like to name this variation \"Stonewall\".",
+            "The variation 148rt (St Faith Place with Julian Bobs) is rung for the first time. The band would like to name this variation \"Steed\".",
+            "The variation 148sa (St Faith Place with Antonine Bobs) is rung for the first time. The band would like to name this variation \"Procrastination\u201d.",
+            "The variation 148wy (St Faith Place with Wye Omits) is rung for the first time. The band would like to name this variation \"Who's Going To Keep The Steeple Now?\u201d.",
+            "The variation 148as/rt (St Faith Place with Roman Bobs and Julian Bobs) is rung for the first time. The band would like to name this variation \"Silly Little Performance\".",
+            "The variation 148as/sa (St Faith Place with Roman Bobs and Antonine Bobs) is rung for the first time. The band would like to name this variation \"Dodge Here\u201d.",
+            "The variation 148as/wy (St Faith Place with Roman Bobs and Wye Omits) is rung for the first time. The band would like to name this variation \"One-Eyed One-Horned Flying Purple People Eater\u201d.",
+            "The variation 148rt/sa (St Faith Place with Julian Bobs and Antonine Bobs) is rung for the first time. The band would like to name this variation \"Itsy Bitsy Teeny Weeny Yellow Polka Dot Panini\u201d.",
+            "The variation 148rt/wy (St Faith Place with Julian Bobs and Wye Omits) is rung for the first time. The band would like to name this variation \"Absent Friends\u201d.",
+            "The variation 148sa/wy (St Faith Place with Antonine Bobs and Wye Omits) is rung for the first time. The band would like to name this variation \"Absent Minded\u201d.",
+            "Wishing Rosie luck in her hunt for somewhere to live."
+        ],
+        "id": "1642513",
+        "time_in_ms": 16879110
+    },
+    {
+        "academic_year": "2022/23",
+        "type": 1,
         "date": "Wednesday, 21 June 2023",
         "location": "St Lawrence, York, North Yorkshire",
         "weight": "7-3-24 in A",

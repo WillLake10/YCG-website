@@ -2,6 +2,86 @@
     {
         "academic_year": "2022/23",
         "type": 1,
+        "date": "Sunday, 02 July 2023",
+        "location": "St Lawrence, York, North Yorkshire",
+        "weight": "7-3-24 in A",
+        "time": "43m",
+        "changes": "1260",
+        "method": "Plain Bob Triples",
+        "details": "",
+        "ringers": [
+            {
+                "name": "William L K Brooke (Wentworth)",
+                "bell": "1"
+            },
+            {
+                "name": "Matthew O Hall (Vanbrugh)",
+                "bell": "2"
+            },
+            {
+                "name": "Megan Bucknall (Anne Lister)",
+                "bell": "3"
+            },
+            {
+                "name": "David G Denbigh (Langwith)",
+                "bell": "4"
+            },
+            {
+                "name": "Eric W S Wolever (Wentworth)",
+                "bell": "5"
+            },
+            {
+                "name": "Jemima Bleackley (Halifax)",
+                "bell": "6"
+            },
+            {
+                "name": "Natasha A Williams (Alcuin) (C)",
+                "bell": "7"
+            },
+            {
+                "name": "Benjamin J Hartley (St John)",
+                "bell": "8"
+            }
+        ],
+        "footnotes": [
+            "Rung for evensong",
+            "First on eight inside: 3",
+            "First Plain Bob Triples as Conductor",
+            "With thanks to the person who walked into the ringing room in the last part for clearing off when we shouted.",
+            "Celebrating Bob the Badger finally having a bath"
+        ],
+        "id": "1643298",
+        "time_in_ms": 16882568
+    },
+    {
+        "academic_year": "2022/23",
+        "type": 2,
+        "date": "Sunday, 02 July 2023",
+        "location": ", University of York Open Day (Bellringing Stall), North Yorkshire",
+        "weight": "",
+        "time": "2m",
+        "changes": "6",
+        "method": "Original Singles",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Robert B Huntington (Badger)",
+                "bell": "1-2"
+            },
+            {
+                "name": "Natasha A Williams (Alcuin) (C)",
+                "bell": "3-4"
+            }
+        ],
+        "footnotes": [
+            "Rung for the start of the University of York's Open Day, as an advertisement for the York Colleges Guild shenanigans"
+        ],
+        "id": "1643156",
+        "time_in_ms": 16882562
+    },
+    {
+        "academic_year": "2022/23",
+        "type": 1,
         "date": "Wednesday, 28 June 2023",
         "location": "St Lawrence, York, North Yorkshire",
         "weight": "7-3-24 in A",

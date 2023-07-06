@@ -1,54 +1,46 @@
 {
     "academic_year": "2022/23",
     "type": 1,
-    "date": "Sunday, 02 July 2023",
+    "date": "Wednesday, 05 July 2023",
     "location": "St Lawrence, York, North Yorkshire",
     "weight": "7-3-24 in A",
-    "time": "43m",
-    "changes": "1260",
-    "method": "Plain Bob Triples",
+    "time": "40m",
+    "changes": "1296",
+    "method": "Cambridge Surprise Minor",
     "details": "",
     "ringers": [
         {
-            "name": "William L K Brooke (Wentworth)",
+            "name": "Ewan G A Hull (Staff)",
             "bell": "1"
         },
         {
-            "name": "Matthew O Hall (Vanbrugh)",
+            "name": "Benjamin J Hartley (St John)",
             "bell": "2"
         },
         {
-            "name": "Megan Bucknall (Anne Lister)",
+            "name": "Matthew O Hall (Vanbrugh)",
             "bell": "3"
         },
         {
-            "name": "David G Denbigh (Langwith)",
+            "name": "Natasha A Williams (Alcuin)",
             "bell": "4"
         },
         {
-            "name": "Eric W S Wolever (Wentworth)",
+            "name": "James D Austin (Derwent)",
             "bell": "5"
         },
         {
-            "name": "Jemima Bleackley (Halifax)",
+            "name": "William M Regan (Friend) (C)",
             "bell": "6"
-        },
-        {
-            "name": "Natasha A Williams (Alcuin) (C)",
-            "bell": "7"
-        },
-        {
-            "name": "Benjamin J Hartley (St John)",
-            "bell": "8"
         }
     ],
     "footnotes": [
-        "Rung for evensong",
-        "First on eight inside: 3",
-        "First Plain Bob Triples as Conductor",
-        "With thanks to the person who walked into the ringing room in the last part for clearing off when we shouted.",
-        "Celebrating Bob the Badger finally having a bath"
+        "First of Cambridge, and first of surprise: 2.",
+        "Birthday compliments to Michael J Williams.",
+        "First YCG performance since being promoted to (Staff): 1.",
+        "Doesn't want to be associated with the composition: 1, 5.",
+        "The band wish to associate Robin O Hall with this performance, to add colour to the footnote."
     ],
-    "id": "1643298",
-    "time_in_ms": 16882568
+    "id": "1643816",
+    "time_in_ms": 16885158
 }

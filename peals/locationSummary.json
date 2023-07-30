@@ -3,9 +3,9 @@
         {
             "tower": "York (St Lawrence), North Yorkshire",
             "peals": 7,
-            "quarters": 146,
+            "quarters": 154,
             "other": 9,
-            "total": 162
+            "total": 170
         },
         {
             "tower": "York (St Martin le Grand, Coney Street), North Yorkshire",
@@ -29,6 +29,13 @@
             "total": 11
         },
         {
+            "tower": "York (St Philip and St James, Clifton), North Yorkshire",
+            "peals": 3,
+            "quarters": 5,
+            "other": 1,
+            "total": 9
+        },
+        {
             "tower": "Huntington (All Saints), North Yorkshire",
             "peals": 1,
             "quarters": 7,
@@ -37,13 +44,6 @@
         },
         {
             "tower": "York (All Saints, North Street), North Yorkshire",
-            "peals": 1,
-            "quarters": 5,
-            "other": 1,
-            "total": 7
-        },
-        {
-            "tower": "York (St Philip and St James, Clifton), North Yorkshire",
             "peals": 1,
             "quarters": 5,
             "other": 1,
@@ -145,6 +145,13 @@
             "peals": 0,
             "quarters": 1,
             "other": 0,
+            "total": 1
+        },
+        {
+            "tower": ", University of York Open Day (Bellringing Stall), North Yorkshire",
+            "peals": 0,
+            "quarters": 0,
+            "other": 1,
             "total": 1
         },
         {
@@ -464,9 +471,9 @@
         }
     ],
     "summary": {
-        "peals": 37,
-        "quarters": 475,
-        "other": 31,
-        "total": 543
+        "peals": 39,
+        "quarters": 483,
+        "other": 32,
+        "total": 554
     }
 }

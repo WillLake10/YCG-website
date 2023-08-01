@@ -25,10 +25,10 @@
             },
             {
                 "tower": "York (St Philip and St James, Clifton), North Yorkshire",
-                "peals": 3,
+                "peals": 2,
                 "quarters": 1,
                 "other": 1,
-                "total": 5
+                "total": 4
             },
             {
                 "tower": "University of York (East Campus), North Yorkshire",
@@ -88,10 +88,10 @@
             }
         ],
         "summary": {
-            "peals": 3,
+            "peals": 2,
             "quarters": 46,
             "other": 23,
-            "total": 72
+            "total": 71
         }
     },
     {

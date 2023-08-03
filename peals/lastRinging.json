@@ -1,45 +1,32 @@
 {
     "academic_year": "2022/23",
     "type": 1,
-    "date": "Sunday, 30 July 2023",
-    "location": "St Lawrence, York, North Yorkshire",
-    "weight": "7-3-24 in A",
-    "time": "42m",
-    "changes": "1289",
-    "method": "Doubles (4m)",
-    "details": "5 different extents each of St Simon's and St Martin's Bob, 70 Plain Bob, 19 Reverse Canterbury Pleasure Place ",
+    "date": "Thursday, 03 August 2023",
+    "location": "St Peter and St Paul, Healing, Lincolnshire",
+    "weight": "7-2-18 in A",
+    "time": "43m",
+    "changes": "1272",
+    "method": "Stanton Minimus",
+    "details": "",
     "ringers": [
         {
-            "name": "Natasha A Williams (Alcuin) (C)",
+            "name": "Samuel M Austin (C)",
             "bell": "1"
         },
         {
-            "name": "Jemima Bleackley (Halifax)",
+            "name": "Natasha A Williams",
             "bell": "2"
         },
         {
-            "name": "Rebecca A Hall (Langwith)",
+            "name": "David A C Matthews",
             "bell": "3"
         },
         {
-            "name": "William L K Brooke (Wentworth)",
+            "name": "Patrick W J Deakin",
             "bell": "4"
-        },
-        {
-            "name": "David G Denbigh (Langwith)",
-            "bell": "5"
-        },
-        {
-            "name": "Daniel J Hall (Friend)",
-            "bell": "6"
         }
     ],
-    "footnotes": [
-        "Rung for Evensong.",
-        "First quarter at first attempt: 6",
-        "Rung in memory of Wellie the Dog",
-        "Most stressful quarter: 3"
-    ],
-    "id": "1648051",
-    "time_in_ms": 16906758
+    "footnotes": [],
+    "id": "1648776",
+    "time_in_ms": 16910212
 }

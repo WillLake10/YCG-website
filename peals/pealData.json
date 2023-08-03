@@ -96,6 +96,100 @@
     {
         "academic_year": "2022/23",
         "type": 1,
+        "date": "Thursday, 03 August 2023",
+        "location": "St Peter and St Paul, Healing, Lincolnshire",
+        "weight": "7-2-18 in A",
+        "time": "43m",
+        "changes": "1272",
+        "method": "Stanton Minimus",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Samuel M Austin (C)",
+                "bell": "1"
+            },
+            {
+                "name": "Natasha A Williams",
+                "bell": "2"
+            },
+            {
+                "name": "David A C Matthews",
+                "bell": "3"
+            },
+            {
+                "name": "Patrick W J Deakin",
+                "bell": "4"
+            }
+        ],
+        "footnotes": [],
+        "id": "1648776",
+        "time_in_ms": 16910212
+    },
+    {
+        "academic_year": "2022/23",
+        "type": 1,
+        "date": "Thursday, 03 August 2023",
+        "location": "St Helen, North Thoresby, Lincolnshire",
+        "weight": "10-1-2 in Ab",
+        "time": "46m",
+        "changes": "1260",
+        "method": "Duck Berry Singles",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Natasha A Williams (Alcuin) (C)",
+                "bell": "1"
+            },
+            {
+                "name": "Gareth L M Lawson (Friend)",
+                "bell": "2"
+            },
+            {
+                "name": "Patrick W J Deakin (James)",
+                "bell": "3"
+            }
+        ],
+        "footnotes": [
+            "Duck Berry Singles:",
+            "3,1.1",
+            "First Quarter on the bells since 2000"
+        ],
+        "id": "1648801",
+        "time_in_ms": 16910211
+    },
+    {
+        "academic_year": "2022/23",
+        "type": 1,
+        "date": "Thursday, 03 August 2023",
+        "location": "St Edmund, Riby, Lincolnshire",
+        "weight": "9 in Ab",
+        "time": "",
+        "changes": "1260",
+        "method": "Potterhanworth Singles",
+        "details": "",
+        "ringers": [
+            {
+                "name": "David A C Matthews",
+                "bell": "1"
+            },
+            {
+                "name": "Patrick W J Deakin (C)",
+                "bell": "2"
+            },
+            {
+                "name": "Natasha A Williams",
+                "bell": "3"
+            }
+        ],
+        "footnotes": [
+            "First Quarter Peal on the bells"
+        ],
+        "id": "1648791",
+        "time_in_ms": 16910211
+    },
+    {
+        "academic_year": "2022/23",
+        "type": 1,
         "date": "Sunday, 30 July 2023",
         "location": "St Lawrence, York, North Yorkshire",
         "weight": "7-3-24 in A",

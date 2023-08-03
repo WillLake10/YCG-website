@@ -337,6 +337,20 @@
             "total": 1
         },
         {
+            "tower": "St Edmund, Riby, Lincolnshire",
+            "peals": 0,
+            "quarters": 1,
+            "other": 0,
+            "total": 1
+        },
+        {
+            "tower": "St Helen, North Thoresby, Lincolnshire",
+            "peals": 0,
+            "quarters": 1,
+            "other": 0,
+            "total": 1
+        },
+        {
             "tower": "St Mary and St Nicholas, Leatherhead, Surrey",
             "peals": 0,
             "quarters": 1,
@@ -368,6 +382,13 @@
             "tower": "St Nicolas, North Stoneham, Hampshire",
             "peals": 1,
             "quarters": 0,
+            "other": 0,
+            "total": 1
+        },
+        {
+            "tower": "St Peter and St Paul, Healing, Lincolnshire",
+            "peals": 0,
+            "quarters": 1,
             "other": 0,
             "total": 1
         },
@@ -472,8 +493,8 @@
     ],
     "summary": {
         "peals": 38,
-        "quarters": 484,
+        "quarters": 487,
         "other": 32,
-        "total": 554
+        "total": 557
     }
 }

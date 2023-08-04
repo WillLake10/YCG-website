@@ -59,6 +59,13 @@
                 "total": 1
             },
             {
+                "tower": "St Martin, Welton le Wold, Lincolnshire",
+                "peals": 0,
+                "quarters": 1,
+                "other": 0,
+                "total": 1
+            },
+            {
                 "tower": "St Helen, North Thoresby, Lincolnshire",
                 "peals": 0,
                 "quarters": 1,
@@ -110,9 +117,9 @@
         ],
         "summary": {
             "peals": 2,
-            "quarters": 49,
+            "quarters": 50,
             "other": 23,
-            "total": 74
+            "total": 75
         }
     },
     {

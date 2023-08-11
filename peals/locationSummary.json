@@ -4,8 +4,8 @@
             "tower": "York (St Lawrence), North Yorkshire",
             "peals": 7,
             "quarters": 157,
-            "other": 9,
-            "total": 173
+            "other": 10,
+            "total": 174
         },
         {
             "tower": "York (St Olave, Marygate), North Yorkshire",
@@ -500,8 +500,8 @@
     ],
     "summary": {
         "peals": 38,
-        "quarters": 490,
-        "other": 32,
-        "total": 560
+        "quarters": 491,
+        "other": 33,
+        "total": 562
     }
 }

@@ -1,44 +1,44 @@
 {
     "academic_year": "2022/23",
-    "type": 1,
-    "date": "Sunday, 06 August 2023",
+    "type": 2,
+    "date": "Thursday, 10 August 2023",
     "location": "St Lawrence, York, North Yorkshire",
     "weight": "7-3-24 in A",
-    "time": "43m",
-    "changes": "1260",
-    "method": "Plain Bob Doubles",
-    "details": "",
+    "time": "15m",
+    "changes": "400",
+    "method": "Minor (2m)",
+    "details": "40 St Lawrence Little Bob Minor, 360 Plain Bob Minor",
     "ringers": [
         {
-            "name": "Rosemary S Hall (Alcuin)",
+            "name": "Revd James A Kenny (St John)",
             "bell": "1"
         },
         {
-            "name": "Jemima Bleackley (Halifax) (C)",
+            "name": "Rebecca A Hall (Langwith)",
             "bell": "2"
         },
         {
-            "name": "Rebecca A Hall (Langwith)",
+            "name": "Joss Davis (Alcuin)",
             "bell": "3"
         },
         {
-            "name": "Megan Bucknall (Anne Lister)",
+            "name": "Richard H Mayers (Vanbrugh)",
             "bell": "4"
         },
         {
-            "name": "William L K Brooke (Wentworth)",
+            "name": "Rosemary S Hall (Alcuin)",
             "bell": "5"
         },
         {
-            "name": "Joss Davis (Alcuin)",
+            "name": "Natasha A Williams (Alcuin) (C)",
             "bell": "6"
         }
     ],
     "footnotes": [
-        "Rung for the barbecue held at the church today in honour of the Patronal Saint",
-        "First in a tie: 6",
-        "Rung to prove to Iain J Anderson that the ringer of the 2 can conduct "
+        "Rung for the Feast of the Patronal Saint.",
+        "A quarter peal attempt cut short due to lack of time.",
+        "First blows of St Lawrence Little Bob Minor: 2, 3, 4"
     ],
-    "id": "1649164",
-    "time_in_ms": 16912806
+    "id": "1649750",
+    "time_in_ms": 16916262
 }

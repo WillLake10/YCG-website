@@ -48,7 +48,7 @@ Author: Will Lake
             echo "<div class=\"col-md-3 col-sm-6\">";
             echo "<div class='galleryThumbnail'>";
             echo "<a href='/main/gallery/$t->folderName.php'>";
-            echo "<img src='../gallery/$t->folderName/$t->thumbnail' alt='../gallery/$t->folderName/$t->thumbnail' class=''>";
+            echo "<img src='../gallery/thumbnails/$t->folderName/$t->thumbnail' alt='../gallery/$t->folderName/$t->thumbnail' class=''>";
             echo "</a>";
             echo "<p>$t->displayName</p>";
             echo "</div>";

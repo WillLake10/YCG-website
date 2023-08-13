@@ -307,51 +307,6 @@
     {
         "academic_year": "2022/23",
         "type": 1,
-        "date": "Sunday, 30 July 2023",
-        "location": "St Lawrence, York, North Yorkshire",
-        "weight": "7-3-24 in A",
-        "time": "42m",
-        "changes": "1289",
-        "method": "Doubles (4m)",
-        "details": "5 different extents each of St Simon's and St Martin's Bob, 70 Plain Bob, 19 Reverse Canterbury Pleasure Place ",
-        "ringers": [
-            {
-                "name": "Natasha A Williams (Alcuin) (C)",
-                "bell": "1"
-            },
-            {
-                "name": "Jemima Bleackley (Halifax)",
-                "bell": "2"
-            },
-            {
-                "name": "Rebecca A Hall (Langwith)",
-                "bell": "3"
-            },
-            {
-                "name": "William L K Brooke (Wentworth)",
-                "bell": "4"
-            },
-            {
-                "name": "David G Denbigh (Langwith)",
-                "bell": "5"
-            },
-            {
-                "name": "Daniel J Hall (Friend)",
-                "bell": "6"
-            }
-        ],
-        "footnotes": [
-            "Rung for Evensong.",
-            "First quarter at first attempt: 6",
-            "Rung in memory of Wellie the Dog",
-            "Most stressful quarter: 3"
-        ],
-        "id": "1648051",
-        "time_in_ms": 16906758
-    },
-    {
-        "academic_year": "2022/23",
-        "type": 1,
         "date": "Tuesday, 25 July 2023",
         "location": "St Lawrence, York, North Yorkshire",
         "weight": "7-3-24 in A",

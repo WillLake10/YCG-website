@@ -62,7 +62,7 @@ include('standardPageTop.php');
 
             foreach ($images as $image) {
                 echo "<div class=\"col-md-3 col-sm-6 pt-2\">";
-                echo "<img src='../../gallery/$page/$image' class='galleryImg' onclick=\"openModal();currentSlide($cnt)\" class='hover-shadow'>";
+                echo "<img src='../../gallery/thumbnails/$page/$image' class='galleryImg' onclick=\"openModal();currentSlide($cnt)\" class='hover-shadow'>";
                 echo "</div>";
                 $cnt = $cnt + 1;
             }
@@ -79,7 +79,7 @@ include('standardPageTop.php');
             <?php
             foreach ($images as $image) {
                 echo "<div class=\"mySlides\">";
-                echo "<img src=\"../../gallery/thumbnails/$page/$image\" style=\"width:100%\">";
+                echo "<img src=\"../../gallery/$page/$image\" style=\"width:100%\">";
                 echo "</div>";
             }
             ?>

@@ -15,8 +15,7 @@
             <p">This is a record of the peals and quarter peals rung by members of the York Colleges
             Guild. This list is by no means complete, but we try to keep it as up to date as possible.</p>
             <p>Records are displayed in academic year from September 1st to August 31st</p>
-            <p">To see an all-time summary of YCG ringing <a href="pealsSummary.php">click here</a> </p>
-            <p">To see stats of YCG ringing <a href="pealsStats.php">click here</a></p>
+            <p">To see a summary and stats of YCG ringing <a href="pealsSummary.php">click here</a> </p>
         </div>
     </div>
     <div class="container pb-3">

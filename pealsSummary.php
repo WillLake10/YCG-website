@@ -12,6 +12,20 @@ Author: Will Lake
     <?php include('componants/head.html'); ?>
     <title>Peals & Quarters - York Colleges Guild</title>
     <link rel="stylesheet" href="styles/peal.css" type="text/css">
+    <style>
+
+        table {
+            font-family: arial, sans-serif;
+            border-collapse: collapse;
+            width: 100%;
+        }
+
+        td, th {
+            /*border: 1px solid #dddddd;*/
+            text-align: center;
+            padding: 8px;
+        }c
+    </style>
 </head>
 <body>
 
@@ -27,6 +41,13 @@ Author: Will Lake
                 </div>
             </div>
         </div>
+        <table>
+            <tr>
+                <th><a href="pealsSummary.php">Peal Summary</a></th>
+                <th><a href="pealsStats.php">Changes Stats</a></th>
+                <th><a href="pealsStages.php">Stages Stats</a></th>
+            </tr>
+        </table>
         <div class="row pt-3 pl-2 pr-2 text-center">
             <p>This is a summary of all the ringing performed by members of YCG that is recorded on bellboard.</p>
         </div>

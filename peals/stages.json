@@ -12,6 +12,7 @@
             "royal": 0,
             "cinques": 0,
             "maximus": 0,
+            "tolling": 0,
             "other": 0
         },
         "quarters": {
@@ -25,6 +26,7 @@
             "royal": 1,
             "cinques": 0,
             "maximus": 0,
+            "tolling": 0,
             "other": 0
         },
         "other": {
@@ -38,7 +40,22 @@
             "royal": 0,
             "cinques": 0,
             "maximus": 0,
-            "other": 12
+            "tolling": 11,
+            "other": 1
+        },
+        "total": {
+            "singles": 5,
+            "minimus": 3,
+            "doubles": 29,
+            "minor": 19,
+            "triples": 7,
+            "major": 2,
+            "caters": 1,
+            "royal": 1,
+            "cinques": 0,
+            "maximus": 0,
+            "tolling": 11,
+            "other": 1
         }
     },
     {
@@ -54,6 +71,7 @@
             "royal": 0,
             "cinques": 0,
             "maximus": 0,
+            "tolling": 0,
             "other": 0
         },
         "quarters": {
@@ -67,6 +85,7 @@
             "royal": 0,
             "cinques": 0,
             "maximus": 0,
+            "tolling": 0,
             "other": 0
         },
         "other": {
@@ -80,6 +99,21 @@
             "royal": 0,
             "cinques": 0,
             "maximus": 0,
+            "tolling": 0,
+            "other": 1
+        },
+        "total": {
+            "singles": 0,
+            "minimus": 0,
+            "doubles": 7,
+            "minor": 3,
+            "triples": 2,
+            "major": 0,
+            "caters": 1,
+            "royal": 0,
+            "cinques": 0,
+            "maximus": 0,
+            "tolling": 0,
             "other": 1
         }
     },
@@ -96,6 +130,7 @@
             "royal": 0,
             "cinques": 0,
             "maximus": 0,
+            "tolling": 0,
             "other": 0
         },
         "quarters": {
@@ -109,6 +144,7 @@
             "royal": 0,
             "cinques": 0,
             "maximus": 0,
+            "tolling": 0,
             "other": 0
         },
         "other": {
@@ -122,6 +158,21 @@
             "royal": 0,
             "cinques": 0,
             "maximus": 0,
+            "tolling": 0,
+            "other": 0
+        },
+        "total": {
+            "singles": 0,
+            "minimus": 0,
+            "doubles": 1,
+            "minor": 0,
+            "triples": 0,
+            "major": 1,
+            "caters": 0,
+            "royal": 0,
+            "cinques": 0,
+            "maximus": 0,
+            "tolling": 0,
             "other": 0
         }
     },
@@ -138,6 +189,7 @@
             "royal": 0,
             "cinques": 0,
             "maximus": 0,
+            "tolling": 0,
             "other": 0
         },
         "quarters": {
@@ -151,6 +203,7 @@
             "royal": 0,
             "cinques": 0,
             "maximus": 0,
+            "tolling": 0,
             "other": 0
         },
         "other": {
@@ -164,6 +217,21 @@
             "royal": 0,
             "cinques": 0,
             "maximus": 0,
+            "tolling": 0,
+            "other": 0
+        },
+        "total": {
+            "singles": 0,
+            "minimus": 0,
+            "doubles": 0,
+            "minor": 1,
+            "triples": 0,
+            "major": 2,
+            "caters": 0,
+            "royal": 0,
+            "cinques": 0,
+            "maximus": 0,
+            "tolling": 0,
             "other": 0
         }
     },
@@ -180,6 +248,7 @@
             "royal": 0,
             "cinques": 0,
             "maximus": 0,
+            "tolling": 0,
             "other": 0
         },
         "quarters": {
@@ -193,6 +262,7 @@
             "royal": 0,
             "cinques": 0,
             "maximus": 0,
+            "tolling": 0,
             "other": 0
         },
         "other": {
@@ -206,6 +276,21 @@
             "royal": 0,
             "cinques": 0,
             "maximus": 0,
+            "tolling": 0,
+            "other": 0
+        },
+        "total": {
+            "singles": 0,
+            "minimus": 0,
+            "doubles": 3,
+            "minor": 3,
+            "triples": 0,
+            "major": 0,
+            "caters": 0,
+            "royal": 0,
+            "cinques": 0,
+            "maximus": 0,
+            "tolling": 0,
             "other": 0
         }
     },
@@ -222,6 +307,7 @@
             "royal": 0,
             "cinques": 0,
             "maximus": 0,
+            "tolling": 0,
             "other": 0
         },
         "quarters": {
@@ -235,6 +321,7 @@
             "royal": 1,
             "cinques": 0,
             "maximus": 0,
+            "tolling": 0,
             "other": 0
         },
         "other": {
@@ -248,6 +335,21 @@
             "royal": 0,
             "cinques": 0,
             "maximus": 0,
+            "tolling": 0,
+            "other": 0
+        },
+        "total": {
+            "singles": 0,
+            "minimus": 0,
+            "doubles": 2,
+            "minor": 1,
+            "triples": 0,
+            "major": 0,
+            "caters": 0,
+            "royal": 1,
+            "cinques": 0,
+            "maximus": 0,
+            "tolling": 0,
             "other": 0
         }
     },
@@ -264,6 +366,7 @@
             "royal": 0,
             "cinques": 0,
             "maximus": 0,
+            "tolling": 0,
             "other": 0
         },
         "quarters": {
@@ -277,6 +380,7 @@
             "royal": 0,
             "cinques": 0,
             "maximus": 0,
+            "tolling": 0,
             "other": 0
         },
         "other": {
@@ -290,6 +394,21 @@
             "royal": 0,
             "cinques": 0,
             "maximus": 0,
+            "tolling": 0,
+            "other": 0
+        },
+        "total": {
+            "singles": 0,
+            "minimus": 0,
+            "doubles": 6,
+            "minor": 3,
+            "triples": 1,
+            "major": 2,
+            "caters": 0,
+            "royal": 0,
+            "cinques": 0,
+            "maximus": 0,
+            "tolling": 0,
             "other": 0
         }
     },
@@ -306,6 +425,7 @@
             "royal": 0,
             "cinques": 0,
             "maximus": 0,
+            "tolling": 0,
             "other": 0
         },
         "quarters": {
@@ -319,6 +439,7 @@
             "royal": 0,
             "cinques": 0,
             "maximus": 0,
+            "tolling": 0,
             "other": 0
         },
         "other": {
@@ -332,6 +453,21 @@
             "royal": 0,
             "cinques": 0,
             "maximus": 0,
+            "tolling": 0,
+            "other": 0
+        },
+        "total": {
+            "singles": 0,
+            "minimus": 0,
+            "doubles": 4,
+            "minor": 2,
+            "triples": 0,
+            "major": 4,
+            "caters": 0,
+            "royal": 0,
+            "cinques": 0,
+            "maximus": 0,
+            "tolling": 0,
             "other": 0
         }
     },
@@ -348,6 +484,7 @@
             "royal": 0,
             "cinques": 0,
             "maximus": 0,
+            "tolling": 0,
             "other": 0
         },
         "quarters": {
@@ -361,6 +498,7 @@
             "royal": 0,
             "cinques": 0,
             "maximus": 0,
+            "tolling": 0,
             "other": 0
         },
         "other": {
@@ -374,6 +512,21 @@
             "royal": 0,
             "cinques": 0,
             "maximus": 0,
+            "tolling": 0,
+            "other": 0
+        },
+        "total": {
+            "singles": 0,
+            "minimus": 0,
+            "doubles": 0,
+            "minor": 1,
+            "triples": 0,
+            "major": 0,
+            "caters": 0,
+            "royal": 0,
+            "cinques": 0,
+            "maximus": 0,
+            "tolling": 0,
             "other": 0
         }
     },
@@ -390,6 +543,7 @@
             "royal": 0,
             "cinques": 0,
             "maximus": 0,
+            "tolling": 0,
             "other": 0
         },
         "quarters": {
@@ -403,6 +557,7 @@
             "royal": 0,
             "cinques": 0,
             "maximus": 0,
+            "tolling": 0,
             "other": 0
         },
         "other": {
@@ -416,6 +571,21 @@
             "royal": 0,
             "cinques": 0,
             "maximus": 0,
+            "tolling": 0,
+            "other": 0
+        },
+        "total": {
+            "singles": 0,
+            "minimus": 1,
+            "doubles": 16,
+            "minor": 4,
+            "triples": 0,
+            "major": 0,
+            "caters": 0,
+            "royal": 0,
+            "cinques": 0,
+            "maximus": 0,
+            "tolling": 0,
             "other": 0
         }
     },
@@ -432,6 +602,7 @@
             "royal": 0,
             "cinques": 0,
             "maximus": 0,
+            "tolling": 0,
             "other": 0
         },
         "quarters": {
@@ -445,6 +616,7 @@
             "royal": 0,
             "cinques": 0,
             "maximus": 0,
+            "tolling": 0,
             "other": 0
         },
         "other": {
@@ -458,6 +630,21 @@
             "royal": 0,
             "cinques": 0,
             "maximus": 0,
+            "tolling": 0,
+            "other": 0
+        },
+        "total": {
+            "singles": 0,
+            "minimus": 0,
+            "doubles": 5,
+            "minor": 7,
+            "triples": 0,
+            "major": 1,
+            "caters": 0,
+            "royal": 0,
+            "cinques": 0,
+            "maximus": 0,
+            "tolling": 0,
             "other": 0
         }
     },
@@ -474,6 +661,7 @@
             "royal": 0,
             "cinques": 0,
             "maximus": 0,
+            "tolling": 0,
             "other": 0
         },
         "quarters": {
@@ -487,6 +675,7 @@
             "royal": 0,
             "cinques": 0,
             "maximus": 0,
+            "tolling": 0,
             "other": 0
         },
         "other": {
@@ -500,6 +689,21 @@
             "royal": 0,
             "cinques": 0,
             "maximus": 0,
+            "tolling": 0,
+            "other": 0
+        },
+        "total": {
+            "singles": 0,
+            "minimus": 0,
+            "doubles": 2,
+            "minor": 1,
+            "triples": 0,
+            "major": 0,
+            "caters": 0,
+            "royal": 0,
+            "cinques": 0,
+            "maximus": 0,
+            "tolling": 0,
             "other": 0
         }
     },
@@ -516,6 +720,7 @@
             "royal": 1,
             "cinques": 0,
             "maximus": 1,
+            "tolling": 0,
             "other": 0
         },
         "quarters": {
@@ -529,6 +734,7 @@
             "royal": 0,
             "cinques": 0,
             "maximus": 0,
+            "tolling": 0,
             "other": 0
         },
         "other": {
@@ -542,6 +748,21 @@
             "royal": 0,
             "cinques": 0,
             "maximus": 0,
+            "tolling": 0,
+            "other": 0
+        },
+        "total": {
+            "singles": 0,
+            "minimus": 0,
+            "doubles": 8,
+            "minor": 7,
+            "triples": 2,
+            "major": 5,
+            "caters": 0,
+            "royal": 1,
+            "cinques": 0,
+            "maximus": 1,
+            "tolling": 0,
             "other": 0
         }
     },
@@ -558,6 +779,7 @@
             "royal": 0,
             "cinques": 0,
             "maximus": 0,
+            "tolling": 0,
             "other": 0
         },
         "quarters": {
@@ -571,6 +793,7 @@
             "royal": 0,
             "cinques": 0,
             "maximus": 0,
+            "tolling": 0,
             "other": 0
         },
         "other": {
@@ -584,6 +807,21 @@
             "royal": 0,
             "cinques": 0,
             "maximus": 0,
+            "tolling": 0,
+            "other": 0
+        },
+        "total": {
+            "singles": 0,
+            "minimus": 0,
+            "doubles": 9,
+            "minor": 6,
+            "triples": 0,
+            "major": 4,
+            "caters": 0,
+            "royal": 0,
+            "cinques": 0,
+            "maximus": 0,
+            "tolling": 0,
             "other": 0
         }
     },
@@ -600,6 +838,7 @@
             "royal": 0,
             "cinques": 0,
             "maximus": 0,
+            "tolling": 0,
             "other": 0
         },
         "quarters": {
@@ -613,6 +852,7 @@
             "royal": 0,
             "cinques": 0,
             "maximus": 0,
+            "tolling": 0,
             "other": 0
         },
         "other": {
@@ -626,6 +866,21 @@
             "royal": 0,
             "cinques": 0,
             "maximus": 0,
+            "tolling": 0,
+            "other": 0
+        },
+        "total": {
+            "singles": 0,
+            "minimus": 0,
+            "doubles": 6,
+            "minor": 3,
+            "triples": 2,
+            "major": 6,
+            "caters": 0,
+            "royal": 0,
+            "cinques": 0,
+            "maximus": 0,
+            "tolling": 0,
             "other": 0
         }
     },
@@ -642,6 +897,7 @@
             "royal": 0,
             "cinques": 0,
             "maximus": 0,
+            "tolling": 0,
             "other": 0
         },
         "quarters": {
@@ -655,6 +911,7 @@
             "royal": 0,
             "cinques": 0,
             "maximus": 0,
+            "tolling": 0,
             "other": 0
         },
         "other": {
@@ -668,6 +925,21 @@
             "royal": 0,
             "cinques": 0,
             "maximus": 0,
+            "tolling": 0,
+            "other": 0
+        },
+        "total": {
+            "singles": 0,
+            "minimus": 0,
+            "doubles": 18,
+            "minor": 17,
+            "triples": 3,
+            "major": 12,
+            "caters": 0,
+            "royal": 0,
+            "cinques": 0,
+            "maximus": 0,
+            "tolling": 0,
             "other": 0
         }
     },
@@ -684,6 +956,7 @@
             "royal": 0,
             "cinques": 0,
             "maximus": 0,
+            "tolling": 0,
             "other": 0
         },
         "quarters": {
@@ -697,6 +970,7 @@
             "royal": 0,
             "cinques": 0,
             "maximus": 0,
+            "tolling": 0,
             "other": 0
         },
         "other": {
@@ -710,6 +984,21 @@
             "royal": 0,
             "cinques": 0,
             "maximus": 0,
+            "tolling": 0,
+            "other": 0
+        },
+        "total": {
+            "singles": 11,
+            "minimus": 2,
+            "doubles": 29,
+            "minor": 11,
+            "triples": 2,
+            "major": 1,
+            "caters": 0,
+            "royal": 0,
+            "cinques": 0,
+            "maximus": 0,
+            "tolling": 0,
             "other": 0
         }
     },
@@ -726,6 +1015,7 @@
             "royal": 0,
             "cinques": 0,
             "maximus": 0,
+            "tolling": 0,
             "other": 0
         },
         "quarters": {
@@ -739,6 +1029,7 @@
             "royal": 0,
             "cinques": 0,
             "maximus": 0,
+            "tolling": 0,
             "other": 0
         },
         "other": {
@@ -752,6 +1043,21 @@
             "royal": 0,
             "cinques": 0,
             "maximus": 0,
+            "tolling": 0,
+            "other": 0
+        },
+        "total": {
+            "singles": 2,
+            "minimus": 1,
+            "doubles": 8,
+            "minor": 1,
+            "triples": 0,
+            "major": 0,
+            "caters": 0,
+            "royal": 0,
+            "cinques": 0,
+            "maximus": 0,
+            "tolling": 0,
             "other": 0
         }
     },
@@ -768,6 +1074,7 @@
             "royal": 0,
             "cinques": 0,
             "maximus": 0,
+            "tolling": 0,
             "other": 0
         },
         "quarters": {
@@ -781,6 +1088,7 @@
             "royal": 0,
             "cinques": 0,
             "maximus": 0,
+            "tolling": 0,
             "other": 0
         },
         "other": {
@@ -794,6 +1102,21 @@
             "royal": 0,
             "cinques": 0,
             "maximus": 0,
+            "tolling": 0,
+            "other": 0
+        },
+        "total": {
+            "singles": 0,
+            "minimus": 0,
+            "doubles": 0,
+            "minor": 0,
+            "triples": 0,
+            "major": 1,
+            "caters": 0,
+            "royal": 0,
+            "cinques": 0,
+            "maximus": 0,
+            "tolling": 0,
             "other": 0
         }
     },
@@ -810,6 +1133,7 @@
             "royal": 0,
             "cinques": 0,
             "maximus": 0,
+            "tolling": 0,
             "other": 0
         },
         "quarters": {
@@ -823,6 +1147,7 @@
             "royal": 0,
             "cinques": 0,
             "maximus": 0,
+            "tolling": 0,
             "other": 0
         },
         "other": {
@@ -836,6 +1161,21 @@
             "royal": 0,
             "cinques": 0,
             "maximus": 0,
+            "tolling": 0,
+            "other": 0
+        },
+        "total": {
+            "singles": 0,
+            "minimus": 0,
+            "doubles": 1,
+            "minor": 0,
+            "triples": 0,
+            "major": 0,
+            "caters": 0,
+            "royal": 0,
+            "cinques": 0,
+            "maximus": 0,
+            "tolling": 0,
             "other": 0
         }
     },
@@ -852,6 +1192,7 @@
             "royal": 0,
             "cinques": 0,
             "maximus": 0,
+            "tolling": 0,
             "other": 0
         },
         "quarters": {
@@ -865,6 +1206,7 @@
             "royal": 0,
             "cinques": 0,
             "maximus": 0,
+            "tolling": 0,
             "other": 0
         },
         "other": {
@@ -878,6 +1220,21 @@
             "royal": 0,
             "cinques": 0,
             "maximus": 0,
+            "tolling": 0,
+            "other": 0
+        },
+        "total": {
+            "singles": 0,
+            "minimus": 0,
+            "doubles": 6,
+            "minor": 2,
+            "triples": 0,
+            "major": 0,
+            "caters": 0,
+            "royal": 0,
+            "cinques": 0,
+            "maximus": 0,
+            "tolling": 0,
             "other": 0
         }
     },
@@ -894,6 +1251,7 @@
             "royal": 0,
             "cinques": 0,
             "maximus": 0,
+            "tolling": 0,
             "other": 0
         },
         "quarters": {
@@ -907,6 +1265,7 @@
             "royal": 0,
             "cinques": 0,
             "maximus": 0,
+            "tolling": 0,
             "other": 0
         },
         "other": {
@@ -920,6 +1279,21 @@
             "royal": 0,
             "cinques": 0,
             "maximus": 0,
+            "tolling": 0,
+            "other": 0
+        },
+        "total": {
+            "singles": 0,
+            "minimus": 0,
+            "doubles": 0,
+            "minor": 7,
+            "triples": 0,
+            "major": 1,
+            "caters": 0,
+            "royal": 0,
+            "cinques": 0,
+            "maximus": 0,
+            "tolling": 0,
             "other": 0
         }
     },
@@ -936,6 +1310,7 @@
             "royal": 0,
             "cinques": 0,
             "maximus": 0,
+            "tolling": 0,
             "other": 0
         },
         "quarters": {
@@ -949,6 +1324,7 @@
             "royal": 0,
             "cinques": 0,
             "maximus": 0,
+            "tolling": 0,
             "other": 0
         },
         "other": {
@@ -962,6 +1338,21 @@
             "royal": 0,
             "cinques": 0,
             "maximus": 0,
+            "tolling": 0,
+            "other": 0
+        },
+        "total": {
+            "singles": 1,
+            "minimus": 0,
+            "doubles": 2,
+            "minor": 5,
+            "triples": 0,
+            "major": 2,
+            "caters": 0,
+            "royal": 0,
+            "cinques": 0,
+            "maximus": 0,
+            "tolling": 0,
             "other": 0
         }
     },
@@ -978,6 +1369,7 @@
             "royal": 0,
             "cinques": 0,
             "maximus": 0,
+            "tolling": 0,
             "other": 0
         },
         "quarters": {
@@ -991,6 +1383,7 @@
             "royal": 0,
             "cinques": 0,
             "maximus": 0,
+            "tolling": 0,
             "other": 0
         },
         "other": {
@@ -1004,6 +1397,21 @@
             "royal": 0,
             "cinques": 0,
             "maximus": 0,
+            "tolling": 0,
+            "other": 0
+        },
+        "total": {
+            "singles": 0,
+            "minimus": 0,
+            "doubles": 1,
+            "minor": 14,
+            "triples": 1,
+            "major": 2,
+            "caters": 0,
+            "royal": 0,
+            "cinques": 0,
+            "maximus": 0,
+            "tolling": 0,
             "other": 0
         }
     },
@@ -1020,6 +1428,7 @@
             "royal": 0,
             "cinques": 0,
             "maximus": 0,
+            "tolling": 0,
             "other": 0
         },
         "quarters": {
@@ -1033,6 +1442,7 @@
             "royal": 0,
             "cinques": 0,
             "maximus": 0,
+            "tolling": 0,
             "other": 0
         },
         "other": {
@@ -1046,6 +1456,21 @@
             "royal": 0,
             "cinques": 0,
             "maximus": 0,
+            "tolling": 0,
+            "other": 0
+        },
+        "total": {
+            "singles": 0,
+            "minimus": 0,
+            "doubles": 1,
+            "minor": 8,
+            "triples": 0,
+            "major": 1,
+            "caters": 0,
+            "royal": 0,
+            "cinques": 0,
+            "maximus": 0,
+            "tolling": 0,
             "other": 0
         }
     },
@@ -1062,6 +1487,7 @@
             "royal": 0,
             "cinques": 0,
             "maximus": 0,
+            "tolling": 0,
             "other": 0
         },
         "quarters": {
@@ -1075,6 +1501,7 @@
             "royal": 1,
             "cinques": 0,
             "maximus": 0,
+            "tolling": 0,
             "other": 0
         },
         "other": {
@@ -1088,6 +1515,21 @@
             "royal": 0,
             "cinques": 0,
             "maximus": 0,
+            "tolling": 0,
+            "other": 0
+        },
+        "total": {
+            "singles": 1,
+            "minimus": 0,
+            "doubles": 2,
+            "minor": 15,
+            "triples": 2,
+            "major": 1,
+            "caters": 0,
+            "royal": 1,
+            "cinques": 0,
+            "maximus": 0,
+            "tolling": 0,
             "other": 0
         }
     },
@@ -1104,6 +1546,7 @@
             "royal": 0,
             "cinques": 0,
             "maximus": 0,
+            "tolling": 0,
             "other": 0
         },
         "quarters": {
@@ -1117,6 +1560,7 @@
             "royal": 0,
             "cinques": 0,
             "maximus": 0,
+            "tolling": 0,
             "other": 0
         },
         "other": {
@@ -1130,6 +1574,21 @@
             "royal": 0,
             "cinques": 0,
             "maximus": 0,
+            "tolling": 0,
+            "other": 0
+        },
+        "total": {
+            "singles": 0,
+            "minimus": 0,
+            "doubles": 3,
+            "minor": 0,
+            "triples": 1,
+            "major": 0,
+            "caters": 0,
+            "royal": 0,
+            "cinques": 0,
+            "maximus": 0,
+            "tolling": 0,
             "other": 0
         }
     },
@@ -1146,6 +1605,7 @@
             "royal": 0,
             "cinques": 0,
             "maximus": 0,
+            "tolling": 0,
             "other": 0
         },
         "quarters": {
@@ -1159,6 +1619,7 @@
             "royal": 0,
             "cinques": 0,
             "maximus": 0,
+            "tolling": 0,
             "other": 0
         },
         "other": {
@@ -1172,6 +1633,21 @@
             "royal": 0,
             "cinques": 0,
             "maximus": 0,
+            "tolling": 0,
+            "other": 0
+        },
+        "total": {
+            "singles": 0,
+            "minimus": 0,
+            "doubles": 2,
+            "minor": 3,
+            "triples": 0,
+            "major": 1,
+            "caters": 0,
+            "royal": 0,
+            "cinques": 0,
+            "maximus": 0,
+            "tolling": 0,
             "other": 0
         }
     },
@@ -1188,6 +1664,7 @@
             "royal": 0,
             "cinques": 0,
             "maximus": 0,
+            "tolling": 0,
             "other": 0
         },
         "quarters": {
@@ -1201,6 +1678,7 @@
             "royal": 0,
             "cinques": 0,
             "maximus": 0,
+            "tolling": 0,
             "other": 0
         },
         "other": {
@@ -1214,6 +1692,21 @@
             "royal": 0,
             "cinques": 0,
             "maximus": 0,
+            "tolling": 0,
+            "other": 0
+        },
+        "total": {
+            "singles": 0,
+            "minimus": 0,
+            "doubles": 3,
+            "minor": 3,
+            "triples": 0,
+            "major": 0,
+            "caters": 0,
+            "royal": 0,
+            "cinques": 0,
+            "maximus": 0,
+            "tolling": 0,
             "other": 0
         }
     },
@@ -1230,6 +1723,7 @@
             "royal": 0,
             "cinques": 0,
             "maximus": 0,
+            "tolling": 0,
             "other": 0
         },
         "quarters": {
@@ -1243,6 +1737,7 @@
             "royal": 0,
             "cinques": 0,
             "maximus": 0,
+            "tolling": 0,
             "other": 0
         },
         "other": {
@@ -1256,6 +1751,21 @@
             "royal": 0,
             "cinques": 0,
             "maximus": 0,
+            "tolling": 0,
+            "other": 0
+        },
+        "total": {
+            "singles": 0,
+            "minimus": 0,
+            "doubles": 6,
+            "minor": 5,
+            "triples": 0,
+            "major": 0,
+            "caters": 0,
+            "royal": 0,
+            "cinques": 0,
+            "maximus": 0,
+            "tolling": 0,
             "other": 0
         }
     },
@@ -1272,6 +1782,7 @@
             "royal": 0,
             "cinques": 0,
             "maximus": 0,
+            "tolling": 0,
             "other": 0
         },
         "quarters": {
@@ -1285,6 +1796,7 @@
             "royal": 0,
             "cinques": 0,
             "maximus": 0,
+            "tolling": 0,
             "other": 0
         },
         "other": {
@@ -1298,6 +1810,21 @@
             "royal": 0,
             "cinques": 0,
             "maximus": 0,
+            "tolling": 0,
+            "other": 0
+        },
+        "total": {
+            "singles": 0,
+            "minimus": 0,
+            "doubles": 8,
+            "minor": 8,
+            "triples": 0,
+            "major": 0,
+            "caters": 0,
+            "royal": 0,
+            "cinques": 0,
+            "maximus": 0,
+            "tolling": 0,
             "other": 0
         }
     },
@@ -1314,6 +1841,7 @@
             "royal": 0,
             "cinques": 0,
             "maximus": 0,
+            "tolling": 0,
             "other": 0
         },
         "quarters": {
@@ -1327,6 +1855,7 @@
             "royal": 0,
             "cinques": 0,
             "maximus": 0,
+            "tolling": 0,
             "other": 0
         },
         "other": {
@@ -1340,6 +1869,21 @@
             "royal": 0,
             "cinques": 0,
             "maximus": 0,
+            "tolling": 0,
+            "other": 0
+        },
+        "total": {
+            "singles": 1,
+            "minimus": 0,
+            "doubles": 4,
+            "minor": 5,
+            "triples": 1,
+            "major": 1,
+            "caters": 0,
+            "royal": 0,
+            "cinques": 0,
+            "maximus": 0,
+            "tolling": 0,
             "other": 0
         }
     },
@@ -1356,6 +1900,7 @@
             "royal": 1,
             "cinques": 0,
             "maximus": 0,
+            "tolling": 0,
             "other": 0
         },
         "quarters": {
@@ -1369,6 +1914,7 @@
             "royal": 0,
             "cinques": 0,
             "maximus": 0,
+            "tolling": 0,
             "other": 0
         },
         "other": {
@@ -1382,6 +1928,21 @@
             "royal": 0,
             "cinques": 0,
             "maximus": 0,
+            "tolling": 0,
+            "other": 0
+        },
+        "total": {
+            "singles": 0,
+            "minimus": 0,
+            "doubles": 5,
+            "minor": 3,
+            "triples": 0,
+            "major": 0,
+            "caters": 0,
+            "royal": 1,
+            "cinques": 0,
+            "maximus": 0,
+            "tolling": 0,
             "other": 0
         }
     },
@@ -1398,6 +1959,7 @@
             "royal": 0,
             "cinques": 0,
             "maximus": 0,
+            "tolling": 0,
             "other": 0
         },
         "quarters": {
@@ -1411,6 +1973,7 @@
             "royal": 0,
             "cinques": 0,
             "maximus": 0,
+            "tolling": 0,
             "other": 0
         },
         "other": {
@@ -1424,6 +1987,21 @@
             "royal": 0,
             "cinques": 0,
             "maximus": 0,
+            "tolling": 0,
+            "other": 0
+        },
+        "total": {
+            "singles": 0,
+            "minimus": 0,
+            "doubles": 0,
+            "minor": 2,
+            "triples": 0,
+            "major": 1,
+            "caters": 0,
+            "royal": 0,
+            "cinques": 0,
+            "maximus": 0,
+            "tolling": 0,
             "other": 0
         }
     },
@@ -1440,6 +2018,7 @@
             "royal": 0,
             "cinques": 0,
             "maximus": 0,
+            "tolling": 0,
             "other": 0
         },
         "quarters": {
@@ -1453,6 +2032,7 @@
             "royal": 0,
             "cinques": 0,
             "maximus": 0,
+            "tolling": 0,
             "other": 0
         },
         "other": {
@@ -1466,6 +2046,21 @@
             "royal": 0,
             "cinques": 0,
             "maximus": 0,
+            "tolling": 0,
+            "other": 0
+        },
+        "total": {
+            "singles": 0,
+            "minimus": 0,
+            "doubles": 0,
+            "minor": 2,
+            "triples": 0,
+            "major": 1,
+            "caters": 0,
+            "royal": 0,
+            "cinques": 0,
+            "maximus": 0,
+            "tolling": 0,
             "other": 0
         }
     },
@@ -1482,6 +2077,7 @@
             "royal": 0,
             "cinques": 0,
             "maximus": 0,
+            "tolling": 0,
             "other": 0
         },
         "quarters": {
@@ -1495,6 +2091,7 @@
             "royal": 0,
             "cinques": 0,
             "maximus": 0,
+            "tolling": 0,
             "other": 0
         },
         "other": {
@@ -1508,6 +2105,21 @@
             "royal": 0,
             "cinques": 0,
             "maximus": 0,
+            "tolling": 0,
+            "other": 0
+        },
+        "total": {
+            "singles": 0,
+            "minimus": 0,
+            "doubles": 0,
+            "minor": 1,
+            "triples": 0,
+            "major": 1,
+            "caters": 0,
+            "royal": 0,
+            "cinques": 0,
+            "maximus": 0,
+            "tolling": 0,
             "other": 0
         }
     },
@@ -1524,6 +2136,7 @@
             "royal": 0,
             "cinques": 0,
             "maximus": 0,
+            "tolling": 0,
             "other": 0
         },
         "quarters": {
@@ -1537,6 +2150,7 @@
             "royal": 0,
             "cinques": 0,
             "maximus": 0,
+            "tolling": 0,
             "other": 0
         },
         "other": {
@@ -1550,6 +2164,21 @@
             "royal": 0,
             "cinques": 0,
             "maximus": 0,
+            "tolling": 0,
+            "other": 0
+        },
+        "total": {
+            "singles": 0,
+            "minimus": 0,
+            "doubles": 1,
+            "minor": 2,
+            "triples": 0,
+            "major": 0,
+            "caters": 0,
+            "royal": 0,
+            "cinques": 0,
+            "maximus": 0,
+            "tolling": 0,
             "other": 0
         }
     },
@@ -1566,6 +2195,7 @@
             "royal": 0,
             "cinques": 0,
             "maximus": 0,
+            "tolling": 0,
             "other": 0
         },
         "quarters": {
@@ -1579,6 +2209,7 @@
             "royal": 0,
             "cinques": 0,
             "maximus": 0,
+            "tolling": 0,
             "other": 0
         },
         "other": {
@@ -1592,6 +2223,21 @@
             "royal": 0,
             "cinques": 0,
             "maximus": 0,
+            "tolling": 0,
+            "other": 0
+        },
+        "total": {
+            "singles": 0,
+            "minimus": 0,
+            "doubles": 1,
+            "minor": 3,
+            "triples": 0,
+            "major": 0,
+            "caters": 0,
+            "royal": 0,
+            "cinques": 0,
+            "maximus": 0,
+            "tolling": 0,
             "other": 0
         }
     },
@@ -1608,6 +2254,7 @@
             "royal": 0,
             "cinques": 0,
             "maximus": 0,
+            "tolling": 0,
             "other": 0
         },
         "quarters": {
@@ -1621,6 +2268,7 @@
             "royal": 0,
             "cinques": 0,
             "maximus": 0,
+            "tolling": 0,
             "other": 0
         },
         "other": {
@@ -1634,6 +2282,21 @@
             "royal": 0,
             "cinques": 0,
             "maximus": 0,
+            "tolling": 0,
+            "other": 0
+        },
+        "total": {
+            "singles": 0,
+            "minimus": 0,
+            "doubles": 1,
+            "minor": 5,
+            "triples": 0,
+            "major": 0,
+            "caters": 0,
+            "royal": 0,
+            "cinques": 0,
+            "maximus": 0,
+            "tolling": 0,
             "other": 0
         }
     },
@@ -1650,6 +2313,7 @@
             "royal": 0,
             "cinques": 0,
             "maximus": 0,
+            "tolling": 0,
             "other": 0
         },
         "quarters": {
@@ -1663,6 +2327,7 @@
             "royal": 0,
             "cinques": 0,
             "maximus": 0,
+            "tolling": 0,
             "other": 0
         },
         "other": {
@@ -1676,6 +2341,21 @@
             "royal": 0,
             "cinques": 0,
             "maximus": 0,
+            "tolling": 0,
+            "other": 0
+        },
+        "total": {
+            "singles": 0,
+            "minimus": 0,
+            "doubles": 3,
+            "minor": 15,
+            "triples": 0,
+            "major": 2,
+            "caters": 0,
+            "royal": 0,
+            "cinques": 0,
+            "maximus": 0,
+            "tolling": 0,
             "other": 0
         }
     },
@@ -1692,6 +2372,7 @@
             "royal": 0,
             "cinques": 0,
             "maximus": 0,
+            "tolling": 0,
             "other": 0
         },
         "quarters": {
@@ -1705,6 +2386,7 @@
             "royal": 0,
             "cinques": 0,
             "maximus": 0,
+            "tolling": 0,
             "other": 0
         },
         "other": {
@@ -1718,6 +2400,21 @@
             "royal": 0,
             "cinques": 0,
             "maximus": 0,
+            "tolling": 0,
+            "other": 0
+        },
+        "total": {
+            "singles": 0,
+            "minimus": 0,
+            "doubles": 1,
+            "minor": 3,
+            "triples": 0,
+            "major": 0,
+            "caters": 0,
+            "royal": 0,
+            "cinques": 0,
+            "maximus": 0,
+            "tolling": 0,
             "other": 0
         }
     },
@@ -1734,6 +2431,7 @@
             "royal": 0,
             "cinques": 0,
             "maximus": 0,
+            "tolling": 0,
             "other": 0
         },
         "quarters": {
@@ -1747,6 +2445,7 @@
             "royal": 0,
             "cinques": 0,
             "maximus": 0,
+            "tolling": 0,
             "other": 0
         },
         "other": {
@@ -1760,6 +2459,21 @@
             "royal": 0,
             "cinques": 0,
             "maximus": 0,
+            "tolling": 0,
+            "other": 0
+        },
+        "total": {
+            "singles": 0,
+            "minimus": 0,
+            "doubles": 1,
+            "minor": 2,
+            "triples": 0,
+            "major": 1,
+            "caters": 0,
+            "royal": 0,
+            "cinques": 0,
+            "maximus": 0,
+            "tolling": 0,
             "other": 0
         }
     },
@@ -1776,6 +2490,7 @@
             "royal": 0,
             "cinques": 0,
             "maximus": 0,
+            "tolling": 0,
             "other": 0
         },
         "quarters": {
@@ -1789,6 +2504,7 @@
             "royal": 0,
             "cinques": 0,
             "maximus": 0,
+            "tolling": 0,
             "other": 0
         },
         "other": {
@@ -1802,6 +2518,21 @@
             "royal": 0,
             "cinques": 0,
             "maximus": 0,
+            "tolling": 0,
+            "other": 0
+        },
+        "total": {
+            "singles": 0,
+            "minimus": 0,
+            "doubles": 1,
+            "minor": 4,
+            "triples": 0,
+            "major": 1,
+            "caters": 1,
+            "royal": 0,
+            "cinques": 0,
+            "maximus": 0,
+            "tolling": 0,
             "other": 0
         }
     },
@@ -1818,6 +2549,7 @@
             "royal": 0,
             "cinques": 0,
             "maximus": 0,
+            "tolling": 0,
             "other": 0
         },
         "quarters": {
@@ -1831,6 +2563,7 @@
             "royal": 0,
             "cinques": 0,
             "maximus": 0,
+            "tolling": 0,
             "other": 0
         },
         "other": {
@@ -1844,6 +2577,21 @@
             "royal": 0,
             "cinques": 0,
             "maximus": 0,
+            "tolling": 0,
+            "other": 0
+        },
+        "total": {
+            "singles": 0,
+            "minimus": 0,
+            "doubles": 0,
+            "minor": 4,
+            "triples": 1,
+            "major": 0,
+            "caters": 0,
+            "royal": 0,
+            "cinques": 0,
+            "maximus": 0,
+            "tolling": 0,
             "other": 0
         }
     },
@@ -1860,6 +2608,7 @@
             "royal": 0,
             "cinques": 0,
             "maximus": 0,
+            "tolling": 0,
             "other": 0
         },
         "quarters": {
@@ -1873,6 +2622,7 @@
             "royal": 0,
             "cinques": 0,
             "maximus": 0,
+            "tolling": 0,
             "other": 0
         },
         "other": {
@@ -1886,6 +2636,21 @@
             "royal": 0,
             "cinques": 0,
             "maximus": 0,
+            "tolling": 0,
+            "other": 0
+        },
+        "total": {
+            "singles": 0,
+            "minimus": 0,
+            "doubles": 0,
+            "minor": 2,
+            "triples": 0,
+            "major": 0,
+            "caters": 0,
+            "royal": 0,
+            "cinques": 0,
+            "maximus": 0,
+            "tolling": 0,
             "other": 0
         }
     },
@@ -1902,6 +2667,7 @@
             "royal": 0,
             "cinques": 0,
             "maximus": 0,
+            "tolling": 0,
             "other": 0
         },
         "quarters": {
@@ -1915,6 +2681,7 @@
             "royal": 0,
             "cinques": 0,
             "maximus": 0,
+            "tolling": 0,
             "other": 0
         },
         "other": {
@@ -1928,6 +2695,21 @@
             "royal": 0,
             "cinques": 0,
             "maximus": 0,
+            "tolling": 0,
+            "other": 0
+        },
+        "total": {
+            "singles": 0,
+            "minimus": 0,
+            "doubles": 1,
+            "minor": 3,
+            "triples": 2,
+            "major": 0,
+            "caters": 0,
+            "royal": 0,
+            "cinques": 0,
+            "maximus": 0,
+            "tolling": 0,
             "other": 0
         }
     },
@@ -1944,6 +2726,7 @@
             "royal": 0,
             "cinques": 0,
             "maximus": 0,
+            "tolling": 0,
             "other": 0
         },
         "quarters": {
@@ -1957,6 +2740,7 @@
             "royal": 0,
             "cinques": 0,
             "maximus": 0,
+            "tolling": 0,
             "other": 0
         },
         "other": {
@@ -1970,6 +2754,21 @@
             "royal": 0,
             "cinques": 0,
             "maximus": 0,
+            "tolling": 0,
+            "other": 0
+        },
+        "total": {
+            "singles": 0,
+            "minimus": 0,
+            "doubles": 2,
+            "minor": 1,
+            "triples": 0,
+            "major": 1,
+            "caters": 0,
+            "royal": 0,
+            "cinques": 0,
+            "maximus": 0,
+            "tolling": 0,
             "other": 0
         }
     }

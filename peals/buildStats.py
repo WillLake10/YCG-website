@@ -12,21 +12,22 @@ if __name__ == '__main__':
     stages = []
     ay = pealData[0].academic_year
     tempStat = Stat(ay, 0, 0, 0, 0, 0, 0, 0, 0)
-    tempStagePeal = StageOn(0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0)
-    tempStageQuarter = StageOn(0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0)
-    tempStageOther = StageOn(0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0)
+    tempStagePeal = StageOn(0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0)
+    tempStageQuarter = StageOn(0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0)
+    tempStageOther = StageOn(0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0)
+    tempStageTotal = StageOn(0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0)
 
     for peal in pealData:
         if peal.academic_year != ay:
-            stages.append(Stages(ay, tempStagePeal, tempStageQuarter, tempStageOther))
+            stages.append(Stages(ay, tempStagePeal, tempStageQuarter, tempStageOther, tempStageTotal))
             ay = peal.academic_year
             # print(tempStat)
             stats.append(tempStat)
             tempStat = Stat(ay, 0, 0, 0, 0, 0, 0, 0, 0)
-            tempStagePeal = StageOn(0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0)
-            tempStageQuarter = StageOn(0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0)
-            tempStageOther = StageOn(0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0)
-
+            tempStagePeal = StageOn(0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0)
+            tempStageQuarter = StageOn(0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0)
+            tempStageOther = StageOn(0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0)
+            tempStageTotal = StageOn(0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0)
         if peal.changes == "":
             c = 0
         else:
@@ -105,11 +106,37 @@ if __name__ == '__main__':
                 tempStageOther.cinques += 1
             elif "maximus" in peal.method.lower():
                 tempStageOther.maximus += 1
+            elif "tolling" in peal.method.lower():
+                tempStageOther.tolling += 1
             else:
                 tempStageOther.other += 1
 
         tempStat.total_changes = tempStat.total_changes + c
         tempStat.total_blows = tempStat.total_blows + (c * len(peal.ringers))
+        if "singles" in peal.method.lower():
+            tempStageTotal.singles += 1
+        elif "minimus" in peal.method.lower():
+            tempStageTotal.minimus += 1
+        elif "doubles" in peal.method.lower():
+            tempStageTotal.doubles += 1
+        elif "minor" in peal.method.lower():
+            tempStageTotal.minor += 1
+        elif "triples" in peal.method.lower():
+            tempStageTotal.triples += 1
+        elif "major" in peal.method.lower():
+            tempStageTotal.major += 1
+        elif "caters" in peal.method.lower():
+            tempStageTotal.caters += 1
+        elif "royal" in peal.method.lower():
+            tempStageTotal.royal += 1
+        elif "cinques" in peal.method.lower():
+            tempStageTotal.cinques += 1
+        elif "maximus" in peal.method.lower():
+            tempStageTotal.maximus += 1
+        elif "tolling" in peal.method.lower():
+            tempStageTotal.tolling += 1
+        else:
+            tempStageTotal.other += 1
 
     # print(stats)
     jsonStr = json.dumps(stats, indent=4, cls=StatsEncoder)

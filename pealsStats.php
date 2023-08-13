@@ -31,6 +31,18 @@ Author: Will Lake
             grid-area: type;
         }
 
+        table {
+            font-family: arial, sans-serif;
+            border-collapse: collapse;
+            width: 100%;
+        }
+
+        td, th {
+            /*border: 1px solid #dddddd;*/
+            text-align: center;
+            padding: 8px;
+        }
+
     </style>
 </head>
 <body>
@@ -43,12 +55,19 @@ Author: Will Lake
             <div class="col-md-3"></div>
             <div class="col-12 col-md-6">
                 <div class="pagetitle">
-                    Peals and Quarters Summary
+                    Peals and Quarters Changes Stats
                 </div>
             </div>
         </div>
+        <table>
+            <tr>
+                <th><a href="pealsSummary.php">Peal Summary</a></th>
+                <th><a href="pealsStats.php">Changes Stats</a></th>
+                <th><a href="pealsStages.php">Stages Stats</a></th>
+            </tr>
+        </table>
         <div class="row pt-3 pl-2 pr-2 text-center">
-            <p>This is a summary of all the ringing performed by members of YCG that is recorded on bellboard.</p>
+            <p>This is a summary of all the changes stats ringing performed by members of YCG that is recorded on bellboard.</p>
         </div>
     </div>
 </section>

@@ -1,8 +1,7 @@
 import json
-from types import SimpleNamespace
 
-from main.peals.utils.Stat import Stat
-from main.peals.utils.StatsEncoder import StatsEncoder
+from utils.Stat import Stat
+from utils.StatsEncoder import StatsEncoder
 from utils.decodePerformanceJson import load_performances_from_file
 
 if __name__ == '__main__':

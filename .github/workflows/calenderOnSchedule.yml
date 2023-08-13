@@ -29,6 +29,9 @@ jobs:
       - name: get performance changes py script # run sj-gobierno.py to get the latest data
         run: python peals/getPealDataChanges.py
 
+      - name: get performance stats py script # run sj-gobierno.py to get the latest data
+        run: python peals/buildStats.py
+
       - name: commit files
         run: |
           git config --local user.email "action@github.com"

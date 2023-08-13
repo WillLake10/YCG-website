@@ -79,7 +79,7 @@ include('standardPageTop.php');
             <?php
             foreach ($images as $image) {
                 echo "<div class=\"mySlides\">";
-                echo "<img src=\"../../gallery/$page/$image\" style=\"width:100%\">";
+                echo "<img src=\"../../gallery/thumbnails/$page/$image\" style=\"width:100%\">";
                 echo "</div>";
             }
             ?>

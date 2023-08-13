@@ -35,6 +35,23 @@ if __name__ == '__main__':
             # print(tempStat)
             stats.append(tempStat)
             tempStat = Stat(ay, 0, 0, 0, 0, 0, 0, 0, 0)
+            if peal.changes == "":
+                c = 0
+            else:
+                c = int(peal.changes)
+
+            if peal.type == 0:
+                tempStat.peal_changes = tempStat.peal_changes + c
+                tempStat.peal_blows = tempStat.peal_blows + (c * len(peal.ringers))
+            if peal.type == 1:
+                tempStat.quarter_changes = tempStat.quarter_changes + c
+                tempStat.quarter_blows = tempStat.quarter_blows + (c * len(peal.ringers))
+            if peal.type == 2:
+                tempStat.other_changes = tempStat.other_changes + c
+                tempStat.other_blows = tempStat.other_blows + (c * len(peal.ringers))
+
+            tempStat.total_changes = tempStat.total_changes + c
+            tempStat.total_blows = tempStat.total_blows + (c * len(peal.ringers))
 
     # print(stats)
     jsonStr = json.dumps(stats, indent=4, cls=StatsEncoder)

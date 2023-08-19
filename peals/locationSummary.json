@@ -386,6 +386,13 @@
             "total": 1
         },
         {
+            "tower": "St Nicholas, Haxey, Lincolnshire",
+            "peals": 0,
+            "quarters": 1,
+            "other": 0,
+            "total": 1
+        },
+        {
             "tower": "St Nicolas, North Stoneham, Hampshire",
             "peals": 1,
             "quarters": 0,
@@ -500,8 +507,8 @@
     ],
     "summary": {
         "peals": 38,
-        "quarters": 490,
+        "quarters": 492,
         "other": 33,
-        "total": 561
+        "total": 563
     }
 }

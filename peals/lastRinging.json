@@ -1,44 +1,45 @@
 {
     "academic_year": "2022/23",
-    "type": 2,
-    "date": "Thursday, 10 August 2023",
-    "location": "St Lawrence, York, North Yorkshire",
-    "weight": "7-3-24 in A",
-    "time": "15m",
-    "changes": "400",
-    "method": "Minor (2m)",
-    "details": "40 St Lawrence Little Bob Minor, 360 Plain Bob Minor",
+    "type": 1,
+    "date": "Saturday, 19 August 2023",
+    "location": "St Nicholas, Haxey, Lincolnshire",
+    "weight": "18-3-16 in D",
+    "time": "47m",
+    "changes": "1260",
+    "method": "Plain Bob Minor",
+    "details": "",
     "ringers": [
         {
-            "name": "Revd James A Kenny (St John)",
+            "name": "Natasha A Williams (Alcuin) (C)",
             "bell": "1"
         },
         {
-            "name": "Rebecca A Hall (Langwith)",
+            "name": "Jemima Bleackley (Halifax)",
             "bell": "2"
         },
         {
-            "name": "Joss Davis (Alcuin)",
+            "name": "Laura S Watt (NUSCR)",
             "bell": "3"
         },
         {
-            "name": "Richard H Mayers (Vanbrugh)",
+            "name": "Rosemary S Hall (Alcuin)",
             "bell": "4"
         },
         {
-            "name": "Rosemary S Hall (Alcuin)",
+            "name": "Philippa C M Stokoe (Staff)",
             "bell": "5"
         },
         {
-            "name": "Natasha A Williams (Alcuin) (C)",
+            "name": "Emily E Hall (NUSCR)",
             "bell": "6"
         }
     ],
     "footnotes": [
-        "Rung for the Feast of the Patronal Saint.",
-        "A quarter peal attempt cut short due to lack of time.",
-        "First blows of St Lawrence Little Bob Minor: 2, 3, 4"
+        "Rung by a band of Big Strong Men.",
+        "Believed to be the first Ladies quarter in the tower and in the Isle of Axholme.",
+        "A 90th Birthday compliment to Percy Cooper for tomorrow, previous tower captain here.",
+        "First YCG quarter: 3, 5"
     ],
-    "id": "1649750",
-    "time_in_ms": 16916262
+    "id": "1654125",
+    "time_in_ms": 16924038
 }

@@ -1,6 +1,103 @@
 [
     {
         "academic_year": "2022/23",
+        "type": 1,
+        "date": "Saturday, 19 August 2023",
+        "location": "St Nicholas, Haxey, Lincolnshire",
+        "weight": "18-3-16 in D",
+        "time": "47m",
+        "changes": "1260",
+        "method": "Plain Bob Minor",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Natasha A Williams (Alcuin) (C)",
+                "bell": "1"
+            },
+            {
+                "name": "Jemima Bleackley (Halifax)",
+                "bell": "2"
+            },
+            {
+                "name": "Laura S Watt (NUSCR)",
+                "bell": "3"
+            },
+            {
+                "name": "Rosemary S Hall (Alcuin)",
+                "bell": "4"
+            },
+            {
+                "name": "Philippa C M Stokoe (Staff)",
+                "bell": "5"
+            },
+            {
+                "name": "Emily E Hall (NUSCR)",
+                "bell": "6"
+            }
+        ],
+        "footnotes": [
+            "Rung by a band of Big Strong Men.",
+            "Believed to be the first Ladies quarter in the tower and in the Isle of Axholme.",
+            "A 90th Birthday compliment to Percy Cooper for tomorrow, previous tower captain here.",
+            "First YCG quarter: 3, 5"
+        ],
+        "id": "1654125",
+        "time_in_ms": 16924038
+    },
+    {
+        "academic_year": "2022/23",
+        "type": 1,
+        "date": "Wednesday, 16 August 2023",
+        "location": "Oratory Church of St Wilfrid, York, North Yorkshire",
+        "weight": "18-1-21 in F",
+        "time": "48m",
+        "changes": "1250",
+        "method": "Cambridge Surprise Major",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Patrick W J Deakin (James)",
+                "bell": "1"
+            },
+            {
+                "name": "Elva R Ainsworth (UBSCR)",
+                "bell": "2"
+            },
+            {
+                "name": "Natasha A Williams (Alcuin)",
+                "bell": "3"
+            },
+            {
+                "name": "William L K Brooke (Wentworth)",
+                "bell": "4"
+            },
+            {
+                "name": "Rachel L Mahoney (BUSCR)",
+                "bell": "5"
+            },
+            {
+                "name": "Jemima C Bleackley (Halifax)",
+                "bell": "6"
+            },
+            {
+                "name": "Ewan G A Hull (Staff)",
+                "bell": "7"
+            },
+            {
+                "name": "Joseph E T Waters (SUGCR) (C)",
+                "bell": "8"
+            }
+        ],
+        "footnotes": [
+            "Rung to wish luck to those receiving their A-level results tomorrow",
+            "First touch of S Major: 3",
+            "Fastest quarter peal on the bells within the last week"
+        ],
+        "id": "1653781",
+        "time_in_ms": 16921448
+    },
+    {
+        "academic_year": "2022/23",
         "type": 2,
         "date": "Thursday, 10 August 2023",
         "location": "St Lawrence, York, North Yorkshire",

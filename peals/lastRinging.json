@@ -1,45 +1,46 @@
 {
     "academic_year": "2022/23",
     "type": 1,
-    "date": "Saturday, 19 August 2023",
-    "location": "St Nicholas, Haxey, Lincolnshire",
-    "weight": "18-3-16 in D",
-    "time": "47m",
-    "changes": "1260",
-    "method": "Plain Bob Minor",
-    "details": "",
+    "date": "Sunday, 20 August 2023",
+    "location": "All Saints, North Street, York, North Yorkshire",
+    "weight": "7-2-2 in A",
+    "time": "45m",
+    "changes": "1440",
+    "method": "Oxford Treble Bob Minor",
+    "details": "IOI x3",
     "ringers": [
         {
-            "name": "Natasha A Williams (Alcuin) (C)",
+            "name": "Robert D C Richards (Langwith)",
             "bell": "1"
         },
         {
-            "name": "Jemima Bleackley (Halifax)",
+            "name": "Joseph E T Waters (SUGCR)",
             "bell": "2"
         },
         {
-            "name": "Laura S Watt (NUSCR)",
+            "name": "Natasha A Williams (Alcuin)",
             "bell": "3"
         },
         {
-            "name": "Rosemary S Hall (Alcuin)",
+            "name": "William J Lake (Langwith)",
             "bell": "4"
         },
         {
-            "name": "Philippa C M Stokoe (Staff)",
+            "name": "Jemima Bleackley (Halifax)",
             "bell": "5"
         },
         {
-            "name": "Emily E Hall (NUSCR)",
+            "name": "Ryan Mills (Halifax) (C)",
             "bell": "6"
         }
     ],
     "footnotes": [
-        "Rung by a band of Big Strong Men.",
-        "Believed to be the first Ladies quarter in the tower and in the Isle of Axholme.",
-        "A 90th Birthday compliment to Percy Cooper for tomorrow, previous tower captain here.",
-        "First YCG quarter: 3, 5"
+        "First of Oxford: 2, 3, 4, 5, 6",
+        "First in Sunglasses: 3",
+        "50th together: 3 & 5",
+        "50th this year: 3",
+        "5/6"
     ],
-    "id": "1654125",
-    "time_in_ms": 16924038
+    "id": "1654426",
+    "time_in_ms": 16924902
 }

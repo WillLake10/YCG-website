@@ -5,16 +5,16 @@
             {
                 "tower": "York (St Lawrence), North Yorkshire",
                 "peals": 0,
-                "quarters": 29,
+                "quarters": 30,
                 "other": 9,
-                "total": 38
+                "total": 39
             },
             {
                 "tower": "York (Oratory Church of St Wilfrid), North Yorkshire",
                 "peals": 0,
-                "quarters": 16,
+                "quarters": 17,
                 "other": 0,
-                "total": 16
+                "total": 17
             },
             {
                 "tower": "York (Cathedral and Metropolitical Church of St Peter), North Yorkshire",
@@ -31,6 +31,27 @@
                 "total": 4
             },
             {
+                "tower": "York (St Olave, Marygate), North Yorkshire",
+                "peals": 0,
+                "quarters": 2,
+                "other": 0,
+                "total": 2
+            },
+            {
+                "tower": "York (Spurriergate Centre), North Yorkshire",
+                "peals": 0,
+                "quarters": 1,
+                "other": 1,
+                "total": 2
+            },
+            {
+                "tower": "York (All Saints, North Street), North Yorkshire",
+                "peals": 0,
+                "quarters": 1,
+                "other": 1,
+                "total": 2
+            },
+            {
                 "tower": "University of York (East Campus), North Yorkshire",
                 "peals": 0,
                 "quarters": 0,
@@ -39,13 +60,6 @@
             },
             {
                 "tower": "St Peter and St Paul, Healing, Lincolnshire",
-                "peals": 0,
-                "quarters": 1,
-                "other": 0,
-                "total": 1
-            },
-            {
-                "tower": "York (St Olave, Marygate), North Yorkshire",
                 "peals": 0,
                 "quarters": 1,
                 "other": 0,
@@ -73,6 +87,13 @@
                 "total": 1
             },
             {
+                "tower": "York (St Martin le Grand, Coney Street), North Yorkshire",
+                "peals": 0,
+                "quarters": 1,
+                "other": 0,
+                "total": 1
+            },
+            {
                 "tower": "St Helen, North Thoresby, Lincolnshire",
                 "peals": 0,
                 "quarters": 1,
@@ -94,21 +115,7 @@
                 "total": 1
             },
             {
-                "tower": "York (Spurriergate Centre), North Yorkshire",
-                "peals": 0,
-                "quarters": 0,
-                "other": 1,
-                "total": 1
-            },
-            {
                 "tower": "Between the Rook and Gaskill and Wetherspoons, York, ",
-                "peals": 0,
-                "quarters": 0,
-                "other": 1,
-                "total": 1
-            },
-            {
-                "tower": "York (All Saints, North Street), North Yorkshire",
                 "peals": 0,
                 "quarters": 0,
                 "other": 1,
@@ -124,9 +131,9 @@
         ],
         "summary": {
             "peals": 2,
-            "quarters": 54,
+            "quarters": 60,
             "other": 24,
-            "total": 80
+            "total": 86
         }
     },
     {

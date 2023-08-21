@@ -3,16 +3,16 @@
         {
             "tower": "York (St Lawrence), North Yorkshire",
             "peals": 7,
-            "quarters": 156,
+            "quarters": 157,
             "other": 10,
-            "total": 173
+            "total": 174
         },
         {
             "tower": "York (St Olave, Marygate), North Yorkshire",
             "peals": 1,
-            "quarters": 14,
+            "quarters": 15,
             "other": 0,
-            "total": 15
+            "total": 16
         },
         {
             "tower": "York (Oratory Church of St Wilfrid), North Yorkshire",
@@ -36,18 +36,18 @@
             "total": 8
         },
         {
+            "tower": "York (All Saints, North Street), North Yorkshire",
+            "peals": 1,
+            "quarters": 6,
+            "other": 1,
+            "total": 8
+        },
+        {
             "tower": "York (St Philip and St James, Clifton), North Yorkshire",
             "peals": 2,
             "quarters": 5,
             "other": 1,
             "total": 8
-        },
-        {
-            "tower": "York (All Saints, North Street), North Yorkshire",
-            "peals": 1,
-            "quarters": 5,
-            "other": 1,
-            "total": 7
         },
         {
             "tower": "Acomb (St Stephen), North Yorkshire",
@@ -507,8 +507,8 @@
     ],
     "summary": {
         "peals": 38,
-        "quarters": 492,
+        "quarters": 498,
         "other": 33,
-        "total": 563
+        "total": 569
     }
 }

@@ -2,6 +2,275 @@
     {
         "academic_year": "2022/23",
         "type": 1,
+        "date": "Sunday, 20 August 2023",
+        "location": "All Saints, North Street, York, North Yorkshire",
+        "weight": "7-2-2 in A",
+        "time": "45m",
+        "changes": "1440",
+        "method": "Oxford Treble Bob Minor",
+        "details": "IOI x3",
+        "ringers": [
+            {
+                "name": "Robert D C Richards (Langwith)",
+                "bell": "1"
+            },
+            {
+                "name": "Joseph E T Waters (SUGCR)",
+                "bell": "2"
+            },
+            {
+                "name": "Natasha A Williams (Alcuin)",
+                "bell": "3"
+            },
+            {
+                "name": "William J Lake (Langwith)",
+                "bell": "4"
+            },
+            {
+                "name": "Jemima Bleackley (Halifax)",
+                "bell": "5"
+            },
+            {
+                "name": "Ryan Mills (Halifax) (C)",
+                "bell": "6"
+            }
+        ],
+        "footnotes": [
+            "First of Oxford: 2, 3, 4, 5, 6",
+            "First in Sunglasses: 3",
+            "50th together: 3 & 5",
+            "50th this year: 3",
+            "5/6"
+        ],
+        "id": "1654426",
+        "time_in_ms": 16924902
+    },
+    {
+        "academic_year": "2022/23",
+        "type": 1,
+        "date": "Sunday, 20 August 2023",
+        "location": "Oratory Church of St Wilfrid, York, North Yorkshire",
+        "weight": "6-0-6 in C",
+        "time": "40m",
+        "changes": "1260",
+        "method": "Plain Bob Minor",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Ryan Mills (Halifax)",
+                "bell": "1"
+            },
+            {
+                "name": "William M Regan (Friend) (C)",
+                "bell": "2"
+            },
+            {
+                "name": "William J Lake (Langwith)",
+                "bell": "3"
+            },
+            {
+                "name": "Joseph E T Waters (SUGCR)",
+                "bell": "4"
+            },
+            {
+                "name": "Natasha A Williams (Alcuin)",
+                "bell": "5"
+            },
+            {
+                "name": "Jemima Bleackley (Halifax)",
+                "bell": "6"
+            }
+        ],
+        "footnotes": [
+            "Rung a different numbered bell to each quarter today: 1, 6.",
+            "60th YCG quarter this academic year.",
+            "25th together: 2, 5.",
+            "6/6.",
+            "Being pedantic about the usage of ampersands in footnotes: 5."
+        ],
+        "id": "1654430",
+        "time_in_ms": 16924902
+    },
+    {
+        "academic_year": "2022/23",
+        "type": 1,
+        "date": "Sunday, 20 August 2023",
+        "location": "Spurriergate Centre, York, North Yorkshire",
+        "weight": "8-2-14 in A",
+        "time": "46m",
+        "changes": "1440",
+        "method": "April Day Minor",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Natasha A Williams (Alcuin) (C)",
+                "bell": "1"
+            },
+            {
+                "name": "Jemima Bleackley (Halifax)",
+                "bell": "2"
+            },
+            {
+                "name": "Joseph E T Waters (SUGCR)",
+                "bell": "3"
+            },
+            {
+                "name": "Ryan E Mills (Halifax)",
+                "bell": "4"
+            },
+            {
+                "name": "Rosemary S Hall (Alcuin)",
+                "bell": "5"
+            },
+            {
+                "name": "William J Lake (Langwith)",
+                "bell": "6"
+            }
+        ],
+        "footnotes": [
+            "25th together: 1&6",
+            "First April Day Minor for all and as Conductor",
+            "(2/6)"
+        ],
+        "id": "1654415",
+        "time_in_ms": 16924902
+    },
+    {
+        "academic_year": "2022/23",
+        "type": 1,
+        "date": "Sunday, 20 August 2023",
+        "location": "St Lawrence, York, North Yorkshire",
+        "weight": "7-3-24 in A",
+        "time": "40m",
+        "changes": "1272",
+        "method": "Cambridge Surprise Minor",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Jemima C Bleackley (Halifax)",
+                "bell": "1"
+            },
+            {
+                "name": "Rosemary S Hall (Alcuin)",
+                "bell": "2"
+            },
+            {
+                "name": "Ryan E Mills (Halifax)",
+                "bell": "3"
+            },
+            {
+                "name": "Natasha A Williams (Alcuin)",
+                "bell": "4"
+            },
+            {
+                "name": "Joseph E T Waters (SUGCR)",
+                "bell": "5"
+            },
+            {
+                "name": "William J Lake (Langwith) (C)",
+                "bell": "6"
+            }
+        ],
+        "footnotes": [
+            "Birthday compliments to Judith Lake for tomorrow (Mother of Conductor)",
+            "Birthday compliments to Peter Ford for tomorrow, grandfather of the second",
+            "All in socks",
+            "(4/6)"
+        ],
+        "id": "1654424",
+        "time_in_ms": 16924902
+    },
+    {
+        "academic_year": "2022/23",
+        "type": 1,
+        "date": "Sunday, 20 August 2023",
+        "location": "St Martin le Grand, Coney Street, York, North Yorkshire",
+        "weight": "10-1-23 in G#",
+        "time": "40m",
+        "changes": "1260",
+        "method": "Grandsire Doubles",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Natasha A Williams (Alcuin)",
+                "bell": "1"
+            },
+            {
+                "name": "William J Lake (Langwith)",
+                "bell": "2"
+            },
+            {
+                "name": "Jemima C Bleackley (Halifax) (C)",
+                "bell": "3"
+            },
+            {
+                "name": "Peter J Sanderson (Friend)",
+                "bell": "4"
+            },
+            {
+                "name": "Ryan E Mills (Halifax)",
+                "bell": "5"
+            },
+            {
+                "name": "Joseph E T Waters (SUGCR)",
+                "bell": "6"
+            }
+        ],
+        "footnotes": [
+            "50th quarter: 2",
+            "RIP Norwich",
+            "(3/6)"
+        ],
+        "id": "1654416",
+        "time_in_ms": 16924902
+    },
+    {
+        "academic_year": "2022/23",
+        "type": 1,
+        "date": "Sunday, 20 August 2023",
+        "location": "St Olave, Marygate, York, North Yorkshire",
+        "weight": "9-0-14 in G#",
+        "time": "45m",
+        "changes": "1260",
+        "method": "St Clement's College Bob Minor",
+        "details": "",
+        "ringers": [
+            {
+                "name": "William J Lake (Langwith)",
+                "bell": "1"
+            },
+            {
+                "name": "Ryan E Mills (Halifax)",
+                "bell": "2"
+            },
+            {
+                "name": "William L K Brooke (Wentworth)",
+                "bell": "3"
+            },
+            {
+                "name": "Jemima C Bleackley (Halifax)",
+                "bell": "4"
+            },
+            {
+                "name": "Natasha A Williams (Alcuin)",
+                "bell": "5"
+            },
+            {
+                "name": "Joseph E T Waters (SUGCR) (C)",
+                "bell": "6"
+            }
+        ],
+        "footnotes": [
+            "With this, the 55th YCG Quarter Peal since the first of September last year, we break our record for the most Quarter Peals rung in an Academic Year.",
+            "We would like to extend a grateful thanks to all of our members this year for being so enthusiastic about bells, and to all of the people who have supported the Guild and rung with us this year in York and beyond.",
+            "(1/6)"
+        ],
+        "id": "1654420",
+        "time_in_ms": 16924902
+    },
+    {
+        "academic_year": "2022/23",
+        "type": 1,
         "date": "Saturday, 19 August 2023",
         "location": "St Nicholas, Haxey, Lincolnshire",
         "weight": "18-3-16 in D",

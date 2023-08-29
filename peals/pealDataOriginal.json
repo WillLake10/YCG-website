@@ -20210,6 +20210,51 @@
                 "bell": "3"
             },
             {
+                "name": "J Hollingshurst",
+                "bell": "4"
+            },
+            {
+                "name": "J S Leech (C)",
+                "bell": "5"
+            },
+            {
+                "name": "R D C Richards",
+                "bell": "6"
+            }
+        ],
+        "footnotes": [
+            "Past Members Quarter Peals",
+            "1st in Method: 2",
+            "For Graham & Sue's Wedding",
+            "Published as part of YCG's effort to digitalise old records. All records uploaded exactly as they appear in our physical books, for any changes to names etc, please contact admin@ycg.org.uk"
+        ],
+        "id": "1655437",
+        "time_in_ms": 7072710
+    },
+    {
+        "academic_year": "1991/92",
+        "type": 1,
+        "date": "Sunday, 31 May 1992",
+        "location": "All Saints, North Street, York, North Yorkshire",
+        "weight": "7-2-2 in A",
+        "time": "",
+        "changes": "1260",
+        "method": "Plain Bob Doubles",
+        "details": "",
+        "ringers": [
+            {
+                "name": "M D Sutton",
+                "bell": "1"
+            },
+            {
+                "name": "C G Vidgen",
+                "bell": "2"
+            },
+            {
+                "name": "Maxine R Darby",
+                "bell": "3"
+            },
+            {
                 "name": "J Holling Hurst",
                 "bell": "4"
             },
@@ -20527,6 +20572,44 @@
         ],
         "id": "1554491",
         "time_in_ms": 6921510
+    },
+    {
+        "academic_year": "1991/92",
+        "type": 1,
+        "date": "Friday, 06 December 1991",
+        "location": "All Saints, Huntington, York, North Yorkshire",
+        "weight": "5-0-17 in C",
+        "time": "",
+        "changes": "1260",
+        "method": "Doubles (4m)",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Kerry J Robinson",
+                "bell": "1"
+            },
+            {
+                "name": "C M Rudge",
+                "bell": "2"
+            },
+            {
+                "name": "S A Hume",
+                "bell": "3"
+            },
+            {
+                "name": "Sarah M Smith",
+                "bell": "4"
+            },
+            {
+                "name": "R M Burgess (C)",
+                "bell": "5"
+            }
+        ],
+        "footnotes": [
+            "Published as part of YCG's effort to digitalise old records. All records uploaded exactly as they appear in our physical books, for any changes to names etc, please contact admin@ycg.org.uk"
+        ],
+        "id": "1655588",
+        "time_in_ms": 6919781
     },
     {
         "academic_year": "1991/92",

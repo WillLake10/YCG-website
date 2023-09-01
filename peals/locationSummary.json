@@ -22,25 +22,25 @@
             "total": 11
         },
         {
-            "tower": "Huntington (All Saints), North Yorkshire",
-            "peals": 1,
-            "quarters": 8,
-            "other": 0,
-            "total": 9
-        },
-        {
-            "tower": "York (All Saints, North Street), North Yorkshire",
-            "peals": 1,
-            "quarters": 7,
-            "other": 1,
-            "total": 9
-        },
-        {
             "tower": "York (St Martin le Grand, Coney Street), North Yorkshire",
             "peals": 0,
             "quarters": 9,
             "other": 0,
             "total": 9
+        },
+        {
+            "tower": "Huntington (All Saints), North Yorkshire",
+            "peals": 1,
+            "quarters": 7,
+            "other": 0,
+            "total": 8
+        },
+        {
+            "tower": "York (All Saints, North Street), North Yorkshire",
+            "peals": 1,
+            "quarters": 6,
+            "other": 1,
+            "total": 8
         },
         {
             "tower": "York (St Philip and St James, Clifton), North Yorkshire",
@@ -507,8 +507,8 @@
     ],
     "summary": {
         "peals": 38,
-        "quarters": 500,
+        "quarters": 498,
         "other": 33,
-        "total": 571
+        "total": 569
     }
 }

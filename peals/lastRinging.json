@@ -1,28 +1,28 @@
 {
-    "academic_year": "2022/23",
+    "academic_year": "2023/24",
     "type": 1,
-    "date": "Sunday, 20 August 2023",
-    "location": "All Saints, North Street, York, North Yorkshire",
-    "weight": "7-2-2 in A",
-    "time": "45m",
-    "changes": "1440",
-    "method": "Oxford Treble Bob Minor",
-    "details": "IOI x3",
+    "date": "Friday, 01 September 2023",
+    "location": "Oratory Church of St Wilfrid, York, North Yorkshire",
+    "weight": "18-1-21 in F",
+    "time": "52m",
+    "changes": "1344",
+    "method": "Yorkshire Surprise Major",
+    "details": "",
     "ringers": [
         {
-            "name": "Robert D C Richards (Langwith)",
+            "name": "James D Austin (Moustache)",
             "bell": "1"
         },
         {
-            "name": "Joseph E T Waters (SUGCR)",
+            "name": "Natasha A Williams (Alcuin)",
             "bell": "2"
         },
         {
-            "name": "Natasha A Williams (Alcuin)",
+            "name": "Patrick W J Deakin (James) (C)",
             "bell": "3"
         },
         {
-            "name": "William J Lake (Langwith)",
+            "name": "Dr Iain J Anderson (Huddersfield)",
             "bell": "4"
         },
         {
@@ -30,17 +30,23 @@
             "bell": "5"
         },
         {
-            "name": "Ryan Mills (Halifax) (C)",
+            "name": "William M Regan (Friend)",
             "bell": "6"
+        },
+        {
+            "name": "Ewan G A Hull (Staff)",
+            "bell": "7"
+        },
+        {
+            "name": "Rachel L Mahoney (BUSCR)",
+            "bell": "8"
         }
     ],
     "footnotes": [
-        "First of Oxford: 2, 3, 4, 5, 6",
-        "First in Sunglasses: 3",
-        "50th together: 3 & 5",
-        "50th this year: 3",
-        "5/6"
+        "First blows in method: 2",
+        "First YCG quarter of the Academic Year",
+        "Organised in its entirety by Patrick W J Deakin"
     ],
-    "id": "1654426",
-    "time_in_ms": 16924902
+    "id": "1656023",
+    "time_in_ms": 16935272
 }

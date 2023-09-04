@@ -2,6 +2,34 @@
     {
         "academic_year": "2023/24",
         "type": 1,
+        "date": "Sunday, 03 September 2023",
+        "location": "66 Bootham, York, North Yorkshire",
+        "weight": "",
+        "time": "35m",
+        "changes": "1272",
+        "method": "Plain Bob Minimus",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Natasha A Williams (Alcuin)",
+                "bell": "1-2"
+            },
+            {
+                "name": "Patrick W J Deakin (James) (C)",
+                "bell": "3-4"
+            }
+        ],
+        "footnotes": [
+            "First Quarter Peal in hand: 1-2",
+            "First Quarter Peal in the office",
+            "First handbell Quarter Peal for the Guild in 15 years"
+        ],
+        "id": "1656194",
+        "time_in_ms": 16936994
+    },
+    {
+        "academic_year": "2023/24",
+        "type": 1,
         "date": "Friday, 01 September 2023",
         "location": "Oratory Church of St Wilfrid, York, North Yorkshire",
         "weight": "18-1-21 in F",

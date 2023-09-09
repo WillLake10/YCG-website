@@ -62,12 +62,16 @@ all_events = []
 for event in events:
     if not check_str_contains("!null", event["DESCRIPTION"]):
         if type(event["DTSTART"].dt) != datetime.date:
+            try:
+                loc = ",".join(str(event["LOCATION"]).split(",")[:2])
+            except:
+                loc = “”
             all_events.append(
                 Event(
                     s_date=event["DTSTART"].dt,
                     e_date=event["DTEND"].dt,
                     title=str(event["SUMMARY"]),
-                    location=",".join(str(event["LOCATION"]).split(",")[:2]),
+                    location=loc,
                     description=str(event["DESCRIPTION"].replace("!Social", "").replace("!Practice", "")),
                     social=check_str_contains("!Social", event["DESCRIPTION"]),
                     practice=check_str_contains("!Practice", event["DESCRIPTION"]),

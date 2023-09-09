@@ -65,7 +65,7 @@ for event in events:
             try:
                 loc = ",".join(str(event["LOCATION"]).split(",")[:2])
             except:
-                loc = “”
+                loc = ""
             all_events.append(
                 Event(
                     s_date=event["DTSTART"].dt,

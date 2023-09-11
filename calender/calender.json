@@ -1774,5 +1774,53 @@
         "social": false,
         "practice": false,
         "allDay": false
+    },
+    {
+        "s_date": {
+            "day": "10",
+            "month": "December",
+            "year": "2023",
+            "time": "09:30",
+            "weekday": "Sunday",
+            "full": "09:30, Sunday 10 December"
+        },
+        "e_date": {
+            "day": "10",
+            "month": "December",
+            "year": "2023",
+            "time": "10:15",
+            "weekday": "Sunday",
+            "full": "10:15, Sunday 10 December"
+        },
+        "title": "Sunday Service Ringing",
+        "location": "St Lawrence Parish Church, York",
+        "description": "Weekly morning service ringing at St Lawrence that some YCG members attend",
+        "social": false,
+        "practice": false,
+        "allDay": false
+    },
+    {
+        "s_date": {
+            "day": "10",
+            "month": "December",
+            "year": "2023",
+            "time": "17:45",
+            "weekday": "Sunday",
+            "full": "17:45, Sunday 10 December"
+        },
+        "e_date": {
+            "day": "10",
+            "month": "December",
+            "year": "2023",
+            "time": "18:30",
+            "weekday": "Sunday",
+            "full": "18:30, Sunday 10 December"
+        },
+        "title": "Sunday Evensong Ringing",
+        "location": "St Lawrence Parish Church, York",
+        "description": "Weekly evening service ringing at St Lawrence after normal YCG practice",
+        "social": false,
+        "practice": false,
+        "allDay": false
     }
 ]

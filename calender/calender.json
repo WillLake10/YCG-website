@@ -1,54 +1,6 @@
 [
     {
         "s_date": {
-            "day": "20",
-            "month": "September",
-            "year": "2023",
-            "time": "17:30",
-            "weekday": "Wednesday",
-            "full": "17:30, Wednesday 20 September"
-        },
-        "e_date": {
-            "day": "20",
-            "month": "September",
-            "year": "2023",
-            "time": "19:00",
-            "weekday": "Wednesday",
-            "full": "19:00, Wednesday 20 September"
-        },
-        "title": "YCG Practice",
-        "location": "St Lawrence Parish Church, York",
-        "description": " First practice of the year!",
-        "social": false,
-        "practice": true,
-        "allDay": false
-    },
-    {
-        "s_date": {
-            "day": "20",
-            "month": "September",
-            "year": "2023",
-            "time": "19:00",
-            "weekday": "Wednesday",
-            "full": "19:00, Wednesday 20 September"
-        },
-        "e_date": {
-            "day": "20",
-            "month": "September",
-            "year": "2023",
-            "time": "21:00",
-            "weekday": "Wednesday",
-            "full": "21:00, Wednesday 20 September"
-        },
-        "title": "To The Pub!",
-        "location": "The Pub",
-        "description": " First social of the year!",
-        "social": true,
-        "practice": false,
-        "allDay": false
-    },
-    {
-        "s_date": {
             "day": "21",
             "month": "September",
             "year": "2023",
@@ -68,6 +20,30 @@
         "location": "York Oratory, Duncombe Pl",
         "description": "St Wilfrid's weekly practice that many members attend",
         "social": false,
+        "practice": false,
+        "allDay": false
+    },
+    {
+        "s_date": {
+            "day": "23",
+            "month": "September",
+            "year": "2023",
+            "time": "18:00",
+            "weekday": "Saturday",
+            "full": "18:00, Saturday 23 September"
+        },
+        "e_date": {
+            "day": "23",
+            "month": "September",
+            "year": "2023",
+            "time": "21:00",
+            "weekday": "Saturday",
+            "full": "21:00, Saturday 23 September"
+        },
+        "title": "Rook",
+        "location": "The Rook & Gaskill, 12 Lawrence St",
+        "description": "",
+        "social": true,
         "practice": false,
         "allDay": false
     },

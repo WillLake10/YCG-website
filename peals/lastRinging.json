@@ -1,44 +1,50 @@
 {
     "academic_year": "2023/24",
     "type": 1,
-    "date": "Wednesday, 20 September 2023",
-    "location": "St Lawrence, York, North Yorkshire",
-    "weight": "7-3-24 in A",
-    "time": "43m",
-    "changes": "1260",
-    "method": "Plain Bob Doubles",
+    "date": "Friday, 22 September 2023",
+    "location": "Oratory Church of St Wilfrid, York, North Yorkshire",
+    "weight": "18-1-21 in F",
+    "time": "",
+    "changes": "1253",
+    "method": "Stedman Triples",
     "details": "",
     "ringers": [
         {
-            "name": "Caitlin E Routledge (Alcuin)",
+            "name": "Ryan Mills (Halifax)",
             "bell": "1"
         },
         {
-            "name": "Benjamin J Hartley (St John)",
+            "name": "William M Regan (Friend)",
             "bell": "2"
         },
         {
-            "name": "Megan K Bucknall (Anne Lister)",
+            "name": "Jemima Bleackley (Halifax)",
             "bell": "3"
         },
         {
-            "name": "Simon W Edwards (Alcuin)",
+            "name": "Matthew O Hall (Vanbrugh)",
             "bell": "4"
         },
         {
-            "name": "Matthew O Hall (Vanbrugh) (C)",
+            "name": "Natasha A Williams (Alcuin)",
             "bell": "5"
         },
         {
-            "name": "Natasha A Williams (Alcuin)",
+            "name": "Patrick W J Deakin (James) (C)",
             "bell": "6"
+        },
+        {
+            "name": "Simon W Edwards (Alcuin)",
+            "bell": "7"
+        },
+        {
+            "name": "Benjamin J Hartley (St John)",
+            "bell": "8"
         }
     ],
     "footnotes": [
-        "First away from cover: 1",
-        "To celebrate the first practice of the new academic year.",
-        "25th together: 5, 6"
+        "Rung on the eve of our Fresher's Fair, in hopeful anticipation of an influx of new learners"
     ],
-    "id": "1659182",
-    "time_in_ms": 16951686
+    "id": "1659507",
+    "time_in_ms": 16953416
 }

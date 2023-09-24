@@ -1,30 +1,6 @@
 [
     {
         "s_date": {
-            "day": "23",
-            "month": "September",
-            "year": "2023",
-            "time": "18:00",
-            "weekday": "Saturday",
-            "full": "18:00, Saturday 23 September"
-        },
-        "e_date": {
-            "day": "23",
-            "month": "September",
-            "year": "2023",
-            "time": "21:00",
-            "weekday": "Saturday",
-            "full": "21:00, Saturday 23 September"
-        },
-        "title": "Rook",
-        "location": "The Rook & Gaskill, 12 Lawrence St",
-        "description": "",
-        "social": true,
-        "practice": false,
-        "allDay": false
-    },
-    {
-        "s_date": {
             "day": "24",
             "month": "September",
             "year": "2023",

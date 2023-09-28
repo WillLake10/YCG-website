@@ -1,54 +1,6 @@
 [
     {
         "s_date": {
-            "day": "27",
-            "month": "September",
-            "year": "2023",
-            "time": "16:30",
-            "weekday": "Wednesday",
-            "full": "16:30, Wednesday 27 September"
-        },
-        "e_date": {
-            "day": "27",
-            "month": "September",
-            "year": "2023",
-            "time": "19:00",
-            "weekday": "Wednesday",
-            "full": "19:00, Wednesday 27 September"
-        },
-        "title": "Bellringing Taster Session",
-        "location": "York, UK",
-        "description": "!practice",
-        "social": false,
-        "practice": false,
-        "allDay": false
-    },
-    {
-        "s_date": {
-            "day": "27",
-            "month": "September",
-            "year": "2023",
-            "time": "19:00",
-            "weekday": "Wednesday",
-            "full": "19:00, Wednesday 27 September"
-        },
-        "e_date": {
-            "day": "27",
-            "month": "September",
-            "year": "2023",
-            "time": "20:30",
-            "weekday": "Wednesday",
-            "full": "20:30, Wednesday 27 September"
-        },
-        "title": "Post Giving It A Go Social",
-        "location": "The Pub",
-        "description": "",
-        "social": true,
-        "practice": false,
-        "allDay": false
-    },
-    {
-        "s_date": {
             "day": "28",
             "month": "September",
             "year": "2023",

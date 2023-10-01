@@ -24454,46 +24454,6 @@
         "time_in_ms": 734406
     },
     {
-        "academic_year": "1971/72",
-        "type": 1,
-        "date": "Thursday, 20 April 1972",
-        "location": "Art's Centre, York, North Yorkshire",
-        "weight": "10",
-        "time": "",
-        "changes": "1260",
-        "method": "Plain Bob Minor",
-        "details": "",
-        "ringers": [
-            {
-                "name": "David E Potter",
-                "bell": "1"
-            },
-            {
-                "name": "Claire L Noble",
-                "bell": "2"
-            },
-            {
-                "name": "Barbara J Rand",
-                "bell": "3"
-            },
-            {
-                "name": "John S Leech",
-                "bell": "4"
-            },
-            {
-                "name": "Martin J Turner",
-                "bell": "5"
-            },
-            {
-                "name": "Owen P Claxton (C)",
-                "bell": "6"
-            }
-        ],
-        "footnotes": [],
-        "id": "1505821",
-        "time_in_ms": 725766
-    },
-    {
         "academic_year": "1970/71",
         "type": 1,
         "date": "Sunday, 13 June 1971",

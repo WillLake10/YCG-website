@@ -2,6 +2,38 @@
     {
         "academic_year": "2023/24",
         "type": 1,
+        "date": "Thursday, 05 October 2023",
+        "location": "Alcuin College, University of York (Outside JCR), York, North Yorkshire",
+        "weight": "9 in A",
+        "time": "21m",
+        "changes": "1272",
+        "method": "Plain Bob Minimus",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Natasha A Williams (Alcuin)",
+                "bell": "1-2"
+            },
+            {
+                "name": "Simon W Edwards (Owlcuin) (C)",
+                "bell": "3-4"
+            }
+        ],
+        "footnotes": [
+            "Arranged and rung as a belated Welcome to the 23/24 Freshers, and to celebrate the first Alcuin College Brunch of the year.",
+            "First quarter peal for Owlcuin - congratulations!",
+            "Fastest quarter peal: 1-2, and for the Guild",
+            "Not first quarter peal in fancy dress: 3-4",
+            "The band would love to associate this performance with Our Lord High Ringing Master, Matthew O Hall (Vanbrugh)",
+            "Our Lord High Ringing Master, Matthew O Hall (Vanbrugh) does not wish to be associated with this performance.",
+            "https://www.youtube.com/watch?v=_DbYYzViwxk"
+        ],
+        "id": "1661330",
+        "time_in_ms": 16964642
+    },
+    {
+        "academic_year": "2023/24",
+        "type": 1,
         "date": "Friday, 22 September 2023",
         "location": "Oratory Church of St Wilfrid, York, North Yorkshire",
         "weight": "18-1-21 in F",

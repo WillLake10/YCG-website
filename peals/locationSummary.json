@@ -113,6 +113,13 @@
             "total": 3
         },
         {
+            "tower": "66 Bootham, York, North Yorkshire",
+            "peals": 0,
+            "quarters": 2,
+            "other": 0,
+            "total": 2
+        },
+        {
             "tower": "Barnoldswick (St Mary le Ghyll), Lancashire",
             "peals": 0,
             "quarters": 2,
@@ -152,13 +159,6 @@
             "peals": 0,
             "quarters": 0,
             "other": 1,
-            "total": 1
-        },
-        {
-            "tower": "66 Bootham, York, North Yorkshire",
-            "peals": 0,
-            "quarters": 1,
-            "other": 0,
             "total": 1
         },
         {
@@ -521,8 +521,8 @@
     ],
     "summary": {
         "peals": 38,
-        "quarters": 502,
+        "quarters": 504,
         "other": 33,
-        "total": 573
+        "total": 575
     }
 }

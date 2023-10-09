@@ -2,6 +2,105 @@
     {
         "academic_year": "2023/24",
         "type": 1,
+        "date": "Sunday, 08 October 2023",
+        "location": "Cathedral and Metropolitical Church of St Peter, York, North Yorkshire",
+        "weight": "59-1-23 in Bb",
+        "time": "67m",
+        "changes": "1346",
+        "method": "Cambridge Surprise Maximus",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Edward R Mack",
+                "bell": "1"
+            },
+            {
+                "name": "Eleanor C Mack",
+                "bell": "2"
+            },
+            {
+                "name": "Helen P Taylor",
+                "bell": "3"
+            },
+            {
+                "name": "Iain J Anderson",
+                "bell": "4"
+            },
+            {
+                "name": "Simon P Hartley",
+                "bell": "5"
+            },
+            {
+                "name": "James D Austin",
+                "bell": "6"
+            },
+            {
+                "name": "Matthew W Thewsey",
+                "bell": "7"
+            },
+            {
+                "name": "Harry Z Helyer",
+                "bell": "8"
+            },
+            {
+                "name": "Joseph E T Waters",
+                "bell": "9"
+            },
+            {
+                "name": "Ryan Mills",
+                "bell": "10"
+            },
+            {
+                "name": "Patrick W J Deakin (C)",
+                "bell": "11"
+            },
+            {
+                "name": "Andrew I Blacklock",
+                "bell": "12"
+            }
+        ],
+        "footnotes": [
+            "Rung with birthday compliments to J Alan Ainsworth",
+            "First QP of Maximus: 6"
+        ],
+        "id": "1661802",
+        "time_in_ms": 16967244
+    },
+    {
+        "academic_year": "2023/24",
+        "type": 1,
+        "date": "Sunday, 08 October 2023",
+        "location": "66 Bootham, York, North Yorkshire",
+        "weight": "",
+        "time": "38m",
+        "changes": "1260",
+        "method": "Plain Bob Minor",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Natasha A Williams (Alcuin)",
+                "bell": "1-2"
+            },
+            {
+                "name": "Jemima Bleackley (Halifax)",
+                "bell": "3-4"
+            },
+            {
+                "name": "Patrick W J Deakin (James) (C)",
+                "bell": "5-6"
+            }
+        ],
+        "footnotes": [
+            "First QP in hand: 3-4",
+            "First QP on 6 in hand: 1-2",
+            "Celebrating the forthcoming arrival of Joseph Waters' niece or nephew"
+        ],
+        "id": "1661691",
+        "time_in_ms": 16967235
+    },
+    {
+        "academic_year": "2023/24",
+        "type": 1,
         "date": "Thursday, 05 October 2023",
         "location": "Alcuin College, University of York (Outside JCR), York, North Yorkshire",
         "weight": "9 in A",

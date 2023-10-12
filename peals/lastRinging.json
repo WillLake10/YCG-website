@@ -1,67 +1,46 @@
 {
     "academic_year": "2023/24",
     "type": 1,
-    "date": "Sunday, 08 October 2023",
-    "location": "Cathedral and Metropolitical Church of St Peter, York, North Yorkshire",
-    "weight": "59-1-23 in Bb",
-    "time": "67m",
-    "changes": "1346",
-    "method": "Cambridge Surprise Maximus",
+    "date": "Wednesday, 11 October 2023",
+    "location": "St Lawrence, York, North Yorkshire",
+    "weight": "7-3-24 in A",
+    "time": "42m",
+    "changes": "1260",
+    "method": "Plain Bob Doubles",
     "details": "",
     "ringers": [
         {
-            "name": "Edward R Mack",
+            "name": "Benjamin J Hartley (St John)",
             "bell": "1"
         },
         {
-            "name": "Eleanor C Mack",
+            "name": "Matthew O Hall (Vanbrugh)",
             "bell": "2"
         },
         {
-            "name": "Helen P Taylor",
+            "name": "Dominic D O'Neill (Alcuin)",
             "bell": "3"
         },
         {
-            "name": "Iain J Anderson",
+            "name": "Natasha A Williams (Alcuin) (C)",
             "bell": "4"
         },
         {
-            "name": "Simon P Hartley",
+            "name": "Simon W Edwards (Alcuin)",
             "bell": "5"
         },
         {
-            "name": "James D Austin",
+            "name": "Robert H B Johnson (Wentworth)",
             "bell": "6"
-        },
-        {
-            "name": "Matthew W Thewsey",
-            "bell": "7"
-        },
-        {
-            "name": "Harry Z Helyer",
-            "bell": "8"
-        },
-        {
-            "name": "Joseph E T Waters",
-            "bell": "9"
-        },
-        {
-            "name": "Ryan Mills",
-            "bell": "10"
-        },
-        {
-            "name": "Patrick W J Deakin (C)",
-            "bell": "11"
-        },
-        {
-            "name": "Andrew I Blacklock",
-            "bell": "12"
         }
     ],
     "footnotes": [
-        "Rung with birthday compliments to J Alan Ainsworth",
-        "First QP of Maximus: 6"
+        "Rung with 30th birthday compliments to Jay P Downes of Doncaster",
+        "Forgot about his dad's birthday, which is today: 2",
+        "First quarter inside: 3",
+        "First YCG quarter: 6",
+        "50th YCG Quarter in 2023"
     ],
-    "id": "1661802",
-    "time_in_ms": 16967244
+    "id": "1662102",
+    "time_in_ms": 16969830
 }

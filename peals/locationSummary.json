@@ -302,6 +302,13 @@
             "total": 1
         },
         {
+            "tower": "Oratory Church of St Wilfrid, York, ",
+            "peals": 0,
+            "quarters": 1,
+            "other": 0,
+            "total": 1
+        },
+        {
             "tower": "Pirbright (St Michael), Surrey",
             "peals": 0,
             "quarters": 1,
@@ -521,8 +528,8 @@
     ],
     "summary": {
         "peals": 38,
-        "quarters": 505,
+        "quarters": 506,
         "other": 33,
-        "total": 576
+        "total": 577
     }
 }

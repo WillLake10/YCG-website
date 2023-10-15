@@ -85,6 +85,13 @@
             "total": 4
         },
         {
+            "tower": "66 Bootham, York, North Yorkshire",
+            "peals": 0,
+            "quarters": 3,
+            "other": 0,
+            "total": 3
+        },
+        {
             "tower": "Bedale (St Gregory), North Yorkshire",
             "peals": 0,
             "quarters": 3,
@@ -111,13 +118,6 @@
             "quarters": 3,
             "other": 0,
             "total": 3
-        },
-        {
-            "tower": "66 Bootham, York, North Yorkshire",
-            "peals": 0,
-            "quarters": 2,
-            "other": 0,
-            "total": 2
         },
         {
             "tower": "Barnoldswick (St Mary le Ghyll), Lancashire",
@@ -528,8 +528,8 @@
     ],
     "summary": {
         "peals": 38,
-        "quarters": 506,
+        "quarters": 507,
         "other": 33,
-        "total": 577
+        "total": 578
     }
 }

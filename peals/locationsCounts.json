@@ -3,6 +3,13 @@
         "academic_year": "2023/24",
         "tower": [
             {
+                "tower": "66 Bootham, York, North Yorkshire",
+                "peals": 0,
+                "quarters": 3,
+                "other": 0,
+                "total": 3
+            },
+            {
                 "tower": "York (St Lawrence), North Yorkshire",
                 "peals": 0,
                 "quarters": 2,
@@ -11,13 +18,6 @@
             },
             {
                 "tower": "York (Oratory Church of St Wilfrid), North Yorkshire",
-                "peals": 0,
-                "quarters": 2,
-                "other": 0,
-                "total": 2
-            },
-            {
-                "tower": "66 Bootham, York, North Yorkshire",
                 "peals": 0,
                 "quarters": 2,
                 "other": 0,
@@ -47,9 +47,9 @@
         ],
         "summary": {
             "peals": 0,
-            "quarters": 9,
+            "quarters": 10,
             "other": 0,
-            "total": 9
+            "total": 10
         }
     },
     {

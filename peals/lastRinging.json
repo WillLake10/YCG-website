@@ -1,16 +1,16 @@
 {
     "academic_year": "2023/24",
     "type": 1,
-    "date": "Saturday, 14 October 2023",
+    "date": "Monday, 16 October 2023",
     "location": "66 Bootham, York, North Yorkshire",
     "weight": "11 in G",
-    "time": "37m",
+    "time": "38m",
     "changes": "1260",
     "method": "Plain Bob Minor",
     "details": "",
     "ringers": [
         {
-            "name": "William M Regan (Friend)",
+            "name": "Jemima Bleackley (Halifax)",
             "bell": "1-2"
         },
         {
@@ -23,10 +23,8 @@
         }
     ],
     "footnotes": [
-        "Celebrating the arrival of Theodore Augustus Louis Mistry, nephew to Joseph Waters",
-        "First on the trebles: 1-2",
-        "First QP on an inside pair: 5-6"
+        "With birthday compliments to Ann M Williams, grandmother of 5-6, who started to learn to ring as a teenager before \"getting distracted\" by the grandfather of 5-6"
     ],
-    "id": "1662588",
-    "time_in_ms": 16972419
+    "id": "1662911",
+    "time_in_ms": 16974147
 }

@@ -1,48 +1,28 @@
 {
     "academic_year": "2023/24",
     "type": 1,
-    "date": "Wednesday, 18 October 2023",
-    "location": "Oratory Church of St Wilfrid, York, North Yorkshire",
-    "weight": "6-0-6 in C",
-    "time": "43m",
+    "date": "Thursday, 19 October 2023",
+    "location": "66 Bootham, York, North Yorkshire",
+    "weight": "8 in C",
+    "time": "28m",
     "changes": "1260",
-    "method": "Plain Bob Doubles",
-    "details": "1080 Plain Bob, 60 Plain Bob, 120 Plain Bob.",
+    "method": "Plain Bob Minor",
+    "details": "",
     "ringers": [
         {
-            "name": "Aidan T Derby (Derwent)",
-            "bell": "1"
+            "name": "Jemima Bleackley (Halifax)",
+            "bell": "1-2"
         },
         {
-            "name": "Benjamin J Hartley (St John)",
-            "bell": "2"
-        },
-        {
-            "name": "Matthew O Hall (Vanbrugh)",
-            "bell": "3"
-        },
-        {
-            "name": "Megan Bucknall (Anne Lister)",
-            "bell": "4"
+            "name": "Patrick W J Deakin (James)",
+            "bell": "3-4"
         },
         {
             "name": "William M Regan (Friend) (C)",
-            "bell": "5"
-        },
-        {
-            "name": "Rebecca A Hall (Langwith)",
-            "bell": "6"
+            "bell": "5-6"
         }
     ],
-    "footnotes": [
-        "Birthday compliments to Rachel E Bagley.",
-        "First quarter away from the tenor: 1.",
-        "Doesn't know Grandsire singles: 2.",
-        "Missed his sally, and got zinged by Robin O Hall: 3.",
-        "Loves Plain Bob: 4.",
-        "Confused the ringer of the 3rd: 5.",
-        "Tried to join in: 6."
-    ],
-    "id": "1663162",
-    "time_in_ms": 16975878
+    "footnotes": [],
+    "id": "1663315",
+    "time_in_ms": 16976739
 }

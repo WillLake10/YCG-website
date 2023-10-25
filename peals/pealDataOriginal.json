@@ -2,6 +2,36 @@
     {
         "academic_year": "2023/24",
         "type": 1,
+        "date": "Tuesday, 24 October 2023",
+        "location": "66 Bootham, York, North Yorkshire",
+        "weight": "",
+        "time": "",
+        "changes": "1260",
+        "method": "Plain Bob Minor",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Natasha A Williams (Alcuin)",
+                "bell": "1-2"
+            },
+            {
+                "name": "Patrick W J Deakin (James) (C)",
+                "bell": "3-4"
+            },
+            {
+                "name": "Jemima Bleackley (Halifax)",
+                "bell": "5-6"
+            }
+        ],
+        "footnotes": [
+            "Also present: William M Regan (Friend)"
+        ],
+        "id": "1664304",
+        "time_in_ms": 16981059
+    },
+    {
+        "academic_year": "2023/24",
+        "type": 1,
         "date": "Thursday, 19 October 2023",
         "location": "66 Bootham, York, North Yorkshire",
         "weight": "8 in C",

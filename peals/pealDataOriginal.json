@@ -2,6 +2,48 @@
     {
         "academic_year": "2023/24",
         "type": 1,
+        "date": "Wednesday, 25 October 2023",
+        "location": "Oratory Church of St Wilfrid, York, North Yorkshire",
+        "weight": "6-0-6 in C",
+        "time": "43m",
+        "changes": "1260",
+        "method": "St Simon's Bob Doubles",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Caitlin E Routledge (Alcuin)",
+                "bell": "1"
+            },
+            {
+                "name": "Simon W Edwards (Alcuin) (C)",
+                "bell": "2"
+            },
+            {
+                "name": "Robert H B Johnson (Wentworth)",
+                "bell": "3"
+            },
+            {
+                "name": "Megan K Bucknall (Anne Lister)",
+                "bell": "4"
+            },
+            {
+                "name": "Matthew O Hall (Vanbrugh)",
+                "bell": "5"
+            },
+            {
+                "name": "Benjamin J Hartley (St John)",
+                "bell": "6"
+            }
+        ],
+        "footnotes": [
+            "Fewest footnotes in a YCG quarter for all."
+        ],
+        "id": "1664454",
+        "time_in_ms": 16981926
+    },
+    {
+        "academic_year": "2023/24",
+        "type": 1,
         "date": "Tuesday, 24 October 2023",
         "location": "66 Bootham, York, North Yorkshire",
         "weight": "",

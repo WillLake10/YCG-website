@@ -2,6 +2,41 @@
     {
         "academic_year": "2023/24",
         "type": 1,
+        "date": "Thursday, 26 October 2023",
+        "location": "66 Bootham, York, North Yorkshire",
+        "weight": "12 in F",
+        "time": "",
+        "changes": "1360",
+        "method": "Plain Bob Major",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Patrick W J Deakin (James) (C)",
+                "bell": "1-2"
+            },
+            {
+                "name": "Natasha A Williams (Alcuin)",
+                "bell": "3-4"
+            },
+            {
+                "name": "William M Regan (Friend)",
+                "bell": "5-6"
+            },
+            {
+                "name": "Jemima C Bleackley (Halifax)",
+                "bell": "7-8"
+            }
+        ],
+        "footnotes": [
+            "First Quarter Peal on 8 in hand: 3-4, 7-8",
+            "Also present: Joseph E T Waters (SUGCR)"
+        ],
+        "id": "1664692",
+        "time_in_ms": 16982788
+    },
+    {
+        "academic_year": "2023/24",
+        "type": 1,
         "date": "Wednesday, 25 October 2023",
         "location": "Oratory Church of St Wilfrid, York, North Yorkshire",
         "weight": "6-0-6 in C",

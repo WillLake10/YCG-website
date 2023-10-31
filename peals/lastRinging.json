@@ -1,52 +1,59 @@
 {
     "academic_year": "2023/24",
     "type": 1,
-    "date": "Friday, 27 October 2023",
-    "location": "Oratory Church of St Wilfrid, York, North Yorkshire",
-    "weight": "18-1-21 in F",
-    "time": "",
-    "changes": "1344",
-    "method": "Spliced Surprise Major (3m)",
-    "details": "448 each Bristol, Cambridge, Yorkshire; 35 changes of method; every single work.",
+    "date": "Sunday, 29 October 2023",
+    "location": "Cathedral and Metropolitical Church of St Peter, York, ",
+    "weight": "59-1-23 in Bb",
+    "time": "64m",
+    "changes": "1260",
+    "method": "Grandsire Caters",
+    "details": "",
     "ringers": [
         {
-            "name": "William L K Brooke (Wentworth)",
+            "name": "David G Hull (C)",
             "bell": "1"
         },
         {
-            "name": "Natasha A Williams (Alcuin)",
+            "name": "Natasha A Williams",
             "bell": "2"
         },
         {
-            "name": "Jemima C Bleackley (Halifax)",
+            "name": "Jemima Bleackley",
             "bell": "3"
         },
         {
-            "name": "Patrick W J Deakin (James) (C)",
+            "name": "Matthew O Hall",
             "bell": "4"
         },
         {
-            "name": "Simon W Edwards (Alcuin)",
+            "name": "Iain J Anderson",
             "bell": "5"
         },
         {
-            "name": "Matthew W Thewsey (Modern Society of Plymouth Youths)",
+            "name": "Joseph E T Waters",
             "bell": "6"
         },
         {
-            "name": "William M Regan (Friend)",
+            "name": "Patrick W J Deakin",
             "bell": "7"
         },
         {
-            "name": "Joseph E T Waters (SUGCR)",
+            "name": "Alison L Edmonds",
             "bell": "8"
+        },
+        {
+            "name": "Simon W Edwards",
+            "bell": "9"
+        },
+        {
+            "name": "Matthew W Thewsey",
+            "bell": "10"
         }
     ],
     "footnotes": [
-        "100th Quarter Peal: 2,3",
-        "First Quarter Peal of Spliced: 3",
-        "First Quarter Peal of Spliced Surprise Major: 2"
+        "First quarter peal at the Minster: 2, 3, 4.",
+        "For Choral Evensong."
     ],
-    "id": "1664873",
-    "time_in_ms": 16983656
+    "id": "1665427",
+    "time_in_ms": 16985386
 }

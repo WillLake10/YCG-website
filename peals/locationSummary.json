@@ -232,6 +232,13 @@
             "total": 1
         },
         {
+            "tower": "Cathedral and Metropolitical Church of St Peter, York, ",
+            "peals": 0,
+            "quarters": 1,
+            "other": 0,
+            "total": 1
+        },
+        {
             "tower": "Chieveley (St Mary the Virgin), Berkshire",
             "peals": 0,
             "quarters": 1,
@@ -528,8 +535,8 @@
     ],
     "summary": {
         "peals": 38,
-        "quarters": 515,
+        "quarters": 516,
         "other": 33,
-        "total": 586
+        "total": 587
     }
 }

@@ -1,54 +1,6 @@
 [
     {
         "s_date": {
-            "day": "06",
-            "month": "November",
-            "year": "2023",
-            "time": "19:00",
-            "weekday": "Monday",
-            "full": "19:00, Monday 06 November"
-        },
-        "e_date": {
-            "day": "06",
-            "month": "November",
-            "year": "2023",
-            "time": "19:30",
-            "weekday": "Monday",
-            "full": "19:30, Monday 06 November"
-        },
-        "title": "St Lawrence Handling Practice",
-        "location": "St Lawrence Parish Church, York",
-        "description": " Extra Handling Practices at St Lawrence before the main practice",
-        "social": false,
-        "practice": true,
-        "allDay": false
-    },
-    {
-        "s_date": {
-            "day": "06",
-            "month": "November",
-            "year": "2023",
-            "time": "19:30",
-            "weekday": "Monday",
-            "full": "19:30, Monday 06 November"
-        },
-        "e_date": {
-            "day": "06",
-            "month": "November",
-            "year": "2023",
-            "time": "21:00",
-            "weekday": "Monday",
-            "full": "21:00, Monday 06 November"
-        },
-        "title": "St Lawrence Practice",
-        "location": "St Lawrence Parish Church, York",
-        "description": "St Lawrence weekly practice that many members attend",
-        "social": false,
-        "practice": false,
-        "allDay": false
-    },
-    {
-        "s_date": {
             "day": "07",
             "month": "November",
             "year": "2023",
@@ -1915,6 +1867,30 @@
         "title": "St Lawrence Practice",
         "location": "St Lawrence Parish Church, York",
         "description": "St Lawrence weekly practice that many members attend",
+        "social": false,
+        "practice": false,
+        "allDay": false
+    },
+    {
+        "s_date": {
+            "day": "06",
+            "month": "February",
+            "year": "2024",
+            "time": "19:00",
+            "weekday": "Tuesday",
+            "full": "19:00, Tuesday 06 February"
+        },
+        "e_date": {
+            "day": "06",
+            "month": "February",
+            "year": "2024",
+            "time": "21:00",
+            "weekday": "Tuesday",
+            "full": "21:00, Tuesday 06 February"
+        },
+        "title": "York Minster Practice",
+        "location": "York Minster, Deangate",
+        "description": "Weekly practice at the Minster that some members attend",
         "social": false,
         "practice": false,
         "allDay": false

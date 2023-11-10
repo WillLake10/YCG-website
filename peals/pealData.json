@@ -1,5 +1,739 @@
 [
     {
+        "academic_year": "2023/24",
+        "type": 1,
+        "date": "Wednesday, 08 November 2023",
+        "location": "Oratory Church of St Wilfrid, York, North Yorkshire",
+        "weight": "6-0-6 in C",
+        "time": "42m",
+        "changes": "1260",
+        "method": "Plain Bob Doubles",
+        "details": "",
+        "ringers": [
+            {
+                "name": "William M Regan (Friend)",
+                "bell": "1"
+            },
+            {
+                "name": "Caitlin E Routledge (Alcuin)",
+                "bell": "2"
+            },
+            {
+                "name": "Matthew O Hall (Vanbrugh) (C)",
+                "bell": "3"
+            },
+            {
+                "name": "Benjamin J Hartley (St John)",
+                "bell": "4"
+            },
+            {
+                "name": "Megan K Bucknall (Anne Lister)",
+                "bell": "5"
+            },
+            {
+                "name": "Robert H B Johnson (Wentworth)",
+                "bell": "6"
+            }
+        ],
+        "footnotes": [
+            "First Inside: 2",
+            "With congratulations to William M Regan (Housed) on moving to York."
+        ],
+        "id": "1667420",
+        "time_in_ms": 16994022
+    },
+    {
+        "academic_year": "2023/24",
+        "type": 1,
+        "date": "Sunday, 29 October 2023",
+        "location": "Cathedral and Metropolitical Church of St Peter, York, ",
+        "weight": "59-1-23 in Bb",
+        "time": "64m",
+        "changes": "1260",
+        "method": "Grandsire Caters",
+        "details": "",
+        "ringers": [
+            {
+                "name": "David G Hull (C)",
+                "bell": "1"
+            },
+            {
+                "name": "Natasha A Williams",
+                "bell": "2"
+            },
+            {
+                "name": "Jemima Bleackley",
+                "bell": "3"
+            },
+            {
+                "name": "Matthew O Hall",
+                "bell": "4"
+            },
+            {
+                "name": "Iain J Anderson",
+                "bell": "5"
+            },
+            {
+                "name": "Joseph E T Waters",
+                "bell": "6"
+            },
+            {
+                "name": "Patrick W J Deakin",
+                "bell": "7"
+            },
+            {
+                "name": "Alison L Edmonds",
+                "bell": "8"
+            },
+            {
+                "name": "Simon W Edwards",
+                "bell": "9"
+            },
+            {
+                "name": "Matthew W Thewsey",
+                "bell": "10"
+            }
+        ],
+        "footnotes": [
+            "First quarter peal at the Minster: 2, 3, 4.",
+            "For Choral Evensong."
+        ],
+        "id": "1665427",
+        "time_in_ms": 16985386
+    },
+    {
+        "academic_year": "2023/24",
+        "type": 1,
+        "date": "Friday, 27 October 2023",
+        "location": "Oratory Church of St Wilfrid, York, North Yorkshire",
+        "weight": "18-1-21 in F",
+        "time": "",
+        "changes": "1344",
+        "method": "Spliced Surprise Major (3m)",
+        "details": "448 each Bristol, Cambridge, Yorkshire; 35 changes of method; every single work.",
+        "ringers": [
+            {
+                "name": "William L K Brooke (Wentworth)",
+                "bell": "1"
+            },
+            {
+                "name": "Natasha A Williams (Alcuin)",
+                "bell": "2"
+            },
+            {
+                "name": "Jemima C Bleackley (Halifax)",
+                "bell": "3"
+            },
+            {
+                "name": "Patrick W J Deakin (James) (C)",
+                "bell": "4"
+            },
+            {
+                "name": "Simon W Edwards (Alcuin)",
+                "bell": "5"
+            },
+            {
+                "name": "Matthew W Thewsey (Modern Society of Plymouth Youths)",
+                "bell": "6"
+            },
+            {
+                "name": "William M Regan (Friend)",
+                "bell": "7"
+            },
+            {
+                "name": "Joseph E T Waters (SUGCR)",
+                "bell": "8"
+            }
+        ],
+        "footnotes": [
+            "100th Quarter Peal: 2,3",
+            "First Quarter Peal of Spliced: 3",
+            "First Quarter Peal of Spliced Surprise Major: 2"
+        ],
+        "id": "1664873",
+        "time_in_ms": 16983656
+    },
+    {
+        "academic_year": "2023/24",
+        "type": 1,
+        "date": "Thursday, 26 October 2023",
+        "location": "66 Bootham, York, North Yorkshire",
+        "weight": "12 in F",
+        "time": "",
+        "changes": "1360",
+        "method": "Plain Bob Major",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Patrick W J Deakin (James) (C)",
+                "bell": "1-2"
+            },
+            {
+                "name": "Natasha A Williams (Alcuin)",
+                "bell": "3-4"
+            },
+            {
+                "name": "William M Regan (Friend)",
+                "bell": "5-6"
+            },
+            {
+                "name": "Jemima C Bleackley (Halifax)",
+                "bell": "7-8"
+            }
+        ],
+        "footnotes": [
+            "First Quarter Peal on 8 in hand: 3-4, 7-8",
+            "Also present: Joseph E T Waters (SUGCR)"
+        ],
+        "id": "1664692",
+        "time_in_ms": 16982788
+    },
+    {
+        "academic_year": "2023/24",
+        "type": 1,
+        "date": "Wednesday, 25 October 2023",
+        "location": "Oratory Church of St Wilfrid, York, North Yorkshire",
+        "weight": "6-0-6 in C",
+        "time": "43m",
+        "changes": "1260",
+        "method": "St Simon's Bob Doubles",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Caitlin E Routledge (Alcuin)",
+                "bell": "1"
+            },
+            {
+                "name": "Simon W Edwards (Alcuin) (C)",
+                "bell": "2"
+            },
+            {
+                "name": "Robert H B Johnson (Wentworth)",
+                "bell": "3"
+            },
+            {
+                "name": "Megan K Bucknall (Anne Lister)",
+                "bell": "4"
+            },
+            {
+                "name": "Matthew O Hall (Vanbrugh)",
+                "bell": "5"
+            },
+            {
+                "name": "Benjamin J Hartley (St John)",
+                "bell": "6"
+            }
+        ],
+        "footnotes": [
+            "Fewest footnotes in a YCG quarter for all."
+        ],
+        "id": "1664454",
+        "time_in_ms": 16981926
+    },
+    {
+        "academic_year": "2023/24",
+        "type": 1,
+        "date": "Tuesday, 24 October 2023",
+        "location": "66 Bootham, York, North Yorkshire",
+        "weight": "",
+        "time": "",
+        "changes": "1260",
+        "method": "Plain Bob Minor",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Natasha A Williams (Alcuin)",
+                "bell": "1-2"
+            },
+            {
+                "name": "Patrick W J Deakin (James) (C)",
+                "bell": "3-4"
+            },
+            {
+                "name": "Jemima Bleackley (Halifax)",
+                "bell": "5-6"
+            }
+        ],
+        "footnotes": [
+            "Also present: William M Regan (Friend)"
+        ],
+        "id": "1664304",
+        "time_in_ms": 16981059
+    },
+    {
+        "academic_year": "2023/24",
+        "type": 1,
+        "date": "Thursday, 19 October 2023",
+        "location": "66 Bootham, York, North Yorkshire",
+        "weight": "8 in C",
+        "time": "28m",
+        "changes": "1260",
+        "method": "Plain Bob Minor",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Jemima Bleackley (Halifax)",
+                "bell": "1-2"
+            },
+            {
+                "name": "Patrick W J Deakin (James)",
+                "bell": "3-4"
+            },
+            {
+                "name": "William M Regan (Friend) (C)",
+                "bell": "5-6"
+            }
+        ],
+        "footnotes": [],
+        "id": "1663315",
+        "time_in_ms": 16976739
+    },
+    {
+        "academic_year": "2023/24",
+        "type": 1,
+        "date": "Wednesday, 18 October 2023",
+        "location": "Oratory Church of St Wilfrid, York, North Yorkshire",
+        "weight": "6-0-6 in C",
+        "time": "43m",
+        "changes": "1260",
+        "method": "Plain Bob Doubles",
+        "details": "1080 Plain Bob, 60 Plain Bob, 120 Plain Bob.",
+        "ringers": [
+            {
+                "name": "Aidan T Derby (Derwent)",
+                "bell": "1"
+            },
+            {
+                "name": "Benjamin J Hartley (St John)",
+                "bell": "2"
+            },
+            {
+                "name": "Matthew O Hall (Vanbrugh)",
+                "bell": "3"
+            },
+            {
+                "name": "Megan Bucknall (Anne Lister)",
+                "bell": "4"
+            },
+            {
+                "name": "William M Regan (Friend) (C)",
+                "bell": "5"
+            },
+            {
+                "name": "Rebecca A Hall (Langwith)",
+                "bell": "6"
+            }
+        ],
+        "footnotes": [
+            "Birthday compliments to Rachel E Bagley.",
+            "First quarter away from the tenor: 1.",
+            "Doesn't know Grandsire singles: 2.",
+            "Missed his sally, and got zinged by Robin O Hall: 3.",
+            "Loves Plain Bob: 4.",
+            "Confused the ringer of the 3rd: 5.",
+            "Tried to join in: 6."
+        ],
+        "id": "1663162",
+        "time_in_ms": 16975878
+    },
+    {
+        "academic_year": "2023/24",
+        "type": 1,
+        "date": "Monday, 16 October 2023",
+        "location": "66 Bootham, York, North Yorkshire",
+        "weight": "11 in G",
+        "time": "38m",
+        "changes": "1260",
+        "method": "Plain Bob Minor",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Jemima Bleackley (Halifax)",
+                "bell": "1-2"
+            },
+            {
+                "name": "Patrick W J Deakin (James) (C)",
+                "bell": "3-4"
+            },
+            {
+                "name": "Natasha A Williams (Alcuin)",
+                "bell": "5-6"
+            }
+        ],
+        "footnotes": [
+            "With birthday compliments to Ann M Williams, grandmother of 5-6, who started to learn to ring as a teenager before \"getting distracted\" by the grandfather of 5-6"
+        ],
+        "id": "1662911",
+        "time_in_ms": 16974147
+    },
+    {
+        "academic_year": "2023/24",
+        "type": 1,
+        "date": "Saturday, 14 October 2023",
+        "location": "66 Bootham, York, North Yorkshire",
+        "weight": "11 in G",
+        "time": "37m",
+        "changes": "1260",
+        "method": "Plain Bob Minor",
+        "details": "",
+        "ringers": [
+            {
+                "name": "William M Regan (Friend)",
+                "bell": "1-2"
+            },
+            {
+                "name": "Patrick W J Deakin (James) (C)",
+                "bell": "3-4"
+            },
+            {
+                "name": "Natasha A Williams (Alcuin)",
+                "bell": "5-6"
+            }
+        ],
+        "footnotes": [
+            "Celebrating the arrival of Theodore Augustus Louis Mistry, nephew to Joseph Waters",
+            "First on the trebles: 1-2",
+            "First QP on an inside pair: 5-6"
+        ],
+        "id": "1662588",
+        "time_in_ms": 16972419
+    },
+    {
+        "academic_year": "2023/24",
+        "type": 1,
+        "date": "Friday, 13 October 2023",
+        "location": "Oratory Church of St Wilfrid, York, ",
+        "weight": "18-1-21 in F",
+        "time": "48m",
+        "changes": "1250",
+        "method": "Cambridge Surprise Major",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Simon J Poole (Friend)",
+                "bell": "1"
+            },
+            {
+                "name": "Ewan G A Hull (Staff) (C)",
+                "bell": "2"
+            },
+            {
+                "name": "Matthew O Hall (Vanbrugh)",
+                "bell": "3"
+            },
+            {
+                "name": "Benjamin J Hartley (St John)",
+                "bell": "4"
+            },
+            {
+                "name": "Natasha A Williams (Alcuin)",
+                "bell": "5"
+            },
+            {
+                "name": "Joanna M Ainsworth (Friend)",
+                "bell": "6"
+            },
+            {
+                "name": "Jemima C Bleackley (Halifax)",
+                "bell": "7"
+            },
+            {
+                "name": "Patrick W J Deakin (James)",
+                "bell": "8"
+            }
+        ],
+        "footnotes": [
+            "First Surprise Major: 4",
+            "25th QP together: 5 and 8"
+        ],
+        "id": "1662454",
+        "time_in_ms": 16971560
+    },
+    {
+        "academic_year": "2023/24",
+        "type": 1,
+        "date": "Wednesday, 11 October 2023",
+        "location": "St Lawrence, York, North Yorkshire",
+        "weight": "7-3-24 in A",
+        "time": "42m",
+        "changes": "1260",
+        "method": "Plain Bob Doubles",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Benjamin J Hartley (St John)",
+                "bell": "1"
+            },
+            {
+                "name": "Matthew O Hall (Vanbrugh)",
+                "bell": "2"
+            },
+            {
+                "name": "Dominic D O'Neill (Alcuin)",
+                "bell": "3"
+            },
+            {
+                "name": "Natasha A Williams (Alcuin) (C)",
+                "bell": "4"
+            },
+            {
+                "name": "Simon W Edwards (Alcuin)",
+                "bell": "5"
+            },
+            {
+                "name": "Robert H B Johnson (Wentworth)",
+                "bell": "6"
+            }
+        ],
+        "footnotes": [
+            "Rung with 30th birthday compliments to Jay P Downes of Doncaster",
+            "Forgot about his dad's birthday, which is today: 2",
+            "First quarter inside: 3",
+            "First YCG quarter: 6",
+            "50th YCG Quarter in 2023"
+        ],
+        "id": "1662102",
+        "time_in_ms": 16969830
+    },
+    {
+        "academic_year": "2023/24",
+        "type": 1,
+        "date": "Sunday, 08 October 2023",
+        "location": "66 Bootham, York, North Yorkshire",
+        "weight": "11 in G",
+        "time": "38m",
+        "changes": "1260",
+        "method": "Plain Bob Minor",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Natasha A Williams (Alcuin)",
+                "bell": "1-2"
+            },
+            {
+                "name": "Jemima Bleackley (Halifax)",
+                "bell": "3-4"
+            },
+            {
+                "name": "Patrick W J Deakin (James) (C)",
+                "bell": "5-6"
+            }
+        ],
+        "footnotes": [
+            "First Quarter Peal in hand: 3-4",
+            "First Quarter Peal on 6 handbells: 1-2",
+            "Celebrating the forthcoming arrival of Joseph Waters' niece or nephew."
+        ],
+        "id": "1662902",
+        "time_in_ms": 16967235
+    },
+    {
+        "academic_year": "2023/24",
+        "type": 1,
+        "date": "Thursday, 05 October 2023",
+        "location": "Alcuin College, University of York (Outside JCR), York, North Yorkshire",
+        "weight": "9 in A",
+        "time": "21m",
+        "changes": "1272",
+        "method": "Plain Bob Minimus",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Natasha A Williams (Alcuin)",
+                "bell": "1-2"
+            },
+            {
+                "name": "Simon W Edwards (Owlcuin) (C)",
+                "bell": "3-4"
+            }
+        ],
+        "footnotes": [
+            "Arranged and rung as a belated Welcome to the 23/24 Freshers, and to celebrate the first Alcuin College Brunch of the year.",
+            "First quarter peal for Owlcuin - congratulations!",
+            "Fastest quarter peal: 1-2, and for the Guild",
+            "Not first quarter peal in fancy dress: 3-4",
+            "The band would love to associate this performance with Our Lord High Ringing Master, Matthew O Hall (Vanbrugh)",
+            "Our Lord High Ringing Master, Matthew O Hall (Vanbrugh) does not wish to be associated with this performance.",
+            "https://www.youtube.com/watch?v=_DbYYzViwxk"
+        ],
+        "id": "1661330",
+        "time_in_ms": 16964642
+    },
+    {
+        "academic_year": "2023/24",
+        "type": 1,
+        "date": "Friday, 22 September 2023",
+        "location": "Oratory Church of St Wilfrid, York, North Yorkshire",
+        "weight": "18-1-21 in F",
+        "time": "",
+        "changes": "1253",
+        "method": "Stedman Triples",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Ryan Mills (Halifax)",
+                "bell": "1"
+            },
+            {
+                "name": "William M Regan (Friend)",
+                "bell": "2"
+            },
+            {
+                "name": "Jemima Bleackley (Halifax)",
+                "bell": "3"
+            },
+            {
+                "name": "Matthew O Hall (Vanbrugh)",
+                "bell": "4"
+            },
+            {
+                "name": "Natasha A Williams (Alcuin)",
+                "bell": "5"
+            },
+            {
+                "name": "Patrick W J Deakin (James) (C)",
+                "bell": "6"
+            },
+            {
+                "name": "Simon W Edwards (Alcuin)",
+                "bell": "7"
+            },
+            {
+                "name": "Benjamin J Hartley (St John)",
+                "bell": "8"
+            }
+        ],
+        "footnotes": [
+            "Rung on the eve of our Fresher's Fair, in hopeful anticipation of an influx of new learners"
+        ],
+        "id": "1659507",
+        "time_in_ms": 16953416
+    },
+    {
+        "academic_year": "2023/24",
+        "type": 1,
+        "date": "Wednesday, 20 September 2023",
+        "location": "St Lawrence, York, North Yorkshire",
+        "weight": "7-3-24 in A",
+        "time": "43m",
+        "changes": "1260",
+        "method": "Plain Bob Doubles",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Caitlin E Routledge (Alcuin)",
+                "bell": "1"
+            },
+            {
+                "name": "Benjamin J Hartley (St John)",
+                "bell": "2"
+            },
+            {
+                "name": "Megan K Bucknall (Anne Lister)",
+                "bell": "3"
+            },
+            {
+                "name": "Simon W Edwards (Alcuin)",
+                "bell": "4"
+            },
+            {
+                "name": "Matthew O Hall (Vanbrugh) (C)",
+                "bell": "5"
+            },
+            {
+                "name": "Natasha A Williams (Alcuin)",
+                "bell": "6"
+            }
+        ],
+        "footnotes": [
+            "First away from cover: 1",
+            "To celebrate the first practice of the new academic year.",
+            "25th together: 5, 6"
+        ],
+        "id": "1659182",
+        "time_in_ms": 16951686
+    },
+    {
+        "academic_year": "2023/24",
+        "type": 1,
+        "date": "Sunday, 03 September 2023",
+        "location": "66 Bootham, York, North Yorkshire",
+        "weight": "",
+        "time": "35m",
+        "changes": "1272",
+        "method": "Plain Bob Minimus",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Natasha A Williams (Alcuin)",
+                "bell": "1-2"
+            },
+            {
+                "name": "Patrick W J Deakin (James) (C)",
+                "bell": "3-4"
+            }
+        ],
+        "footnotes": [
+            "First Quarter Peal in hand: 1-2",
+            "First Quarter Peal in the office",
+            "First handbell Quarter Peal for the Guild in 15 years"
+        ],
+        "id": "1656194",
+        "time_in_ms": 16936994
+    },
+    {
+        "academic_year": "2023/24",
+        "type": 1,
+        "date": "Friday, 01 September 2023",
+        "location": "Oratory Church of St Wilfrid, York, North Yorkshire",
+        "weight": "18-1-21 in F",
+        "time": "52m",
+        "changes": "1344",
+        "method": "Yorkshire Surprise Major",
+        "details": "",
+        "ringers": [
+            {
+                "name": "James D Austin (Moustache)",
+                "bell": "1"
+            },
+            {
+                "name": "Natasha A Williams (Alcuin)",
+                "bell": "2"
+            },
+            {
+                "name": "Patrick W J Deakin (James) (C)",
+                "bell": "3"
+            },
+            {
+                "name": "Dr Iain J Anderson (Huddersfield)",
+                "bell": "4"
+            },
+            {
+                "name": "Jemima Bleackley (Halifax)",
+                "bell": "5"
+            },
+            {
+                "name": "William M Regan (Friend)",
+                "bell": "6"
+            },
+            {
+                "name": "Ewan G A Hull (Staff)",
+                "bell": "7"
+            },
+            {
+                "name": "Rachel L Mahoney (BUSCR)",
+                "bell": "8"
+            }
+        ],
+        "footnotes": [
+            "First blows in method: 2",
+            "First YCG quarter of the Academic Year",
+            "Organised in its entirety by Patrick W J Deakin"
+        ],
+        "id": "1656023",
+        "time_in_ms": 16935272
+    },
+    {
         "academic_year": "2022/23",
         "type": 0,
         "date": "Sunday, 18 June 2023",
@@ -92,6 +826,372 @@
         ],
         "id": "1618421",
         "time_in_ms": 16833418
+    },
+    {
+        "academic_year": "2022/23",
+        "type": 1,
+        "date": "Sunday, 20 August 2023",
+        "location": "All Saints, North Street, York, North Yorkshire",
+        "weight": "7-2-2 in A",
+        "time": "45m",
+        "changes": "1440",
+        "method": "Oxford Treble Bob Minor",
+        "details": "IOI x3",
+        "ringers": [
+            {
+                "name": "Robert D C Richards (Langwith)",
+                "bell": "1"
+            },
+            {
+                "name": "Joseph E T Waters (SUGCR)",
+                "bell": "2"
+            },
+            {
+                "name": "Natasha A Williams (Alcuin)",
+                "bell": "3"
+            },
+            {
+                "name": "William J Lake (Langwith)",
+                "bell": "4"
+            },
+            {
+                "name": "Jemima Bleackley (Halifax)",
+                "bell": "5"
+            },
+            {
+                "name": "Ryan Mills (Halifax) (C)",
+                "bell": "6"
+            }
+        ],
+        "footnotes": [
+            "First of Oxford: 2, 3, 4, 5, 6",
+            "First in Sunglasses: 3",
+            "50th together: 3 & 5",
+            "50th this year: 3",
+            "5/6"
+        ],
+        "id": "1654426",
+        "time_in_ms": 16924902
+    },
+    {
+        "academic_year": "2022/23",
+        "type": 1,
+        "date": "Sunday, 20 August 2023",
+        "location": "Oratory Church of St Wilfrid, York, North Yorkshire",
+        "weight": "6-0-6 in C",
+        "time": "40m",
+        "changes": "1260",
+        "method": "Plain Bob Minor",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Ryan Mills (Halifax)",
+                "bell": "1"
+            },
+            {
+                "name": "William M Regan (Friend) (C)",
+                "bell": "2"
+            },
+            {
+                "name": "William J Lake (Langwith)",
+                "bell": "3"
+            },
+            {
+                "name": "Joseph E T Waters (SUGCR)",
+                "bell": "4"
+            },
+            {
+                "name": "Natasha A Williams (Alcuin)",
+                "bell": "5"
+            },
+            {
+                "name": "Jemima Bleackley (Halifax)",
+                "bell": "6"
+            }
+        ],
+        "footnotes": [
+            "Rung a different numbered bell to each quarter today: 1, 6.",
+            "60th YCG quarter this academic year.",
+            "25th together: 2, 5.",
+            "6/6.",
+            "Being pedantic about the usage of ampersands in footnotes: 5."
+        ],
+        "id": "1654430",
+        "time_in_ms": 16924902
+    },
+    {
+        "academic_year": "2022/23",
+        "type": 1,
+        "date": "Sunday, 20 August 2023",
+        "location": "Spurriergate Centre, York, North Yorkshire",
+        "weight": "8-2-14 in A",
+        "time": "46m",
+        "changes": "1440",
+        "method": "April Day Minor",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Natasha A Williams (Alcuin) (C)",
+                "bell": "1"
+            },
+            {
+                "name": "Jemima Bleackley (Halifax)",
+                "bell": "2"
+            },
+            {
+                "name": "Joseph E T Waters (SUGCR)",
+                "bell": "3"
+            },
+            {
+                "name": "Ryan E Mills (Halifax)",
+                "bell": "4"
+            },
+            {
+                "name": "Rosemary S Hall (Alcuin)",
+                "bell": "5"
+            },
+            {
+                "name": "William J Lake (Langwith)",
+                "bell": "6"
+            }
+        ],
+        "footnotes": [
+            "25th together: 1&6",
+            "First April Day Minor for all and as Conductor",
+            "(2/6)"
+        ],
+        "id": "1654415",
+        "time_in_ms": 16924902
+    },
+    {
+        "academic_year": "2022/23",
+        "type": 1,
+        "date": "Sunday, 20 August 2023",
+        "location": "St Lawrence, York, North Yorkshire",
+        "weight": "7-3-24 in A",
+        "time": "40m",
+        "changes": "1272",
+        "method": "Cambridge Surprise Minor",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Jemima C Bleackley (Halifax)",
+                "bell": "1"
+            },
+            {
+                "name": "Rosemary S Hall (Alcuin)",
+                "bell": "2"
+            },
+            {
+                "name": "Ryan E Mills (Halifax)",
+                "bell": "3"
+            },
+            {
+                "name": "Natasha A Williams (Alcuin)",
+                "bell": "4"
+            },
+            {
+                "name": "Joseph E T Waters (SUGCR)",
+                "bell": "5"
+            },
+            {
+                "name": "William J Lake (Langwith) (C)",
+                "bell": "6"
+            }
+        ],
+        "footnotes": [
+            "Birthday compliments to Judith Lake for tomorrow (Mother of Conductor)",
+            "Birthday compliments to Peter Ford for tomorrow, grandfather of the second",
+            "All in socks",
+            "(4/6)"
+        ],
+        "id": "1654424",
+        "time_in_ms": 16924902
+    },
+    {
+        "academic_year": "2022/23",
+        "type": 1,
+        "date": "Sunday, 20 August 2023",
+        "location": "St Martin le Grand, Coney Street, York, North Yorkshire",
+        "weight": "10-1-23 in G#",
+        "time": "40m",
+        "changes": "1260",
+        "method": "Grandsire Doubles",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Natasha A Williams (Alcuin)",
+                "bell": "1"
+            },
+            {
+                "name": "William J Lake (Langwith)",
+                "bell": "2"
+            },
+            {
+                "name": "Jemima C Bleackley (Halifax) (C)",
+                "bell": "3"
+            },
+            {
+                "name": "Peter J Sanderson (Friend)",
+                "bell": "4"
+            },
+            {
+                "name": "Ryan E Mills (Halifax)",
+                "bell": "5"
+            },
+            {
+                "name": "Joseph E T Waters (SUGCR)",
+                "bell": "6"
+            }
+        ],
+        "footnotes": [
+            "50th quarter: 2",
+            "RIP Norwich",
+            "(3/6)"
+        ],
+        "id": "1654416",
+        "time_in_ms": 16924902
+    },
+    {
+        "academic_year": "2022/23",
+        "type": 1,
+        "date": "Sunday, 20 August 2023",
+        "location": "St Olave, Marygate, York, North Yorkshire",
+        "weight": "9-0-14 in G#",
+        "time": "45m",
+        "changes": "1260",
+        "method": "St Clement's College Bob Minor",
+        "details": "",
+        "ringers": [
+            {
+                "name": "William J Lake (Langwith)",
+                "bell": "1"
+            },
+            {
+                "name": "Ryan E Mills (Halifax)",
+                "bell": "2"
+            },
+            {
+                "name": "William L K Brooke (Wentworth)",
+                "bell": "3"
+            },
+            {
+                "name": "Jemima C Bleackley (Halifax)",
+                "bell": "4"
+            },
+            {
+                "name": "Natasha A Williams (Alcuin)",
+                "bell": "5"
+            },
+            {
+                "name": "Joseph E T Waters (SUGCR) (C)",
+                "bell": "6"
+            }
+        ],
+        "footnotes": [
+            "With this, the 55th YCG Quarter Peal since the first of September last year, we break our record for the most Quarter Peals rung in an Academic Year.",
+            "We would like to extend a grateful thanks to all of our members this year for being so enthusiastic about bells, and to all of the people who have supported the Guild and rung with us this year in York and beyond.",
+            "(1/6)"
+        ],
+        "id": "1654420",
+        "time_in_ms": 16924902
+    },
+    {
+        "academic_year": "2022/23",
+        "type": 1,
+        "date": "Saturday, 19 August 2023",
+        "location": "St Nicholas, Haxey, Lincolnshire",
+        "weight": "18-3-16 in D",
+        "time": "47m",
+        "changes": "1260",
+        "method": "Plain Bob Minor",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Natasha A Williams (Alcuin) (C)",
+                "bell": "1"
+            },
+            {
+                "name": "Jemima Bleackley (Halifax)",
+                "bell": "2"
+            },
+            {
+                "name": "Laura S Watt (NUSCR)",
+                "bell": "3"
+            },
+            {
+                "name": "Rosemary S Hall (Alcuin)",
+                "bell": "4"
+            },
+            {
+                "name": "Philippa C M Stokoe (Staff)",
+                "bell": "5"
+            },
+            {
+                "name": "Emily E Hall (NUSCR)",
+                "bell": "6"
+            }
+        ],
+        "footnotes": [
+            "Rung by a band of Big Strong Men.",
+            "Believed to be the first Ladies quarter in the tower and in the Isle of Axholme.",
+            "A 90th Birthday compliment to Percy Cooper for tomorrow, previous tower captain here.",
+            "First YCG quarter: 3, 5"
+        ],
+        "id": "1654125",
+        "time_in_ms": 16924038
+    },
+    {
+        "academic_year": "2022/23",
+        "type": 1,
+        "date": "Wednesday, 16 August 2023",
+        "location": "Oratory Church of St Wilfrid, York, North Yorkshire",
+        "weight": "18-1-21 in F",
+        "time": "48m",
+        "changes": "1250",
+        "method": "Cambridge Surprise Major",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Patrick W J Deakin (James)",
+                "bell": "1"
+            },
+            {
+                "name": "Elva R Ainsworth (UBSCR)",
+                "bell": "2"
+            },
+            {
+                "name": "Natasha A Williams (Alcuin)",
+                "bell": "3"
+            },
+            {
+                "name": "William L K Brooke (Wentworth)",
+                "bell": "4"
+            },
+            {
+                "name": "Rachel L Mahoney (BUSCR)",
+                "bell": "5"
+            },
+            {
+                "name": "Jemima C Bleackley (Halifax)",
+                "bell": "6"
+            },
+            {
+                "name": "Ewan G A Hull (Staff)",
+                "bell": "7"
+            },
+            {
+                "name": "Joseph E T Waters (SUGCR) (C)",
+                "bell": "8"
+            }
+        ],
+        "footnotes": [
+            "Rung to wish luck to those receiving their A-level results tomorrow",
+            "First touch of S Major: 3",
+            "Fastest quarter peal on the bells within the last week"
+        ],
+        "id": "1653781",
+        "time_in_ms": 16921448
     },
     {
         "academic_year": "2022/23",
@@ -19886,7 +20986,7 @@
                 "bell": "3"
             },
             {
-                "name": "J Holling Hurst",
+                "name": "J Hollingshurst",
                 "bell": "4"
             },
             {
@@ -19904,7 +21004,7 @@
             "For Graham & Sue's Wedding",
             "Published as part of YCG's effort to digitalise old records. All records uploaded exactly as they appear in our physical books, for any changes to names etc, please contact admin@ycg.org.uk"
         ],
-        "id": "1554484",
+        "id": "1655437",
         "time_in_ms": 7072710
     },
     {
@@ -20197,7 +21297,7 @@
         "footnotes": [
             "Published as part of YCG's effort to digitalise old records. All records uploaded exactly as they appear in our physical books, for any changes to names etc, please contact admin@ycg.org.uk"
         ],
-        "id": "1554492",
+        "id": "1655588",
         "time_in_ms": 6919781
     },
     {
@@ -23912,46 +25012,6 @@
         ],
         "id": "1519072",
         "time_in_ms": 734406
-    },
-    {
-        "academic_year": "1971/72",
-        "type": 1,
-        "date": "Thursday, 20 April 1972",
-        "location": "Art's Centre, York, North Yorkshire",
-        "weight": "10",
-        "time": "",
-        "changes": "1260",
-        "method": "Plain Bob Minor",
-        "details": "",
-        "ringers": [
-            {
-                "name": "David E Potter",
-                "bell": "1"
-            },
-            {
-                "name": "Claire L Noble",
-                "bell": "2"
-            },
-            {
-                "name": "Barbara J Rand",
-                "bell": "3"
-            },
-            {
-                "name": "John S Leech",
-                "bell": "4"
-            },
-            {
-                "name": "Martin J Turner",
-                "bell": "5"
-            },
-            {
-                "name": "Owen P Claxton (C)",
-                "bell": "6"
-            }
-        ],
-        "footnotes": [],
-        "id": "1505821",
-        "time_in_ms": 725766
     },
     {
         "academic_year": "1970/71",

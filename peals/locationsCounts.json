@@ -1,20 +1,73 @@
 [
     {
+        "academic_year": "2023/24",
+        "tower": [
+            {
+                "tower": "66 Bootham, York, North Yorkshire",
+                "peals": 0,
+                "quarters": 7,
+                "other": 0,
+                "total": 7
+            },
+            {
+                "tower": "York (Oratory Church of St Wilfrid), North Yorkshire",
+                "peals": 0,
+                "quarters": 6,
+                "other": 0,
+                "total": 6
+            },
+            {
+                "tower": "York (St Lawrence), North Yorkshire",
+                "peals": 0,
+                "quarters": 2,
+                "other": 0,
+                "total": 2
+            },
+            {
+                "tower": "Oratory Church of St Wilfrid, York, ",
+                "peals": 0,
+                "quarters": 1,
+                "other": 0,
+                "total": 1
+            },
+            {
+                "tower": "Cathedral and Metropolitical Church of St Peter, York, ",
+                "peals": 0,
+                "quarters": 1,
+                "other": 0,
+                "total": 1
+            },
+            {
+                "tower": "Alcuin College, University of York (Outside JCR), York, North Yorkshire",
+                "peals": 0,
+                "quarters": 1,
+                "other": 0,
+                "total": 1
+            }
+        ],
+        "summary": {
+            "peals": 0,
+            "quarters": 18,
+            "other": 0,
+            "total": 18
+        }
+    },
+    {
         "academic_year": "2022/23",
         "tower": [
             {
                 "tower": "York (St Lawrence), North Yorkshire",
                 "peals": 0,
-                "quarters": 29,
+                "quarters": 30,
                 "other": 9,
-                "total": 38
+                "total": 39
             },
             {
                 "tower": "York (Oratory Church of St Wilfrid), North Yorkshire",
                 "peals": 0,
-                "quarters": 15,
+                "quarters": 17,
                 "other": 0,
-                "total": 15
+                "total": 17
             },
             {
                 "tower": "York (Cathedral and Metropolitical Church of St Peter), North Yorkshire",
@@ -31,6 +84,27 @@
                 "total": 4
             },
             {
+                "tower": "York (St Olave, Marygate), North Yorkshire",
+                "peals": 0,
+                "quarters": 2,
+                "other": 0,
+                "total": 2
+            },
+            {
+                "tower": "York (Spurriergate Centre), North Yorkshire",
+                "peals": 0,
+                "quarters": 1,
+                "other": 1,
+                "total": 2
+            },
+            {
+                "tower": "York (All Saints, North Street), North Yorkshire",
+                "peals": 0,
+                "quarters": 1,
+                "other": 1,
+                "total": 2
+            },
+            {
                 "tower": "University of York (East Campus), North Yorkshire",
                 "peals": 0,
                 "quarters": 0,
@@ -45,7 +119,7 @@
                 "total": 1
             },
             {
-                "tower": "York (St Olave, Marygate), North Yorkshire",
+                "tower": "St Nicholas, Haxey, Lincolnshire",
                 "peals": 0,
                 "quarters": 1,
                 "other": 0,
@@ -60,6 +134,13 @@
             },
             {
                 "tower": "St Martin, Welton le Wold, Lincolnshire",
+                "peals": 0,
+                "quarters": 1,
+                "other": 0,
+                "total": 1
+            },
+            {
+                "tower": "York (St Martin le Grand, Coney Street), North Yorkshire",
                 "peals": 0,
                 "quarters": 1,
                 "other": 0,
@@ -87,21 +168,7 @@
                 "total": 1
             },
             {
-                "tower": "York (Spurriergate Centre), North Yorkshire",
-                "peals": 0,
-                "quarters": 0,
-                "other": 1,
-                "total": 1
-            },
-            {
                 "tower": "Between the Rook and Gaskill and Wetherspoons, York, ",
-                "peals": 0,
-                "quarters": 0,
-                "other": 1,
-                "total": 1
-            },
-            {
-                "tower": "York (All Saints, North Street), North Yorkshire",
                 "peals": 0,
                 "quarters": 0,
                 "other": 1,
@@ -117,9 +184,9 @@
         ],
         "summary": {
             "peals": 2,
-            "quarters": 52,
+            "quarters": 60,
             "other": 24,
-            "total": 78
+            "total": 86
         }
     },
     {
@@ -1973,16 +2040,16 @@
             {
                 "tower": "York (Former St John (Arts Center)), Yorkshire",
                 "peals": 0,
-                "quarters": 2,
+                "quarters": 1,
                 "other": 0,
-                "total": 2
+                "total": 1
             }
         ],
         "summary": {
             "peals": 0,
-            "quarters": 2,
+            "quarters": 1,
             "other": 0,
-            "total": 2
+            "total": 1
         }
     },
     {

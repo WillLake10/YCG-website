@@ -1,43 +1,52 @@
 {
     "academic_year": "2023/24",
     "type": 1,
-    "date": "Wednesday, 08 November 2023",
+    "date": "Friday, 10 November 2023",
     "location": "Oratory Church of St Wilfrid, York, North Yorkshire",
-    "weight": "6-0-6 in C",
-    "time": "42m",
-    "changes": "1260",
-    "method": "Plain Bob Doubles",
-    "details": "",
+    "weight": "18-1-21 in F",
+    "time": "50m",
+    "changes": "1344",
+    "method": "Spliced Surprise Major (3m)",
+    "details": "576 Superlative; 384 Cambridge, Yorkshire; 29 com",
     "ringers": [
         {
-            "name": "William M Regan (Friend)",
+            "name": "Simon W Edwards (Alcuin)",
             "bell": "1"
         },
         {
-            "name": "Caitlin E Routledge (Alcuin)",
+            "name": "Matthew O Hall (Vanbrugh)",
             "bell": "2"
         },
         {
-            "name": "Matthew O Hall (Vanbrugh) (C)",
+            "name": "Patrick W J Deakin (James)",
             "bell": "3"
         },
         {
-            "name": "Benjamin J Hartley (St John)",
+            "name": "Natasha A Williams (Alcuin)",
             "bell": "4"
         },
         {
-            "name": "Megan K Bucknall (Anne Lister)",
+            "name": "William M Regan (Friend) (C)",
             "bell": "5"
         },
         {
-            "name": "Robert H B Johnson (Wentworth)",
+            "name": "Jemima Bleackley (Halifax)",
             "bell": "6"
+        },
+        {
+            "name": "Iain J Anderson (CUGCR)",
+            "bell": "7"
+        },
+        {
+            "name": "Joseph E T Waters (SUGCR)",
+            "bell": "8"
         }
     ],
     "footnotes": [
-        "First Inside: 2",
-        "With congratulations to William M Regan (Housed) on moving to York."
+        "First of Spliced: 2.",
+        "First blows of Superlative: 4.",
+        "100th together: 3 and 8."
     ],
-    "id": "1667420",
-    "time_in_ms": 16994022
+    "id": "1667907",
+    "time_in_ms": 16995752
 }

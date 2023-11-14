@@ -1,54 +1,6 @@
 [
     {
         "s_date": {
-            "day": "13",
-            "month": "November",
-            "year": "2023",
-            "time": "19:00",
-            "weekday": "Monday",
-            "full": "19:00, Monday 13 November"
-        },
-        "e_date": {
-            "day": "13",
-            "month": "November",
-            "year": "2023",
-            "time": "19:30",
-            "weekday": "Monday",
-            "full": "19:30, Monday 13 November"
-        },
-        "title": "St Lawrence Handling Practice",
-        "location": "St Lawrence Parish Church, York",
-        "description": " Extra Handling Practices at St Lawrence before the main practice",
-        "social": false,
-        "practice": true,
-        "allDay": false
-    },
-    {
-        "s_date": {
-            "day": "13",
-            "month": "November",
-            "year": "2023",
-            "time": "19:30",
-            "weekday": "Monday",
-            "full": "19:30, Monday 13 November"
-        },
-        "e_date": {
-            "day": "13",
-            "month": "November",
-            "year": "2023",
-            "time": "21:00",
-            "weekday": "Monday",
-            "full": "21:00, Monday 13 November"
-        },
-        "title": "St Lawrence Practice",
-        "location": "St Lawrence Parish Church, York",
-        "description": "St Lawrence weekly practice that many members attend",
-        "social": false,
-        "practice": false,
-        "allDay": false
-    },
-    {
-        "s_date": {
             "day": "14",
             "month": "November",
             "year": "2023",
@@ -69,6 +21,30 @@
         "description": "Weekly practice at the Minster that some members attend",
         "social": false,
         "practice": false,
+        "allDay": false
+    },
+    {
+        "s_date": {
+            "day": "15",
+            "month": "November",
+            "year": "2023",
+            "time": "19:00",
+            "weekday": "Wednesday",
+            "full": "19:00, Wednesday 15 November"
+        },
+        "e_date": {
+            "day": "15",
+            "month": "November",
+            "year": "2023",
+            "time": "21:00",
+            "weekday": "Wednesday",
+            "full": "21:00, Wednesday 15 November"
+        },
+        "title": "YCG Practice",
+        "location": "York Oratory, Duncombe Pl",
+        "description": "",
+        "social": false,
+        "practice": true,
         "allDay": false
     },
     {
@@ -1915,6 +1891,30 @@
         "title": "St Lawrence Practice",
         "location": "St Lawrence Parish Church, York",
         "description": "St Lawrence weekly practice that many members attend",
+        "social": false,
+        "practice": false,
+        "allDay": false
+    },
+    {
+        "s_date": {
+            "day": "13",
+            "month": "February",
+            "year": "2024",
+            "time": "19:00",
+            "weekday": "Tuesday",
+            "full": "19:00, Tuesday 13 February"
+        },
+        "e_date": {
+            "day": "13",
+            "month": "February",
+            "year": "2024",
+            "time": "21:00",
+            "weekday": "Tuesday",
+            "full": "21:00, Tuesday 13 February"
+        },
+        "title": "York Minster Practice",
+        "location": "York Minster, Deangate",
+        "description": "Weekly practice at the Minster that some members attend",
         "social": false,
         "practice": false,
         "allDay": false

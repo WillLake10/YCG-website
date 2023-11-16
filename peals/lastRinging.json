@@ -1,52 +1,41 @@
 {
     "academic_year": "2023/24",
     "type": 1,
-    "date": "Friday, 10 November 2023",
+    "date": "Wednesday, 15 November 2023",
     "location": "Oratory Church of St Wilfrid, York, North Yorkshire",
-    "weight": "18-1-21 in F",
-    "time": "50m",
-    "changes": "1344",
-    "method": "Spliced Surprise Major (3m)",
-    "details": "576 Superlative; 384 Cambridge, Yorkshire; 29 com",
+    "weight": "6-0-6 in C",
+    "time": "40m",
+    "changes": "1260",
+    "method": "Doubles (2m)",
+    "details": "660 Grandsire; 600 Plain Bob",
     "ringers": [
         {
-            "name": "Simon W Edwards (Alcuin)",
+            "name": "Dominic D O'Neill (Alcuin)",
             "bell": "1"
         },
         {
-            "name": "Matthew O Hall (Vanbrugh)",
+            "name": "Robert H B Johnson (Wentworth)",
             "bell": "2"
         },
         {
-            "name": "Patrick W J Deakin (James)",
+            "name": "Benjamin J Hartley (St John)",
             "bell": "3"
         },
         {
-            "name": "Natasha A Williams (Alcuin)",
+            "name": "Simon W Edwards (Alcuin) (C)",
             "bell": "4"
         },
         {
-            "name": "William M Regan (Friend) (C)",
+            "name": "Megan K Bucknall (Anne Lister)",
             "bell": "5"
-        },
-        {
-            "name": "Jemima Bleackley (Halifax)",
-            "bell": "6"
-        },
-        {
-            "name": "Iain J Anderson (CUGCR)",
-            "bell": "7"
-        },
-        {
-            "name": "Joseph E T Waters (SUGCR)",
-            "bell": "8"
         }
     ],
     "footnotes": [
-        "First of Spliced: 2.",
-        "First blows of Superlative: 4.",
-        "100th together: 3 and 8."
+        "First quarter peal in a dress for all.  (Last?  Time will tell....)",
+        "Rung to prove that ringing in dresses is not as easy as it looks.  (Mixed consensus).",
+        "Rung in anticipation of NUA, and a welcome to everyone who is descending on York this weekend.",
+        "The band would like to associate William M Regan (friend) with this quarter peal.  Here in spirit but not in body.  The band would like to make clear that he did buy a dress for this occasion; he just failed to make use of it....."
     ],
-    "id": "1667907",
-    "time_in_ms": 16995752
+    "id": "1669741",
+    "time_in_ms": 17000069
 }

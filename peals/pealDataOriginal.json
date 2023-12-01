@@ -2,6 +2,222 @@
     {
         "academic_year": "2023/24",
         "type": 1,
+        "date": "Thursday, 30 November 2023",
+        "location": "66 Bootham, York, North Yorkshire",
+        "weight": "8 in C",
+        "time": "",
+        "changes": "1442",
+        "method": "Plain Treble Bob Minor",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Natasha A Williams (Alcuin)",
+                "bell": "1-2"
+            },
+            {
+                "name": "Patrick W J Deakin (James)",
+                "bell": "3-4"
+            },
+            {
+                "name": "William M Regan (Friend) (C)",
+                "bell": "5-6"
+            }
+        ],
+        "footnotes": [
+            "Record length in method",
+            "75th QP for The Guild: 1-2",
+            "25th QP for The Guild this academic year"
+        ],
+        "id": "1674587",
+        "time_in_ms": 17013027
+    },
+    {
+        "academic_year": "2023/24",
+        "type": 1,
+        "date": "Thursday, 30 November 2023",
+        "location": "66 Bootham, York, North Yorkshire",
+        "weight": "8 in C",
+        "time": "32m",
+        "changes": "1260",
+        "method": "Plain Bob Minor",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Natasha A Williams (Alcuin)",
+                "bell": "1-2"
+            },
+            {
+                "name": "Patrick W J Deakin (James) (C)",
+                "bell": "3-4"
+            },
+            {
+                "name": "Joseph E T Waters (SUGCR)",
+                "bell": "5-6"
+            }
+        ],
+        "footnotes": [
+            "First QP of Minor in hand: 5-6",
+            "25th QP this academic year: 1-2"
+        ],
+        "id": "1674570",
+        "time_in_ms": 17013027
+    },
+    {
+        "academic_year": "2023/24",
+        "type": 1,
+        "date": "Wednesday, 29 November 2023",
+        "location": "Oratory Church of St Wilfrid, York, North Yorkshire",
+        "weight": "6-0-6 in C",
+        "time": "42m",
+        "changes": "1260",
+        "method": "Plain Bob Minor",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Dominic D O'Neill (Alcuin)",
+                "bell": "1"
+            },
+            {
+                "name": "Robert H B Johnson (Wentworth)",
+                "bell": "2"
+            },
+            {
+                "name": "Benjamin J Hartley (St John)",
+                "bell": "3"
+            },
+            {
+                "name": "Megan K Bucknall (Anne Lister)",
+                "bell": "4"
+            },
+            {
+                "name": "Simon W Edwards (Alcuin)",
+                "bell": "5"
+            },
+            {
+                "name": "Matthew O Hall (Vanbrugh) (C)",
+                "bell": "6"
+            }
+        ],
+        "footnotes": [
+            "First of Minor: 1"
+        ],
+        "id": "1674093",
+        "time_in_ms": 17012166
+    },
+    {
+        "academic_year": "2023/24",
+        "type": 1,
+        "date": "Sunday, 26 November 2023",
+        "location": "St Lawrence, York, North Yorkshire",
+        "weight": "7-3-24 in A",
+        "time": "43m",
+        "changes": "1260",
+        "method": "Plain Bob Doubles",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Aidan T Derby (Derwent)",
+                "bell": "1"
+            },
+            {
+                "name": "Matthew O Hall (Vanbrugh)",
+                "bell": "2"
+            },
+            {
+                "name": "David G Denbigh (Langwith)",
+                "bell": "3"
+            },
+            {
+                "name": "Rebecca A Hall (Langwith)",
+                "bell": "4"
+            },
+            {
+                "name": "Natasha A Williams (Alcuin) (C)",
+                "bell": "5"
+            },
+            {
+                "name": "Robert H B Johnson (Wentworth)",
+                "bell": "6"
+            }
+        ],
+        "footnotes": [
+            "Rung for Choral Evensong",
+            "75th quarter in 2023: 5",
+            "Rung in celebration of Paul M Mason's motorcycle."
+        ],
+        "id": "1673353",
+        "time_in_ms": 17009574
+    },
+    {
+        "academic_year": "2023/24",
+        "type": 2,
+        "date": "Sunday, 19 November 2023",
+        "location": "St Lawrence, York, North Yorkshire",
+        "weight": "2-3-16 in E",
+        "time": "10m",
+        "changes": "240",
+        "method": "Plain Bob Minimus",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Natasha A Williams (Alcuin) (C)",
+                "bell": "1"
+            },
+            {
+                "name": "Robert H B Johnson (Wentworth)",
+                "bell": "2"
+            },
+            {
+                "name": "Rosemary S Hall (Alcuin)",
+                "bell": "3"
+            },
+            {
+                "name": "Joss Davis (Alcuin)",
+                "bell": "4"
+            }
+        ],
+        "footnotes": [
+            "Celebrating a successful NUA weekend, and a clean and tidy hall!",
+            "A quarter attempt cut short by the arrival of William L K Brooke"
+        ],
+        "id": "1670662",
+        "time_in_ms": 17003524
+    },
+    {
+        "academic_year": "2023/24",
+        "type": 1,
+        "date": "Sunday, 19 November 2023",
+        "location": "66 Bootham, York, North Yorkshire",
+        "weight": "11 in G",
+        "time": "34m",
+        "changes": "1260",
+        "method": "Plain Bob Minor",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Jemima C Bleackley (Halifax)",
+                "bell": "1-2"
+            },
+            {
+                "name": "Patrick W J Deakin (James) (C)",
+                "bell": "3-4"
+            },
+            {
+                "name": "Natasha A Williams (Alcuin)",
+                "bell": "5-6"
+            }
+        ],
+        "footnotes": [
+            "Rung following a successful NUA weekend",
+            "Completed 1 lap into Channel 4's coverage of the Las Vegas Grand Prix",
+            "\"Can we speed up, the race is about to start\""
+        ],
+        "id": "1670587",
+        "time_in_ms": 17003523
+    },
+    {
+        "academic_year": "2023/24",
+        "type": 1,
         "date": "Wednesday, 15 November 2023",
         "location": "Oratory Church of St Wilfrid, York, North Yorkshire",
         "weight": "6-0-6 in C",

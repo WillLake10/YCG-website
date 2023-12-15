@@ -2,6 +2,83 @@
     {
         "academic_year": "2023/24",
         "type": 1,
+        "date": "Friday, 15 December 2023",
+        "location": "Oratory Church of St Wilfrid, York, North Yorkshire",
+        "weight": "6-0-6 in C",
+        "time": "41m",
+        "changes": "1260",
+        "method": "Grandsire Doubles",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Benjamin J Hartley (St John)",
+                "bell": "1"
+            },
+            {
+                "name": "Patrick W J Deakin (James)",
+                "bell": "2"
+            },
+            {
+                "name": "Dominic D O'Neill (Alcuin)",
+                "bell": "3"
+            },
+            {
+                "name": "Natasha A Williams (Alcuin)",
+                "bell": "4"
+            },
+            {
+                "name": "William M Regan (Friend) (C)",
+                "bell": "5"
+            },
+            {
+                "name": "Simon J Poole (Friend)",
+                "bell": "6"
+            }
+        ],
+        "footnotes": [
+            "First of Grandsire inside - 3.",
+            "\"Just so you're aware, Ben: you're flying low. Go Grandsire.\""
+        ],
+        "id": "1679557",
+        "time_in_ms": 17025990
+    },
+    {
+        "academic_year": "2023/24",
+        "type": 1,
+        "date": "Thursday, 14 December 2023",
+        "location": "66 Bootham, York, North Yorkshire",
+        "weight": "11 in G",
+        "time": "",
+        "changes": "1360",
+        "method": "Plain Bob Major",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Patrick W J Deakin (James) (C)",
+                "bell": "1-2"
+            },
+            {
+                "name": "Jemima C Bleackley (Halifax)",
+                "bell": "3-4"
+            },
+            {
+                "name": "Natasha A Williams (Alcuin)",
+                "bell": "5-6"
+            },
+            {
+                "name": "William M Regan (Friend)",
+                "bell": "7-8"
+            }
+        ],
+        "footnotes": [
+            "Rung instead of going to laser tag"
+        ],
+        "id": "1679309",
+        "time_in_ms": 17025124
+    },
+    {
+        "academic_year": "2023/24",
+        "type": 1,
         "date": "Thursday, 30 November 2023",
         "location": "66 Bootham, York, North Yorkshire",
         "weight": "8 in C",

@@ -2,6 +2,37 @@
     {
         "academic_year": "2023/24",
         "type": 1,
+        "date": "Friday, 29 December 2023",
+        "location": "66 Bootham, York, ",
+        "weight": "11 in G",
+        "time": "24m",
+        "changes": "1260",
+        "method": "Plain Bob Minor",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Natasha A Williams (Alcuin)",
+                "bell": "1-2"
+            },
+            {
+                "name": "Patrick W J Deakin (James)",
+                "bell": "3-4"
+            },
+            {
+                "name": "William M Regan (Friend) (C)",
+                "bell": "5-6"
+            }
+        ],
+        "footnotes": [
+            "Fastest quarter: 5-6.",
+            "Umpire: Jemima C Bleackley (Halifax)"
+        ],
+        "id": "1684712",
+        "time_in_ms": 17038083
+    },
+    {
+        "academic_year": "2023/24",
+        "type": 1,
         "date": "Wednesday, 20 December 2023",
         "location": "66 Bootham, York, North Yorkshire",
         "weight": "11 in G",

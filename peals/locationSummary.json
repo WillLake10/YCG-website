@@ -162,6 +162,13 @@
             "total": 1
         },
         {
+            "tower": "66 Bootham, York, ",
+            "peals": 0,
+            "quarters": 1,
+            "other": 0,
+            "total": 1
+        },
+        {
             "tower": "Ainderby Steeple (St Helen), North Yorkshire",
             "peals": 0,
             "quarters": 1,
@@ -535,8 +542,8 @@
     ],
     "summary": {
         "peals": 38,
-        "quarters": 526,
+        "quarters": 527,
         "other": 34,
-        "total": 598
+        "total": 599
     }
 }

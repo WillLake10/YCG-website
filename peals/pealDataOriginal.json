@@ -2,6 +2,186 @@
     {
         "academic_year": "2023/24",
         "type": 1,
+        "date": "Saturday, 30 December 2023",
+        "location": "66 Bootham, York, North Yorkshire",
+        "weight": "11 in G",
+        "time": "32m",
+        "changes": "1260",
+        "method": "Plain Bob Minor",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Natasha A Williams (Alcuin)",
+                "bell": "1-2"
+            },
+            {
+                "name": "Patrick W J Deakin (James) (C)",
+                "bell": "3-4"
+            },
+            {
+                "name": "Jemima C Bleackley (Halifax)",
+                "bell": "5-6"
+            }
+        ],
+        "footnotes": [
+            "30th for The Guild this academic year: 3-4",
+            "Circled the pairs to QPs of Plain Bob Minor today: 1-2"
+        ],
+        "id": "1685113",
+        "time_in_ms": 17038947
+    },
+    {
+        "academic_year": "2023/24",
+        "type": 1,
+        "date": "Saturday, 30 December 2023",
+        "location": "66 Bootham, York, North Yorkshire",
+        "weight": "11 in G",
+        "time": "34m",
+        "changes": "1260",
+        "method": "Plain Bob Doubles",
+        "details": "",
+        "ringers": [
+            {
+                "name": "William M Regan (Friend)",
+                "bell": "1-2"
+            },
+            {
+                "name": "Patrick W J Deakin (James)",
+                "bell": "3-4"
+            },
+            {
+                "name": "Natasha A Williams (Alcuin) (C)",
+                "bell": "5-6"
+            }
+        ],
+        "footnotes": [
+            "First Doubles in hand: 1-2"
+        ],
+        "id": "1685099",
+        "time_in_ms": 17038947
+    },
+    {
+        "academic_year": "2023/24",
+        "type": 1,
+        "date": "Saturday, 30 December 2023",
+        "location": "66 Bootham, York, North Yorkshire",
+        "weight": "11 in G",
+        "time": "35m",
+        "changes": "1438",
+        "method": "Plain Treble Bob Minor",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Natasha A Williams (Alcuin)",
+                "bell": "1-2"
+            },
+            {
+                "name": "Patrick W J Deakin (James)",
+                "bell": "3-4"
+            },
+            {
+                "name": "William M Regan (Friend) (C)",
+                "bell": "5-6"
+            }
+        ],
+        "footnotes": [
+            "Shortest possible quarter peal in the method."
+        ],
+        "id": "1685092",
+        "time_in_ms": 17038947
+    },
+    {
+        "academic_year": "2023/24",
+        "type": 1,
+        "date": "Saturday, 30 December 2023",
+        "location": "66 Bootham, York, North Yorkshire",
+        "weight": "11 in G",
+        "time": "",
+        "changes": "1260",
+        "method": "Plain Bob Minor",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Joseph E T Waters (SUGCR)",
+                "bell": "1-2"
+            },
+            {
+                "name": "Natasha A Williams (Alcuin)",
+                "bell": "3-4"
+            },
+            {
+                "name": "Patrick W J Deakin (James) (C)",
+                "bell": "5-6"
+            }
+        ],
+        "footnotes": [
+            "Congratulating Dickon R Love on his MBE"
+        ],
+        "id": "1685030",
+        "time_in_ms": 17038947
+    },
+    {
+        "academic_year": "2023/24",
+        "type": 1,
+        "date": "Saturday, 30 December 2023",
+        "location": "66 Bootham, York, North Yorkshire",
+        "weight": "11 in G",
+        "time": "23m",
+        "changes": "1260",
+        "method": "Plain Bob Minor",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Jemima C Bleackley (Halifax)",
+                "bell": "1-2"
+            },
+            {
+                "name": "Patrick W J Deakin (James) (C)",
+                "bell": "3-4"
+            },
+            {
+                "name": "Natasha A Williams (Alcuin)",
+                "bell": "5-6"
+            }
+        ],
+        "footnotes": [],
+        "id": "1685002",
+        "time_in_ms": 17038947
+    },
+    {
+        "academic_year": "2023/24",
+        "type": 1,
+        "date": "Saturday, 30 December 2023",
+        "location": "66 Bootham, York, North Yorkshire",
+        "weight": "11 in G",
+        "time": "26m",
+        "changes": "1260",
+        "method": "Plain Bob Doubles",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Jemima C Bleackley (Halifax)",
+                "bell": "1-2"
+            },
+            {
+                "name": "Patrick W J Deakin (James)",
+                "bell": "3-4"
+            },
+            {
+                "name": "Natasha A Williams (Alcuin) (C)",
+                "bell": "5-6"
+            }
+        ],
+        "footnotes": [
+            "50th together: 3-4 & 5-6",
+            "First quarter in the office today"
+        ],
+        "id": "1684978",
+        "time_in_ms": 17038947
+    },
+    {
+        "academic_year": "2023/24",
+        "type": 1,
         "date": "Friday, 29 December 2023",
         "location": "66 Bootham, York, ",
         "weight": "11 in G",

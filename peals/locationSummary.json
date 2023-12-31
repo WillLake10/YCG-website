@@ -8,18 +8,18 @@
             "total": 178
         },
         {
+            "tower": "66 Bootham, York, North Yorkshire",
+            "peals": 0,
+            "quarters": 19,
+            "other": 0,
+            "total": 19
+        },
+        {
             "tower": "York (St Olave, Marygate), North Yorkshire",
             "peals": 1,
             "quarters": 15,
             "other": 0,
             "total": 16
-        },
-        {
-            "tower": "66 Bootham, York, North Yorkshire",
-            "peals": 0,
-            "quarters": 13,
-            "other": 0,
-            "total": 13
         },
         {
             "tower": "York (Oratory Church of St Wilfrid), North Yorkshire",
@@ -542,8 +542,8 @@
     ],
     "summary": {
         "peals": 38,
-        "quarters": 527,
+        "quarters": 533,
         "other": 34,
-        "total": 599
+        "total": 605
     }
 }

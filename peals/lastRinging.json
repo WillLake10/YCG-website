@@ -1,10 +1,10 @@
 {
     "academic_year": "2023/24",
     "type": 1,
-    "date": "Friday, 29 December 2023",
-    "location": "66 Bootham, York, ",
+    "date": "Saturday, 30 December 2023",
+    "location": "66 Bootham, York, North Yorkshire",
     "weight": "11 in G",
-    "time": "24m",
+    "time": "32m",
     "changes": "1260",
     "method": "Plain Bob Minor",
     "details": "",
@@ -14,18 +14,18 @@
             "bell": "1-2"
         },
         {
-            "name": "Patrick W J Deakin (James)",
+            "name": "Patrick W J Deakin (James) (C)",
             "bell": "3-4"
         },
         {
-            "name": "William M Regan (Friend) (C)",
+            "name": "Jemima C Bleackley (Halifax)",
             "bell": "5-6"
         }
     ],
     "footnotes": [
-        "Fastest quarter: 5-6.",
-        "Umpire: Jemima C Bleackley (Halifax)"
+        "30th for The Guild this academic year: 3-4",
+        "Circled the pairs to QPs of Plain Bob Minor today: 1-2"
     ],
-    "id": "1684712",
-    "time_in_ms": 17038083
+    "id": "1685113",
+    "time_in_ms": 17038947
 }

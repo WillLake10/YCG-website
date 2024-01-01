@@ -1,6 +1,41 @@
 [
     {
         "academic_year": "2023/24",
+        "type": 0,
+        "date": "Sunday, 10 December 2023",
+        "location": "66 Bootham, York, North Yorkshire",
+        "weight": "",
+        "time": "2h 54",
+        "changes": "12000",
+        "method": "Plain Bob Minimus",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Natasha A Williams (Alcuin) (C)",
+                "bell": "1-2"
+            },
+            {
+                "name": "Patrick W J Deakin (James)",
+                "bell": "3-4"
+            }
+        ],
+        "footnotes": [
+            "This is the longest (officially recognised) length of Minimus",
+            "This is the first (officially recognised) long length of Minimus in hand",
+            "This is the longest length of Plain Bob Minimus",
+            "First Peal in hand: 1-2",
+            "First Peal as Conductor",
+            "Longest length for all the band, the office, and the Guild",
+            "Umpires: Jemima C Bleackley, Joseph E T Waters (The Partners of Idiots Secret Society)",
+            "\"This was a bad idea\": 1-2, at extent 14",
+            "\"Yes, this was a bad idea\": 3-4 at extent 251",
+            "\"The most impressive peal to happen in this office\""
+        ],
+        "id": "1678131",
+        "time_in_ms": 17021766
+    },
+    {
+        "academic_year": "2023/24",
         "type": 1,
         "date": "Sunday, 31 December 2023",
         "location": "Oratory Church of St Wilfrid, York, North Yorkshire",
@@ -451,6 +486,190 @@
         ],
         "id": "1679309",
         "time_in_ms": 17025124
+    },
+    {
+        "academic_year": "2023/24",
+        "type": 1,
+        "date": "Sunday, 03 December 2023",
+        "location": "Oratory Church of St Wilfrid, York, North Yorkshire",
+        "weight": "18-1-21 in F",
+        "time": "50m",
+        "changes": "1296",
+        "method": "Stedman Caters",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Natasha A Williams (Alcuin) (C)",
+                "bell": "1"
+            },
+            {
+                "name": "Patrick W J Deakin (James)",
+                "bell": "2"
+            },
+            {
+                "name": "Matthew W Thewsey (The Modern Society Of Plymouth Youths)",
+                "bell": "3"
+            },
+            {
+                "name": "Jonathan R Galloway (Vanbrugh)",
+                "bell": "4"
+            },
+            {
+                "name": "David G Hull (Staff)",
+                "bell": "5"
+            },
+            {
+                "name": "James D Austin (Derwent)",
+                "bell": "6"
+            },
+            {
+                "name": "Alison L Edmonds (Staff)",
+                "bell": "7"
+            },
+            {
+                "name": "William M Regan (Friend)",
+                "bell": "8"
+            },
+            {
+                "name": "Jemima C Bleackley (Halifax)",
+                "bell": "9"
+            },
+            {
+                "name": "Matthew O Hall (Vanbrugh)",
+                "bell": "10"
+            }
+        ],
+        "footnotes": [
+            "First of Stedman Caters: 1, 6, 9",
+            "First of Stedman as conductor, and first touch of Stedman Caters as conductor",
+            "With grateful thanks to James D Austin for replacing Joseph E T Waters and his dreadful immune system at very short notice "
+        ],
+        "id": "1675610",
+        "time_in_ms": 17015626
+    },
+    {
+        "academic_year": "2023/24",
+        "type": 1,
+        "date": "Sunday, 03 December 2023",
+        "location": "St Lawrence, York, North Yorkshire",
+        "weight": "7-3-24 in A",
+        "time": "42m",
+        "changes": "1260",
+        "method": "Plain Bob Doubles",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Matthew O Hall (Vanbrugh)",
+                "bell": "1"
+            },
+            {
+                "name": "Rebecca A Hall (Langwith) (C)",
+                "bell": "2"
+            },
+            {
+                "name": "Robert H B Johnson (Wentworth)",
+                "bell": "3"
+            },
+            {
+                "name": "Natasha A Williams (Alcuin)",
+                "bell": "4"
+            },
+            {
+                "name": "Patrick W J Deakin (James)",
+                "bell": "5"
+            },
+            {
+                "name": "Aidan T Derby (Derwent)",
+                "bell": "6"
+            }
+        ],
+        "footnotes": [
+            "1st as conductor",
+            "\"Well, that was terrifying\" - Rebecca"
+        ],
+        "id": "1675652",
+        "time_in_ms": 17015622
+    },
+    {
+        "academic_year": "2023/24",
+        "type": 1,
+        "date": "Sunday, 03 December 2023",
+        "location": "66 Bootham, York, North Yorkshire",
+        "weight": "11 in G",
+        "time": "31m",
+        "changes": "1260",
+        "method": "Plain Bob Minor",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Jemima C Bleackley (Halifax)",
+                "bell": "1-2"
+            },
+            {
+                "name": "Natasha A Williams (Alcuin)",
+                "bell": "3-4"
+            },
+            {
+                "name": "Patrick W J Deakin (James) (C)",
+                "bell": "5-6"
+            }
+        ],
+        "footnotes": [
+            "Circled the pairs to Quarter Peals: 3-4"
+        ],
+        "id": "1675534",
+        "time_in_ms": 17015619
+    },
+    {
+        "academic_year": "2023/24",
+        "type": 1,
+        "date": "Friday, 01 December 2023",
+        "location": "Oratory Church of St Wilfrid, York, North Yorkshire",
+        "weight": "18-1-21 in F",
+        "time": "53m",
+        "changes": "1344",
+        "method": "Grandsire Triples",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Joseph E T Waters (SUGCR)",
+                "bell": "1"
+            },
+            {
+                "name": "Benjamin J Hartley (St John)",
+                "bell": "2"
+            },
+            {
+                "name": "Jemima C Bleackley (Halifax) (C)",
+                "bell": "3"
+            },
+            {
+                "name": "Patrick W J Deakin (James)",
+                "bell": "4"
+            },
+            {
+                "name": "Megan K Bucknall (Anne Lister)",
+                "bell": "5"
+            },
+            {
+                "name": "Matthew O Hall (Vanbrugh)",
+                "bell": "6"
+            },
+            {
+                "name": "Natasha A Williams (Alcuin)",
+                "bell": "7"
+            },
+            {
+                "name": "William M Regan (Friend)",
+                "bell": "8"
+            }
+        ],
+        "footnotes": [
+            "First QP of Grandsire Triples: 2, 5",
+            "100th QP on Towerbells: 3, 7"
+        ],
+        "id": "1675535",
+        "time_in_ms": 17013896
     },
     {
         "academic_year": "2023/24",

@@ -1,47 +1,35 @@
 {
-    "academic_year": "2022/23",
+    "academic_year": "2023/24",
     "type": 0,
-    "date": "Sunday, 18 June 2023",
-    "location": "St Philip and St James, Clifton, North Yorkshire",
-    "weight": "3-1-23 in Eb",
-    "time": "2h 40",
-    "changes": "5040",
-    "method": "Minor (3m)",
-    "details": "720 St Clements; 2160 each: Cambridge S and Plain Bob",
+    "date": "Sunday, 10 December 2023",
+    "location": "66 Bootham, York, North Yorkshire",
+    "weight": "",
+    "time": "2h 54",
+    "changes": "12000",
+    "method": "Plain Bob Minimus",
+    "details": "",
     "ringers": [
         {
-            "name": "James D Austin (Derwent)",
-            "bell": "1"
+            "name": "Natasha A Williams (Alcuin) (C)",
+            "bell": "1-2"
         },
         {
-            "name": "Natasha A Williams (Alcuin)",
-            "bell": "2"
-        },
-        {
-            "name": "Jemima Bleackley (Halifax)",
-            "bell": "3"
-        },
-        {
-            "name": "William J Lake (Langwith)",
-            "bell": "4"
-        },
-        {
-            "name": "Matthew O Hall (Vanbrugh)",
-            "bell": "5"
-        },
-        {
-            "name": "Simon W Edwards (Alcuin) (C)",
-            "bell": "6"
+            "name": "Patrick W J Deakin (James)",
+            "bell": "3-4"
         }
     ],
     "footnotes": [
-        "Believed to be the first YCG peal rung by a complete band of current undergraduates.",
-        "With congratulations to William J Lake for the completion of his final exams and upcoming graduation.   Also wishing him well as he leaves us to begin a new life in London - Southwark; you have been warned!",
-        "Also a birthday salutation to His Excellence, Our Lord High Ringing Master, Matthew O Hall, welcoming him to the Roaring Twenties.",
-        "Rung also for Father's Day, and for the birthday of HM King Charles III",
-        "Superb recovery in the sixth extent: 2",
-        "The band would like to associate William M Regan (Friend) with this peal (whether he likes it or not!)."
+        "This is the longest (officially recognised) length of Minimus",
+        "This is the first (officially recognised) long length of Minimus in hand",
+        "This is the longest length of Plain Bob Minimus",
+        "First Peal in hand: 1-2",
+        "First Peal as Conductor",
+        "Longest length for all the band, the office, and the Guild",
+        "Umpires: Jemima C Bleackley, Joseph E T Waters (The Partners of Idiots Secret Society)",
+        "\"This was a bad idea\": 1-2, at extent 14",
+        "\"Yes, this was a bad idea\": 3-4 at extent 251",
+        "\"The most impressive peal to happen in this office\""
     ],
-    "id": "1647593",
-    "time_in_ms": 16870570
+    "id": "1678131",
+    "time_in_ms": 17021766
 }

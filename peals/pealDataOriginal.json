@@ -2,6 +2,36 @@
     {
         "academic_year": "2023/24",
         "type": 1,
+        "date": "Tuesday, 02 January 2024",
+        "location": "66 Bootham, York, North Yorkshire",
+        "weight": "11 in G",
+        "time": "39m",
+        "changes": "1260",
+        "method": "St Clement's College Bob Minor",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Natasha A Williams (Alcuin)",
+                "bell": "1-2"
+            },
+            {
+                "name": "Patrick W J Deakin (James)",
+                "bell": "3-4"
+            },
+            {
+                "name": "William M Regan (Friend) (C)",
+                "bell": "5-6"
+            }
+        ],
+        "footnotes": [
+            "First of St Clement's College Bob in hand for all."
+        ],
+        "id": "1686295",
+        "time_in_ms": 17041539
+    },
+    {
+        "academic_year": "2023/24",
+        "type": 1,
         "date": "Sunday, 31 December 2023",
         "location": "Oratory Church of St Wilfrid, York, North Yorkshire",
         "weight": "6-0-6 in C",

@@ -10,9 +10,9 @@
         {
             "tower": "66 Bootham, York, North Yorkshire",
             "peals": 1,
-            "quarters": 20,
+            "quarters": 21,
             "other": 0,
-            "total": 21
+            "total": 22
         },
         {
             "tower": "York (St Olave, Marygate), North Yorkshire",
@@ -549,8 +549,8 @@
     ],
     "summary": {
         "peals": 39,
-        "quarters": 540,
+        "quarters": 541,
         "other": 34,
-        "total": 613
+        "total": 614
     }
 }

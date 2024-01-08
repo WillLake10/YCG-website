@@ -217,6 +217,38 @@
         "date": "Saturday, 30 December 2023",
         "location": "66 Bootham, York, North Yorkshire",
         "weight": "11 in G",
+        "time": "26m",
+        "changes": "1260",
+        "method": "Plain Bob Doubles",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Jemima C Bleackley (Halifax)",
+                "bell": "1-2"
+            },
+            {
+                "name": "Patrick W J Deakin (James)",
+                "bell": "3-4"
+            },
+            {
+                "name": "Natasha A Williams (Alcuin) (C)",
+                "bell": "5-6"
+            }
+        ],
+        "footnotes": [
+            "25th as Conductor",
+            "50th together: 3-4 & 5-6",
+            "First quarter in the office today"
+        ],
+        "id": "1687864",
+        "time_in_ms": 17038947
+    },
+    {
+        "academic_year": "2023/24",
+        "type": 1,
+        "date": "Saturday, 30 December 2023",
+        "location": "66 Bootham, York, North Yorkshire",
+        "weight": "11 in G",
         "time": "32m",
         "changes": "1260",
         "method": "Plain Bob Minor",

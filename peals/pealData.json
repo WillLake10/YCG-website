@@ -37,6 +37,41 @@
     {
         "academic_year": "2023/24",
         "type": 1,
+        "date": "Tuesday, 09 January 2024",
+        "location": "66 Bootham, York, North Yorkshire",
+        "weight": "11 in G",
+        "time": "45m",
+        "changes": "1360",
+        "method": "Plain Bob Major",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Alban D Forster (BUSCR)",
+                "bell": "1-2"
+            },
+            {
+                "name": "Jemima C Bleackley (Halifax)",
+                "bell": "3-4"
+            },
+            {
+                "name": "Patrick W J Deakin (James) (C)",
+                "bell": "5-6"
+            },
+            {
+                "name": "Matthew W Thewsey (Modern Society of Plymouth Youths)",
+                "bell": "7-8"
+            }
+        ],
+        "footnotes": [
+            "1st handbell Quarter Peal: 7-8",
+            "Congratulating Ryan Mills and Lydia Mayfield on their engagement"
+        ],
+        "id": "1688428",
+        "time_in_ms": 17047588
+    },
+    {
+        "academic_year": "2023/24",
+        "type": 1,
         "date": "Friday, 05 January 2024",
         "location": "66 Bootham, York, North Yorkshire",
         "weight": "11 in G",

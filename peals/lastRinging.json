@@ -1,35 +1,53 @@
 {
     "academic_year": "2023/24",
     "type": 1,
-    "date": "Tuesday, 09 January 2024",
-    "location": "66 Bootham, York, North Yorkshire",
-    "weight": "11 in G",
-    "time": "45m",
-    "changes": "1360",
-    "method": "Plain Bob Major",
+    "date": "Friday, 12 January 2024",
+    "location": "Oratory Church of St Wilfrid, York, North Yorkshire",
+    "weight": "18-1-21 in F",
+    "time": "51m",
+    "changes": "1344",
+    "method": "Bristol Surprise Major",
     "details": "",
     "ringers": [
         {
-            "name": "Alban D Forster (BUSCR)",
-            "bell": "1-2"
+            "name": "Natasha A Williams (Alcuin) (C)",
+            "bell": "1"
+        },
+        {
+            "name": "Ewan G A Hull (Staff)",
+            "bell": "2"
+        },
+        {
+            "name": "Matthew O Hall (Vanbrugh)",
+            "bell": "3"
+        },
+        {
+            "name": "Patrick W J Deakin (James)",
+            "bell": "4"
         },
         {
             "name": "Jemima C Bleackley (Halifax)",
-            "bell": "3-4"
+            "bell": "5"
         },
         {
-            "name": "Patrick W J Deakin (James) (C)",
-            "bell": "5-6"
+            "name": "Joseph E T Waters (SUGCR)",
+            "bell": "6"
         },
         {
-            "name": "Matthew W Thewsey (Modern Society of Plymouth Youths)",
-            "bell": "7-8"
+            "name": "Ryan E Mills (Halifax)",
+            "bell": "7"
+        },
+        {
+            "name": "Rachel L Mahoney (BUSCR)",
+            "bell": "8"
         }
     ],
     "footnotes": [
-        "1st handbell Quarter Peal: 7-8",
-        "Congratulating Ryan Mills and Lydia Mayfield on their engagement"
+        "First Quarter of Bristol: 3",
+        "First Surprise Major as Conductor",
+        "First in a dress (\"and never again\"): 8",
+        "Good bell <3"
     ],
-    "id": "1688428",
-    "time_in_ms": 17047588
+    "id": "1689171",
+    "time_in_ms": 17050184
 }

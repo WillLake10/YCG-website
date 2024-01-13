@@ -2,6 +2,89 @@
     {
         "academic_year": "2023/24",
         "type": 1,
+        "date": "Friday, 12 January 2024",
+        "location": "Oratory Church of St Wilfrid, York, North Yorkshire",
+        "weight": "18-1-21 in F",
+        "time": "51m",
+        "changes": "1344",
+        "method": "Bristol Surprise Major",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Natasha A Williams (Alcuin) (C)",
+                "bell": "1"
+            },
+            {
+                "name": "Ewan G A Hull (Staff)",
+                "bell": "2"
+            },
+            {
+                "name": "Matthew O Hall (Vanbrugh)",
+                "bell": "3"
+            },
+            {
+                "name": "Patrick W J Deakin (James)",
+                "bell": "4"
+            },
+            {
+                "name": "Jemima C Bleackley (Halifax)",
+                "bell": "5"
+            },
+            {
+                "name": "Joseph E T Waters (SUGCR)",
+                "bell": "6"
+            },
+            {
+                "name": "Ryan E Mills (Halifax)",
+                "bell": "7"
+            },
+            {
+                "name": "Rachel L Mahoney (BUSCR)",
+                "bell": "8"
+            }
+        ],
+        "footnotes": [
+            "First Quarter of Bristol: 3",
+            "First Surprise Major as Conductor",
+            "First in a dress (\"and never again\"): 8",
+            "Good bell <3"
+        ],
+        "id": "1689171",
+        "time_in_ms": 17050184
+    },
+    {
+        "academic_year": "2023/24",
+        "type": 1,
+        "date": "Friday, 12 January 2024",
+        "location": "66 Bootham, York, North Yorkshire",
+        "weight": "11 in G",
+        "time": "30m",
+        "changes": "1260",
+        "method": "April Day Doubles",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Natasha A Williams (Alcuin)",
+                "bell": "1-2"
+            },
+            {
+                "name": "Patrick W J Deakin (James)",
+                "bell": "3-4"
+            },
+            {
+                "name": "Joseph E T Waters (SUGCR) (C)",
+                "bell": "5-6"
+            }
+        ],
+        "footnotes": [
+            "First of April Day in hand for all"
+        ],
+        "id": "1689146",
+        "time_in_ms": 17050179
+    },
+    {
+        "academic_year": "2023/24",
+        "type": 1,
         "date": "Tuesday, 09 January 2024",
         "location": "66 Bootham, York, North Yorkshire",
         "weight": "11 in G",
@@ -78,6 +161,39 @@
         ],
         "id": "1687384",
         "time_in_ms": 17044134
+    },
+    {
+        "academic_year": "2023/24",
+        "type": 1,
+        "date": "Friday, 05 January 2024",
+        "location": "66 Bootham, York, North Yorkshire",
+        "weight": "11 in G",
+        "time": "35m",
+        "changes": "1260",
+        "method": "Plain Bob Doubles",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Natasha A Williams (Alcuin)",
+                "bell": "1-2"
+            },
+            {
+                "name": "Patrick W J Deakin (James)",
+                "bell": "3-4"
+            },
+            {
+                "name": "Joseph E T Waters (SUGCR) (C)",
+                "bell": "5-6"
+            }
+        ],
+        "footnotes": [
+            "Birthday compliments to Joanna Ainsworth",
+            "First handbell quarter peal as conductor: 5-6",
+            "25th together: 1-2 & 5-6",
+            "50th this academic year: 1-2"
+        ],
+        "id": "1689123",
+        "time_in_ms": 17044131
     },
     {
         "academic_year": "2023/24",

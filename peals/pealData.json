@@ -82,6 +82,60 @@
             "First Quarter of Bristol: 3",
             "First Surprise Major as Conductor",
             "First in a dress (\"and never again\"): 8",
+            "100th Quarter for the Guild: 1",
+            "Good bell <3"
+        ],
+        "id": "1689327",
+        "time_in_ms": 17050184
+    },
+    {
+        "academic_year": "2023/24",
+        "type": 1,
+        "date": "Friday, 12 January 2024",
+        "location": "Oratory Church of St Wilfrid, York, North Yorkshire",
+        "weight": "18-1-21 in F",
+        "time": "51m",
+        "changes": "1344",
+        "method": "Bristol Surprise Major",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Natasha A Williams (Alcuin) (C)",
+                "bell": "1"
+            },
+            {
+                "name": "Ewan G A Hull (Staff)",
+                "bell": "2"
+            },
+            {
+                "name": "Matthew O Hall (Vanbrugh)",
+                "bell": "3"
+            },
+            {
+                "name": "Patrick W J Deakin (James)",
+                "bell": "4"
+            },
+            {
+                "name": "Jemima C Bleackley (Halifax)",
+                "bell": "5"
+            },
+            {
+                "name": "Joseph E T Waters (SUGCR)",
+                "bell": "6"
+            },
+            {
+                "name": "Ryan E Mills (Halifax)",
+                "bell": "7"
+            },
+            {
+                "name": "Rachel L Mahoney (BUSCR)",
+                "bell": "8"
+            }
+        ],
+        "footnotes": [
+            "First Quarter of Bristol: 3",
+            "First Surprise Major as Conductor",
+            "First in a dress (\"and never again\"): 8",
             "Good bell <3"
         ],
         "id": "1689171",
@@ -12970,6 +13024,48 @@
         ],
         "id": "61526",
         "time_in_ms": 11740040
+    },
+    {
+        "academic_year": "2006/07",
+        "type": 1,
+        "date": "Sunday, 11 March 2007",
+        "location": "St Laurence, York, ",
+        "weight": "7-3-24",
+        "time": "39m",
+        "changes": "1300",
+        "method": "Plain Bob Doubles",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Arthur Reeves",
+                "bell": "1"
+            },
+            {
+                "name": "Nicola Hibbert",
+                "bell": "2"
+            },
+            {
+                "name": "Jennifer Shields",
+                "bell": "3"
+            },
+            {
+                "name": "Allen Eccles",
+                "bell": "4"
+            },
+            {
+                "name": "Kevin Atkinson (C)",
+                "bell": "5"
+            },
+            {
+                "name": "James Gajdus",
+                "bell": "6"
+            }
+        ],
+        "footnotes": [
+            "1st quarter without a stay: 2. Nicola would like it to be known that she was not responsible (in this instance anyway)! "
+        ],
+        "id": "1689465",
+        "time_in_ms": 11735718
     },
     {
         "academic_year": "2006/07",

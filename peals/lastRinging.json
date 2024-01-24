@@ -1,54 +1,68 @@
 {
     "academic_year": "2023/24",
     "type": 1,
-    "date": "Friday, 12 January 2024",
-    "location": "Oratory Church of St Wilfrid, York, North Yorkshire",
-    "weight": "18-1-21 in F",
-    "time": "51m",
-    "changes": "1344",
-    "method": "Bristol Surprise Major",
+    "date": "Tuesday, 23 January 2024",
+    "location": "Cathedral and Metropolitical Church of St Peter, York, North Yorkshire",
+    "weight": "59-1-23 in Bb",
+    "time": "63m",
+    "changes": "1346",
+    "method": "Cambridge Surprise Maximus",
     "details": "",
     "ringers": [
         {
-            "name": "Natasha A Williams (Alcuin) (C)",
+            "name": "William M Regan (Friend)",
             "bell": "1"
         },
         {
-            "name": "Ewan G A Hull (Staff)",
+            "name": "Ewan G A Hull (Staff) (C)",
             "bell": "2"
         },
         {
-            "name": "Matthew O Hall (Vanbrugh)",
+            "name": "Jemima C Bleackley (Halifax)",
             "bell": "3"
         },
         {
-            "name": "Patrick W J Deakin (James)",
+            "name": "Natasha A Williams (Alcuin)",
             "bell": "4"
         },
         {
-            "name": "Jemima C Bleackley (Halifax)",
+            "name": "David G Hull (Staff)",
             "bell": "5"
         },
         {
-            "name": "Joseph E T Waters (SUGCR)",
+            "name": "Helen P Taylor (SUGCR)",
             "bell": "6"
         },
         {
-            "name": "Ryan E Mills (Halifax)",
+            "name": "Andrew I Blacklock (Friend)",
             "bell": "7"
         },
         {
-            "name": "Rachel L Mahoney (BUSCR)",
+            "name": "Matthew W Thewsey (The Modern Society Of Plymouth Youths)",
             "bell": "8"
+        },
+        {
+            "name": "Simon W Edwards (Alcuin)",
+            "bell": "9"
+        },
+        {
+            "name": "Eleanor C Mack (UBSCR)",
+            "bell": "10"
+        },
+        {
+            "name": "Patrick W J Deakin (James)",
+            "bell": "11"
+        },
+        {
+            "name": "Edward R Mack (UBSCR)",
+            "bell": "12"
         }
     ],
     "footnotes": [
-        "First Quarter of Bristol: 3",
-        "First Surprise Major as Conductor",
-        "First in a dress (\"and never again\"): 8",
-        "100th Quarter for the Guild: 1",
-        "Good bell <3"
+        "First blows of Maximus: 4",
+        "First QP of Maximus: 3 and for the guild.",
+        "Bonne Cloche"
     ],
-    "id": "1689327",
-    "time_in_ms": 17050184
+    "id": "1692776",
+    "time_in_ms": 17059692
 }

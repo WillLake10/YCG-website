@@ -2,6 +2,100 @@
     {
         "academic_year": "2023/24",
         "type": 1,
+        "date": "Sunday, 28 January 2024",
+        "location": "St Martin le Grand, Coney Street, York, North Yorkshire",
+        "weight": "10-1-23 in G#",
+        "time": "",
+        "changes": "1344",
+        "method": "Glasgow Surprise Major",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Robert Hodgetts (Friend)",
+                "bell": "1"
+            },
+            {
+                "name": "Natasha A Williams (Alcuin)",
+                "bell": "2"
+            },
+            {
+                "name": "Jemima C Bleackley (Halifax)",
+                "bell": "3"
+            },
+            {
+                "name": "Joanna M Ainsworth (Friend)",
+                "bell": "4"
+            },
+            {
+                "name": "Patrick W J Deakin (James) (C)",
+                "bell": "5"
+            },
+            {
+                "name": "Joseph E T Waters (SUGCR)",
+                "bell": "6"
+            },
+            {
+                "name": "William L K Brooke (Wentworth)",
+                "bell": "7"
+            },
+            {
+                "name": "Philippa C M Stokoe (Staff)",
+                "bell": "8"
+            }
+        ],
+        "footnotes": [
+            "First in method: 2,3,6",
+            "50th QP for The Guild this academic year"
+        ],
+        "id": "1693828",
+        "time_in_ms": 17064008
+    },
+    {
+        "academic_year": "2023/24",
+        "type": 1,
+        "date": "Sunday, 28 January 2024",
+        "location": "Oratory Church of St Wilfrid, York, North Yorkshire",
+        "weight": "6-0-6 in C",
+        "time": "44m",
+        "changes": "1291",
+        "method": "Plain Bob Doubles",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Patrick W J Deakin (James)",
+                "bell": "1"
+            },
+            {
+                "name": "Aidan T Derby (Derwent)",
+                "bell": "2"
+            },
+            {
+                "name": "Jemima C Bleackley (Halifax)",
+                "bell": "3"
+            },
+            {
+                "name": "William L K Brooke (Wentworth)",
+                "bell": "4"
+            },
+            {
+                "name": "Natasha A Williams (Alcuin) (C)",
+                "bell": "5"
+            },
+            {
+                "name": "Robert H B Johnson (Wentworth)",
+                "bell": "6"
+            }
+        ],
+        "footnotes": [
+            "First inside at first attempt: 2",
+            "Most pleasant quarter this week: 2, 3, 4, 5, 6"
+        ],
+        "id": "1693874",
+        "time_in_ms": 17064006
+    },
+    {
+        "academic_year": "2023/24",
+        "type": 1,
         "date": "Tuesday, 23 January 2024",
         "location": "Cathedral and Metropolitical Church of St Peter, York, North Yorkshire",
         "weight": "59-1-23 in Bb",

@@ -409,54 +409,6 @@
     },
     {
         "s_date": {
-            "day": "26",
-            "month": "March",
-            "year": "2024",
-            "time": "19:00",
-            "weekday": "Tuesday",
-            "full": "19:00, Tuesday 26 March"
-        },
-        "e_date": {
-            "day": "26",
-            "month": "March",
-            "year": "2024",
-            "time": "21:00",
-            "weekday": "Tuesday",
-            "full": "21:00, Tuesday 26 March"
-        },
-        "title": "York Minster Practice",
-        "location": "York Minster, Deangate",
-        "description": "Weekly practice at the Minster that some members attend",
-        "social": false,
-        "practice": false,
-        "allDay": false
-    },
-    {
-        "s_date": {
-            "day": "28",
-            "month": "March",
-            "year": "2024",
-            "time": "19:00",
-            "weekday": "Thursday",
-            "full": "19:00, Thursday 28 March"
-        },
-        "e_date": {
-            "day": "28",
-            "month": "March",
-            "year": "2024",
-            "time": "21:00",
-            "weekday": "Thursday",
-            "full": "21:00, Thursday 28 March"
-        },
-        "title": "York Oratory Practice",
-        "location": "York Oratory, Duncombe Pl",
-        "description": "St Wilfrid's weekly practice that many members attend",
-        "social": false,
-        "practice": false,
-        "allDay": false
-    },
-    {
-        "s_date": {
             "day": "02",
             "month": "April",
             "year": "2024",

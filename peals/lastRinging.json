@@ -1,51 +1,32 @@
 {
     "academic_year": "2023/24",
     "type": 1,
-    "date": "Sunday, 28 January 2024",
-    "location": "St Martin le Grand, Coney Street, York, North Yorkshire",
-    "weight": "10-1-23 in G#",
-    "time": "",
-    "changes": "1344",
-    "method": "Glasgow Surprise Major",
+    "date": "Tuesday, 30 January 2024",
+    "location": "66 Bootham, York, North Yorkshire",
+    "weight": "11 in G",
+    "time": "33m",
+    "changes": "1260",
+    "method": "St Simon's Bob Doubles",
     "details": "",
     "ringers": [
         {
-            "name": "Robert Hodgetts (Friend)",
-            "bell": "1"
+            "name": "Natasha A Williams (Alcuin) (C)",
+            "bell": "1-2"
         },
         {
-            "name": "Natasha A Williams (Alcuin)",
-            "bell": "2"
-        },
-        {
-            "name": "Jemima C Bleackley (Halifax)",
-            "bell": "3"
-        },
-        {
-            "name": "Joanna M Ainsworth (Friend)",
-            "bell": "4"
-        },
-        {
-            "name": "Patrick W J Deakin (James) (C)",
-            "bell": "5"
+            "name": "Patrick W J Deakin (James)",
+            "bell": "3-4"
         },
         {
             "name": "Joseph E T Waters (SUGCR)",
-            "bell": "6"
-        },
-        {
-            "name": "William L K Brooke (Wentworth)",
-            "bell": "7"
-        },
-        {
-            "name": "Philippa C M Stokoe (Staff)",
-            "bell": "8"
+            "bell": "5-6"
         }
     ],
     "footnotes": [
-        "First in method: 2,3,6",
-        "50th QP for The Guild this academic year"
+        "First in method in hand for all.",
+        "First in method as conductor.",
+        "Rung while Jemima C Bleackley (Halifax) got the sleep she desperately needed under a desk which Robert C Hodgetts and Simon J Poole so noisily denied her."
     ],
-    "id": "1693828",
-    "time_in_ms": 17064008
+    "id": "1694544",
+    "time_in_ms": 17065731
 }

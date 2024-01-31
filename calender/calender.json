@@ -1,26 +1,26 @@
 [
     {
         "s_date": {
-            "day": "30",
+            "day": "31",
             "month": "January",
             "year": "2024",
             "time": "19:00",
-            "weekday": "Tuesday",
-            "full": "19:00, Tuesday 30 January"
+            "weekday": "Wednesday",
+            "full": "19:00, Wednesday 31 January"
         },
         "e_date": {
-            "day": "30",
+            "day": "31",
             "month": "January",
             "year": "2024",
             "time": "21:00",
-            "weekday": "Tuesday",
-            "full": "21:00, Tuesday 30 January"
+            "weekday": "Wednesday",
+            "full": "21:00, Wednesday 31 January"
         },
-        "title": "York Minster Practice",
-        "location": "York Minster, Deangate",
-        "description": "Weekly practice at the Minster that some members attend",
+        "title": "YCG Practice",
+        "location": "York Oratory, Duncombe Pl",
+        "description": "",
         "social": false,
-        "practice": false,
+        "practice": true,
         "allDay": false
     },
     {

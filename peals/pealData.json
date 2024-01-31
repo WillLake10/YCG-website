@@ -20,6 +20,40 @@
             }
         ],
         "footnotes": [
+            "This is the longest length of Minimus on handbells to date",
+            "This is the longest length of Plain Bob Minimus",
+            "First Peal in hand: 1-2",
+            "First Peal as Conductor",
+            "Longest length for all the band, the office, and the Guild",
+            "Umpires: Jemima C Bleackley, Joseph E T Waters (The Partners of Idiots Secret Society)",
+            "\"This was a bad idea\": 1-2, at extent 14",
+            "\"Yes, this was a bad idea\": 3-4 at extent 251",
+            "\"The most impressive peal to happen in this office\""
+        ],
+        "id": "1694371",
+        "time_in_ms": 17021766
+    },
+    {
+        "academic_year": "2023/24",
+        "type": 0,
+        "date": "Sunday, 10 December 2023",
+        "location": "66 Bootham, York, North Yorkshire",
+        "weight": "",
+        "time": "2h 54",
+        "changes": "12000",
+        "method": "Plain Bob Minimus",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Natasha A Williams (Alcuin) (C)",
+                "bell": "1-2"
+            },
+            {
+                "name": "Patrick W J Deakin (James)",
+                "bell": "3-4"
+            }
+        ],
+        "footnotes": [
             "This is the longest (officially recognised) length of Minimus",
             "This is the first (officially recognised) long length of Minimus in hand",
             "This is the longest length of Plain Bob Minimus",
@@ -33,6 +67,38 @@
         ],
         "id": "1678131",
         "time_in_ms": 17021766
+    },
+    {
+        "academic_year": "2023/24",
+        "type": 1,
+        "date": "Tuesday, 30 January 2024",
+        "location": "66 Bootham, York, North Yorkshire",
+        "weight": "11 in G",
+        "time": "33m",
+        "changes": "1260",
+        "method": "St Simon's Bob Doubles",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Natasha A Williams (Alcuin) (C)",
+                "bell": "1-2"
+            },
+            {
+                "name": "Patrick W J Deakin (James)",
+                "bell": "3-4"
+            },
+            {
+                "name": "Joseph E T Waters (SUGCR)",
+                "bell": "5-6"
+            }
+        ],
+        "footnotes": [
+            "First in method in hand for all.",
+            "First in method as conductor.",
+            "Rung while Jemima C Bleackley (Halifax) got the sleep she desperately needed under a desk which Robert C Hodgetts and Simon J Poole so noisily denied her."
+        ],
+        "id": "1694544",
+        "time_in_ms": 17065731
     },
     {
         "academic_year": "2023/24",

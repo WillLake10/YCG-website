@@ -26743,6 +26743,57 @@
                 "bell": "7"
             },
             {
+                "name": "John Blacktop",
+                "bell": "8"
+            }
+        ],
+        "footnotes": [
+            "Rung as a farewell to Douglas Clegg of the York Minster Society",
+            "Published as part of YCG's effort to digitalise old records. All records uploaded exactly as they appear in our physical books, for any changes to names etc, please contact admin@ycg.org.uk"
+        ],
+        "id": "1694752",
+        "time_in_ms": 262664
+    },
+    {
+        "academic_year": "1970/71",
+        "type": 1,
+        "date": "Sunday, 01 November 1970",
+        "location": "Cathedral and Metropolitical Church of St Peter, York, North Yorkshire",
+        "weight": "14-0-13 in G",
+        "time": "51m",
+        "changes": "1260",
+        "method": "Plain Bob Triples",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Judith P McGhie",
+                "bell": "1"
+            },
+            {
+                "name": "David E Potter",
+                "bell": "2"
+            },
+            {
+                "name": "Susan M Fitton",
+                "bell": "3"
+            },
+            {
+                "name": "Helen M Simpson",
+                "bell": "4"
+            },
+            {
+                "name": "Lyz Ewan",
+                "bell": "5"
+            },
+            {
+                "name": "Owen P Claxton",
+                "bell": "6"
+            },
+            {
+                "name": "Derek J Jones (C)",
+                "bell": "7"
+            },
+            {
                 "name": "Jon Blacktop",
                 "bell": "8"
             }

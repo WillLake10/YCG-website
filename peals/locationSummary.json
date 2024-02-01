@@ -3,16 +3,16 @@
         {
             "tower": "York (St Lawrence), North Yorkshire",
             "peals": 7,
-            "quarters": 162,
+            "quarters": 161,
             "other": 11,
-            "total": 180
+            "total": 179
         },
         {
             "tower": "66 Bootham, York, North Yorkshire",
-            "peals": 2,
-            "quarters": 27,
+            "peals": 1,
+            "quarters": 25,
             "other": 0,
-            "total": 29
+            "total": 26
         },
         {
             "tower": "York (St Olave, Marygate), North Yorkshire",
@@ -477,13 +477,6 @@
             "total": 1
         },
         {
-            "tower": "Warrington (61 Fox Street)",
-            "peals": 0,
-            "quarters": 1,
-            "other": 0,
-            "total": 1
-        },
-        {
             "tower": "Wath juxta Ripon (St Mary), North Yorkshire",
             "peals": 1,
             "quarters": 0,
@@ -548,9 +541,9 @@
         }
     ],
     "summary": {
-        "peals": 40,
-        "quarters": 554,
+        "peals": 39,
+        "quarters": 548,
         "other": 34,
-        "total": 628
+        "total": 621
     }
 }

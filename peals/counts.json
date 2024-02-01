@@ -1,8 +1,8 @@
 [
     {
         "academic_year": "2023/24",
-        "peals": 2,
-        "quarters": 55,
+        "peals": 1,
+        "quarters": 52,
         "other": 1
     },
     {
@@ -74,7 +74,7 @@
     {
         "academic_year": "2010/11",
         "peals": 0,
-        "quarters": 3,
+        "quarters": 2,
         "other": 0
     },
     {
@@ -98,7 +98,7 @@
     {
         "academic_year": "2006/07",
         "peals": 3,
-        "quarters": 48,
+        "quarters": 47,
         "other": 0
     },
     {
@@ -278,7 +278,7 @@
     {
         "academic_year": "1970/71",
         "peals": 0,
-        "quarters": 7,
+        "quarters": 6,
         "other": 0
     },
     {

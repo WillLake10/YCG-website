@@ -35,41 +35,6 @@
     },
     {
         "academic_year": "2023/24",
-        "type": 0,
-        "date": "Sunday, 10 December 2023",
-        "location": "66 Bootham, York, North Yorkshire",
-        "weight": "",
-        "time": "2h 54",
-        "changes": "12000",
-        "method": "Plain Bob Minimus",
-        "details": "",
-        "ringers": [
-            {
-                "name": "Natasha A Williams (Alcuin) (C)",
-                "bell": "1-2"
-            },
-            {
-                "name": "Patrick W J Deakin (James)",
-                "bell": "3-4"
-            }
-        ],
-        "footnotes": [
-            "This is the longest (officially recognised) length of Minimus",
-            "This is the first (officially recognised) long length of Minimus in hand",
-            "This is the longest length of Plain Bob Minimus",
-            "First Peal in hand: 1-2",
-            "First Peal as Conductor",
-            "Longest length for all the band, the office, and the Guild",
-            "Umpires: Jemima C Bleackley, Joseph E T Waters (The Partners of Idiots Secret Society)",
-            "\"This was a bad idea\": 1-2, at extent 14",
-            "\"Yes, this was a bad idea\": 3-4 at extent 251",
-            "\"The most impressive peal to happen in this office\""
-        ],
-        "id": "1678131",
-        "time_in_ms": 17021766
-    },
-    {
-        "academic_year": "2023/24",
         "type": 1,
         "date": "Tuesday, 30 January 2024",
         "location": "66 Bootham, York, North Yorkshire",
@@ -320,59 +285,6 @@
         "academic_year": "2023/24",
         "type": 1,
         "date": "Friday, 12 January 2024",
-        "location": "Oratory Church of St Wilfrid, York, North Yorkshire",
-        "weight": "18-1-21 in F",
-        "time": "51m",
-        "changes": "1344",
-        "method": "Bristol Surprise Major",
-        "details": "",
-        "ringers": [
-            {
-                "name": "Natasha A Williams (Alcuin) (C)",
-                "bell": "1"
-            },
-            {
-                "name": "Ewan G A Hull (Staff)",
-                "bell": "2"
-            },
-            {
-                "name": "Matthew O Hall (Vanbrugh)",
-                "bell": "3"
-            },
-            {
-                "name": "Patrick W J Deakin (James)",
-                "bell": "4"
-            },
-            {
-                "name": "Jemima C Bleackley (Halifax)",
-                "bell": "5"
-            },
-            {
-                "name": "Joseph E T Waters (SUGCR)",
-                "bell": "6"
-            },
-            {
-                "name": "Ryan E Mills (Halifax)",
-                "bell": "7"
-            },
-            {
-                "name": "Rachel L Mahoney (BUSCR)",
-                "bell": "8"
-            }
-        ],
-        "footnotes": [
-            "First Quarter of Bristol: 3",
-            "First Surprise Major as Conductor",
-            "First in a dress (\"and never again\"): 8",
-            "Good bell <3"
-        ],
-        "id": "1689171",
-        "time_in_ms": 17050184
-    },
-    {
-        "academic_year": "2023/24",
-        "type": 1,
-        "date": "Friday, 12 January 2024",
         "location": "66 Bootham, York, North Yorkshire",
         "weight": "11 in G",
         "time": "30m",
@@ -433,51 +345,6 @@
         ],
         "id": "1688428",
         "time_in_ms": 17047588
-    },
-    {
-        "academic_year": "2023/24",
-        "type": 1,
-        "date": "Friday, 05 January 2024",
-        "location": "66 Bootham, York, North Yorkshire",
-        "weight": "11 in G",
-        "time": "35m",
-        "changes": "1260",
-        "method": "Plain Bob Doubles",
-        "details": "",
-        "ringers": [
-            {
-                "name": "Natasha A Williams (Alcuin)",
-                "bell": "1"
-            },
-            {
-                "name": "Natasha A Williams (Alcuin)",
-                "bell": "2"
-            },
-            {
-                "name": "Patrick W J Deakin (James)",
-                "bell": "3"
-            },
-            {
-                "name": "Patrick W J Deakin (James)",
-                "bell": "4"
-            },
-            {
-                "name": "Joseph E T Waters (SUGCR) (C)",
-                "bell": "5"
-            },
-            {
-                "name": "Joseph E T Waters (SUGCR) (C)",
-                "bell": "6"
-            }
-        ],
-        "footnotes": [
-            "Birthday compliments to Joanna Ainsworth",
-            "First handbell quarter peal as conductor: 5-6",
-            "25th together: 1-2 & 5-6",
-            "50th this academic year: 1-2"
-        ],
-        "id": "1687384",
-        "time_in_ms": 17044134
     },
     {
         "academic_year": "2023/24",
@@ -823,37 +690,6 @@
         ],
         "footnotes": [],
         "id": "1685002",
-        "time_in_ms": 17038947
-    },
-    {
-        "academic_year": "2023/24",
-        "type": 1,
-        "date": "Saturday, 30 December 2023",
-        "location": "66 Bootham, York, North Yorkshire",
-        "weight": "11 in G",
-        "time": "26m",
-        "changes": "1260",
-        "method": "Plain Bob Doubles",
-        "details": "",
-        "ringers": [
-            {
-                "name": "Jemima C Bleackley (Halifax)",
-                "bell": "1-2"
-            },
-            {
-                "name": "Patrick W J Deakin (James)",
-                "bell": "3-4"
-            },
-            {
-                "name": "Natasha A Williams (Alcuin) (C)",
-                "bell": "5-6"
-            }
-        ],
-        "footnotes": [
-            "50th together: 3-4 & 5-6",
-            "First quarter in the office today"
-        ],
-        "id": "1684978",
         "time_in_ms": 17038947
     },
     {
@@ -9877,37 +9713,6 @@
     {
         "academic_year": "2010/11",
         "type": 1,
-        "date": "Wednesday, 29 December 2010",
-        "location": "61 Fox Street, Warrington, ",
-        "weight": "",
-        "time": "29m",
-        "changes": "1271",
-        "method": "St Clements College Bob Minor",
-        "details": "",
-        "ringers": [
-            {
-                "name": "Iain D Scott",
-                "bell": "1-2"
-            },
-            {
-                "name": "Elaine M Scott",
-                "bell": "3-4"
-            },
-            {
-                "name": "Peter J Scott (C)",
-                "bell": "5-6"
-            }
-        ],
-        "footnotes": [
-            "Believed to be the first Quarter Peal rung at the address.",
-            "Under a new light shade."
-        ],
-        "id": "14289",
-        "time_in_ms": 12935811
-    },
-    {
-        "academic_year": "2010/11",
-        "type": 1,
         "date": "Wednesday, 24 November 2010",
         "location": "Spurriergate, York, North Yorkshire",
         "weight": "8",
@@ -13293,48 +13098,6 @@
             "1st quarter without a stay: 2. Nicola would like it to be known that she was not responsible (in this instance anyway)! "
         ],
         "id": "1689465",
-        "time_in_ms": 11735718
-    },
-    {
-        "academic_year": "2006/07",
-        "type": 1,
-        "date": "Sunday, 11 March 2007",
-        "location": "St Laurence, York, ",
-        "weight": "39",
-        "time": "",
-        "changes": "1300",
-        "method": "Plain Bob Doubles",
-        "details": "",
-        "ringers": [
-            {
-                "name": "Arthur Reeves",
-                "bell": "1"
-            },
-            {
-                "name": "Nicola Hibbert",
-                "bell": "2"
-            },
-            {
-                "name": "Jennifer Shields",
-                "bell": "3"
-            },
-            {
-                "name": "Allen Eccles",
-                "bell": "4"
-            },
-            {
-                "name": "Kevin Atkinson (C)",
-                "bell": "5"
-            },
-            {
-                "name": "James Gajdus",
-                "bell": "6"
-            }
-        ],
-        "footnotes": [
-            "1st quarter without a stay: 2. Nicola would like it to be known that she was not responsible (in this instance anyway)! "
-        ],
-        "id": "61366",
         "time_in_ms": 11735718
     },
     {
@@ -26752,57 +26515,6 @@
             "Published as part of YCG's effort to digitalise old records. All records uploaded exactly as they appear in our physical books, for any changes to names etc, please contact admin@ycg.org.uk"
         ],
         "id": "1694752",
-        "time_in_ms": 262664
-    },
-    {
-        "academic_year": "1970/71",
-        "type": 1,
-        "date": "Sunday, 01 November 1970",
-        "location": "Cathedral and Metropolitical Church of St Peter, York, North Yorkshire",
-        "weight": "14-0-13 in G",
-        "time": "51m",
-        "changes": "1260",
-        "method": "Plain Bob Triples",
-        "details": "",
-        "ringers": [
-            {
-                "name": "Judith P McGhie",
-                "bell": "1"
-            },
-            {
-                "name": "David E Potter",
-                "bell": "2"
-            },
-            {
-                "name": "Susan M Fitton",
-                "bell": "3"
-            },
-            {
-                "name": "Helen M Simpson",
-                "bell": "4"
-            },
-            {
-                "name": "Lyz Ewan",
-                "bell": "5"
-            },
-            {
-                "name": "Owen P Claxton",
-                "bell": "6"
-            },
-            {
-                "name": "Derek J Jones (C)",
-                "bell": "7"
-            },
-            {
-                "name": "Jon Blacktop",
-                "bell": "8"
-            }
-        ],
-        "footnotes": [
-            "Rung as a farewell to Douglas Clegg of the York Minster Society",
-            "Published as part of YCG's effort to digitalise old records. All records uploaded exactly as they appear in our physical books, for any changes to names etc, please contact admin@ycg.org.uk"
-        ],
-        "id": "1551114",
         "time_in_ms": 262664
     },
     {

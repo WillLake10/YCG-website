@@ -36,6 +36,65 @@
     {
         "academic_year": "2023/24",
         "type": 1,
+        "date": "Friday, 02 February 2024",
+        "location": "Oratory Church of St Wilfrid, York, North Yorkshire",
+        "weight": "18-1-21 in F",
+        "time": "48m",
+        "changes": "1280",
+        "method": "Cambridge Surprise Royal",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Patrick W J Deakin",
+                "bell": "1"
+            },
+            {
+                "name": "Rachel L Mahoney (C)",
+                "bell": "2"
+            },
+            {
+                "name": "Natasha A Williams",
+                "bell": "3"
+            },
+            {
+                "name": "Iain J Anderson",
+                "bell": "4"
+            },
+            {
+                "name": "William L K Brooke",
+                "bell": "5"
+            },
+            {
+                "name": "Jemima C Bleakley",
+                "bell": "6"
+            },
+            {
+                "name": "Joseph E T Waters",
+                "bell": "7"
+            },
+            {
+                "name": "Matthew W Thewsey",
+                "bell": "8"
+            },
+            {
+                "name": "Ewan G A Hull",
+                "bell": "9"
+            },
+            {
+                "name": "Alex S Riley",
+                "bell": "10"
+            }
+        ],
+        "footnotes": [
+            "First of Royal as Conductor",
+            "Rung with condolences to our friends at St James Garlickhythe following the passing of Andrew Rose"
+        ],
+        "id": "1695338",
+        "time_in_ms": 17068330
+    },
+    {
+        "academic_year": "2023/24",
+        "type": 1,
         "date": "Tuesday, 30 January 2024",
         "location": "66 Bootham, York, North Yorkshire",
         "weight": "11 in G",

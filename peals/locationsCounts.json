@@ -6,8 +6,8 @@
                 "tower": "66 Bootham, York, North Yorkshire",
                 "peals": 1,
                 "quarters": 25,
-                "other": 0,
-                "total": 26
+                "other": 1,
+                "total": 27
             },
             {
                 "tower": "York (Oratory Church of St Wilfrid), North Yorkshire",
@@ -76,8 +76,8 @@
         "summary": {
             "peals": 1,
             "quarters": 55,
-            "other": 2,
-            "total": 58
+            "other": 3,
+            "total": 59
         }
     },
     {

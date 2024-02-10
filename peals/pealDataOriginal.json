@@ -2,6 +2,38 @@
     {
         "academic_year": "2023/24",
         "type": 2,
+        "date": "Friday, 09 February 2024",
+        "location": "66 Bootham, York, North Yorkshire",
+        "weight": "11 in G",
+        "time": "5m",
+        "changes": "120",
+        "method": "The York Colleges Guild Is The Best University Bellringing Society Doubles",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Natasha A Williams (Alcuin) (C)",
+                "bell": "1-2"
+            },
+            {
+                "name": "Patrick W J Deakin (James)",
+                "bell": "3-4"
+            },
+            {
+                "name": "Joseph E T Waters (SUGCR)",
+                "bell": "5-6"
+            }
+        ],
+        "footnotes": [
+            "First naming of a variation in hand: 1-2",
+            "The variation 76me (Camelion Bob with an Egocentric Single) is rung for the first time. The band would like to name this variation \"The York Colleges Guild Is The Best University Bellringing Society\" Doubles",
+            "The band would like to associate William M Regan (Friend) with this performance "
+        ],
+        "id": "1697686",
+        "time_in_ms": 17074371
+    },
+    {
+        "academic_year": "2023/24",
+        "type": 2,
         "date": "Wednesday, 07 February 2024",
         "location": "Oratory Church of St Wilfrid, York, North Yorkshire",
         "weight": "6-0-6 in C",

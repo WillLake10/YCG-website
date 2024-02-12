@@ -1,45 +1,31 @@
 {
     "academic_year": "2023/24",
     "type": 2,
-    "date": "Saturday, 10 February 2024",
-    "location": "Oratory Church of St Wilfrid, York, North Yorkshire",
-    "weight": "18-1-21 in F",
-    "time": "6m",
+    "date": "Sunday, 11 February 2024",
+    "location": "66 Bootham, York, North Yorkshire",
+    "weight": "11 in G",
+    "time": "4m",
     "changes": "120",
-    "method": "Diary Doubles",
+    "method": "Just A Sloice Doubles",
     "details": "",
     "ringers": [
         {
             "name": "Jemima C Bleackley (Halifax)",
-            "bell": "1"
-        },
-        {
-            "name": "Matthew W Thewsey (The Modern Society Of Plymouth Youths)",
-            "bell": "2"
+            "bell": "1-2"
         },
         {
             "name": "Patrick W J Deakin (James)",
-            "bell": "3"
+            "bell": "3-4"
         },
         {
             "name": "Natasha A Williams (Alcuin) (C)",
-            "bell": "4"
-        },
-        {
-            "name": "William M Regan (Friend)",
-            "bell": "5"
-        },
-        {
-            "name": "Ryan E Mills (Halifax)",
-            "bell": "6"
+            "bell": "5-6"
         }
     ],
     "footnotes": [
-        "Rung on the back six, after a wedding prevented a peal attempt.",
-        "First variation: 2",
-        "The variation 85uw (Reverse St Simon's Bob with a Jingle Knockers Single) is rung for the first time. The band would like to name this variation \"Diary\" Doubles",
-        "The band would like to associate Joseph E T Waters with this performance, having organised this variation attempt"
+        "First naming of a variation in hand: 1-2",
+        "The variation 193bo (Eaglethorpe Bob with a Robert Bob) is rung for the first time. The band would like to name this variation \"Just A Sloice\" Doubles "
     ],
-    "id": "1697891",
-    "time_in_ms": 17075238
+    "id": "1698281",
+    "time_in_ms": 17076099
 }

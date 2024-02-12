@@ -1,6 +1,30 @@
 [
     {
         "s_date": {
+            "day": "14",
+            "month": "February",
+            "year": "2024",
+            "time": "19:30",
+            "weekday": "Wednesday",
+            "full": "19:30, Wednesday 14 February"
+        },
+        "e_date": {
+            "day": "14",
+            "month": "February",
+            "year": "2024",
+            "time": "21:00",
+            "weekday": "Wednesday",
+            "full": "21:00, Wednesday 14 February"
+        },
+        "title": "YCG Practice",
+        "location": "York Oratory, Duncombe Pl",
+        "description": "",
+        "social": false,
+        "practice": true,
+        "allDay": false
+    },
+    {
+        "s_date": {
             "day": "15",
             "month": "February",
             "year": "2024",

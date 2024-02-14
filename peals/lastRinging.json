@@ -1,20 +1,20 @@
 {
     "academic_year": "2023/24",
     "type": 2,
-    "date": "Sunday, 11 February 2024",
+    "date": "Tuesday, 13 February 2024",
     "location": "66 Bootham, York, North Yorkshire",
     "weight": "11 in G",
     "time": "4m",
     "changes": "120",
-    "method": "Just A Sloice Doubles",
+    "method": "Employment Haircut Doubles",
     "details": "",
     "ringers": [
         {
-            "name": "Jemima C Bleackley (Halifax)",
+            "name": "Patrick W J Deakin (James)",
             "bell": "1-2"
         },
         {
-            "name": "Patrick W J Deakin (James)",
+            "name": "William M Regan (Friend)",
             "bell": "3-4"
         },
         {
@@ -23,9 +23,9 @@
         }
     ],
     "footnotes": [
-        "First naming of a variation in hand: 1-2",
-        "The variation 193bo (Eaglethorpe Bob with a Robert Bob) is rung for the first time. The band would like to name this variation \"Just A Sloice\" Doubles "
+        "First performance on 3-4: 3-4",
+        "The variation 193ob (Eaglethorpe Bob with a Bob Bob) is rung for the first time. The band would like to name this variation \"Employment Haircut\" Doubles"
     ],
-    "id": "1698281",
-    "time_in_ms": 17076099
+    "id": "1699078",
+    "time_in_ms": 17077827
 }

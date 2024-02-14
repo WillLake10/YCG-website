@@ -2,6 +2,37 @@
     {
         "academic_year": "2023/24",
         "type": 2,
+        "date": "Tuesday, 13 February 2024",
+        "location": "66 Bootham, York, North Yorkshire",
+        "weight": "11 in G",
+        "time": "4m",
+        "changes": "120",
+        "method": "Employment Haircut Doubles",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Patrick W J Deakin (James)",
+                "bell": "1-2"
+            },
+            {
+                "name": "William M Regan (Friend)",
+                "bell": "3-4"
+            },
+            {
+                "name": "Natasha A Williams (Alcuin) (C)",
+                "bell": "5-6"
+            }
+        ],
+        "footnotes": [
+            "First performance on 3-4: 3-4",
+            "The variation 193ob (Eaglethorpe Bob with a Bob Bob) is rung for the first time. The band would like to name this variation \"Employment Haircut\" Doubles"
+        ],
+        "id": "1699078",
+        "time_in_ms": 17077827
+    },
+    {
+        "academic_year": "2023/24",
+        "type": 2,
         "date": "Sunday, 11 February 2024",
         "location": "66 Bootham, York, North Yorkshire",
         "weight": "11 in G",

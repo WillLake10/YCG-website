@@ -1,32 +1,51 @@
 {
     "academic_year": "2023/24",
     "type": 1,
-    "date": "Thursday, 15 February 2024",
-    "location": "66 Bootham, York, North Yorkshire",
-    "weight": "",
-    "time": "35m",
-    "changes": "1344",
-    "method": "Plain Bob Major",
+    "date": "Friday, 16 February 2024",
+    "location": "Oratory Church of St Wilfrid, York, North Yorkshire",
+    "weight": "18-1-21 in F",
+    "time": "",
+    "changes": "1260",
+    "method": "Stedman Triples",
     "details": "",
     "ringers": [
         {
-            "name": "Natasha A Williams (Alcuin)",
-            "bell": "1-2"
+            "name": "Patrick W J Deakin (James) (C)",
+            "bell": "1"
         },
         {
-            "name": "Patrick W J Deakin (James) (C)",
-            "bell": "3-4"
+            "name": "Natalie Bleackley (Friend)",
+            "bell": "2"
+        },
+        {
+            "name": "Jemima C Bleackley (Halifax)",
+            "bell": "3"
+        },
+        {
+            "name": "Natasha A Williams (Alcuin)",
+            "bell": "4"
+        },
+        {
+            "name": "William L K Brooke (Wentworth)",
+            "bell": "5"
         },
         {
             "name": "William M Regan (Friend)",
-            "bell": "5-6"
+            "bell": "6"
         },
         {
             "name": "Joseph E T Waters (SUGCR)",
-            "bell": "7-8"
+            "bell": "7"
+        },
+        {
+            "name": "Matthew O Hall (Vanbrugh)",
+            "bell": "8"
         }
     ],
-    "footnotes": [],
-    "id": "1700070",
-    "time_in_ms": 17079556
+    "footnotes": [
+        "First of Stedman: 2",
+        "50th together: 4 & 6"
+    ],
+    "id": "1700605",
+    "time_in_ms": 17080424
 }

@@ -44,6 +44,58 @@
             }
         ],
         "footnotes": [
+            "Rung on the eve of Brother David's Ordination",
+            "First of Stedman: 2",
+            "50th together: 4 & 6"
+        ],
+        "id": "1700720",
+        "time_in_ms": 17080424
+    },
+    {
+        "academic_year": "2023/24",
+        "type": 1,
+        "date": "Friday, 16 February 2024",
+        "location": "Oratory Church of St Wilfrid, York, North Yorkshire",
+        "weight": "18-1-21 in F",
+        "time": "",
+        "changes": "1260",
+        "method": "Stedman Triples",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Patrick W J Deakin (James) (C)",
+                "bell": "1"
+            },
+            {
+                "name": "Natalie Bleackley (Friend)",
+                "bell": "2"
+            },
+            {
+                "name": "Jemima C Bleackley (Halifax)",
+                "bell": "3"
+            },
+            {
+                "name": "Natasha A Williams (Alcuin)",
+                "bell": "4"
+            },
+            {
+                "name": "William L K Brooke (Wentworth)",
+                "bell": "5"
+            },
+            {
+                "name": "William M Regan (Friend)",
+                "bell": "6"
+            },
+            {
+                "name": "Joseph E T Waters (SUGCR)",
+                "bell": "7"
+            },
+            {
+                "name": "Matthew O Hall (Vanbrugh)",
+                "bell": "8"
+            }
+        ],
+        "footnotes": [
             "First of Stedman: 2",
             "50th together: 4 & 6"
         ],

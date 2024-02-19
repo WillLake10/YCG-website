@@ -1,6 +1,38 @@
 [
     {
         "academic_year": "2023/24",
+        "type": 2,
+        "date": "Sunday, 18 February 2024",
+        "location": "66 Bootham, York, North Yorkshire",
+        "weight": "11 in G",
+        "time": "5m",
+        "changes": "120",
+        "method": "Noice Doubles",
+        "details": "RPBP x3",
+        "ringers": [
+            {
+                "name": "Natasha A Williams (Alcuin) (C)",
+                "bell": "1-2"
+            },
+            {
+                "name": "Patrick W J Deakin (James)",
+                "bell": "3-4"
+            },
+            {
+                "name": "Jemima C Bleackley (Halifax)",
+                "bell": "5-6"
+            }
+        ],
+        "footnotes": [
+            "Rung in anticipation of the YCG AGM",
+            "The variation 193bo/ob (Eaglethorpe Bob with a Robert Bob and a Bob Bob) is rung for the first time. The band would like to name this variation \"Noice\" Doubles",
+            "25th Variation named: 1-2"
+        ],
+        "id": "1701018",
+        "time_in_ms": 17082147
+    },
+    {
+        "academic_year": "2023/24",
         "type": 1,
         "date": "Friday, 16 February 2024",
         "location": "Oratory Church of St Wilfrid, York, North Yorkshire",

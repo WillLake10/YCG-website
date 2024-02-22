@@ -36,6 +36,48 @@
     {
         "academic_year": "2023/24",
         "type": 1,
+        "date": "Wednesday, 21 February 2024",
+        "location": "Oratory Church of St Wilfrid, York, North Yorkshire",
+        "weight": "6-0-6 in C",
+        "time": "44m",
+        "changes": "1260",
+        "method": "Plain Bob Minor",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Benjamin J Hartley (St John)",
+                "bell": "1"
+            },
+            {
+                "name": "Aidan T Derby (Derwent)",
+                "bell": "2"
+            },
+            {
+                "name": "Patrick W J Deakin (James) (C)",
+                "bell": "3"
+            },
+            {
+                "name": "Robert H B Johnson (Wentworth)",
+                "bell": "4"
+            },
+            {
+                "name": "Matthew O Hall (Vanbrugh)",
+                "bell": "5"
+            },
+            {
+                "name": "Megan K Bucknall (Anne Lister)",
+                "bell": "6"
+            }
+        ],
+        "footnotes": [
+            "First of Minor: 2"
+        ],
+        "id": "1702552",
+        "time_in_ms": 17084742
+    },
+    {
+        "academic_year": "2023/24",
+        "type": 1,
         "date": "Friday, 16 February 2024",
         "location": "Oratory Church of St Wilfrid, York, North Yorkshire",
         "weight": "18-1-21 in F",

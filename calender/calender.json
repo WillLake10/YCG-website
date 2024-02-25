@@ -193,6 +193,30 @@
     },
     {
         "s_date": {
+            "day": "22",
+            "month": "March",
+            "year": "2024",
+            "time": "19:00",
+            "weekday": "Friday",
+            "full": "19:00, Friday 22 March"
+        },
+        "e_date": {
+            "day": "22",
+            "month": "March",
+            "year": "2024",
+            "time": "20:30",
+            "weekday": "Friday",
+            "full": "20:30, Friday 22 March"
+        },
+        "title": "mead and cheese night",
+        "location": "",
+        "description": "!social",
+        "social": false,
+        "practice": false,
+        "allDay": false
+    },
+    {
+        "s_date": {
             "day": "02",
             "month": "April",
             "year": "2024",

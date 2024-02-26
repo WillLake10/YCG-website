@@ -24,6 +24,13 @@
                 "total": 5
             },
             {
+                "tower": "York (Cathedral and Metropolitical Church of St Peter), North Yorkshire",
+                "peals": 0,
+                "quarters": 2,
+                "other": 0,
+                "total": 2
+            },
+            {
                 "tower": "87 Lawrence Street, York, North Yorkshire",
                 "peals": 0,
                 "quarters": 2,
@@ -39,13 +46,6 @@
             },
             {
                 "tower": "Oratory Church of St Wilfrid, York, ",
-                "peals": 0,
-                "quarters": 1,
-                "other": 0,
-                "total": 1
-            },
-            {
-                "tower": "York (Cathedral and Metropolitical Church of St Peter), North Yorkshire",
                 "peals": 0,
                 "quarters": 1,
                 "other": 0,
@@ -75,9 +75,9 @@
         ],
         "summary": {
             "peals": 1,
-            "quarters": 59,
+            "quarters": 60,
             "other": 7,
-            "total": 67
+            "total": 68
         }
     },
     {

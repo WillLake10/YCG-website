@@ -2,6 +2,78 @@
     {
         "academic_year": "2023/24",
         "type": 1,
+        "date": "Sunday, 25 February 2024",
+        "location": "Cathedral and Metropolitical Church of St Peter, York, North Yorkshire",
+        "weight": "59-1-23 in Bb",
+        "time": "63m",
+        "changes": "1320",
+        "method": "Stedman Cinques",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Natasha A Williams (Alcuin) (C)",
+                "bell": "1"
+            },
+            {
+                "name": "Elva R Ainsworth (UBSCR)",
+                "bell": "2"
+            },
+            {
+                "name": "David G Hull (Staff)",
+                "bell": "3"
+            },
+            {
+                "name": "Iain J Anderson (CUG)",
+                "bell": "4"
+            },
+            {
+                "name": "Matthew W Thewsey (The Modern Society Of Plymouth Youths)",
+                "bell": "5"
+            },
+            {
+                "name": "Alison L Edmonds (Staff)",
+                "bell": "6"
+            },
+            {
+                "name": "Patrick W J Deakin (James)",
+                "bell": "7"
+            },
+            {
+                "name": "Jemima C Bleackley (Halifax)",
+                "bell": "8"
+            },
+            {
+                "name": "Alex S Riley (DUSCR)",
+                "bell": "9"
+            },
+            {
+                "name": "Eleanor C Mack (UBSCR)",
+                "bell": "10"
+            },
+            {
+                "name": "Ewan G A Hull (Staff)",
+                "bell": "11"
+            },
+            {
+                "name": "Joseph E T Waters (SUGCR)",
+                "bell": "12"
+            }
+        ],
+        "footnotes": [
+            "Rung for Choral Evensong",
+            "Wishing William J Lake, webmaster of the YCG, a happy belated birthday.",
+            "Celebrating the 2nd anniversary of the Conductor's first Quarter inside.",
+            "First Stedman Cinques: 1, 8",
+            "First on 12 as Conductor",
+            "Circled the tower (all 14 bells) to 12-bell Quarters: 7",
+            "150th Quarter: 1"
+        ],
+        "id": "1703820",
+        "time_in_ms": 17088204
+    },
+    {
+        "academic_year": "2023/24",
+        "type": 1,
         "date": "Wednesday, 21 February 2024",
         "location": "Oratory Church of St Wilfrid, York, North Yorkshire",
         "weight": "6-0-6 in C",

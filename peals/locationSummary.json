@@ -22,6 +22,13 @@
             "total": 16
         },
         {
+            "tower": "York (St Philip and St James, Clifton), North Yorkshire",
+            "peals": 3,
+            "quarters": 8,
+            "other": 1,
+            "total": 12
+        },
+        {
             "tower": "York (Oratory Church of St Wilfrid), North Yorkshire",
             "peals": 2,
             "quarters": 9,
@@ -46,13 +53,6 @@
             "tower": "York (All Saints, North Street), North Yorkshire",
             "peals": 1,
             "quarters": 6,
-            "other": 1,
-            "total": 8
-        },
-        {
-            "tower": "York (St Philip and St James, Clifton), North Yorkshire",
-            "peals": 2,
-            "quarters": 5,
             "other": 1,
             "total": 8
         },
@@ -541,9 +541,9 @@
         }
     ],
     "summary": {
-        "peals": 39,
-        "quarters": 556,
+        "peals": 40,
+        "quarters": 559,
         "other": 40,
-        "total": 635
+        "total": 639
     }
 }

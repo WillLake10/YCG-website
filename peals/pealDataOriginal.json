@@ -422,57 +422,6 @@
     {
         "academic_year": "2023/24",
         "type": 1,
-        "date": "Friday, 16 February 2024",
-        "location": "Oratory Church of St Wilfrid, York, North Yorkshire",
-        "weight": "18-1-21 in F",
-        "time": "",
-        "changes": "1260",
-        "method": "Stedman Triples",
-        "details": "",
-        "ringers": [
-            {
-                "name": "Patrick W J Deakin (James) (C)",
-                "bell": "1"
-            },
-            {
-                "name": "Natalie Bleackley (Friend)",
-                "bell": "2"
-            },
-            {
-                "name": "Jemima C Bleackley (Halifax)",
-                "bell": "3"
-            },
-            {
-                "name": "Natasha A Williams (Alcuin)",
-                "bell": "4"
-            },
-            {
-                "name": "William L K Brooke (Wentworth)",
-                "bell": "5"
-            },
-            {
-                "name": "William M Regan (Friend)",
-                "bell": "6"
-            },
-            {
-                "name": "Joseph E T Waters (SUGCR)",
-                "bell": "7"
-            },
-            {
-                "name": "Matthew O Hall (Vanbrugh)",
-                "bell": "8"
-            }
-        ],
-        "footnotes": [
-            "First of Stedman: 2",
-            "50th together: 4 & 6"
-        ],
-        "id": "1700605",
-        "time_in_ms": 17080424
-    },
-    {
-        "academic_year": "2023/24",
-        "type": 1,
         "date": "Thursday, 15 February 2024",
         "location": "66 Bootham, York, North Yorkshire",
         "weight": "",
@@ -732,6 +681,186 @@
     {
         "academic_year": "2023/24",
         "type": 1,
+        "date": "Sunday, 04 February 2024",
+        "location": "St Andrew, Epworth, Lincolnshire",
+        "weight": "16-3-16 in F",
+        "time": "46m",
+        "changes": "1260",
+        "method": "Plain Bob Triples",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Ellie Sargeant (Friend)",
+                "bell": "1"
+            },
+            {
+                "name": "Dylan M Smith (Friend)",
+                "bell": "2"
+            },
+            {
+                "name": "Jemima C Bleackley (Halifax)",
+                "bell": "3"
+            },
+            {
+                "name": "Matthew O Hall (Vanbrugh)",
+                "bell": "4"
+            },
+            {
+                "name": "Natasha A Williams (Alcuin)",
+                "bell": "5"
+            },
+            {
+                "name": "Alex Addy (SUGCR)",
+                "bell": "6"
+            },
+            {
+                "name": "Joseph E T Waters (SUGCR) (C)",
+                "bell": "7"
+            },
+            {
+                "name": "Patrick W J Deakin (James)",
+                "bell": "8"
+            }
+        ],
+        "footnotes": [
+            "First quarter peal on eight: 6",
+            "69th together: 5 & 8"
+        ],
+        "id": "1695818",
+        "time_in_ms": 17070056
+    },
+    {
+        "academic_year": "2023/24",
+        "type": 1,
+        "date": "Sunday, 04 February 2024",
+        "location": "All Saints, Belton in Isle of Axholme, Lincolnshire",
+        "weight": "11-0-13 in G",
+        "time": "42m",
+        "changes": "1260",
+        "method": "Spliced Bob Doubles (2m)",
+        "details": "640 St Martin's Bob; 620 St Simon's Bob; 70 com. 60 + 10 different extents\n",
+        "ringers": [
+            {
+                "name": "Joseph E T Waters (SUGCR)",
+                "bell": "1"
+            },
+            {
+                "name": "Natasha A Williams (Alcuin) (C)",
+                "bell": "2"
+            },
+            {
+                "name": "Jemima C Bleackley (Halifax)",
+                "bell": "3"
+            },
+            {
+                "name": "Patrick W J Deakin (James)",
+                "bell": "4"
+            },
+            {
+                "name": "Matthew O Hall (Vanbrugh)",
+                "bell": "5"
+            },
+            {
+                "name": "Alex Addy (Friend)",
+                "bell": "6"
+            }
+        ],
+        "footnotes": [
+            "Circled every 3 in the Isle of Axholme today: 3",
+            "Thinking of Andrew J Rawlinson on the anniversary of his birth."
+        ],
+        "id": "1695911",
+        "time_in_ms": 17070054
+    },
+    {
+        "academic_year": "2023/24",
+        "type": 1,
+        "date": "Sunday, 04 February 2024",
+        "location": "St Nicholas, Haxey, Lincolnshire",
+        "weight": "18-3-16 in D",
+        "time": "45m",
+        "changes": "1260",
+        "method": "Grandsire Doubles",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Matthew O Hall (Vanbrugh)",
+                "bell": "1"
+            },
+            {
+                "name": "Natasha A Williams (Alcuin)",
+                "bell": "2"
+            },
+            {
+                "name": "Jemima C Bleackley (Halifax) (C)",
+                "bell": "3"
+            },
+            {
+                "name": "Joseph E T Waters (SUGCR)",
+                "bell": "4"
+            },
+            {
+                "name": "Alex Addy (Friend)",
+                "bell": "5"
+            },
+            {
+                "name": "Patrick W J Deakin (James)",
+                "bell": "6"
+            }
+        ],
+        "footnotes": [
+            "Rung in memory of Alex's hands",
+            "Also to wish Alex a Happy Birthday for tomorrow",
+            "First YCG QP: 5"
+        ],
+        "id": "1695922",
+        "time_in_ms": 17070054
+    },
+    {
+        "academic_year": "2023/24",
+        "type": 1,
+        "date": "Sunday, 04 February 2024",
+        "location": "St Martin, Owston Ferry, Lincolnshire",
+        "weight": "12-2-17 in F#",
+        "time": "43m",
+        "changes": "1260",
+        "method": "St Clement's College Bob Minor",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Alex Addy (Friend)",
+                "bell": "1"
+            },
+            {
+                "name": "Matthew O Hall (Vanbrugh)",
+                "bell": "2"
+            },
+            {
+                "name": "Jemima C Bleackley (Halifax)",
+                "bell": "3"
+            },
+            {
+                "name": "Natasha A Williams (Alcuin)",
+                "bell": "4"
+            },
+            {
+                "name": "Joseph E T Waters (SUGCR)",
+                "bell": "5"
+            },
+            {
+                "name": "Patrick W J Deakin (James) (C)",
+                "bell": "6"
+            }
+        ],
+        "footnotes": [
+            "First of St Clement's: 2"
+        ],
+        "id": "1695762",
+        "time_in_ms": 17070054
+    },
+    {
+        "academic_year": "2023/24",
+        "type": 1,
         "date": "Friday, 02 February 2024",
         "location": "Oratory Church of St Wilfrid, York, North Yorkshire",
         "weight": "18-1-21 in F",
@@ -786,65 +915,6 @@
             "Rung with condolences to our friends at St James Garlickhythe following the passing of Andrew Rose"
         ],
         "id": "1695511",
-        "time_in_ms": 17068330
-    },
-    {
-        "academic_year": "2023/24",
-        "type": 1,
-        "date": "Friday, 02 February 2024",
-        "location": "Oratory Church of St Wilfrid, York, North Yorkshire",
-        "weight": "18-1-21 in F",
-        "time": "48m",
-        "changes": "1280",
-        "method": "Cambridge Surprise Royal",
-        "details": "",
-        "ringers": [
-            {
-                "name": "Patrick W J Deakin",
-                "bell": "1"
-            },
-            {
-                "name": "Rachel L Mahoney (C)",
-                "bell": "2"
-            },
-            {
-                "name": "Natasha A Williams",
-                "bell": "3"
-            },
-            {
-                "name": "Iain J Anderson",
-                "bell": "4"
-            },
-            {
-                "name": "William L K Brooke",
-                "bell": "5"
-            },
-            {
-                "name": "Jemima C Bleakley",
-                "bell": "6"
-            },
-            {
-                "name": "Joseph E T Waters",
-                "bell": "7"
-            },
-            {
-                "name": "Matthew W Thewsey",
-                "bell": "8"
-            },
-            {
-                "name": "Ewan G A Hull",
-                "bell": "9"
-            },
-            {
-                "name": "Alex S Riley",
-                "bell": "10"
-            }
-        ],
-        "footnotes": [
-            "First of Royal as Conductor",
-            "Rung with condolences to our friends at St James Garlickhythe following the passing of Andrew Rose"
-        ],
-        "id": "1695338",
         "time_in_ms": 17068330
     },
     {
@@ -2305,6 +2375,57 @@
         ],
         "id": "1665427",
         "time_in_ms": 16985386
+    },
+    {
+        "academic_year": "2023/24",
+        "type": 1,
+        "date": "Saturday, 28 October 2023",
+        "location": "St Lawrence, York, North Yorkshire",
+        "weight": "7-3-24 in A",
+        "time": "44m",
+        "changes": "1296",
+        "method": "Stedman Triples",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Peter D Hughes",
+                "bell": "1"
+            },
+            {
+                "name": "Patrick W J Deakin",
+                "bell": "2"
+            },
+            {
+                "name": "Joseph T Waters",
+                "bell": "3"
+            },
+            {
+                "name": "Rosemary S Hall",
+                "bell": "4"
+            },
+            {
+                "name": "William L K Brooke",
+                "bell": "5"
+            },
+            {
+                "name": "Simon W Edwards",
+                "bell": "6"
+            },
+            {
+                "name": "Ryan E Mills (C)",
+                "bell": "7"
+            },
+            {
+                "name": "Matthew W Thewsey",
+                "bell": "8"
+            }
+        ],
+        "footnotes": [
+            "7 - 300th QP, 60th as conductor and first of Stedman as conductor",
+            "8 - 200th QP"
+        ],
+        "id": "1696087",
+        "time_in_ms": 16984520
     },
     {
         "academic_year": "2023/24",

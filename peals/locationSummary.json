@@ -3,9 +3,9 @@
         {
             "tower": "York (St Lawrence), North Yorkshire",
             "peals": 7,
-            "quarters": 161,
+            "quarters": 162,
             "other": 11,
-            "total": 179
+            "total": 180
         },
         {
             "tower": "66 Bootham, York, North Yorkshire",
@@ -148,6 +148,13 @@
             "total": 2
         },
         {
+            "tower": "St Nicholas, Haxey, Lincolnshire",
+            "peals": 0,
+            "quarters": 2,
+            "other": 0,
+            "total": 2
+        },
+        {
             "tower": "York (Ringing Chamber, Cathedral and Metropolitical Church of St Peter), North Yorkshire",
             "peals": 0,
             "quarters": 2,
@@ -184,6 +191,13 @@
         },
         {
             "tower": "Alcuin College, University of York (Outside JCR), York, North Yorkshire",
+            "peals": 0,
+            "quarters": 1,
+            "other": 0,
+            "total": 1
+        },
+        {
+            "tower": "All Saints, Belton in Isle of Axholme, Lincolnshire",
             "peals": 0,
             "quarters": 1,
             "other": 0,
@@ -379,6 +393,13 @@
             "total": 1
         },
         {
+            "tower": "St Andrew, Epworth, Lincolnshire",
+            "peals": 0,
+            "quarters": 1,
+            "other": 0,
+            "total": 1
+        },
+        {
             "tower": "St Edmund, Riby, Lincolnshire",
             "peals": 0,
             "quarters": 1,
@@ -387,6 +408,13 @@
         },
         {
             "tower": "St Helen, North Thoresby, Lincolnshire",
+            "peals": 0,
+            "quarters": 1,
+            "other": 0,
+            "total": 1
+        },
+        {
+            "tower": "St Martin, Owston Ferry, Lincolnshire",
             "peals": 0,
             "quarters": 1,
             "other": 0,
@@ -422,13 +450,6 @@
         },
         {
             "tower": "St Michael, Eastrington, East Riding of Yorkshire",
-            "peals": 0,
-            "quarters": 1,
-            "other": 0,
-            "total": 1
-        },
-        {
-            "tower": "St Nicholas, Haxey, Lincolnshire",
             "peals": 0,
             "quarters": 1,
             "other": 0,
@@ -542,8 +563,8 @@
     ],
     "summary": {
         "peals": 40,
-        "quarters": 559,
+        "quarters": 562,
         "other": 40,
-        "total": 639
+        "total": 642
     }
 }

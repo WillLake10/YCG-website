@@ -3,16 +3,16 @@
         {
             "tower": "York (St Lawrence), North Yorkshire",
             "peals": 7,
-            "quarters": 162,
+            "quarters": 164,
             "other": 11,
-            "total": 180
+            "total": 182
         },
         {
             "tower": "66 Bootham, York, North Yorkshire",
-            "peals": 1,
+            "peals": 2,
             "quarters": 26,
             "other": 4,
-            "total": 31
+            "total": 32
         },
         {
             "tower": "York (St Olave, Marygate), North Yorkshire",
@@ -23,10 +23,10 @@
         },
         {
             "tower": "York (St Philip and St James, Clifton), North Yorkshire",
-            "peals": 3,
+            "peals": 4,
             "quarters": 8,
             "other": 1,
-            "total": 12
+            "total": 13
         },
         {
             "tower": "York (Oratory Church of St Wilfrid), North Yorkshire",
@@ -562,9 +562,9 @@
         }
     ],
     "summary": {
-        "peals": 40,
-        "quarters": 562,
-        "other": 40,
-        "total": 642
+        "peals": 42,
+        "quarters": 565,
+        "other": 42,
+        "total": 649
     }
 }

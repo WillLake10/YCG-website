@@ -1,20 +1,20 @@
 [
     {
         "academic_year": "2023/24",
-        "peals": 2,
+        "peals": 4,
         "quarters": 66,
         "other": 7
     },
     {
         "academic_year": "2022/23",
         "peals": 2,
-        "quarters": 60,
-        "other": 24
+        "quarters": 61,
+        "other": 26
     },
     {
         "academic_year": "2021/22",
         "peals": 0,
-        "quarters": 12,
+        "quarters": 14,
         "other": 2
     },
     {

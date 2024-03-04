@@ -449,6 +449,13 @@
             "total": 1
         },
         {
+            "tower": "St Mary, Tadcaster, North Yorkshire",
+            "peals": 0,
+            "quarters": 1,
+            "other": 0,
+            "total": 1
+        },
+        {
             "tower": "St Michael, Eastrington, East Riding of Yorkshire",
             "peals": 0,
             "quarters": 1,
@@ -563,8 +570,8 @@
     ],
     "summary": {
         "peals": 42,
-        "quarters": 565,
+        "quarters": 566,
         "other": 42,
-        "total": 649
+        "total": 650
     }
 }

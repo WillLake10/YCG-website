@@ -12235,6 +12235,48 @@
     {
         "academic_year": "2008/09",
         "type": 1,
+        "date": "Monday, 22 June 2009",
+        "location": "St Mary, Tadcaster, North Yorkshire",
+        "weight": "20-3-1 in Eb",
+        "time": "46m",
+        "changes": "1260",
+        "method": "Plain Bob Minor",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Tony Dawson",
+                "bell": "1"
+            },
+            {
+                "name": "Clive Whiteley",
+                "bell": "2"
+            },
+            {
+                "name": "Carol Christmas",
+                "bell": "3"
+            },
+            {
+                "name": "Stuart Raggett",
+                "bell": "4"
+            },
+            {
+                "name": "Martin Hardgrave",
+                "bell": "5"
+            },
+            {
+                "name": "Thomas Raggett (C)",
+                "bell": "6"
+            }
+        ],
+        "footnotes": [
+            "First minor, 1"
+        ],
+        "id": "1706082",
+        "time_in_ms": 12456294
+    },
+    {
+        "academic_year": "2008/09",
+        "type": 1,
         "date": "Friday, 22 May 2009",
         "location": "St Lawrence, York, North Yorkshire",
         "weight": "7-3-24",

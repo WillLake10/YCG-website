@@ -6886,6 +6886,32 @@
                 "bell": ""
             },
             {
+                "name": "William J Lake",
+                "bell": ""
+            }
+        ],
+        "footnotes": [
+            "At noon, marking the death of HM the Queen."
+        ],
+        "id": "1707347",
+        "time_in_ms": 16631138
+    },
+    {
+        "academic_year": "2022/23",
+        "type": 2,
+        "date": "Wednesday, 14 September 2022",
+        "location": "Cathedral and Metropolitical Church of St Peter, York, North Yorkshire",
+        "weight": "216-2-22 in Eb",
+        "time": "32m",
+        "changes": "96",
+        "method": "Tolling Great Peter",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Natasha A Williams",
+                "bell": ""
+            },
+            {
                 "name": "William Lake",
                 "bell": ""
             }
@@ -7804,6 +7830,49 @@
         ],
         "id": "1305725",
         "time_in_ms": 15707528
+    },
+    {
+        "academic_year": "2019/20",
+        "type": 2,
+        "date": "Saturday, 13 June 2020",
+        "location": ", Ringing Room, UK",
+        "weight": "",
+        "time": "6m",
+        "changes": "120",
+        "method": "Plain Bob Doubles",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Rebecca Hall",
+                "bell": "1"
+            },
+            {
+                "name": "William J Lake",
+                "bell": "2"
+            },
+            {
+                "name": "Simon Cumming",
+                "bell": "3"
+            },
+            {
+                "name": "Huw Foden",
+                "bell": "4"
+            },
+            {
+                "name": "Rosemary S Hall (C)",
+                "bell": "5"
+            },
+            {
+                "name": "Tom M G McGonagle",
+                "bell": "6"
+            }
+        ],
+        "footnotes": [
+            "Rung by current members on the day that our 50th dinner day didn't happen",
+            "The band would like to associate Simon's internet connection with this performance"
+        ],
+        "id": "1707351",
+        "time_in_ms": 15920070
     },
     {
         "academic_year": "2019/20",

@@ -148,6 +148,13 @@
             "total": 2
         },
         {
+            "tower": "Ringing Room, UK",
+            "peals": 0,
+            "quarters": 0,
+            "other": 2,
+            "total": 2
+        },
+        {
             "tower": "St Nicholas, Haxey, Lincolnshire",
             "peals": 0,
             "quarters": 2,
@@ -365,13 +372,6 @@
             "total": 1
         },
         {
-            "tower": "Ringing Room, UK",
-            "peals": 0,
-            "quarters": 0,
-            "other": 1,
-            "total": 1
-        },
-        {
             "tower": "Rochester (The Ascension), New York",
             "peals": 0,
             "quarters": 1,
@@ -571,7 +571,7 @@
     "summary": {
         "peals": 42,
         "quarters": 566,
-        "other": 42,
-        "total": 650
+        "other": 44,
+        "total": 652
     }
 }

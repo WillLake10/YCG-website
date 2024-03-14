@@ -1,6 +1,49 @@
 [
     {
         "academic_year": "2023/24",
+        "type": 1,
+        "date": "Wednesday, 13 March 2024",
+        "location": "Oratory Church of St Wilfrid, York, North Yorkshire",
+        "weight": "6-0-6 in C",
+        "time": "46m",
+        "changes": "1260",
+        "method": "Doubles (4m/1p)",
+        "details": "A pinch of stedman, a tad of Grandsire, some St Martin's, a bit of St Simon's, and just enough Plain Bob.",
+        "ringers": [
+            {
+                "name": "William M Regan (Friend) (C)",
+                "bell": "1"
+            },
+            {
+                "name": "Matthew O Hall (Vanbrugh)",
+                "bell": "2"
+            },
+            {
+                "name": "Megan K Bucknall (Anne Lister)",
+                "bell": "3"
+            },
+            {
+                "name": "Benjamin J Hartley (St John)",
+                "bell": "4"
+            },
+            {
+                "name": "Rebecca A Hall (Langwith)",
+                "bell": "5"
+            },
+            {
+                "name": "Matthew R Threadgold (?)",
+                "bell": "6"
+            }
+        ],
+        "footnotes": [
+            "First quarter: 6.",
+            "First including Grandsire: 5."
+        ],
+        "id": "1709273",
+        "time_in_ms": 17102886
+    },
+    {
+        "academic_year": "2023/24",
         "type": 0,
         "date": "Thursday, 29 February 2024",
         "location": "St Philip and St James, Clifton, North Yorkshire",

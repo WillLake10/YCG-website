@@ -456,6 +456,13 @@
             "total": 1
         },
         {
+            "tower": "St Matthias, Burley, West Yorkshire",
+            "peals": 0,
+            "quarters": 1,
+            "other": 0,
+            "total": 1
+        },
+        {
             "tower": "St Michael, Eastrington, East Riding of Yorkshire",
             "peals": 0,
             "quarters": 1,
@@ -570,8 +577,8 @@
     ],
     "summary": {
         "peals": 42,
-        "quarters": 567,
+        "quarters": 569,
         "other": 44,
-        "total": 653
+        "total": 655
     }
 }

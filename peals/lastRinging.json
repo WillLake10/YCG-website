@@ -1,20 +1,20 @@
 {
     "academic_year": "2023/24",
     "type": 1,
-    "date": "Wednesday, 13 March 2024",
+    "date": "Wednesday, 20 March 2024",
     "location": "Oratory Church of St Wilfrid, York, North Yorkshire",
     "weight": "6-0-6 in C",
-    "time": "46m",
+    "time": "41m",
     "changes": "1260",
-    "method": "Doubles (4m/1p)",
-    "details": "A pinch of stedman, a tad of Grandsire, some St Martin's, a bit of St Simon's, and just enough Plain Bob.",
+    "method": "Plain Bob Minor",
+    "details": "",
     "ringers": [
         {
-            "name": "William M Regan (Friend) (C)",
+            "name": "Matthew O Hall (Vanbrugh) (C)",
             "bell": "1"
         },
         {
-            "name": "Matthew O Hall (Vanbrugh)",
+            "name": "Caitlin E Routledge (Alcuin)",
             "bell": "2"
         },
         {
@@ -22,22 +22,22 @@
             "bell": "3"
         },
         {
-            "name": "Benjamin J Hartley (St John)",
+            "name": "Natasha A Williams (Alcuin)",
             "bell": "4"
         },
         {
-            "name": "Rebecca A Hall (Langwith)",
+            "name": "Benjamin J Hartley (St John)",
             "bell": "5"
         },
         {
-            "name": "Matthew R Threadgold (?)",
+            "name": "William M Regan (Friend)",
             "bell": "6"
         }
     ],
     "footnotes": [
-        "First quarter: 6.",
-        "First including Grandsire: 5."
+        "First of minor: 2",
+        "Not at first attempt (sorry)"
     ],
-    "id": "1709273",
-    "time_in_ms": 17102886
+    "id": "1711808",
+    "time_in_ms": 17108934
 }

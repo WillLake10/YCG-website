@@ -1,43 +1,42 @@
 {
     "academic_year": "2023/24",
     "type": 1,
-    "date": "Wednesday, 20 March 2024",
-    "location": "Oratory Church of St Wilfrid, York, North Yorkshire",
-    "weight": "6-0-6 in C",
-    "time": "41m",
-    "changes": "1260",
-    "method": "Plain Bob Minor",
+    "date": "Monday, 25 March 2024",
+    "location": "Spurriergate Centre, York, North Yorkshire",
+    "weight": "8-2-14 in A",
+    "time": "40m",
+    "changes": "1272",
+    "method": "Original Minor",
     "details": "",
     "ringers": [
         {
-            "name": "Matthew O Hall (Vanbrugh) (C)",
+            "name": "Joseph E T Waters (SUGCR)",
             "bell": "1"
         },
         {
-            "name": "Caitlin E Routledge (Alcuin)",
+            "name": "Natasha A Williams (Alcuin)",
             "bell": "2"
         },
         {
-            "name": "Megan K Bucknall (Anne Lister)",
+            "name": "Jemima C Bleackley (Halifax)",
             "bell": "3"
         },
         {
-            "name": "Natasha A Williams (Alcuin)",
+            "name": "William L K Brooke (Wentworth)",
             "bell": "4"
         },
         {
-            "name": "Benjamin J Hartley (St John)",
+            "name": "William M Regan (Friend)",
             "bell": "5"
         },
         {
-            "name": "William M Regan (Friend)",
+            "name": "Patrick W J Deakin (James) (C)",
             "bell": "6"
         }
     ],
     "footnotes": [
-        "First of minor: 2",
-        "Not at first attempt (sorry)"
+        "Celebrating the 80th birthday of J David Adams - an incredibly influential figure during Patrick's formative ringing years."
     ],
-    "id": "1711808",
-    "time_in_ms": 17108934
+    "id": "1714063",
+    "time_in_ms": 17113254
 }

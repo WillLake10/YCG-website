@@ -2,6 +2,48 @@
     {
         "academic_year": "2023/24",
         "type": 1,
+        "date": "Monday, 25 March 2024",
+        "location": "Spurriergate Centre, York, North Yorkshire",
+        "weight": "8-2-14 in A",
+        "time": "40m",
+        "changes": "1272",
+        "method": "Original Minor",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Joseph E T Waters (SUGCR)",
+                "bell": "1"
+            },
+            {
+                "name": "Natasha A Williams (Alcuin)",
+                "bell": "2"
+            },
+            {
+                "name": "Jemima C Bleackley (Halifax)",
+                "bell": "3"
+            },
+            {
+                "name": "William L K Brooke (Wentworth)",
+                "bell": "4"
+            },
+            {
+                "name": "William M Regan (Friend)",
+                "bell": "5"
+            },
+            {
+                "name": "Patrick W J Deakin (James) (C)",
+                "bell": "6"
+            }
+        ],
+        "footnotes": [
+            "Celebrating the 80th birthday of J David Adams - an incredibly influential figure during Patrick's formative ringing years."
+        ],
+        "id": "1714063",
+        "time_in_ms": 17113254
+    },
+    {
+        "academic_year": "2023/24",
+        "type": 1,
         "date": "Wednesday, 20 March 2024",
         "location": "Oratory Church of St Wilfrid, York, North Yorkshire",
         "weight": "6-0-6 in C",

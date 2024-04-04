@@ -1,20 +1,20 @@
 {
     "academic_year": "2023/24",
     "type": 1,
-    "date": "Monday, 25 March 2024",
-    "location": "Spurriergate Centre, York, North Yorkshire",
-    "weight": "8-2-14 in A",
-    "time": "40m",
-    "changes": "1272",
-    "method": "Original Minor",
+    "date": "Wednesday, 03 April 2024",
+    "location": "St George, Vernet-les-Bains, France",
+    "weight": "5-0-15 in C",
+    "time": "46m",
+    "changes": "1296",
+    "method": "Grandsire Caters",
     "details": "",
     "ringers": [
         {
-            "name": "Joseph E T Waters (SUGCR)",
+            "name": "Patrick W J Deakin (James)",
             "bell": "1"
         },
         {
-            "name": "Natasha A Williams (Alcuin)",
+            "name": "Amber M Burrows (Anne Lister)",
             "bell": "2"
         },
         {
@@ -22,21 +22,42 @@
             "bell": "3"
         },
         {
-            "name": "William L K Brooke (Wentworth)",
+            "name": "David G Hull (Staff)",
             "bell": "4"
         },
         {
-            "name": "William M Regan (Friend)",
+            "name": "James D Austin (Derwent)",
             "bell": "5"
         },
         {
-            "name": "Patrick W J Deakin (James) (C)",
+            "name": "Natasha A Williams (Alcuin) (C)",
             "bell": "6"
+        },
+        {
+            "name": "Megan K Bucknall (Anne Lister)",
+            "bell": "7"
+        },
+        {
+            "name": "Simon W Edwards (Alcuin)",
+            "bell": "8"
+        },
+        {
+            "name": "Rachel L Mahoney (BUSCR)",
+            "bell": "9"
+        },
+        {
+            "name": "Joseph E T Waters (SUGCR)",
+            "bell": "10"
         }
     ],
     "footnotes": [
-        "Celebrating the 80th birthday of J David Adams - an incredibly influential figure during Patrick's formative ringing years."
+        "First on 10: 2, 7",
+        "First in the Country for the Guild",
+        "First Grandsire Caters as Conductor",
+        "25th Tower to a Quarter: 6",
+        "100th together: 3 & 6",
+        "Bueno Campana"
     ],
-    "id": "1714063",
-    "time_in_ms": 17113254
+    "id": "1717598",
+    "time_in_ms": 17121034
 }

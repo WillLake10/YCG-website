@@ -407,6 +407,13 @@
             "total": 1
         },
         {
+            "tower": "St George, Vernet-les-Bains, France",
+            "peals": 0,
+            "quarters": 1,
+            "other": 0,
+            "total": 1
+        },
+        {
             "tower": "St Helen, North Thoresby, Lincolnshire",
             "peals": 0,
             "quarters": 1,
@@ -577,8 +584,8 @@
     ],
     "summary": {
         "peals": 42,
-        "quarters": 570,
+        "quarters": 571,
         "other": 44,
-        "total": 656
+        "total": 657
     }
 }

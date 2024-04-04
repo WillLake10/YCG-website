@@ -73,6 +73,13 @@
                 "total": 1
             },
             {
+                "tower": "St George, Vernet-les-Bains, France",
+                "peals": 0,
+                "quarters": 1,
+                "other": 0,
+                "total": 1
+            },
+            {
                 "tower": "St Andrew, Epworth, Lincolnshire",
                 "peals": 0,
                 "quarters": 1,
@@ -124,9 +131,9 @@
         ],
         "summary": {
             "peals": 4,
-            "quarters": 70,
+            "quarters": 71,
             "other": 7,
-            "total": 81
+            "total": 82
         }
     },
     {

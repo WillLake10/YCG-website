@@ -2,6 +2,57 @@
     {
         "academic_year": "2023/24",
         "type": 1,
+        "date": "Thursday, 04 April 2024",
+        "location": "St George, Vernet-les-Bains, France",
+        "weight": "5-0-15 in C",
+        "time": "38m",
+        "changes": "1250",
+        "method": "Cambridge Surprise Major",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Natasha A Williams (Alcuin) (C)",
+                "bell": "1"
+            },
+            {
+                "name": "Joseph E T Waters (SUGCR)",
+                "bell": "2"
+            },
+            {
+                "name": "Megan K Bucknall (Anne Lister)",
+                "bell": "3"
+            },
+            {
+                "name": "Paul Jopp (Amigo)",
+                "bell": "4"
+            },
+            {
+                "name": "Jemima C Bleackley (Halifax)",
+                "bell": "5"
+            },
+            {
+                "name": "Ruth Jopp (Amigo)",
+                "bell": "6"
+            },
+            {
+                "name": "James D Austin (Derwent)",
+                "bell": "7"
+            },
+            {
+                "name": "Simon W Edwards (Alcuin)",
+                "bell": "8"
+            }
+        ],
+        "footnotes": [
+            "First Cambridge S Major as Conductor.",
+            "Rung in memory of the Peal attempt."
+        ],
+        "id": "1717921",
+        "time_in_ms": 17121896
+    },
+    {
+        "academic_year": "2023/24",
+        "type": 1,
         "date": "Wednesday, 03 April 2024",
         "location": "St George, Vernet-les-Bains, France",
         "weight": "5-0-15 in C",

@@ -1,63 +1,51 @@
 {
     "academic_year": "2023/24",
     "type": 1,
-    "date": "Wednesday, 03 April 2024",
+    "date": "Thursday, 04 April 2024",
     "location": "St George, Vernet-les-Bains, France",
     "weight": "5-0-15 in C",
-    "time": "46m",
-    "changes": "1296",
-    "method": "Grandsire Caters",
+    "time": "38m",
+    "changes": "1250",
+    "method": "Cambridge Surprise Major",
     "details": "",
     "ringers": [
         {
-            "name": "Patrick W J Deakin (James)",
+            "name": "Natasha A Williams (Alcuin) (C)",
             "bell": "1"
         },
         {
-            "name": "Amber M Burrows (Anne Lister)",
+            "name": "Joseph E T Waters (SUGCR)",
             "bell": "2"
         },
         {
-            "name": "Jemima C Bleackley (Halifax)",
+            "name": "Megan K Bucknall (Anne Lister)",
             "bell": "3"
         },
         {
-            "name": "David G Hull (Staff)",
+            "name": "Paul Jopp (Amigo)",
             "bell": "4"
         },
         {
-            "name": "James D Austin (Derwent)",
+            "name": "Jemima C Bleackley (Halifax)",
             "bell": "5"
         },
         {
-            "name": "Natasha A Williams (Alcuin) (C)",
+            "name": "Ruth Jopp (Amigo)",
             "bell": "6"
         },
         {
-            "name": "Megan K Bucknall (Anne Lister)",
+            "name": "James D Austin (Derwent)",
             "bell": "7"
         },
         {
             "name": "Simon W Edwards (Alcuin)",
             "bell": "8"
-        },
-        {
-            "name": "Rachel L Mahoney (BUSCR)",
-            "bell": "9"
-        },
-        {
-            "name": "Joseph E T Waters (SUGCR)",
-            "bell": "10"
         }
     ],
     "footnotes": [
-        "First on 10: 2, 7",
-        "First in the Country for the Guild",
-        "First Grandsire Caters as Conductor",
-        "25th Tower to a Quarter: 6",
-        "100th together: 3 & 6",
-        "Bueno Campana"
+        "First Cambridge S Major as Conductor.",
+        "Rung in memory of the Peal attempt."
     ],
-    "id": "1717598",
-    "time_in_ms": 17121034
+    "id": "1717921",
+    "time_in_ms": 17121896
 }

@@ -33,9 +33,9 @@
             {
                 "tower": "St George, Vernet-les-Bains, France",
                 "peals": 0,
-                "quarters": 2,
+                "quarters": 3,
                 "other": 0,
-                "total": 2
+                "total": 3
             },
             {
                 "tower": "York (Cathedral and Metropolitical Church of St Peter), North Yorkshire",
@@ -131,9 +131,9 @@
         ],
         "summary": {
             "peals": 4,
-            "quarters": 72,
+            "quarters": 73,
             "other": 7,
-            "total": 83
+            "total": 84
         }
     },
     {

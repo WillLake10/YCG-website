@@ -113,6 +113,13 @@
             "total": 3
         },
         {
+            "tower": "St George, Vernet-les-Bains, France",
+            "peals": 0,
+            "quarters": 3,
+            "other": 0,
+            "total": 3
+        },
+        {
             "tower": "Strensall (St Mary the Virgin), North Yorkshire",
             "peals": 0,
             "quarters": 3,
@@ -152,13 +159,6 @@
             "peals": 0,
             "quarters": 0,
             "other": 2,
-            "total": 2
-        },
-        {
-            "tower": "St George, Vernet-les-Bains, France",
-            "peals": 0,
-            "quarters": 2,
-            "other": 0,
             "total": 2
         },
         {
@@ -584,8 +584,8 @@
     ],
     "summary": {
         "peals": 42,
-        "quarters": 572,
+        "quarters": 573,
         "other": 44,
-        "total": 658
+        "total": 659
     }
 }

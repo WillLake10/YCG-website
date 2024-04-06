@@ -2,6 +2,59 @@
     {
         "academic_year": "2023/24",
         "type": 1,
+        "date": "Friday, 05 April 2024",
+        "location": "St George, Vernet-les-Bains, France",
+        "weight": "5-0-15 in C",
+        "time": "44m",
+        "changes": "1312",
+        "method": "Spliced Triples and Major (2m/p)",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Joseph E T Waters (SUGCR) (C)",
+                "bell": "1"
+            },
+            {
+                "name": "Patrick W J Deakin (James)",
+                "bell": "2"
+            },
+            {
+                "name": "Ewan G A Hull (Staff)",
+                "bell": "3"
+            },
+            {
+                "name": "James D Austin (Derwent)",
+                "bell": "4"
+            },
+            {
+                "name": "Natasha A Williams (Alcuin)",
+                "bell": "5"
+            },
+            {
+                "name": "Rachel L Mahoney (BUSCR)",
+                "bell": "6"
+            },
+            {
+                "name": "Jemima C Bleackley (Halifax)",
+                "bell": "7"
+            },
+            {
+                "name": "Eleanor H Blacklock (Friend)",
+                "bell": "8"
+            }
+        ],
+        "footnotes": [
+            "Happy 30th Birthday to Emily Waters (sister of the conductor)",
+            "First of spliced & including Bristol: 4",
+            "First mixed stage: 5, 7 & 8",
+            "Gute Glocke"
+        ],
+        "id": "1718222",
+        "time_in_ms": 17122760
+    },
+    {
+        "academic_year": "2023/24",
+        "type": 1,
         "date": "Thursday, 04 April 2024",
         "location": "St George, Vernet-les-Bains, France",
         "weight": "5-0-15 in C",

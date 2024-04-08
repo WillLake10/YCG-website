@@ -2,6 +2,148 @@
     {
         "academic_year": "2023/24",
         "type": 1,
+        "date": "Sunday, 07 April 2024",
+        "location": "St George, Vernet-les-Bains, France",
+        "weight": "5-0-15 in C",
+        "time": "46m",
+        "changes": "1386",
+        "method": "Grandsire Caters",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Alison L Edmonds (Staff)",
+                "bell": "1"
+            },
+            {
+                "name": "Natasha A Williams (Alcuin)",
+                "bell": "2"
+            },
+            {
+                "name": "Catherine Riley (Friend)",
+                "bell": "3"
+            },
+            {
+                "name": "Rachel L Mahoney (BUSCR)",
+                "bell": "4"
+            },
+            {
+                "name": "Simon W Edwards (Alcuin) (C)",
+                "bell": "5"
+            },
+            {
+                "name": "Megan K Bucknall (Anne Lister)",
+                "bell": "6"
+            },
+            {
+                "name": "James D Austin (Derwent)",
+                "bell": "7"
+            },
+            {
+                "name": "David G Hull (Staff)",
+                "bell": "8"
+            },
+            {
+                "name": "Ewan G A Hull (Staff)",
+                "bell": "9"
+            },
+            {
+                "name": "Amber M Burrows (Anne Lister)",
+                "bell": "10"
+            }
+        ],
+        "footnotes": [],
+        "id": "1718795",
+        "time_in_ms": 17124490
+    },
+    {
+        "academic_year": "2023/24",
+        "type": 1,
+        "date": "Sunday, 07 April 2024",
+        "location": "St George, Vernet-les-Bains, France",
+        "weight": "5-0-15 in C",
+        "time": "43m",
+        "changes": "1260",
+        "method": "Grandsire Doubles",
+        "details": "",
+        "ringers": [
+            {
+                "name": "James D Austin (Derwent)",
+                "bell": "1"
+            },
+            {
+                "name": "Cindy Maude (LUSCR)",
+                "bell": "2"
+            },
+            {
+                "name": "Janet E Neve (LUSCR)",
+                "bell": "3"
+            },
+            {
+                "name": "Patrick W J Deakin (James)",
+                "bell": "4"
+            },
+            {
+                "name": "Natasha A Williams (Alcuin) (C)",
+                "bell": "5"
+            },
+            {
+                "name": "Joseph E T Waters (SUGCR)",
+                "bell": "6"
+            }
+        ],
+        "footnotes": [],
+        "id": "1718741",
+        "time_in_ms": 17124486
+    },
+    {
+        "academic_year": "2023/24",
+        "type": 2,
+        "date": "Sunday, 07 April 2024",
+        "location": "St George, Vernet-les-Bains, France",
+        "weight": "2-0-26 in G",
+        "time": "3m",
+        "changes": "120",
+        "method": "Vernet-Les-Bains Doubles",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Jemima C Bleackley (Halifax)",
+                "bell": "1"
+            },
+            {
+                "name": "Jeffrey P Ladd (DUSCR)",
+                "bell": "2"
+            },
+            {
+                "name": "Patrick W J Deakin (James)",
+                "bell": "3"
+            },
+            {
+                "name": "Megan K Bucknall (Anne Lister)",
+                "bell": "4"
+            },
+            {
+                "name": "Natasha A Williams (Alcuin) (C)",
+                "bell": "5"
+            },
+            {
+                "name": "Joseph E T Waters (SUGCR)",
+                "bell": "6"
+            }
+        ],
+        "footnotes": [
+            "The variation 148yx (St Faith Place with an Old Thumper Single) is rung for the first time. The band would like to name this variation \"Vernet-les-Bains\" Doubles.",
+            "Believed to be the first Variation named in the country.",
+            "With grateful thanks to Jeffrey P Ladd for being a fantastic host, and a lovely chap!",
+            "First variation named: 2",
+            "First variation inside: 4"
+        ],
+        "id": "1718595",
+        "time_in_ms": 17124486
+    },
+    {
+        "academic_year": "2023/24",
+        "type": 1,
         "date": "Friday, 05 April 2024",
         "location": "St George, Vernet-les-Bains, France",
         "weight": "5-0-15 in C",
@@ -9639,6 +9781,57 @@
         ],
         "id": "466292",
         "time_in_ms": 14334630
+    },
+    {
+        "academic_year": "2014/15",
+        "type": 1,
+        "date": "Thursday, 28 May 2015",
+        "location": "St Lawrence, York, North Yorkshire",
+        "weight": "7-3-24 in A",
+        "time": "",
+        "changes": "1250",
+        "method": "Yorkshire Surprise Major",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Lydia Mayfield",
+                "bell": "1"
+            },
+            {
+                "name": "Charlotte Alford",
+                "bell": "2"
+            },
+            {
+                "name": "Lucy Williamson",
+                "bell": "3"
+            },
+            {
+                "name": "Claire Reading",
+                "bell": "4"
+            },
+            {
+                "name": "Nathan Cox",
+                "bell": "5"
+            },
+            {
+                "name": "Claire Pearson",
+                "bell": "6"
+            },
+            {
+                "name": "Eric Wolever",
+                "bell": "7"
+            },
+            {
+                "name": "Ryan Mills (C)",
+                "bell": "8"
+            }
+        ],
+        "footnotes": [
+            "First Yorkshire: 2,3,6",
+            "Rung in celebration of the completion of a degree (8), completion of first year (3,4,5,6), completion of summer exams (2). Also with best of luck to 1 for her final assessment."
+        ],
+        "id": "1718927",
+        "time_in_ms": 14327720
     },
     {
         "academic_year": "2014/15",

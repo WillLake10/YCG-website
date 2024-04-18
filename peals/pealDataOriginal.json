@@ -2,6 +2,49 @@
     {
         "academic_year": "2023/24",
         "type": 1,
+        "date": "Wednesday, 17 April 2024",
+        "location": "Oratory Church of St Wilfrid, York, North Yorkshire",
+        "weight": "6-0-6 in C",
+        "time": "48m",
+        "changes": "1440",
+        "method": "Cambridge Surprise Minor",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Aidan T Derby (Derwent)",
+                "bell": "1"
+            },
+            {
+                "name": "Benjamin J Hartley (St John)",
+                "bell": "2"
+            },
+            {
+                "name": "Megan K Bucknall (Anne Lister)",
+                "bell": "3"
+            },
+            {
+                "name": "Matthew O Hall (Vanbrugh)",
+                "bell": "4"
+            },
+            {
+                "name": "Patrick W J Deakin (James)",
+                "bell": "5"
+            },
+            {
+                "name": "Jemima C Bleackley (Halifax) (C)",
+                "bell": "6"
+            }
+        ],
+        "footnotes": [
+            "First treble bob: 1",
+            "First of minor as conductor "
+        ],
+        "id": "1721638",
+        "time_in_ms": 17133126
+    },
+    {
+        "academic_year": "2023/24",
+        "type": 1,
         "date": "Sunday, 07 April 2024",
         "location": "St George, Vernet-les-Bains, France",
         "weight": "5-0-15 in C",

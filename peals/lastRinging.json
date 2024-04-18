@@ -1,56 +1,43 @@
 {
     "academic_year": "2023/24",
     "type": 1,
-    "date": "Sunday, 07 April 2024",
-    "location": "St George, Vernet-les-Bains, France",
-    "weight": "5-0-15 in C",
-    "time": "46m",
-    "changes": "1386",
-    "method": "Grandsire Caters",
+    "date": "Wednesday, 17 April 2024",
+    "location": "Oratory Church of St Wilfrid, York, North Yorkshire",
+    "weight": "6-0-6 in C",
+    "time": "48m",
+    "changes": "1440",
+    "method": "Cambridge Surprise Minor",
     "details": "",
     "ringers": [
         {
-            "name": "Alison L Edmonds (Staff)",
+            "name": "Aidan T Derby (Derwent)",
             "bell": "1"
         },
         {
-            "name": "Natasha A Williams (Alcuin)",
+            "name": "Benjamin J Hartley (St John)",
             "bell": "2"
         },
         {
-            "name": "Catherine Riley (Friend)",
+            "name": "Megan K Bucknall (Anne Lister)",
             "bell": "3"
         },
         {
-            "name": "Rachel L Mahoney (BUSCR)",
+            "name": "Matthew O Hall (Vanbrugh)",
             "bell": "4"
         },
         {
-            "name": "Simon W Edwards (Alcuin) (C)",
+            "name": "Patrick W J Deakin (James)",
             "bell": "5"
         },
         {
-            "name": "Megan K Bucknall (Anne Lister)",
+            "name": "Jemima C Bleackley (Halifax) (C)",
             "bell": "6"
-        },
-        {
-            "name": "James D Austin (Derwent)",
-            "bell": "7"
-        },
-        {
-            "name": "David G Hull (Staff)",
-            "bell": "8"
-        },
-        {
-            "name": "Ewan G A Hull (Staff)",
-            "bell": "9"
-        },
-        {
-            "name": "Amber M Burrows (Anne Lister)",
-            "bell": "10"
         }
     ],
-    "footnotes": [],
-    "id": "1718795",
-    "time_in_ms": 17124490
+    "footnotes": [
+        "First treble bob: 1",
+        "First of minor as conductor "
+    ],
+    "id": "1721638",
+    "time_in_ms": 17133126
 }

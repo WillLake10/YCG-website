@@ -1,43 +1,52 @@
 {
     "academic_year": "2023/24",
     "type": 1,
-    "date": "Wednesday, 17 April 2024",
+    "date": "Friday, 19 April 2024",
     "location": "Oratory Church of St Wilfrid, York, North Yorkshire",
-    "weight": "6-0-6 in C",
+    "weight": "18-1-21 in F",
     "time": "48m",
-    "changes": "1440",
-    "method": "Cambridge Surprise Minor",
+    "changes": "1280",
+    "method": "Cambridge Surprise Major",
     "details": "",
     "ringers": [
         {
-            "name": "Aidan T Derby (Derwent)",
+            "name": "Matthew O Hall (Vanbrugh) (C)",
             "bell": "1"
         },
         {
-            "name": "Benjamin J Hartley (St John)",
+            "name": "Patrick W J Deakin (James)",
             "bell": "2"
         },
         {
-            "name": "Megan K Bucknall (Anne Lister)",
+            "name": "Jemima C Bleackley (Halifax)",
             "bell": "3"
         },
         {
-            "name": "Matthew O Hall (Vanbrugh)",
+            "name": "Robert H B Johnson (Wentworth)",
             "bell": "4"
         },
         {
-            "name": "Patrick W J Deakin (James)",
+            "name": "William L K Brooke (Wentworth)",
             "bell": "5"
         },
         {
-            "name": "Jemima C Bleackley (Halifax) (C)",
+            "name": "Natasha A Williams (Alcuin)",
             "bell": "6"
+        },
+        {
+            "name": "Joseph E T Waters (SUGCR)",
+            "bell": "7"
+        },
+        {
+            "name": "Iain J Anderson (CUGCR)",
+            "bell": "8"
         }
     ],
     "footnotes": [
-        "First treble bob: 1",
-        "First of minor as conductor "
+        "First Major: 4, and as conductor",
+        "Circled the tower to quarters: 6",
+        "With Birthday compliments to Iain"
     ],
-    "id": "1721638",
-    "time_in_ms": 17133126
+    "id": "1722195",
+    "time_in_ms": 17134856
 }

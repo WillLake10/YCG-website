@@ -254,6 +254,49 @@
     {
         "academic_year": "2023/24",
         "type": 1,
+        "date": "Wednesday, 01 May 2024",
+        "location": "Oratory Church of St Wilfrid, York, North Yorkshire",
+        "weight": "6-0-6 in C",
+        "time": "45m",
+        "changes": "1260",
+        "method": "Stedman Doubles",
+        "details": "10 different extents",
+        "ringers": [
+            {
+                "name": "Matthew O Hall (Vanbrugh) (C)",
+                "bell": "1"
+            },
+            {
+                "name": "Aidan T Derby (Derwent)",
+                "bell": "2"
+            },
+            {
+                "name": "Patrick W J Deakin (James)",
+                "bell": "3"
+            },
+            {
+                "name": "Benjamin J Hartley (St John)",
+                "bell": "4"
+            },
+            {
+                "name": "Megan K Bucknall (Anne Lister)",
+                "bell": "5"
+            },
+            {
+                "name": "Rebecca A Hall (Langwith)",
+                "bell": "6"
+            }
+        ],
+        "footnotes": [
+            "First of Stedman: 2 & as conductor",
+            "25th Quarter: 6"
+        ],
+        "id": "1727040",
+        "time_in_ms": 17145222
+    },
+    {
+        "academic_year": "2023/24",
+        "type": 1,
         "date": "Wednesday, 24 April 2024",
         "location": "Oratory Church of St Wilfrid, York, North Yorkshire",
         "weight": "6-0-6 in C",

@@ -18,10 +18,10 @@
             },
             {
                 "tower": "York (St Lawrence), North Yorkshire",
-                "peals": 0,
+                "peals": 1,
                 "quarters": 5,
                 "other": 1,
-                "total": 6
+                "total": 7
             },
             {
                 "tower": "St George, Vernet-les-Bains, France",
@@ -137,10 +137,10 @@
             }
         ],
         "summary": {
-            "peals": 4,
+            "peals": 5,
             "quarters": 81,
             "other": 8,
-            "total": 93
+            "total": 94
         }
     },
     {

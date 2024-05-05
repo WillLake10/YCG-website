@@ -1,43 +1,55 @@
 {
     "academic_year": "2023/24",
-    "type": 1,
-    "date": "Wednesday, 01 May 2024",
-    "location": "Oratory Church of St Wilfrid, York, North Yorkshire",
-    "weight": "6-0-6 in C",
-    "time": "45m",
-    "changes": "1260",
-    "method": "Stedman Doubles",
-    "details": "10 different extents",
+    "type": 0,
+    "date": "Saturday, 04 May 2024",
+    "location": "St Lawrence, York, North Yorkshire",
+    "weight": "7-3-24 in A",
+    "time": "2h 39",
+    "changes": "5152",
+    "method": "Cambridge Surprise Major",
+    "details": "",
     "ringers": [
         {
-            "name": "Matthew O Hall (Vanbrugh) (C)",
+            "name": "Natasha A Williams (Alcuin) (C)",
             "bell": "1"
         },
         {
-            "name": "Aidan T Derby (Derwent)",
+            "name": "Ewan G A Hull (Staff)",
             "bell": "2"
         },
         {
-            "name": "Patrick W J Deakin (James)",
+            "name": "Megan K Bucknall (Anne Lister)",
             "bell": "3"
         },
         {
-            "name": "Benjamin J Hartley (St John)",
+            "name": "William M Regan (Friend)",
             "bell": "4"
         },
         {
-            "name": "Megan K Bucknall (Anne Lister)",
+            "name": "Jemima C Bleackley (Halifax)",
             "bell": "5"
         },
         {
-            "name": "Rebecca A Hall (Langwith)",
+            "name": "Patrick W J Deakin (James)",
             "bell": "6"
+        },
+        {
+            "name": "Rosemary S Hall (Alcuin)",
+            "bell": "7"
+        },
+        {
+            "name": "Matthew W Thewsey (The Modern Society Of Plymouth Youths)",
+            "bell": "8"
         }
     ],
     "footnotes": [
-        "First of Stedman: 2 & as conductor",
-        "25th Quarter: 6"
+        "First Peal: 3",
+        "First of Surprise Major: 1, 5",
+        "First on 8, and of Surprise as Conductor",
+        "Rung with congratulations to Diane Bleackley and Adrian Swenson on tying the knot",
+        "Also with happy birthday wishes to Holly Smith, cousin of the Conductor",
+        "And wishing a happy anniversary to Billy Brooke and Karen Ravn"
     ],
-    "id": "1727040",
-    "time_in_ms": 17145222
+    "id": "1727899",
+    "time_in_ms": 17147916
 }

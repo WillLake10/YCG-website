@@ -1,92 +1,55 @@
 {
     "academic_year": "2023/24",
     "type": 0,
-    "date": "Thursday, 29 February 2024",
-    "location": "St Philip and St James, Clifton, North Yorkshire",
-    "weight": "3-1-23 in Eb",
-    "time": "2h 32",
-    "changes": "5040",
-    "method": "Doubles (42v)",
-    "details": "120 each of Abacot Ranger; Ancona; Aylesbury; Bali; Blue Swedish; Call; Campbell; Cayuga; Cherry Valley; Crested; Crispy Aromatic; Daffy; Donald; Dunclair; Dutch Hookbill; East Indie; Eider; Gadwall; Garganey; Goldeneye; Hook Bill; Indian Runner; Mallard (the Duck); Muscovy; Orpington; Pekin; Pintail; Pochard; Pomeranian; Rubber; Saxony; Scaup; Scrooge Mc; Shelduck; Shoveler; Silver Appleyard; Silver Bantam; Smew; Tufted; Velvet Scoter; Welsh Harlequin; Wigeon\n",
+    "date": "Saturday, 04 May 2024",
+    "location": "St Lawrence, York, North Yorkshire",
+    "weight": "7-3-24 in A",
+    "time": "2h 39",
+    "changes": "5152",
+    "method": "Cambridge Surprise Major",
+    "details": "",
     "ringers": [
         {
-            "name": "Jemima C Bleackley (Halifax)",
+            "name": "Natasha A Williams (Alcuin) (C)",
             "bell": "1"
         },
         {
-            "name": "William M Regan (Friend)",
+            "name": "Ewan G A Hull (Staff)",
             "bell": "2"
         },
         {
-            "name": "Patrick W J Deakin (James)",
+            "name": "Megan K Bucknall (Anne Lister)",
             "bell": "3"
         },
         {
-            "name": "Joseph E T Waters (SUGCR)",
+            "name": "William M Regan (Friend)",
             "bell": "4"
         },
         {
-            "name": "Natasha A Williams (Alcuin) (C)",
+            "name": "Jemima C Bleackley (Halifax)",
             "bell": "5"
         },
         {
-            "name": "Matthew O Hall (Vanbrugh)",
+            "name": "Patrick W J Deakin (James)",
             "bell": "6"
+        },
+        {
+            "name": "Rosemary S Hall (Alcuin)",
+            "bell": "7"
+        },
+        {
+            "name": "Matthew W Thewsey (The Modern Society Of Plymouth Youths)",
+            "bell": "8"
         }
     ],
     "footnotes": [
-        "First Peal of Doubles: 1, 3, 4, 5, 6",
-        "First Peal of Doubles inside: 2",
-        "First Treble to a Peal: 1",
-        "First Tenor to a Peal: 6",
-        "First on 6, and on Towerbells as Conductor",
-        "Most Variations to a Peal: 1, 2, 3, 4, 5, 6",
-        "50th Variation named: 5",
-        "The variation 148xy (St Faith Place with an Owd Roger Single) is rung for the first time. The band would like to name this variation \u201cAbacot Ranger\u201d Doubles.",
-        "The variation 148xy/uw (St Faith Place with an Owd Roger Single and a Jingle Knockers Single) is rung for the first time. The band would like to name this variation \u201cAncona\u201d Doubles.",
-        "The variation 148xy/wu (St Faith Place with an Owd Roger Single and a Trajan Omit) is rung for the first time. The band would like to name this variation \u201cAylesbury\u201d Doubles.",
-        "The variation 148xy/ux (St Faith Place with an Owd Roger Single and an Unexploded Bob) is rung for the first time. The band would like to name this variation \u201cBali\u201d Doubles.",
-        "The variation 148xy/xu (St Faith Place with an Owd Roger Single and a Hardmead Bob) is rung for the first time. The band would like to name this variation \u201cBlue Swedish\u201d Doubles.",
-        "The variation 148xy/tr (St Faith Place with an Owd Roger Single and an Old Tom Single) is rung for the first time. The band would like to name this variation \u201cCall\u201d Doubles.",
-        "The variation 148xy/rt (St Faith Place with an Owd Roger Single and a Julian Bob) is rung for the first time. The band would like to name this variation \u201cCampbell\u201d Doubles.",
-        "The variation 148xy/t (St Faith Place with an Owd Roger Single and a Minster Bob) is rung for the first time. The band would like to name this variation \u201cCayuga\u201d Doubles.",
-        "The variation 148xy/r (St Faith Place with an Owd Roger Single and a New Bob Bob) is rung for the first time. The band would like to name this variation \u201cCherry Valley\u201d Doubles.",
-        "The variation 148uw (St Faith Place with a Jingle Knockers Single) is rung for the first time. The band would like to name this variation \u201cCrested\u201d Doubles.",
-        "The variation 148uw/wu (St Faith Place with a Jingle Knockers Single and a Trajan Omit) is rung for the first time. The band would like to name this variation \u201cCrispy Aromatic\u201d Doubles.",
-        "The variation 148uw/ux (St Faith Place with a Jingle Knockers Single and an Unexploded Bob) is rung for the first time. The band would like to name this variation \u201cDaffy\u201d Doubles.",
-        "The variation 148uw/xu (St Faith Place with a Jingle Knockers Single and a Hardmead Bob) is rung for the first time. The band would like to name this variation \u201cDonald\u201d Doubles.",
-        "The variation 148uw/tr (St Faith Place with a Jingle Knockers Single and an Old Tom Single) is rung for the first time. The band would like to name this variation \u201cDunclair\u201d Doubles.",
-        "The variation 148uw/rt (St Faith Place with a Jingle Knockers Single and a Julian Bob) is rung for the first time. The band would like to name this variation \u201cDutch Hookbill\u201d Doubles.",
-        "The variation 148uw/t (St Faith Place with a Jingle Knockers Single and a Minster Bob) is rung for the first time. The band would like to name this variation \u201cEast Indie\u201d Doubles.",
-        "The variation 148uw/r (St Faith Place with a Jingle Knockers Single and a New Bob Bob) is rung for the first time. The band would like to name this variation \u201cEider\u201d Doubles.",
-        "The variation 148wu (St Faith Place with a Trajan Omit) is rung for the first time. The band would like to name this variation \u201cGadwall\u201d Doubles.",
-        "The variation 148wu/ux (St Faith Place with a Trajan Omit and an Unexploded Bob) is rung for the first time. The band would like to name this variation \u201cGarganey\u201d Doubles.",
-        "The variation 148wu/xu (St Faith Place with a Trajan Omit and a Hardmead Bob) is rung for the first time. The band would like to name this variation \u201cGoldeneye\u201d Doubles.",
-        "The variation 148wu/tr (St Faith Place with a Trajan Omit and an Old Tom Single) is rung for the first time. The band would like to name this variation \u201cHook Bill\u201d Doubles.",
-        "The variation 148wu/rt (St Faith Place with a Trajan Omit and a Julian Bob) is rung for the first time. The band would like to name this variation \u201cIndian Runner\u201d Doubles.",
-        "The variation 148wu/t (St Faith Place with a Trajan Omit and a Minster Bob) is rung for the first time. The band would like to name this variation \u201cMallard (the Duck)\u201d Doubles.",
-        "The variation 148wu/r (St Faith Place with a Trajan Omit and a New Bob Bob) is rung for the first time. The band would like to name this variation \u201cMuscovy\u201d Doubles.",
-        "The variation 148ux (St Faith Place with an Unexploded Bob) is rung for the first time. The band would like to name this variation \u201cOrpington\u201d Doubles.",
-        "The variation 148ux/xu (St Faith Place with an Unexploded Bob and a Hardmead Bob) is rung for the first time. The band would like to name this variation \u201cPekin\u201d Doubles.",
-        "The variation 148ux/tr (St Faith Place with an Unexploded Bob and an Old Tom Single) is rung for the first time. The band would like to name this variation \u201cPintail\u201d Doubles.",
-        "The variation 148ux/rt (St Faith Place with an Unexploded Bob and a Julian Bob) is rung for the first time. The band would like to name this variation \u201cPochard\u201d Doubles.",
-        "The variation 148ux/t (St Faith Place with an Unexploded Bob and a Minster Bob) is rung for the first time. The band would like to name this variation \u201cPomeranian\u201d Doubles.",
-        "The variation 148ux/r (St Faith Place with an Unexploded Bob and a New Bob Bob) is rung for the first time. The band would like to name this variation \u201cRubber\u201d Doubles.",
-        "The variation 148xu (St Faith Place with a Hardmead Bob) is rung for the first time. The band would like to name this variation \u201cSaxony\u201d Doubles.",
-        "The variation 148xu/tr (St Faith Place with a Hardmead Bob and an Old Tom Single) is rung for the first time. The band would like to name this variation \u201cScaup\u201d Doubles.",
-        "The variation 148xu/rt (St Faith Place with a Hardmead Bob and a Julian Bob) is rung for the first time. The band would like to name this variation \u201cScrooge Mc\u201d Doubles.",
-        "The variation 148xu/t (St Faith Place with a Hardmead Bob and a Minster Bob) is rung for the first time. The band would like to name this variation \u201cShelduck\u201d Doubles.",
-        "The variation 148xu/r (St Faith Place with a Hardmead Bob and a New Bob Bob) is rung for the first time. The band would like to name this variation \u201cShoveler\u201d Doubles.",
-        "The variation 148tr (St Faith Place with an Old Tom Single) is rung for the first time. The band would like to name this variation \u201cSilver Appleyard\u201d Doubles.",
-        "The variation 148tr/rt (St Faith Place with an Old Tom Single and a Julian Bob) is rung for the first time. The band would like to name this variation \u201cSilver Bantam\u201d Doubles.",
-        "The variation 148tr/t (St Faith Place with an Old Tom Single and a Minster Bob) is rung for the first time. The band would like to name this variation \u201cSmew\u201d Doubles.",
-        "The variation 148tr/r (St Faith Place with an Old Tom Single and a New Bob Bob) is rung for the first time. The band would like to name this variation \u201cTufted\u201d Doubles.",
-        "The variation 148rt/t (St Faith Place with a Julian Bob and a Minster Bob) is rung for the first time. The band would like to name this variation \u201cVelvet Scoter\u201d Doubles.",
-        "The variation 148rt/r (St Faith Place with a Julian Bob and a New Bob Bob) is rung for the first time. The band would like to name this variation \u201cWelsh Harlequin\u201d Doubles.",
-        "The variation 148t/r (St Faith Place with a Minster Bob and a New Bob Bob) is rung for the first time. The band would like to name this variation \u201cWigeon\u201d Doubles.",
-        "Rung to rival the NCG (Nottingham University Society), and to prove that although you could ring methods with silly names, ringing and naming 42 variations is much funnier.",
-        "Wishing Rachel L Mahoney and Ewan G A Hull a very happy first Anniversary (at fourth attempt)."
+        "First Peal: 3",
+        "First of Surprise Major: 1, 5",
+        "First on 8, and of Surprise as Conductor",
+        "Rung with congratulations to Diane Bleackley and Adrian Swenson on tying the knot",
+        "Also with happy birthday wishes to Holly Smith, cousin of the Conductor",
+        "And wishing a happy anniversary to Billy Brooke and Karen Ravn"
     ],
-    "id": "1705109",
-    "time_in_ms": 17091754
+    "id": "1727899",
+    "time_in_ms": 17147916
 }

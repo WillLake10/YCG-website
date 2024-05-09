@@ -1,20 +1,20 @@
 {
     "academic_year": "2023/24",
-    "type": 0,
-    "date": "Saturday, 04 May 2024",
-    "location": "St Lawrence, York, North Yorkshire",
-    "weight": "7-3-24 in A",
-    "time": "2h 39",
-    "changes": "5152",
-    "method": "Cambridge Surprise Major",
+    "type": 1,
+    "date": "Wednesday, 08 May 2024",
+    "location": "Oratory Church of St Wilfrid, York, North Yorkshire",
+    "weight": "6-0-6 in C",
+    "time": "40m",
+    "changes": "1260",
+    "method": "Plain Bob Minor",
     "details": "",
     "ringers": [
         {
-            "name": "Natasha A Williams (Alcuin) (C)",
+            "name": "Benjamin J Hartley (St John)",
             "bell": "1"
         },
         {
-            "name": "Ewan G A Hull (Staff)",
+            "name": "Dominic D O'Neill (Alcuin)",
             "bell": "2"
         },
         {
@@ -22,34 +22,22 @@
             "bell": "3"
         },
         {
-            "name": "William M Regan (Friend)",
+            "name": "Patrick W J Deakin (James)",
             "bell": "4"
         },
         {
-            "name": "Jemima C Bleackley (Halifax)",
+            "name": "Natasha A Williams (Alcuin) (C)",
             "bell": "5"
         },
         {
-            "name": "Patrick W J Deakin (James)",
+            "name": "Matthew O Hall (Vanbrugh) (C)",
             "bell": "6"
-        },
-        {
-            "name": "Rosemary S Hall (Alcuin)",
-            "bell": "7"
-        },
-        {
-            "name": "Matthew W Thewsey (The Modern Society Of Plymouth Youths)",
-            "bell": "8"
         }
     ],
     "footnotes": [
-        "First Peal: 3",
-        "First of Surprise Major: 1, 5",
-        "First on 8, and of Surprise as Conductor",
-        "Rung with congratulations to Diane Bleackley and Adrian Swenson on tying the knot",
-        "Also with happy birthday wishes to Holly Smith, cousin of the Conductor",
-        "And wishing a happy anniversary to Billy Brooke and Karen Ravn"
+        "First of Minor inside: 2",
+        "First jointly conducting: 6"
     ],
-    "id": "1727899",
-    "time_in_ms": 17147916
+    "id": "1729913",
+    "time_in_ms": 17151270
 }

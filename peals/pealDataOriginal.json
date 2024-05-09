@@ -1,6 +1,49 @@
 [
     {
         "academic_year": "2023/24",
+        "type": 1,
+        "date": "Wednesday, 08 May 2024",
+        "location": "Oratory Church of St Wilfrid, York, North Yorkshire",
+        "weight": "6-0-6 in C",
+        "time": "40m",
+        "changes": "1260",
+        "method": "Plain Bob Minor",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Benjamin J Hartley (St John)",
+                "bell": "1"
+            },
+            {
+                "name": "Dominic D O'Neill (Alcuin)",
+                "bell": "2"
+            },
+            {
+                "name": "Megan K Bucknall (Anne Lister)",
+                "bell": "3"
+            },
+            {
+                "name": "Patrick W J Deakin (James)",
+                "bell": "4"
+            },
+            {
+                "name": "Natasha A Williams (Alcuin) (C)",
+                "bell": "5"
+            },
+            {
+                "name": "Matthew O Hall (Vanbrugh) (C)",
+                "bell": "6"
+            }
+        ],
+        "footnotes": [
+            "First of Minor inside: 2",
+            "First jointly conducting: 6"
+        ],
+        "id": "1729913",
+        "time_in_ms": 17151270
+    },
+    {
+        "academic_year": "2023/24",
         "type": 0,
         "date": "Saturday, 04 May 2024",
         "location": "St Lawrence, York, North Yorkshire",

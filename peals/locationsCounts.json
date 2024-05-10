@@ -24,18 +24,18 @@
                 "total": 7
             },
             {
+                "tower": "York (St Philip and St James, Clifton), North Yorkshire",
+                "peals": 2,
+                "quarters": 4,
+                "other": 0,
+                "total": 6
+            },
+            {
                 "tower": "St George, Vernet-les-Bains, France",
                 "peals": 0,
                 "quarters": 5,
                 "other": 1,
                 "total": 6
-            },
-            {
-                "tower": "York (St Philip and St James, Clifton), North Yorkshire",
-                "peals": 2,
-                "quarters": 3,
-                "other": 0,
-                "total": 5
             },
             {
                 "tower": "York (Cathedral and Metropolitical Church of St Peter), North Yorkshire",
@@ -138,9 +138,9 @@
         ],
         "summary": {
             "peals": 5,
-            "quarters": 82,
+            "quarters": 83,
             "other": 8,
-            "total": 95
+            "total": 96
         }
     },
     {

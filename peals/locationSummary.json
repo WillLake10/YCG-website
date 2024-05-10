@@ -24,9 +24,9 @@
         {
             "tower": "York (St Philip and St James, Clifton), North Yorkshire",
             "peals": 4,
-            "quarters": 8,
+            "quarters": 9,
             "other": 1,
-            "total": 13
+            "total": 14
         },
         {
             "tower": "York (Oratory Church of St Wilfrid), North Yorkshire",
@@ -591,8 +591,8 @@
     ],
     "summary": {
         "peals": 43,
-        "quarters": 583,
+        "quarters": 584,
         "other": 45,
-        "total": 671
+        "total": 672
     }
 }

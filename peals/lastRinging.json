@@ -1,43 +1,45 @@
 {
     "academic_year": "2023/24",
     "type": 1,
-    "date": "Wednesday, 08 May 2024",
-    "location": "Oratory Church of St Wilfrid, York, North Yorkshire",
-    "weight": "6-0-6 in C",
-    "time": "40m",
-    "changes": "1260",
-    "method": "Plain Bob Minor",
+    "date": "Thursday, 09 May 2024",
+    "location": "St Philip and St James, Clifton, North Yorkshire",
+    "weight": "3-1-23 in Eb",
+    "time": "41m",
+    "changes": "1320",
+    "method": "Paul Doubles",
     "details": "",
     "ringers": [
         {
-            "name": "Benjamin J Hartley (St John)",
+            "name": "Patrick W J Deakin (James)",
             "bell": "1"
         },
         {
-            "name": "Dominic D O'Neill (Alcuin)",
+            "name": "Ewan G A Hull (Staff)",
             "bell": "2"
         },
         {
-            "name": "Megan K Bucknall (Anne Lister)",
+            "name": "Jemima C Bleackley (Halifax)",
             "bell": "3"
         },
         {
-            "name": "Patrick W J Deakin (James)",
+            "name": "Megan K Bucknall (Anne Lister)",
             "bell": "4"
         },
         {
-            "name": "Natasha A Williams (Alcuin) (C)",
+            "name": "Joseph E T Waters (SUGCR)",
             "bell": "5"
         },
         {
-            "name": "Matthew O Hall (Vanbrugh) (C)",
+            "name": "Natasha A Williams (Alcuin) (C)",
             "bell": "6"
         }
     ],
     "footnotes": [
-        "First of Minor inside: 2",
-        "First jointly conducting: 6"
+        "Rung by members of the Paul Jopp Fan Club",
+        "First blows in Variation for all",
+        "Circled the tower to Quarter Peals, without repetition: 1, 6",
+        "First Quarter of only one Variation: 2, 4"
     ],
-    "id": "1729913",
-    "time_in_ms": 17151270
+    "id": "1730612",
+    "time_in_ms": 17152134
 }

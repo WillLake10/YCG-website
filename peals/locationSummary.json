@@ -484,6 +484,13 @@
             "total": 1
         },
         {
+            "tower": "St Nicholas, Thorne, South Yorkshire",
+            "peals": 0,
+            "quarters": 1,
+            "other": 0,
+            "total": 1
+        },
+        {
             "tower": "St Nicolas, North Stoneham, Hampshire",
             "peals": 1,
             "quarters": 0,
@@ -591,8 +598,8 @@
     ],
     "summary": {
         "peals": 43,
-        "quarters": 584,
+        "quarters": 585,
         "other": 45,
-        "total": 672
+        "total": 673
     }
 }

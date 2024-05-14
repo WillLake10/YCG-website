@@ -1,20 +1,20 @@
 {
     "academic_year": "2023/24",
     "type": 1,
-    "date": "Saturday, 11 May 2024",
-    "location": "St Nicholas, Thorne, South Yorkshire",
-    "weight": "14-1-14 in F#",
-    "time": "46m",
+    "date": "Monday, 13 May 2024",
+    "location": "All Saints, Rufforth, North Yorkshire",
+    "weight": "3-3-9 in D",
+    "time": "34m",
     "changes": "1260",
-    "method": "Grandsire Triples",
+    "method": "New Bob Doubles",
     "details": "",
     "ringers": [
         {
-            "name": "Dominic D O'Neill (Alcuin)",
+            "name": "Joseph E T Waters (SUGCR)",
             "bell": "1"
         },
         {
-            "name": "Benjamin J Hartley (St John)",
+            "name": "Matthew W Thewsey (Modern Society of Plymouth Youths)",
             "bell": "2"
         },
         {
@@ -22,31 +22,24 @@
             "bell": "3"
         },
         {
-            "name": "Megan K Bucknall (Anne Lister)",
+            "name": "Natasha A Williams (Alcuin)",
             "bell": "4"
         },
         {
-            "name": "Natasha A Williams (Alcuin)",
+            "name": "Patrick W J Deakin (James) (C)",
             "bell": "5"
         },
         {
-            "name": "Matthew O Hall (Vanbrugh)",
+            "name": "Iain J Anderson (Cantab)",
             "bell": "6"
-        },
-        {
-            "name": "William M Regan (Friend) (C)",
-            "bell": "7"
-        },
-        {
-            "name": "Jim Hirst (Friend)",
-            "bell": "8"
         }
     ],
     "footnotes": [
-        "First on 8, and first at his home tower: 1.",
-        "Should've been studying: 1, 2, 4, 6.",
-        "Warm bells."
+        "Bells on Monday - Season 01, Episode 01",
+        "Rung in memory of Ruth Reeves.",
+        "Ruth and Andrew reeves tought the ringer of the 2nd to ring at Otterham, Cornwall.",
+        "Bells from Rufford were rehomed at Otterham during an augmentation there, creating the current ring of 6."
     ],
-    "id": "1731233",
-    "time_in_ms": 17153864
+    "id": "1732315",
+    "time_in_ms": 17155590
 }

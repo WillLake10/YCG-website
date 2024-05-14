@@ -122,6 +122,13 @@
                 "total": 1
             },
             {
+                "tower": "Rufforth (All Saints), North Yorkshire",
+                "peals": 0,
+                "quarters": 1,
+                "other": 0,
+                "total": 1
+            },
+            {
                 "tower": "All Saints, Belton in Isle of Axholme, Lincolnshire",
                 "peals": 0,
                 "quarters": 1,
@@ -145,9 +152,9 @@
         ],
         "summary": {
             "peals": 5,
-            "quarters": 84,
+            "quarters": 85,
             "other": 8,
-            "total": 97
+            "total": 98
         }
     },
     {

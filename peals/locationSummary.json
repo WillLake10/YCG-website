@@ -162,6 +162,13 @@
             "total": 2
         },
         {
+            "tower": "Rufforth (All Saints), North Yorkshire",
+            "peals": 0,
+            "quarters": 2,
+            "other": 0,
+            "total": 2
+        },
+        {
             "tower": "St Nicholas, Haxey, Lincolnshire",
             "peals": 0,
             "quarters": 2,
@@ -393,13 +400,6 @@
             "total": 1
         },
         {
-            "tower": "Rufforth (All Saints), North Yorkshire",
-            "peals": 0,
-            "quarters": 1,
-            "other": 0,
-            "total": 1
-        },
-        {
             "tower": "Seale (St Lawrence), Surrey",
             "peals": 0,
             "quarters": 1,
@@ -598,8 +598,8 @@
     ],
     "summary": {
         "peals": 43,
-        "quarters": 585,
+        "quarters": 586,
         "other": 45,
-        "total": 673
+        "total": 674
     }
 }

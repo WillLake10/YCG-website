@@ -38,6 +38,51 @@
         "footnotes": [
             "Bells on Monday - Season 01, Episode 01",
             "Rung in memory of Ruth Reeves.",
+            "Ruth and Andrew reeves taught the ringer of the 2nd to ring at Otterham, Cornwall.",
+            "Bells from Rufforth were rehomed at Otterham during an augmentation there, creating the current ring of 6."
+        ],
+        "id": "1732429",
+        "time_in_ms": 17155590
+    },
+    {
+        "academic_year": "2023/24",
+        "type": 1,
+        "date": "Monday, 13 May 2024",
+        "location": "All Saints, Rufforth, North Yorkshire",
+        "weight": "3-3-9 in D",
+        "time": "34m",
+        "changes": "1260",
+        "method": "New Bob Doubles",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Joseph E T Waters (SUGCR)",
+                "bell": "1"
+            },
+            {
+                "name": "Matthew W Thewsey (Modern Society of Plymouth Youths)",
+                "bell": "2"
+            },
+            {
+                "name": "Jemima C Bleackley (Halifax)",
+                "bell": "3"
+            },
+            {
+                "name": "Natasha A Williams (Alcuin)",
+                "bell": "4"
+            },
+            {
+                "name": "Patrick W J Deakin (James) (C)",
+                "bell": "5"
+            },
+            {
+                "name": "Iain J Anderson (Cantab)",
+                "bell": "6"
+            }
+        ],
+        "footnotes": [
+            "Bells on Monday - Season 01, Episode 01",
+            "Rung in memory of Ruth Reeves.",
             "Ruth and Andrew reeves tought the ringer of the 2nd to ring at Otterham, Cornwall.",
             "Bells from Rufford were rehomed at Otterham during an augmentation there, creating the current ring of 6."
         ],

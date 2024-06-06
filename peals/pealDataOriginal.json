@@ -2,6 +2,60 @@
     {
         "academic_year": "2023/24",
         "type": 1,
+        "date": "Wednesday, 05 June 2024",
+        "location": "Oratory Church of St Wilfrid, York, North Yorkshire",
+        "weight": "18-1-21 in F",
+        "time": "47m",
+        "changes": "1260",
+        "method": "Plain Bob Triples",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Benjamin J Hartley (St John)",
+                "bell": "1"
+            },
+            {
+                "name": "Natasha A Williams (Alcuin) (C)",
+                "bell": "2"
+            },
+            {
+                "name": "Dominic D O'Neill (Alcuin)",
+                "bell": "3"
+            },
+            {
+                "name": "Rebecca A Hall (Langwith)",
+                "bell": "4"
+            },
+            {
+                "name": "Matthew O Hall (Vanbrugh)",
+                "bell": "5"
+            },
+            {
+                "name": "Megan K Bucknall (Anne Lister)",
+                "bell": "6"
+            },
+            {
+                "name": "Patrick W J Deakin (James)",
+                "bell": "7"
+            },
+            {
+                "name": "Robert H B Johnson (Wentworth)",
+                "bell": "8"
+            }
+        ],
+        "footnotes": [
+            "Eight bells!? On a Wednesday!?",
+            "First inside on 8: 3",
+            "50th Quarter (after about as many losses in a row): 6",
+            "50th YCG Quarter in 2024",
+            "Celebrating the impending letters to follow the names of 4 and 8"
+        ],
+        "id": "1741613",
+        "time_in_ms": 17175464
+    },
+    {
+        "academic_year": "2023/24",
+        "type": 1,
         "date": "Monday, 20 May 2024",
         "location": "St Andrew, Bishopthorpe, North Yorkshire",
         "weight": "14-0-20 in F#",

@@ -1,44 +1,50 @@
 {
     "academic_year": "2023/24",
     "type": 1,
-    "date": "Sunday, 09 June 2024",
-    "location": "Spurriergate Centre, York, North Yorkshire",
-    "weight": "8-2-14 in A",
-    "time": "39m",
-    "changes": "1260",
-    "method": "Plain Bob Doubles",
-    "details": "",
+    "date": "Saturday, 15 June 2024",
+    "location": "St Lawrence, York, North Yorkshire",
+    "weight": "7-3-24 in A",
+    "time": "44m",
+    "changes": "1344",
+    "method": "Lord Of The Rings Surprise Major",
+    "details": "WHW x3",
     "ringers": [
         {
-            "name": "Rosemary S Hall (Alcuin)",
+            "name": "Philippa Stokoe (Staff)",
             "bell": "1"
         },
         {
-            "name": "Jemima C Bleackley (Halifax)",
+            "name": "Matthew O Hall (Vanbrugh)",
             "bell": "2"
         },
         {
-            "name": "James D Austin (Derwent)",
+            "name": "William L K Brooke (Halifax)",
             "bell": "3"
         },
         {
-            "name": "Matthew O Hall (Vanbrugh)",
+            "name": "Rosemary S Hall (Alcuin)",
             "bell": "4"
         },
         {
-            "name": "William J Lake (Langwith) (C)",
+            "name": "Natasha A Williams (Alcuin)",
             "bell": "5"
         },
         {
-            "name": "Megan K Bucknall (Anne Lister)",
+            "name": "Jemima C Bleackley (Halifax)",
             "bell": "6"
+        },
+        {
+            "name": "Ryan Mills (Halifax) (C)",
+            "bell": "7"
+        },
+        {
+            "name": "William M Regan (Friend)",
+            "bell": "8"
         }
     ],
     "footnotes": [
-        "Rung for the YCG Dinner Day which happened last night",
-        "A recreation of the first YCG quarter for 2, 3, 4, 5, 6, three years later, as a farewell to 4 and 6",
-        "https://bb.ringingworld.co.uk/view.php?id=1705381"
+        "Rung to celebrate the upcoming marriage of Billy Brooke and Karen Sejer Ravn in this church on 22nd June 2024."
     ],
-    "id": "1744517",
-    "time_in_ms": 17178918
+    "id": "1746521",
+    "time_in_ms": 17184104
 }

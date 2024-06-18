@@ -1,50 +1,42 @@
 {
     "academic_year": "2023/24",
     "type": 1,
-    "date": "Saturday, 15 June 2024",
-    "location": "St Lawrence, York, North Yorkshire",
-    "weight": "7-3-24 in A",
-    "time": "44m",
-    "changes": "1344",
-    "method": "Lord Of The Rings Surprise Major",
-    "details": "WHW x3",
+    "date": "Monday, 17 June 2024",
+    "location": "St Mary the Virgin, Strensall, North Yorkshire",
+    "weight": "3-3-20 in D",
+    "time": "",
+    "changes": "1296",
+    "method": "Spliced Treble Bob Minor (2m)",
+    "details": "648 Kent; 648 Oxford; 24 changes of method",
     "ringers": [
         {
-            "name": "Philippa Stokoe (Staff)",
+            "name": "James D Austin (Moustache)",
             "bell": "1"
         },
         {
-            "name": "Matthew O Hall (Vanbrugh)",
+            "name": "Natasha A Williams (Alcuin)",
             "bell": "2"
         },
         {
-            "name": "William L K Brooke (Halifax)",
+            "name": "Jemima C Bleackley (Halifax)",
             "bell": "3"
         },
         {
-            "name": "Rosemary S Hall (Alcuin)",
+            "name": "Joseph E T Waters (SUGCR)",
             "bell": "4"
         },
         {
-            "name": "Natasha A Williams (Alcuin)",
+            "name": "William M Regan (Friend)",
             "bell": "5"
         },
         {
-            "name": "Jemima C Bleackley (Halifax)",
+            "name": "Patrick W J Deakin (James) (C)",
             "bell": "6"
-        },
-        {
-            "name": "Ryan Mills (Halifax) (C)",
-            "bell": "7"
-        },
-        {
-            "name": "William M Regan (Friend)",
-            "bell": "8"
         }
     ],
     "footnotes": [
-        "Rung to celebrate the upcoming marriage of Billy Brooke and Karen Sejer Ravn in this church on 22nd June 2024."
+        "Bells on Monday - Season 01, Episode 04"
     ],
-    "id": "1746521",
-    "time_in_ms": 17184104
+    "id": "1747370",
+    "time_in_ms": 17185830
 }

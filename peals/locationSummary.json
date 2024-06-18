@@ -99,6 +99,13 @@
             "total": 4
         },
         {
+            "tower": "Strensall (St Mary the Virgin), North Yorkshire",
+            "peals": 0,
+            "quarters": 4,
+            "other": 0,
+            "total": 4
+        },
+        {
             "tower": "Bedale (St Gregory), North Yorkshire",
             "peals": 0,
             "quarters": 3,
@@ -121,13 +128,6 @@
         },
         {
             "tower": "Rufforth (All Saints), North Yorkshire",
-            "peals": 0,
-            "quarters": 3,
-            "other": 0,
-            "total": 3
-        },
-        {
-            "tower": "Strensall (St Mary the Virgin), North Yorkshire",
             "peals": 0,
             "quarters": 3,
             "other": 0,
@@ -598,8 +598,8 @@
     ],
     "summary": {
         "peals": 43,
-        "quarters": 592,
+        "quarters": 593,
         "other": 45,
-        "total": 680
+        "total": 681
     }
 }

@@ -1,16 +1,16 @@
 {
     "academic_year": "2023/24",
     "type": 1,
-    "date": "Monday, 17 June 2024",
-    "location": "St Mary the Virgin, Strensall, North Yorkshire",
-    "weight": "3-3-20 in D",
-    "time": "",
-    "changes": "1296",
-    "method": "Spliced Treble Bob Minor (2m)",
-    "details": "648 Kent; 648 Oxford; 24 changes of method",
+    "date": "Wednesday, 19 June 2024",
+    "location": "St Lawrence, York, North Yorkshire",
+    "weight": "7-3-24 in A",
+    "time": "43m",
+    "changes": "1250",
+    "method": "Yorkshire Surprise Major",
+    "details": "",
     "ringers": [
         {
-            "name": "James D Austin (Moustache)",
+            "name": "Alison L Edmonds (Staff)",
             "bell": "1"
         },
         {
@@ -18,25 +18,35 @@
             "bell": "2"
         },
         {
-            "name": "Jemima C Bleackley (Halifax)",
+            "name": "Megan K Bucknall (Anne Lister)",
             "bell": "3"
         },
         {
-            "name": "Joseph E T Waters (SUGCR)",
+            "name": "Jemima C Bleackley (Halifax)",
             "bell": "4"
         },
         {
-            "name": "William M Regan (Friend)",
+            "name": "Patrick W J Deakin (James)",
             "bell": "5"
         },
         {
-            "name": "Patrick W J Deakin (James) (C)",
+            "name": "Ryan Mills (Halifax) (C)",
             "bell": "6"
+        },
+        {
+            "name": "Robert H B Johnson (Wentworth)",
+            "bell": "7"
+        },
+        {
+            "name": "William L K Brooke (Halifax)",
+            "bell": "8"
         }
     ],
     "footnotes": [
-        "Bells on Monday - Season 01, Episode 04"
+        "Rung to celebrate the upcoming marriage of Billy Brooke and Karen Sejer Ravn in this church on 22nd June 2024.",
+        "First in method: 3, 7",
+        "Circled the tower three times: 2"
     ],
-    "id": "1747370",
-    "time_in_ms": 17185830
+    "id": "1747850",
+    "time_in_ms": 17187560
 }

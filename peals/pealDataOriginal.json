@@ -2,6 +2,45 @@
     {
         "academic_year": "2023/24",
         "type": 1,
+        "date": "Sunday, 30 June 2024",
+        "location": "St Lawrence, York, North Yorkshire",
+        "weight": "2-3-16 in E",
+        "time": "37m",
+        "changes": "1260",
+        "method": "Minimus (4m)",
+        "details": "12 Llanarthne Little Bob, 408 Reverse Bob, 408 Double Bob, 432 Plain Bob",
+        "ringers": [
+            {
+                "name": "Anna-Lena Bulgrin (Wentworth)",
+                "bell": "1"
+            },
+            {
+                "name": "David Denbigh (Langwith)",
+                "bell": "2"
+            },
+            {
+                "name": "Richard Mayers (Vanbrugh)",
+                "bell": "3"
+            },
+            {
+                "name": "Rosemary S Hall (Alcuin) (C)",
+                "bell": "4"
+            }
+        ],
+        "footnotes": [
+            "For Evensong",
+            "For the ordination of Hannah Moore at York Minster yesterday",
+            "100th YCG quarter of the academic year, rung by alumni",
+            "First minimus: 1, 2, 3",
+            "First blows in Llanarthne: 1",
+            "First of Llanarthne for all"
+        ],
+        "id": "1751065",
+        "time_in_ms": 17197060
+    },
+    {
+        "academic_year": "2023/24",
+        "type": 1,
         "date": "Thursday, 20 June 2024",
         "location": "St Lawrence, York, North Yorkshire",
         "weight": "7-3-24 in A",

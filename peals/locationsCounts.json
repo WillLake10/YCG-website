@@ -19,9 +19,9 @@
             {
                 "tower": "York (St Lawrence), North Yorkshire",
                 "peals": 1,
-                "quarters": 8,
+                "quarters": 9,
                 "other": 1,
-                "total": 10
+                "total": 11
             },
             {
                 "tower": "York (St Philip and St James, Clifton), North Yorkshire",
@@ -166,9 +166,9 @@
         ],
         "summary": {
             "peals": 5,
-            "quarters": 94,
+            "quarters": 95,
             "other": 8,
-            "total": 107
+            "total": 108
         }
     },
     {

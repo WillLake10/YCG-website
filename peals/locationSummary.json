@@ -94,9 +94,9 @@
         {
             "tower": "Stockton-on-the-Forest (Holy Trinity), North Yorkshire",
             "peals": 0,
-            "quarters": 4,
+            "quarters": 5,
             "other": 0,
-            "total": 4
+            "total": 5
         },
         {
             "tower": "Strensall (St Mary the Virgin), North Yorkshire",
@@ -598,8 +598,8 @@
     ],
     "summary": {
         "peals": 43,
-        "quarters": 596,
+        "quarters": 597,
         "other": 45,
-        "total": 684
+        "total": 685
     }
 }

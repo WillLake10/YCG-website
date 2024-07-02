@@ -1,39 +1,43 @@
 {
     "academic_year": "2023/24",
     "type": 1,
-    "date": "Sunday, 30 June 2024",
-    "location": "St Lawrence, York, North Yorkshire",
-    "weight": "2-3-16 in E",
-    "time": "37m",
-    "changes": "1260",
-    "method": "Minimus (4m)",
-    "details": "12 Llanarthne Little Bob, 408 Reverse Bob, 408 Double Bob, 432 Plain Bob",
+    "date": "Monday, 01 July 2024",
+    "location": "Holy Trinity, Stockton on the Forest, North Yorkshire",
+    "weight": "5-1-5 in D",
+    "time": "43m",
+    "changes": "1259",
+    "method": "Spliced Doubles and Minor (2m)",
+    "details": "720 Cambridge Surprise Minor, 539 Grandsire Doubles",
     "ringers": [
         {
-            "name": "Anna-Lena Bulgrin (Wentworth)",
+            "name": "Matthew W Thewsey (The Modern Society Of Plymouth Youths)",
             "bell": "1"
         },
         {
-            "name": "David Denbigh (Langwith)",
+            "name": "Iain J Anderson (Cantab)",
             "bell": "2"
         },
         {
-            "name": "Richard Mayers (Vanbrugh)",
+            "name": "Jemima C Bleackley (Halifax)",
             "bell": "3"
         },
         {
-            "name": "Rosemary S Hall (Alcuin) (C)",
+            "name": "Patrick W J Deakin (James) (C)",
             "bell": "4"
+        },
+        {
+            "name": "Natasha A Williams (Alcuin)",
+            "bell": "5"
+        },
+        {
+            "name": "Joseph E T Waters (SUGCR)",
+            "bell": "6"
         }
     ],
     "footnotes": [
-        "For Evensong",
-        "For the ordination of Hannah Moore at York Minster yesterday",
-        "100th YCG quarter of the academic year, rung by alumni",
-        "First minimus: 1, 2, 3",
-        "First blows in Llanarthne: 1",
-        "First of Llanarthne for all"
+        "With birthday compliments to Zorah Rajput and Julie Allenson (Sister and Mother of the tenor ringer).",
+        "Bells on Monday - Season 01, Episode 05"
     ],
-    "id": "1751065",
-    "time_in_ms": 17197060
+    "id": "1751352",
+    "time_in_ms": 17197926
 }

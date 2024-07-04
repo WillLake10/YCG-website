@@ -12,9 +12,9 @@
             {
                 "tower": "York (Oratory Church of St Wilfrid), North Yorkshire",
                 "peals": 0,
-                "quarters": 29,
+                "quarters": 30,
                 "other": 2,
-                "total": 31
+                "total": 32
             },
             {
                 "tower": "York (St Lawrence), North Yorkshire",
@@ -38,14 +38,14 @@
                 "total": 6
             },
             {
-                "tower": "York (Spurriergate Centre), North Yorkshire",
+                "tower": "York (Cathedral and Metropolitical Church of St Peter), North Yorkshire",
                 "peals": 0,
-                "quarters": 2,
+                "quarters": 3,
                 "other": 0,
-                "total": 2
+                "total": 3
             },
             {
-                "tower": "York (Cathedral and Metropolitical Church of St Peter), North Yorkshire",
+                "tower": "York (Spurriergate Centre), North Yorkshire",
                 "peals": 0,
                 "quarters": 2,
                 "other": 0,
@@ -173,9 +173,9 @@
         ],
         "summary": {
             "peals": 5,
-            "quarters": 96,
+            "quarters": 98,
             "other": 8,
-            "total": 109
+            "total": 111
         }
     },
     {

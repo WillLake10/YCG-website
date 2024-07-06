@@ -1,16 +1,16 @@
 {
     "academic_year": "2023/24",
     "type": 1,
-    "date": "Wednesday, 03 July 2024",
+    "date": "Friday, 05 July 2024",
     "location": "Oratory Church of St Wilfrid, York, North Yorkshire",
-    "weight": "6-0-6 in C",
-    "time": "47m",
-    "changes": "1440",
-    "method": "Forward Minor",
+    "weight": "18-1-21 in F",
+    "time": "48m",
+    "changes": "1344",
+    "method": "London Surprise Major",
     "details": "",
     "ringers": [
         {
-            "name": "William M Regan (Friend)",
+            "name": "Jemima C Bleackley (Halifax)",
             "bell": "1"
         },
         {
@@ -18,25 +18,35 @@
             "bell": "2"
         },
         {
-            "name": "Jemima C Bleackley (Halifax)",
+            "name": "William M Regan (Friend)",
             "bell": "3"
         },
         {
-            "name": "Robert H B Johnson (Wentworth)",
+            "name": "Ryan E Mills (Halifax)",
             "bell": "4"
         },
         {
-            "name": "Rosemary S Hall (Alcuin)",
+            "name": "Joseph E T Waters (SUGCR) (C)",
             "bell": "5"
         },
         {
-            "name": "Patrick W J Deakin (James) (C)",
+            "name": "Simon J Poole (Friend)",
             "bell": "6"
+        },
+        {
+            "name": "Philippa C M Stokoe (Staff)",
+            "bell": "7"
+        },
+        {
+            "name": "Patrick W J Deakin (James)",
+            "bell": "8"
         }
     ],
     "footnotes": [
-        "25th Quarter Peal: 4"
+        "With birthday wishes to Michael J Williams",
+        "Ring on the eve of the RWNYC",
+        "First of London Major: 2"
     ],
-    "id": "1751800",
-    "time_in_ms": 17199654
+    "id": "1752332",
+    "time_in_ms": 17201384
 }

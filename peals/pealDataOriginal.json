@@ -2,6 +2,49 @@
     {
         "academic_year": "2023/24",
         "type": 1,
+        "date": "Sunday, 07 July 2024",
+        "location": "St Lawrence, York, North Yorkshire",
+        "weight": "7-3-24 in A",
+        "time": "43m",
+        "changes": "1260",
+        "method": "Plain Bob Doubles",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Patrick W J Deakin (James)",
+                "bell": "1"
+            },
+            {
+                "name": "William L K Brooke (Wentworth)",
+                "bell": "2"
+            },
+            {
+                "name": "Natasha A Williams (Alcuin) (C)",
+                "bell": "3"
+            },
+            {
+                "name": "Rosemary S Hall (Alcuin)",
+                "bell": "4"
+            },
+            {
+                "name": "Joseph E T Waters (SUGCR)",
+                "bell": "5"
+            },
+            {
+                "name": "Joss Davis (Alcuin)",
+                "bell": "6"
+            }
+        ],
+        "footnotes": [
+            "Rung for evensong.",
+            "Celebrating the birth of Isabella Anne Etherington on Friday."
+        ],
+        "id": "1752850",
+        "time_in_ms": 17203110
+    },
+    {
+        "academic_year": "2023/24",
+        "type": 1,
         "date": "Friday, 05 July 2024",
         "location": "Oratory Church of St Wilfrid, York, North Yorkshire",
         "weight": "18-1-21 in F",

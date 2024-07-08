@@ -1,52 +1,43 @@
 {
     "academic_year": "2023/24",
     "type": 1,
-    "date": "Friday, 05 July 2024",
-    "location": "Oratory Church of St Wilfrid, York, North Yorkshire",
-    "weight": "18-1-21 in F",
-    "time": "48m",
-    "changes": "1344",
-    "method": "London Surprise Major",
+    "date": "Sunday, 07 July 2024",
+    "location": "St Lawrence, York, North Yorkshire",
+    "weight": "7-3-24 in A",
+    "time": "43m",
+    "changes": "1260",
+    "method": "Plain Bob Doubles",
     "details": "",
     "ringers": [
         {
-            "name": "Jemima C Bleackley (Halifax)",
+            "name": "Patrick W J Deakin (James)",
             "bell": "1"
         },
         {
-            "name": "Natasha A Williams (Alcuin)",
+            "name": "William L K Brooke (Wentworth)",
             "bell": "2"
         },
         {
-            "name": "William M Regan (Friend)",
+            "name": "Natasha A Williams (Alcuin) (C)",
             "bell": "3"
         },
         {
-            "name": "Ryan E Mills (Halifax)",
+            "name": "Rosemary S Hall (Alcuin)",
             "bell": "4"
         },
         {
-            "name": "Joseph E T Waters (SUGCR) (C)",
+            "name": "Joseph E T Waters (SUGCR)",
             "bell": "5"
         },
         {
-            "name": "Simon J Poole (Friend)",
+            "name": "Joss Davis (Alcuin)",
             "bell": "6"
-        },
-        {
-            "name": "Philippa C M Stokoe (Staff)",
-            "bell": "7"
-        },
-        {
-            "name": "Patrick W J Deakin (James)",
-            "bell": "8"
         }
     ],
     "footnotes": [
-        "With birthday wishes to Michael J Williams",
-        "Rung on the eve of the RWNYC",
-        "First of London Major: 2"
+        "Rung for evensong.",
+        "Celebrating the birth of Isabella Anne Etherington on Friday."
     ],
-    "id": "1752371",
-    "time_in_ms": 17201384
+    "id": "1752850",
+    "time_in_ms": 17203110
 }

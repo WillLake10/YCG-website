@@ -309,6 +309,48 @@
     {
         "academic_year": "2023/24",
         "type": 1,
+        "date": "Monday, 08 July 2024",
+        "location": "St James, Nunburnholme, East Riding of Yorkshire",
+        "weight": "12-1-5 in G",
+        "time": "55m",
+        "changes": "1260",
+        "method": "Huntspill Bob Doubles",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Jemima C Bleackley (Halifax)",
+                "bell": "1"
+            },
+            {
+                "name": "Natasha A Williams (Alcuin)",
+                "bell": "2"
+            },
+            {
+                "name": "William M Regan (Friend)",
+                "bell": "3"
+            },
+            {
+                "name": "Joseph E T Waters (SUGCR)",
+                "bell": "4"
+            },
+            {
+                "name": "Patrick W J Deakin (James) (C)",
+                "bell": "5"
+            },
+            {
+                "name": "Matthew W Thewsey (Modern Society of Plymouth Youths)",
+                "bell": "6"
+            }
+        ],
+        "footnotes": [
+            "150th for The Guild: 2"
+        ],
+        "id": "1753297",
+        "time_in_ms": 17203974
+    },
+    {
+        "academic_year": "2023/24",
+        "type": 1,
         "date": "Sunday, 07 July 2024",
         "location": "St Lawrence, York, North Yorkshire",
         "weight": "7-3-24 in A",

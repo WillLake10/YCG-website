@@ -99,6 +99,13 @@
             "total": 5
         },
         {
+            "tower": "Nunburnholme (St James), East Riding of Yorkshire",
+            "peals": 1,
+            "quarters": 3,
+            "other": 0,
+            "total": 4
+        },
+        {
             "tower": "Strensall (St Mary the Virgin), North Yorkshire",
             "peals": 0,
             "quarters": 4,
@@ -116,13 +123,6 @@
             "tower": "Kirby Hill (All Saints), North Yorkshire",
             "peals": 2,
             "quarters": 1,
-            "other": 0,
-            "total": 3
-        },
-        {
-            "tower": "Nunburnholme (St James), East Riding of Yorkshire",
-            "peals": 1,
-            "quarters": 2,
             "other": 0,
             "total": 3
         },
@@ -598,8 +598,8 @@
     ],
     "summary": {
         "peals": 43,
-        "quarters": 602,
+        "quarters": 603,
         "other": 45,
-        "total": 690
+        "total": 691
     }
 }

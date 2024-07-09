@@ -108,6 +108,13 @@
                 "total": 1
             },
             {
+                "tower": "Nunburnholme (St James), East Riding of Yorkshire",
+                "peals": 0,
+                "quarters": 1,
+                "other": 0,
+                "total": 1
+            },
+            {
                 "tower": "St Andrew, Epworth, Lincolnshire",
                 "peals": 0,
                 "quarters": 1,
@@ -173,9 +180,9 @@
         ],
         "summary": {
             "peals": 5,
-            "quarters": 101,
+            "quarters": 102,
             "other": 8,
-            "total": 114
+            "total": 115
         }
     },
     {

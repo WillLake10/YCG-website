@@ -36,6 +36,49 @@
             }
         ],
         "footnotes": [
+            "Bells on Monday - Season 01, Episode 06",
+            "150th for The Guild: 2"
+        ],
+        "id": "1753464",
+        "time_in_ms": 17203974
+    },
+    {
+        "academic_year": "2023/24",
+        "type": 1,
+        "date": "Monday, 08 July 2024",
+        "location": "St James, Nunburnholme, East Riding of Yorkshire",
+        "weight": "12-1-5 in G",
+        "time": "55m",
+        "changes": "1260",
+        "method": "Huntspill Bob Doubles",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Jemima C Bleackley (Halifax)",
+                "bell": "1"
+            },
+            {
+                "name": "Natasha A Williams (Alcuin)",
+                "bell": "2"
+            },
+            {
+                "name": "William M Regan (Friend)",
+                "bell": "3"
+            },
+            {
+                "name": "Joseph E T Waters (SUGCR)",
+                "bell": "4"
+            },
+            {
+                "name": "Patrick W J Deakin (James) (C)",
+                "bell": "5"
+            },
+            {
+                "name": "Matthew W Thewsey (Modern Society of Plymouth Youths)",
+                "bell": "6"
+            }
+        ],
+        "footnotes": [
             "150th for The Guild: 2"
         ],
         "id": "1753297",
@@ -311,6 +354,52 @@
         ],
         "id": "1751065",
         "time_in_ms": 17197060
+    },
+    {
+        "academic_year": "2023/24",
+        "type": 1,
+        "date": "Thursday, 20 June 2024",
+        "location": "St Lawrence, York, North Yorkshire",
+        "weight": "7-3-24 in A",
+        "time": "41m",
+        "changes": "1320",
+        "method": "Billy and Karen's Wedding Doubles",
+        "details": "",
+        "ringers": [
+            {
+                "name": "David G Denbigh (Langwith)",
+                "bell": "1"
+            },
+            {
+                "name": "Natasha A Williams (Alcuin) (C)",
+                "bell": "2"
+            },
+            {
+                "name": "William L K Brooke (Wentworth)",
+                "bell": "3"
+            },
+            {
+                "name": "Robert H B Johnson (Wentworth)",
+                "bell": "4"
+            },
+            {
+                "name": "Patrick W J Deakin (James)",
+                "bell": "5"
+            },
+            {
+                "name": "William M Regan (Friend)",
+                "bell": "6"
+            }
+        ],
+        "footnotes": [
+            "Rung to celebrate the upcoming wedding of Billy Brooke and Karen Sejer Ravn in this church this weekend.",
+            "The variation 887b (Netherton Place with a Plain Bob Bob) is rung for the first time. The band would like to name this variation \"Billy and Karen's Wedding\".",
+            "First variation: 4",
+            "100th Quarter with the ringer of the 5: 2",
+            "Retrospectively the 100th YCG Quarter this Academic Year"
+        ],
+        "id": "1753470",
+        "time_in_ms": 17188422
     },
     {
         "academic_year": "2023/24",

@@ -1,12 +1,12 @@
 {
     "academic_year": "2023/24",
     "type": 1,
-    "date": "Monday, 08 July 2024",
-    "location": "St James, Nunburnholme, East Riding of Yorkshire",
-    "weight": "12-1-5 in G",
-    "time": "55m",
-    "changes": "1260",
-    "method": "Huntspill Bob Doubles",
+    "date": "Monday, 15 July 2024",
+    "location": "St Mary the Virgin, Hemingbrough, North Yorkshire",
+    "weight": "10-1-5 in F",
+    "time": "59m",
+    "changes": "1440",
+    "method": "Monday Morning Bob Minor",
     "details": "",
     "ringers": [
         {
@@ -14,7 +14,7 @@
             "bell": "1"
         },
         {
-            "name": "Natasha A Williams (Alcuin)",
+            "name": "Natasha A Williams (Alcuin) (C)",
             "bell": "2"
         },
         {
@@ -26,18 +26,20 @@
             "bell": "4"
         },
         {
-            "name": "Patrick W J Deakin (James) (C)",
+            "name": "Alex S Riley (DUSCR)",
             "bell": "5"
         },
         {
-            "name": "Matthew W Thewsey (Modern Society of Plymouth Youths)",
+            "name": "Patrick W J Deakin (James)",
             "bell": "6"
         }
     ],
     "footnotes": [
-        "Bells on Monday - Season 01, Episode 06",
-        "150th for The Guild: 2"
+        "Bells on Monday - Season 01, Episode 07",
+        "50th as Conductor",
+        "Wishing Sam Austin a happy birthday",
+        "Rung with congratulations to Bridget and Richard Garcia on their recent wedding"
     ],
-    "id": "1753464",
-    "time_in_ms": 17203974
+    "id": "1755054",
+    "time_in_ms": 17210022
 }

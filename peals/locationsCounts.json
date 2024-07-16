@@ -101,6 +101,13 @@
                 "total": 1
             },
             {
+                "tower": "St Mary the Virgin, Hemingbrough, North Yorkshire",
+                "peals": 0,
+                "quarters": 1,
+                "other": 0,
+                "total": 1
+            },
+            {
                 "tower": "St Martin, Owston Ferry, Lincolnshire",
                 "peals": 0,
                 "quarters": 1,
@@ -180,9 +187,9 @@
         ],
         "summary": {
             "peals": 5,
-            "quarters": 104,
+            "quarters": 105,
             "other": 8,
-            "total": 117
+            "total": 118
         }
     },
     {

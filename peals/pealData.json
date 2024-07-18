@@ -309,6 +309,50 @@
     {
         "academic_year": "2023/24",
         "type": 1,
+        "date": "Wednesday, 17 July 2024",
+        "location": "Oratory Church of St Wilfrid, York, North Yorkshire",
+        "weight": "18-1-21 in F",
+        "time": "53m",
+        "changes": "1440",
+        "method": "Spliced Surprise Minor (2m)",
+        "details": "720 each Beverley and Surfleet; all the work",
+        "ringers": [
+            {
+                "name": "William L K Brooke (Wentworth)",
+                "bell": "1"
+            },
+            {
+                "name": "Natasha A Williams (Alcuin)",
+                "bell": "2"
+            },
+            {
+                "name": "Robert H B Johnson (Wentworth)",
+                "bell": "3"
+            },
+            {
+                "name": "Ryan Mills (Halifax)",
+                "bell": "4"
+            },
+            {
+                "name": "Patrick W J Deakin (James) (C)",
+                "bell": "5"
+            },
+            {
+                "name": "William M Regan (Friend)",
+                "bell": "6"
+            }
+        ],
+        "footnotes": [
+            "Vague birthday thoughts to Jemima C Bleackley (Halifax)",
+            "First Quarter Peal of Spliced: 3",
+            "200th Quarter Peal: 2"
+        ],
+        "id": "1755437",
+        "time_in_ms": 17211750
+    },
+    {
+        "academic_year": "2023/24",
+        "type": 1,
         "date": "Monday, 15 July 2024",
         "location": "St Mary the Virgin, Hemingbrough, North Yorkshire",
         "weight": "10-1-5 in F",

@@ -150,6 +150,13 @@
                 "total": 1
             },
             {
+                "tower": "Christ Church, Epsom Common, Epsom, Surrey",
+                "peals": 0,
+                "quarters": 1,
+                "other": 0,
+                "total": 1
+            },
+            {
                 "tower": "Cathedral and Metropolitical Church of St Peter, York, ",
                 "peals": 0,
                 "quarters": 1,
@@ -187,9 +194,9 @@
         ],
         "summary": {
             "peals": 5,
-            "quarters": 106,
+            "quarters": 107,
             "other": 8,
-            "total": 119
+            "total": 120
         }
     },
     {

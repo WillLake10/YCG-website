@@ -622,5 +622,29 @@
         "social": false,
         "practice": false,
         "allDay": false
+    },
+    {
+        "s_date": {
+            "day": "22",
+            "month": "October",
+            "year": "2024",
+            "time": "19:00",
+            "weekday": "Tuesday",
+            "full": "19:00, Tuesday 22 October"
+        },
+        "e_date": {
+            "day": "22",
+            "month": "October",
+            "year": "2024",
+            "time": "21:00",
+            "weekday": "Tuesday",
+            "full": "21:00, Tuesday 22 October"
+        },
+        "title": "York Minster Practice",
+        "location": "York Minster, Deangate",
+        "description": "Weekly practice at the Minster that some members attend",
+        "social": false,
+        "practice": false,
+        "allDay": false
     }
 ]

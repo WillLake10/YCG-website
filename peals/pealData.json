@@ -2,6 +2,34 @@
     {
         "academic_year": "2023/24",
         "type": 0,
+        "date": "Saturday, 10 August 2024",
+        "location": "66 Bootham, York, North Yorkshire",
+        "weight": "",
+        "time": "4h 28",
+        "changes": "18000",
+        "method": "Plain Bob Minimus",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Natasha A Williams (Alcuin) (C)",
+                "bell": "1-2"
+            },
+            {
+                "name": "Patrick W J Deakin (James)",
+                "bell": "3-4"
+            }
+        ],
+        "footnotes": [
+            "A long length attempt stopped halfway through due to a small bladder and a growing headache.",
+            "Longest length of Plain Bob Minimus.",
+            "Longest length for all."
+        ],
+        "id": "1762357",
+        "time_in_ms": 17232582
+    },
+    {
+        "academic_year": "2023/24",
+        "type": 0,
         "date": "Saturday, 04 May 2024",
         "location": "St Lawrence, York, North Yorkshire",
         "weight": "7-3-24 in A",

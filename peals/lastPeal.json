@@ -1,55 +1,28 @@
 {
     "academic_year": "2023/24",
     "type": 0,
-    "date": "Saturday, 04 May 2024",
-    "location": "St Lawrence, York, North Yorkshire",
-    "weight": "7-3-24 in A",
-    "time": "2h 39",
-    "changes": "5152",
-    "method": "Cambridge Surprise Major",
+    "date": "Saturday, 10 August 2024",
+    "location": "66 Bootham, York, North Yorkshire",
+    "weight": "",
+    "time": "4h 28",
+    "changes": "18000",
+    "method": "Plain Bob Minimus",
     "details": "",
     "ringers": [
         {
             "name": "Natasha A Williams (Alcuin) (C)",
-            "bell": "1"
-        },
-        {
-            "name": "Ewan G A Hull (Staff)",
-            "bell": "2"
-        },
-        {
-            "name": "Megan K Bucknall (Anne Lister)",
-            "bell": "3"
-        },
-        {
-            "name": "William M Regan (Friend)",
-            "bell": "4"
-        },
-        {
-            "name": "Jemima C Bleackley (Halifax)",
-            "bell": "5"
+            "bell": "1-2"
         },
         {
             "name": "Patrick W J Deakin (James)",
-            "bell": "6"
-        },
-        {
-            "name": "Rosemary S Hall (Alcuin)",
-            "bell": "7"
-        },
-        {
-            "name": "Matthew W Thewsey (The Modern Society Of Plymouth Youths)",
-            "bell": "8"
+            "bell": "3-4"
         }
     ],
     "footnotes": [
-        "First Peal: 3",
-        "First of Surprise Major: 1, 5",
-        "First on 8, and of Surprise as Conductor",
-        "Rung with congratulations to Diane Bleackley and Adrian Swenson on tying the knot",
-        "Also with happy birthday wishes to Holly Smith, cousin of the Conductor",
-        "And wishing a happy anniversary to Billy Brooke and Karen Ravn"
+        "A long length attempt stopped halfway through due to a small bladder and a growing headache.",
+        "Longest length of Plain Bob Minimus.",
+        "Longest length for all."
     ],
-    "id": "1727899",
-    "time_in_ms": 17147916
+    "id": "1762357",
+    "time_in_ms": 17232582
 }

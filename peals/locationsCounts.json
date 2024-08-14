@@ -192,6 +192,13 @@
                 "total": 1
             },
             {
+                "tower": "Abbey Church of St Mary and St Germain, Selby, North Yorkshire",
+                "peals": 0,
+                "quarters": 1,
+                "other": 0,
+                "total": 1
+            },
+            {
                 "tower": "66 Bootham, York, ",
                 "peals": 0,
                 "quarters": 1,
@@ -201,9 +208,9 @@
         ],
         "summary": {
             "peals": 6,
-            "quarters": 108,
+            "quarters": 109,
             "other": 8,
-            "total": 122
+            "total": 123
         }
     },
     {

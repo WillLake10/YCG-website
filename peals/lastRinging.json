@@ -1,16 +1,16 @@
 {
     "academic_year": "2023/24",
     "type": 1,
-    "date": "Monday, 12 August 2024",
-    "location": "All Saints, Kirk Deighton, North Yorkshire",
-    "weight": "9-3-8 in G",
-    "time": "44m",
-    "changes": "1320",
-    "method": "August Doubles",
+    "date": "Tuesday, 13 August 2024",
+    "location": "Abbey Church of St Mary and St Germain, Selby, North Yorkshire",
+    "weight": "25-2-20 in D",
+    "time": "52m",
+    "changes": "1280",
+    "method": "Yorkshire Surprise Royal",
     "details": "",
     "ringers": [
         {
-            "name": "John S Leech (Vanbrugh)",
+            "name": "James D Austin (Derwent)",
             "bell": "1"
         },
         {
@@ -18,26 +18,43 @@
             "bell": "2"
         },
         {
-            "name": "Matthew W Thewsey (The Modern Society Of Plymouth Youths)",
+            "name": "Jemima C Bleackley (Halifax)",
             "bell": "3"
         },
         {
-            "name": "Joseph E T Waters (SUGCR)",
+            "name": "William M Regan (Friend)",
             "bell": "4"
         },
         {
-            "name": "Patrick W J Deakin (James)",
+            "name": "William L K Brooke (Wentworth)",
             "bell": "5"
         },
         {
-            "name": "William Todd (Friend)",
+            "name": "Matthew W Thewsey (The Modern Society Of Plymouth Youths)",
             "bell": "6"
+        },
+        {
+            "name": "Patrick W J Deakin (James)",
+            "bell": "7"
+        },
+        {
+            "name": "Ryan E Mills (Halifax)",
+            "bell": "8"
+        },
+        {
+            "name": "Joseph E T Waters (SUGCR)",
+            "bell": "9"
+        },
+        {
+            "name": "Edward R Mack (UBSCR)",
+            "bell": "10"
         }
     ],
     "footnotes": [
-        "Bells on Monday - Season 01, Episode 08",
-        "First blows in variation for all."
+        "First blows of Yorkshire Surprise Royal: 2",
+        "First quarter of Yorkshire Surprise Royal: 3",
+        "First Surprise Royal as Conductor"
     ],
-    "id": "1763024",
-    "time_in_ms": 17234214
+    "id": "1763173",
+    "time_in_ms": 17235082
 }

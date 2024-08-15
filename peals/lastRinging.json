@@ -1,60 +1,42 @@
 {
     "academic_year": "2023/24",
     "type": 1,
-    "date": "Tuesday, 13 August 2024",
-    "location": "Abbey Church of St Mary and St Germain, Selby, North Yorkshire",
-    "weight": "25-2-20 in D",
-    "time": "52m",
-    "changes": "1280",
-    "method": "Yorkshire Surprise Royal",
+    "date": "Wednesday, 14 August 2024",
+    "location": "Oratory Church of St Wilfrid, York, North Yorkshire",
+    "weight": "6-0-6 in C",
+    "time": "43m",
+    "changes": "1295",
+    "method": "Annable's London Surprise Minor",
     "details": "",
     "ringers": [
         {
-            "name": "James D Austin (Derwent)",
+            "name": "Patrick W J Deakin (James)",
             "bell": "1"
         },
         {
-            "name": "Natasha A Williams (Alcuin) (C)",
+            "name": "William L K Brooke (Wentworth)",
             "bell": "2"
         },
         {
-            "name": "Jemima C Bleackley (Halifax)",
+            "name": "Robert H B Johnson (Wentworth)",
             "bell": "3"
         },
         {
-            "name": "William M Regan (Friend)",
+            "name": "Matthew W Thewsey (The Modern Society Of Plymouth Youths)",
             "bell": "4"
         },
         {
-            "name": "William L K Brooke (Wentworth)",
+            "name": "Ryan E Mills (Halifax)",
             "bell": "5"
         },
         {
-            "name": "Matthew W Thewsey (The Modern Society Of Plymouth Youths)",
+            "name": "Natasha A Williams (Alcuin) (C)",
             "bell": "6"
-        },
-        {
-            "name": "Patrick W J Deakin (James)",
-            "bell": "7"
-        },
-        {
-            "name": "Ryan E Mills (Halifax)",
-            "bell": "8"
-        },
-        {
-            "name": "Joseph E T Waters (SUGCR)",
-            "bell": "9"
-        },
-        {
-            "name": "Edward R Mack (UBSCR)",
-            "bell": "10"
         }
     ],
     "footnotes": [
-        "First blows of Yorkshire Surprise Royal: 2",
-        "First quarter of Yorkshire Surprise Royal: 3",
-        "First Surprise Royal as Conductor"
+        "100th this year: 6"
     ],
-    "id": "1763173",
-    "time_in_ms": 17235082
+    "id": "1763304",
+    "time_in_ms": 17235942
 }

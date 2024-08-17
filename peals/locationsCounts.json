@@ -143,6 +143,13 @@
                 "total": 1
             },
             {
+                "tower": "Larchfield, York, Yorkshire",
+                "peals": 0,
+                "quarters": 1,
+                "other": 0,
+                "total": 1
+            },
+            {
                 "tower": "Stockton-on-the-Forest (Holy Trinity), North Yorkshire",
                 "peals": 0,
                 "quarters": 1,
@@ -208,9 +215,9 @@
         ],
         "summary": {
             "peals": 6,
-            "quarters": 110,
+            "quarters": 111,
             "other": 8,
-            "total": 124
+            "total": 125
         }
     },
     {

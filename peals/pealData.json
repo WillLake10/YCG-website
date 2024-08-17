@@ -337,6 +337,36 @@
     {
         "academic_year": "2023/24",
         "type": 1,
+        "date": "Friday, 16 August 2024",
+        "location": "Larchfield, York, Yorkshire",
+        "weight": "8 in G",
+        "time": "",
+        "changes": "1260",
+        "method": "Plain Bob Doubles",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Jemima C Bleackley (Halifax)",
+                "bell": "1-2"
+            },
+            {
+                "name": "Patrick W J Deakin (James)",
+                "bell": "3-4"
+            },
+            {
+                "name": "Matthew W Thewsey (The Modern Society Of Plymouth Youths) (C)",
+                "bell": "5-6"
+            }
+        ],
+        "footnotes": [
+            "First in hand as conductor "
+        ],
+        "id": "1763505",
+        "time_in_ms": 17237667
+    },
+    {
+        "academic_year": "2023/24",
+        "type": 1,
         "date": "Wednesday, 14 August 2024",
         "location": "Oratory Church of St Wilfrid, York, North Yorkshire",
         "weight": "6-0-6 in C",

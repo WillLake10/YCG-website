@@ -337,6 +337,282 @@
     {
         "academic_year": "2023/24",
         "type": 1,
+        "date": "Sunday, 18 August 2024",
+        "location": "Larchfield, York, North Yorkshire",
+        "weight": "12 in F",
+        "time": "42m",
+        "changes": "1440",
+        "method": "Heterodox Doubles",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Natasha A Williams (Alcuin) (C)",
+                "bell": "1-2"
+            },
+            {
+                "name": "Patrick W J Deakin (James)",
+                "bell": "3-4"
+            },
+            {
+                "name": "Matthew W Thewsey (The Modern Society Of Plymouth Youths)",
+                "bell": "5-6"
+            }
+        ],
+        "footnotes": [
+            "Sextupled his quarters in hand this weekend: 5-6",
+            "(11/12)"
+        ],
+        "id": "1763931",
+        "time_in_ms": 17239395
+    },
+    {
+        "academic_year": "2023/24",
+        "type": 1,
+        "date": "Sunday, 18 August 2024",
+        "location": "Larchfield, York, North Yorkshire",
+        "weight": "14 in D",
+        "time": "27m",
+        "changes": "1260",
+        "method": "Jacksdale Doubles",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Natasha A Williams (Alcuin) (C)",
+                "bell": "1-2"
+            },
+            {
+                "name": "Patrick W J Deakin (James)",
+                "bell": "3-4"
+            },
+            {
+                "name": "Jemima C Bleackley (Halifax)",
+                "bell": "5-6"
+            }
+        ],
+        "footnotes": [
+            "(9/12)"
+        ],
+        "id": "1763875",
+        "time_in_ms": 17239395
+    },
+    {
+        "academic_year": "2023/24",
+        "type": 1,
+        "date": "Sunday, 18 August 2024",
+        "location": "Larchfield, York, North Yorkshire",
+        "weight": "11 in G",
+        "time": "22m",
+        "changes": "1260",
+        "method": "Litchurch Doubles",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Natasha A Williams (Alcuin) (C)",
+                "bell": "1-2"
+            },
+            {
+                "name": "Patrick W J Deakin (James)",
+                "bell": "3-4"
+            },
+            {
+                "name": "Matthew W Thewsey (The Modern Society Of Plymouth Youths)",
+                "bell": "5-6"
+            }
+        ],
+        "footnotes": [
+            "(7/12) "
+        ],
+        "id": "1763849",
+        "time_in_ms": 17239395
+    },
+    {
+        "academic_year": "2023/24",
+        "type": 1,
+        "date": "Sunday, 18 August 2024",
+        "location": "Larchfield, York, North Yorkshire",
+        "weight": "6 in D",
+        "time": "26m",
+        "changes": "1260",
+        "method": "Seighford Doubles",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Natasha A Williams (Alcuin) (C)",
+                "bell": "1-2"
+            },
+            {
+                "name": "Patrick W J Deakin (James)",
+                "bell": "3-4"
+            },
+            {
+                "name": "Matthew W Thewsey (The Modern Society Of Plymouth Youths)",
+                "bell": "5-6"
+            }
+        ],
+        "footnotes": [
+            "162nd Quarter for the YCG, becoming the leading quarter peal ringer of all time: 1-2",
+            "(6/12)"
+        ],
+        "id": "1763848",
+        "time_in_ms": 17239395
+    },
+    {
+        "academic_year": "2023/24",
+        "type": 1,
+        "date": "Sunday, 18 August 2024",
+        "location": "Larchfield, York, North Yorkshire",
+        "weight": "14 in D",
+        "time": "40m",
+        "changes": "1260",
+        "method": "Hudibras Doubles",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Natasha A Williams (Alcuin) (C)",
+                "bell": "1-2"
+            },
+            {
+                "name": "Patrick W J Deakin (James)",
+                "bell": "3-4"
+            },
+            {
+                "name": "Joseph E T Waters (SUGCR)",
+                "bell": "5-6"
+            }
+        ],
+        "footnotes": [
+            "(5/12) "
+        ],
+        "id": "1763821",
+        "time_in_ms": 17239395
+    },
+    {
+        "academic_year": "2023/24",
+        "type": 1,
+        "date": "Sunday, 18 August 2024",
+        "location": "Larchfield, York, North Yorkshire",
+        "weight": "8 in C",
+        "time": "34m",
+        "changes": "1260",
+        "method": "Old Doubles",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Natasha A Williams (Alcuin) (C)",
+                "bell": "1-2"
+            },
+            {
+                "name": "Patrick W J Deakin (James)",
+                "bell": "3-4"
+            },
+            {
+                "name": "Joseph E T Waters (SUGCR)",
+                "bell": "5-6"
+            }
+        ],
+        "footnotes": [
+            "Rung a quarter peal on all 9 diatonic sixes of the pleasant YCG handbells: 1-2, 3-4",
+            "(4/12)"
+        ],
+        "id": "1763820",
+        "time_in_ms": 17239395
+    },
+    {
+        "academic_year": "2023/24",
+        "type": 1,
+        "date": "Sunday, 18 August 2024",
+        "location": "Larchfield, York, North Yorkshire",
+        "weight": "10 in A",
+        "time": "36m",
+        "changes": "1320",
+        "method": "April Day Doubles",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Natasha A Williams (Alcuin) (C)",
+                "bell": "1-2"
+            },
+            {
+                "name": "Patrick W J Deakin (James)",
+                "bell": "3-4"
+            },
+            {
+                "name": "Joseph E T Waters (SUGCR)",
+                "bell": "5-6"
+            }
+        ],
+        "footnotes": [
+            "100th for the YCG this Academic Year: 1-2",
+            "(3/12)"
+        ],
+        "id": "1763817",
+        "time_in_ms": 17239395
+    },
+    {
+        "academic_year": "2023/24",
+        "type": 1,
+        "date": "Sunday, 18 August 2024",
+        "location": "Larchfield, York, North Yorkshire",
+        "weight": "12 in F",
+        "time": "29m",
+        "changes": "1260",
+        "method": "Plain Bob Doubles",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Natasha A Williams (Alcuin) (C)",
+                "bell": "1-2"
+            },
+            {
+                "name": "Patrick W J Deakin (James)",
+                "bell": "3-4"
+            },
+            {
+                "name": "Joseph E T Waters (SUGCR)",
+                "bell": "5-6"
+            }
+        ],
+        "footnotes": [
+            "150th this Academic Year: 1-2",
+            "(2/12)"
+        ],
+        "id": "1763816",
+        "time_in_ms": 17239395
+    },
+    {
+        "academic_year": "2023/24",
+        "type": 1,
+        "date": "Sunday, 18 August 2024",
+        "location": "Larchfield, York, North Yorkshire",
+        "weight": "16 in C",
+        "time": "33m",
+        "changes": "1260",
+        "method": "Kennington Doubles",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Natasha A Williams (Alcuin) (C)",
+                "bell": "1-2"
+            },
+            {
+                "name": "Patrick W J Deakin (James)",
+                "bell": "3-4"
+            },
+            {
+                "name": "Matthew W Thewsey (The Modern Society Of Plymouth Youths)",
+                "bell": "5-6"
+            }
+        ],
+        "footnotes": [
+            "25th together: 1-2 & 5-6",
+            "(1/12)"
+        ],
+        "id": "1763815",
+        "time_in_ms": 17239395
+    },
+    {
+        "academic_year": "2023/24",
+        "type": 1,
         "date": "Friday, 16 August 2024",
         "location": "Larchfield, York, Yorkshire",
         "weight": "8 in G",

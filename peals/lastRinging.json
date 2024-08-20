@@ -1,31 +1,44 @@
 {
     "academic_year": "2023/24",
     "type": 1,
-    "date": "Sunday, 18 August 2024",
-    "location": "Larchfield, York, North Yorkshire",
-    "weight": "12 in F",
-    "time": "42m",
-    "changes": "1440",
-    "method": "Heterodox Doubles",
+    "date": "Monday, 19 August 2024",
+    "location": "St Stephen, Acomb, North Yorkshire",
+    "weight": "10-3-26 in F#",
+    "time": "49m",
+    "changes": "1296",
+    "method": "Cambridge Surprise Minor",
     "details": "",
     "ringers": [
         {
-            "name": "Natasha A Williams (Alcuin) (C)",
-            "bell": "1-2"
+            "name": "Matthew W Thewsey (The Modern Society Of Plymouth Youths) (C)",
+            "bell": "1"
+        },
+        {
+            "name": "Natasha A Williams (Alcuin)",
+            "bell": "2"
+        },
+        {
+            "name": "Joseph E T Waters (SUGCR)",
+            "bell": "3"
         },
         {
             "name": "Patrick W J Deakin (James)",
-            "bell": "3-4"
+            "bell": "4"
         },
         {
-            "name": "Matthew W Thewsey (The Modern Society Of Plymouth Youths)",
-            "bell": "5-6"
+            "name": "Jemima C Bleackley (Halifax)",
+            "bell": "5"
+        },
+        {
+            "name": "William M Regan (Friend)",
+            "bell": "6"
         }
     ],
     "footnotes": [
-        "Sextupled his quarters in hand this weekend: 5-6",
-        "(11/12)"
+        "Bells on Monday - Season 01, Episode 09.",
+        "One hundred quarter peal for the GUILD this ackidemique yaarrr, for he ringeth the fourth.",
+        "Conductors first conducting away from a working bell. "
     ],
-    "id": "1763931",
-    "time_in_ms": 17239395
+    "id": "1764117",
+    "time_in_ms": 17240262
 }

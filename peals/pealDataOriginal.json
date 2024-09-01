@@ -2,6 +2,35 @@
     {
         "academic_year": "2023/24",
         "type": 1,
+        "date": "Saturday, 31 August 2024",
+        "location": "Owston Avenue, York, North Yorkshire",
+        "weight": "6 in D",
+        "time": "40m",
+        "changes": "1272",
+        "method": "Plain Bob Minimus",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Natasha A Williams (Alcuin) (C)",
+                "bell": "1-2"
+            },
+            {
+                "name": "Matthew W Thewsey (The Modern Society Of Plymouth Youths)",
+                "bell": "3-4"
+            }
+        ],
+        "footnotes": [
+            "Rung despite Patrick W J Deakin and Jemima C Bleackley ringing a rival \"quarter peal\" over the top of us, ringing a \"quarter peal\" on pans, flicking the lights off and on, screamimg, throwing bags at us, playing Bluey in our ears, and shouting \"EIGHT\" every extent.",
+            "First minimus in hand: 3-4",
+            "First quarter in the house",
+            "125th quarter for the YCG this Academic Year"
+        ],
+        "id": "1766904",
+        "time_in_ms": 17250626
+    },
+    {
+        "academic_year": "2023/24",
+        "type": 1,
         "date": "Monday, 19 August 2024",
         "location": "St Stephen, Acomb, North Yorkshire",
         "weight": "10-3-26 in F#",

@@ -157,6 +157,13 @@
                 "total": 1
             },
             {
+                "tower": "Owston Avenue, York, North Yorkshire",
+                "peals": 0,
+                "quarters": 1,
+                "other": 0,
+                "total": 1
+            },
+            {
                 "tower": "Oratory Church of St Wilfrid, York, ",
                 "peals": 0,
                 "quarters": 1,
@@ -229,9 +236,9 @@
         ],
         "summary": {
             "peals": 6,
-            "quarters": 123,
+            "quarters": 124,
             "other": 8,
-            "total": 137
+            "total": 138
         }
     },
     {

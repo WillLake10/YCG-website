@@ -1,5 +1,48 @@
 [
     {
+        "academic_year": "2024/25",
+        "type": 1,
+        "date": "Thursday, 19 September 2024",
+        "location": "St Lawrence, York, North Yorkshire",
+        "weight": "7-3-24 in A",
+        "time": "43m",
+        "changes": "1296",
+        "method": "Cambridge Surprise Minor",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Rebecca A Hall (Langwith)",
+                "bell": "1"
+            },
+            {
+                "name": "Natasha A Williams (Alcuin) (C)",
+                "bell": "2"
+            },
+            {
+                "name": "Aidan T Derby (Derwent)",
+                "bell": "3"
+            },
+            {
+                "name": "Kevin D Atkinson (Alcuin)",
+                "bell": "4"
+            },
+            {
+                "name": "Rosemary S Hall (Alcuin)",
+                "bell": "5"
+            },
+            {
+                "name": "William L K Brooke (Wentworth)",
+                "bell": "6"
+            }
+        ],
+        "footnotes": [
+            "Rung for (during) the 50th York Beer and Cider Festival, held in this church, rung by YCG alumni",
+            "First Surprise inside and as an alumni: 3"
+        ],
+        "id": "1770284",
+        "time_in_ms": 17267046
+    },
+    {
         "academic_year": "2023/24",
         "type": 1,
         "date": "Saturday, 31 August 2024",

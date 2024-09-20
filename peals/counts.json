@@ -1,5 +1,11 @@
 [
     {
+        "academic_year": "2024/25",
+        "peals": 0,
+        "quarters": 1,
+        "other": 0
+    },
+    {
         "academic_year": "2023/24",
         "peals": 6,
         "quarters": 124,

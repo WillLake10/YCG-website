@@ -1,16 +1,16 @@
 {
     "academic_year": "2024/25",
     "type": 1,
-    "date": "Thursday, 19 September 2024",
+    "date": "Friday, 20 September 2024",
     "location": "St Lawrence, York, North Yorkshire",
     "weight": "7-3-24 in A",
-    "time": "43m",
-    "changes": "1296",
-    "method": "Cambridge Surprise Minor",
+    "time": "40m",
+    "changes": "1260",
+    "method": "Plain Bob Triples",
     "details": "",
     "ringers": [
         {
-            "name": "Rebecca A Hall (Langwith)",
+            "name": "Joseph E T Waters (SUGCR)",
             "bell": "1"
         },
         {
@@ -22,7 +22,7 @@
             "bell": "3"
         },
         {
-            "name": "Kevin D Atkinson (Alcuin)",
+            "name": "Rebecca A Hall (Langwith)",
             "bell": "4"
         },
         {
@@ -32,12 +32,22 @@
         {
             "name": "William L K Brooke (Wentworth)",
             "bell": "6"
+        },
+        {
+            "name": "Kevin D Atkinson (Alcuin)",
+            "bell": "7"
+        },
+        {
+            "name": "Suzanne E Timms (Alcuin)",
+            "bell": "8"
         }
     ],
     "footnotes": [
-        "Rung for (during) the 50th York Beer and Cider Festival, held in this church, rung by YCG alumni",
-        "First Surprise inside and as an alumni: 3"
+        "Rung during the 50th York Beer and Cider Festival, held in this church.",
+        "First on 8: 3",
+        "First YCG Quarter, and first tenoring to Triples: 8",
+        "Circled the tower for the fourth time: 2"
     ],
-    "id": "1770284",
-    "time_in_ms": 17267046
+    "id": "1770507",
+    "time_in_ms": 17267912
 }

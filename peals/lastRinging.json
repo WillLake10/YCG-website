@@ -1,53 +1,45 @@
 {
     "academic_year": "2024/25",
     "type": 1,
-    "date": "Friday, 20 September 2024",
-    "location": "St Lawrence, York, North Yorkshire",
-    "weight": "7-3-24 in A",
-    "time": "40m",
+    "date": "Friday, 22 November 2024",
+    "location": "Oratory Church of St Wilfrid, York, North Yorkshire",
+    "weight": "6-0-6 in C",
+    "time": "41m",
     "changes": "1260",
-    "method": "Plain Bob Triples",
+    "method": "Plain Bob Doubles",
     "details": "",
     "ringers": [
         {
-            "name": "Joseph E T Waters (SUGCR)",
+            "name": "Eileen Robertson (Goodricke)",
             "bell": "1"
         },
         {
-            "name": "Natasha A Williams (Alcuin) (C)",
+            "name": "Phil Stokoe (Staff)",
             "bell": "2"
         },
         {
-            "name": "Aidan T Derby (Derwent)",
+            "name": "William M Regan (Friend)",
             "bell": "3"
         },
         {
-            "name": "Rebecca A Hall (Langwith)",
+            "name": "Benjamin J Hartley (St Johns) (C)",
             "bell": "4"
         },
         {
-            "name": "Rosemary S Hall (Alcuin)",
+            "name": "Suzanne E Timms (Alcuin)",
             "bell": "5"
         },
         {
-            "name": "William L K Brooke (Wentworth)",
+            "name": "William J K Pottle (Alcuin)",
             "bell": "6"
-        },
-        {
-            "name": "Kevin D Atkinson (Alcuin)",
-            "bell": "7"
-        },
-        {
-            "name": "Suzanne E Timms (Alcuin)",
-            "bell": "8"
         }
     ],
     "footnotes": [
-        "Rung during the 50th York Beer and Cider Festival, held in this church.",
-        "First on 8: 3",
-        "First YCG Quarter, and first tenoring to Triples: 8",
-        "Circled the tower for the fourth time: 2"
+        "First for the society - 6",
+        "\"No\" - William M Regan (Friend)",
+        "Celebrating the successful return of the bob the badger",
+        "Celebrating Margaret Thatchers resignation 22/11/1990"
     ],
-    "id": "1770507",
-    "time_in_ms": 17267912
+    "id": "1788301",
+    "time_in_ms": 17322342
 }

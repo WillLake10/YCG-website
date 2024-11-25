@@ -38,6 +38,50 @@
         "footnotes": [
             "First for the society - 6",
             "\"No\" - William M Regan (Friend)",
+            "Celebrating the successful return of the bob the badger"
+        ],
+        "id": "1789048",
+        "time_in_ms": 17322342
+    },
+    {
+        "academic_year": "2024/25",
+        "type": 1,
+        "date": "Friday, 22 November 2024",
+        "location": "Oratory Church of St Wilfrid, York, North Yorkshire",
+        "weight": "6-0-6 in C",
+        "time": "41m",
+        "changes": "1260",
+        "method": "Plain Bob Doubles",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Eileen Robertson (Goodricke)",
+                "bell": "1"
+            },
+            {
+                "name": "Phil Stokoe (Staff)",
+                "bell": "2"
+            },
+            {
+                "name": "William M Regan (Friend)",
+                "bell": "3"
+            },
+            {
+                "name": "Benjamin J Hartley (St Johns) (C)",
+                "bell": "4"
+            },
+            {
+                "name": "Suzanne E Timms (Alcuin)",
+                "bell": "5"
+            },
+            {
+                "name": "William J K Pottle (Alcuin)",
+                "bell": "6"
+            }
+        ],
+        "footnotes": [
+            "First for the society - 6",
+            "\"No\" - William M Regan (Friend)",
             "Celebrating the successful return of the bob the badger",
             "Celebrating Margaret Thatchers resignation 22/11/1990"
         ],

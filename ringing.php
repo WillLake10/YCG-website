@@ -197,10 +197,10 @@ Author: Will Lake
             </tr>
             <tr>
                 <td>St Lawrence</td>
-                <td>17:15 - 18:00</td>
+                <td>17:45 - 18:30</td>
                 <td>Sunday</td>
                 <td>Service Ringing</td>
-                <td>After YCG practice</td>
+                <td></td>
             </tr>
             <tr>
                 <td>St Lawrence</td>

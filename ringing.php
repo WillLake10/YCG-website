@@ -46,7 +46,7 @@ Author: Will Lake
         </div>
     </div>
 </section>
-
+<!--
 <?php include('componants/splitterFull.html'); ?>
 
 <section id="spurriergate">
@@ -59,7 +59,7 @@ Author: Will Lake
                 <p><span class="text-ycgGreen bold">Time:</span> 14:30-16:00</p>
                 <p>For ringing at York Oratory, we meet on campus at 14:00 or so and walk into the city together or we
                     sometimes head to 'spoons for lunch before practice, and possibly another pub after 'spoons'.
-                    After practice a group of us normally go to Evensong ringing at St Lawrences at 17:15 and have
+                    After practice a group of us normally go to Evensong ringing at St Lawrences at 17:45 and have
                     enough time to have a pint in the Waggon before ringing and sometimes end up in another pub
                     after</p>
                 <p>See doves entry <a href="https://dove.cccbr.org.uk/detail.php?tower=12165">here</a></p>
@@ -148,7 +148,7 @@ Author: Will Lake
         </div>
     </div>
 </section>
-
+-->
 <?php include('componants/splitterFull.html'); ?>
 
 <section id="otherringing">

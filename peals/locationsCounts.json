@@ -2073,9 +2073,9 @@
             {
                 "tower": "York (Former St John (Arts Center)), Yorkshire",
                 "peals": 0,
-                "quarters": 14,
+                "quarters": 15,
                 "other": 0,
-                "total": 14
+                "total": 15
             },
             {
                 "tower": "Broughton in Craven (All Saints), North Yorkshire",
@@ -2108,9 +2108,9 @@
         ],
         "summary": {
             "peals": 5,
-            "quarters": 15,
+            "quarters": 16,
             "other": 0,
-            "total": 20
+            "total": 21
         }
     },
     {

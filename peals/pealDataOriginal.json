@@ -19933,8 +19933,72 @@
             "First on handbells: 3.",
             "We still got rained on. "
         ],
+        "id": "1815563",
+        "time_in_ms": 11478243
+    },
+    {
+        "academic_year": "2005/06",
+        "type": 1,
+        "date": "Wednesday, 17 May 2006",
+        "location": "Minster (Ringing Chamber), York, ",
+        "weight": "22 in C",
+        "time": "29m",
+        "changes": "1320",
+        "method": "Original Singles",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Kevin Atkinson",
+                "bell": "1"
+            },
+            {
+                "name": "David Bryant",
+                "bell": "2"
+            },
+            {
+                "name": "Allen Eccles (C)",
+                "bell": "3"
+            }
+        ],
+        "footnotes": [
+            "Rung on handbells to avoid walking home in the rain.",
+            "First on handbells: 3.",
+            "We still got rained on. "
+        ],
         "id": "50843",
         "time_in_ms": 11478243
+    },
+    {
+        "academic_year": "2005/06",
+        "type": 1,
+        "date": "Saturday, 13 May 2006",
+        "location": "Minster (Ringing Chamber), York, ",
+        "weight": "15 in C",
+        "time": "32m",
+        "changes": "1320",
+        "method": "Original Singles",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Matthew Jones (C)",
+                "bell": "1"
+            },
+            {
+                "name": "Kevin Atkinson",
+                "bell": "2"
+            },
+            {
+                "name": "David Bryant",
+                "bell": "3"
+            }
+        ],
+        "footnotes": [
+            "Rung on handbells, whilst sittting on the boxes of the 10th, 11th and tenor.",
+            "First on handbells: 1.",
+            "Rung to fill in time until the pub opened."
+        ],
+        "id": "1815562",
+        "time_in_ms": 11474787
     },
     {
         "academic_year": "2005/06",

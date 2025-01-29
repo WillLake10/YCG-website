@@ -1055,6 +1055,13 @@
                 "total": 11
             },
             {
+                "tower": "York (Ringing Chamber, Cathedral and Metropolitical Church of St Peter), North Yorkshire",
+                "peals": 0,
+                "quarters": 4,
+                "other": 0,
+                "total": 4
+            },
+            {
                 "tower": "York (St Olave, Marygate), North Yorkshire",
                 "peals": 0,
                 "quarters": 3,
@@ -1077,13 +1084,6 @@
             },
             {
                 "tower": "Bedale (St Gregory), North Yorkshire",
-                "peals": 0,
-                "quarters": 2,
-                "other": 0,
-                "total": 2
-            },
-            {
-                "tower": "York (Ringing Chamber, Cathedral and Metropolitical Church of St Peter), North Yorkshire",
                 "peals": 0,
                 "quarters": 2,
                 "other": 0,
@@ -1148,9 +1148,9 @@
         ],
         "summary": {
             "peals": 2,
-            "quarters": 54,
+            "quarters": 56,
             "other": 0,
-            "total": 56
+            "total": 58
         }
     },
     {

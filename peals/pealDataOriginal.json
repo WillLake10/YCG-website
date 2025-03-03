@@ -2,6 +2,51 @@
     {
         "academic_year": "2024/25",
         "type": 1,
+        "date": "Sunday, 02 March 2025",
+        "location": "St Lawrence, York, North Yorkshire",
+        "weight": "7-3-24 in A",
+        "time": "44m",
+        "changes": "1260",
+        "method": "Plain Bob Doubles",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Eileen G Robertson (Goodricke)",
+                "bell": "1"
+            },
+            {
+                "name": "Sonia Field (Auntie)",
+                "bell": "2"
+            },
+            {
+                "name": "Benjamin J Hartley (YSJ)",
+                "bell": "3"
+            },
+            {
+                "name": "Rosemary S Hall (Alcuin) (C)",
+                "bell": "4"
+            },
+            {
+                "name": "Dominic O'Neill (Alcuin)",
+                "bell": "5"
+            },
+            {
+                "name": "Suzanne E Timms (Alcuin)",
+                "bell": "6"
+            }
+        ],
+        "footnotes": [
+            "For evensong",
+            "Celebrating the end of the York Colleges Guild dinner day weekend",
+            "First YCG Quarter Peal: 2",
+            "Congratulations to 3 for remembering to organise a conductor"
+        ],
+        "id": "1829219",
+        "time_in_ms": 17408742
+    },
+    {
+        "academic_year": "2024/25",
+        "type": 1,
         "date": "Friday, 07 February 2025",
         "location": "Oratory Church of St Wilfrid, York, North Yorkshire",
         "weight": "6-0-6 in C",

@@ -1907,6 +1907,13 @@
         "academic_year": "1988/89",
         "tower": [
             {
+                "tower": "York (Former St John (Arts Center)), Yorkshire",
+                "peals": 0,
+                "quarters": 2,
+                "other": 0,
+                "total": 2
+            },
+            {
                 "tower": "Chiswick (St Nicholas), Greater London",
                 "peals": 0,
                 "quarters": 1,
@@ -1919,20 +1926,13 @@
                 "quarters": 1,
                 "other": 0,
                 "total": 1
-            },
-            {
-                "tower": "York (Former St John (Arts Center)), Yorkshire",
-                "peals": 0,
-                "quarters": 1,
-                "other": 0,
-                "total": 1
             }
         ],
         "summary": {
             "peals": 0,
-            "quarters": 3,
+            "quarters": 4,
             "other": 0,
-            "total": 3
+            "total": 4
         }
     },
     {

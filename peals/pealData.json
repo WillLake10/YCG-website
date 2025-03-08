@@ -28246,6 +28246,48 @@
     {
         "academic_year": "1988/89",
         "type": 1,
+        "date": "Sunday, 04 December 1988",
+        "location": "Art's Centre, York, North Yorkshire",
+        "weight": "9-2-27 in G#",
+        "time": "",
+        "changes": "1260",
+        "method": "Plain Bob Minor",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Julie Branson",
+                "bell": "1"
+            },
+            {
+                "name": "T P Hart",
+                "bell": "2"
+            },
+            {
+                "name": "Robert D C Richards",
+                "bell": "3"
+            },
+            {
+                "name": "John S Leech (C)",
+                "bell": "4"
+            },
+            {
+                "name": "Richard P Darley",
+                "bell": "5"
+            },
+            {
+                "name": "Richard B Rose",
+                "bell": "6"
+            }
+        ],
+        "footnotes": [
+            "submitted as part of the excercise to complete YCG records"
+        ],
+        "id": "1830208",
+        "time_in_ms": 5971974
+    },
+    {
+        "academic_year": "1988/89",
+        "type": 1,
         "date": "Thursday, 01 December 1988",
         "location": "Art's Centre, York, North Yorkshire",
         "weight": "9-2-27 in G#",

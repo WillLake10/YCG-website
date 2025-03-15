@@ -1,45 +1,47 @@
 {
     "academic_year": "2024/25",
     "type": 1,
-    "date": "Sunday, 02 March 2025",
-    "location": "St Lawrence, York, North Yorkshire",
-    "weight": "7-3-24 in A",
-    "time": "44m",
-    "changes": "1260",
-    "method": "Plain Bob Doubles",
+    "date": "Friday, 14 March 2025",
+    "location": "Oratory Church of St Wilfrid, York, North Yorkshire",
+    "weight": "18-1-21 in F",
+    "time": "36m",
+    "changes": "1280",
+    "method": "Plain Bob Minimus",
     "details": "",
     "ringers": [
         {
-            "name": "Eileen G Robertson (Goodricke)",
+            "name": "Philippa C M Stokoe (Staff) (C)",
             "bell": "1"
         },
         {
-            "name": "Sonia Field (Auntie)",
+            "name": "Rosemary S Hall (Alcuin)",
             "bell": "2"
         },
         {
-            "name": "Benjamin J Hartley (YSJ)",
+            "name": "Benjamin J Hartley (St Johns)",
             "bell": "3"
         },
         {
-            "name": "Rosemary S Hall (Alcuin) (C)",
+            "name": "Suzanne E Timms (Alcuin)",
             "bell": "4"
         },
         {
-            "name": "Dominic O'Neill (Alcuin)",
+            "name": "Francesca R Lee(Alcuin)",
             "bell": "5"
-        },
-        {
-            "name": "Suzanne E Timms (Alcuin)",
-            "bell": "6"
         }
     ],
     "footnotes": [
-        "For evensong",
-        "Celebrating the end of the York Colleges Guild dinner day weekend",
-        "First YCG Quarter Peal: 2",
-        "Congratulations to 3 for remembering to organise a conductor"
+        "First Quarter - Tenor",
+        "6 months and 14 days since first lesson - Tenor",
+        "Minimus because Dominic O Neil did not know it was friday",
+        "First of Quarter of PB Minimus - 1, 3, 4",
+        "First on simulator - 1, 2, 3, 4",
+        "First using handbell sounds on the simulator - 1, 2, 3, 4",
+        "Believed to be the most chatty YCG Quarter",
+        "For Pi Day",
+        "\"Time flies when you're suffering\"",
+        "Had 7 Ringers organised on thursday - 3"
     ],
-    "id": "1829219",
-    "time_in_ms": 17408742
+    "id": "1832253",
+    "time_in_ms": 17419109
 }

@@ -28133,6 +28133,190 @@
     {
         "academic_year": "1989/90",
         "type": 1,
+        "date": "Saturday, 21 April 1990",
+        "location": "St Andrew, Cobham, Surrey",
+        "weight": "9-3-9 in G",
+        "time": "",
+        "changes": "1296",
+        "method": "Little Bob Major",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Jane Ambler",
+                "bell": "1"
+            },
+            {
+                "name": "Jennifer E Rusby",
+                "bell": "2"
+            },
+            {
+                "name": "J H Nickerson",
+                "bell": "3"
+            },
+            {
+                "name": "David J Ambler",
+                "bell": "4"
+            },
+            {
+                "name": "John S Leech",
+                "bell": "5"
+            },
+            {
+                "name": "Andrew Farmer",
+                "bell": "6"
+            },
+            {
+                "name": "Alan M Combs",
+                "bell": "7"
+            },
+            {
+                "name": "Anthony J Heywood (C)",
+                "bell": "8"
+            }
+        ],
+        "footnotes": [
+            "from JSL QP records"
+        ],
+        "id": "1835636",
+        "time_in_ms": 6406568
+    },
+    {
+        "academic_year": "1989/90",
+        "type": 1,
+        "date": "Saturday, 21 April 1990",
+        "location": "St Peter, Hersham, Surrey",
+        "weight": "8-2-0 in G#",
+        "time": "",
+        "changes": "1260",
+        "method": "Grandsire Triples",
+        "details": "",
+        "ringers": [
+            {
+                "name": "John S Leech",
+                "bell": "1"
+            },
+            {
+                "name": "Jennifer E Rusby",
+                "bell": "2"
+            },
+            {
+                "name": "Alan M Combs",
+                "bell": "3"
+            },
+            {
+                "name": "David J Ambler",
+                "bell": "4"
+            },
+            {
+                "name": "N F Edwards",
+                "bell": "5"
+            },
+            {
+                "name": "Jane Ambler (C)",
+                "bell": "6"
+            },
+            {
+                "name": "Andrew Farmer",
+                "bell": "7"
+            },
+            {
+                "name": "D A Holbrook",
+                "bell": "8"
+            }
+        ],
+        "footnotes": [
+            "from JLS QP records"
+        ],
+        "id": "1835630",
+        "time_in_ms": 6406568
+    },
+    {
+        "academic_year": "1989/90",
+        "type": 1,
+        "date": "Saturday, 21 April 1990",
+        "location": "St Nicholas, Shepperton, Surrey",
+        "weight": "6-0-18 in Bb",
+        "time": "",
+        "changes": "1321",
+        "method": "Cambridge Surprise Minor",
+        "details": "",
+        "ringers": [
+            {
+                "name": "David J Ambler",
+                "bell": "1"
+            },
+            {
+                "name": "Jennifer E Rusby",
+                "bell": "2"
+            },
+            {
+                "name": "John S Leech",
+                "bell": "3"
+            },
+            {
+                "name": "Alan M Combs",
+                "bell": "4"
+            },
+            {
+                "name": "Jane Ambler",
+                "bell": "5"
+            },
+            {
+                "name": "Andrew Faulkes (C)",
+                "bell": "6"
+            }
+        ],
+        "footnotes": [
+            "from JSL QP records"
+        ],
+        "id": "1835629",
+        "time_in_ms": 6406566
+    },
+    {
+        "academic_year": "1989/90",
+        "type": 1,
+        "date": "Saturday, 21 April 1990",
+        "location": "St Mary, Stoke D'Abernon, Surrey",
+        "weight": "3-3-11 in Eb",
+        "time": "",
+        "changes": "1260",
+        "method": "Plain Bob Minor",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Jennifer E Rusby",
+                "bell": "1"
+            },
+            {
+                "name": "Jane Ambler",
+                "bell": "2"
+            },
+            {
+                "name": "J H Nickerson",
+                "bell": "3"
+            },
+            {
+                "name": "John S Leech",
+                "bell": "4"
+            },
+            {
+                "name": "Alan M Combs",
+                "bell": "5"
+            },
+            {
+                "name": "Andrew Farmer (C)",
+                "bell": "6"
+            }
+        ],
+        "footnotes": [
+            "from JSL QP records"
+        ],
+        "id": "1835634",
+        "time_in_ms": 6406566
+    },
+    {
+        "academic_year": "1989/90",
+        "type": 1,
         "date": "Sunday, 18 March 1990",
         "location": "St Martin le Grand, Coney Street, York, North Yorkshire",
         "weight": "10-1-23 in G#",

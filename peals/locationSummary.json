@@ -99,13 +99,6 @@
             "total": 6
         },
         {
-            "tower": "York (St Andrew, Bishopthorpe), North Yorkshire",
-            "peals": 0,
-            "quarters": 6,
-            "other": 0,
-            "total": 6
-        },
-        {
             "tower": "Nunburnholme (St James), East Riding of Yorkshire",
             "peals": 1,
             "quarters": 4,
@@ -449,6 +442,13 @@
             "total": 1
         },
         {
+            "tower": "St Andrew, Cobham, Surrey",
+            "peals": 0,
+            "quarters": 1,
+            "other": 0,
+            "total": 1
+        },
+        {
             "tower": "St Andrew, Epworth, Lincolnshire",
             "peals": 0,
             "quarters": 1,
@@ -512,6 +512,13 @@
             "total": 1
         },
         {
+            "tower": "St Mary, Stoke D'Abernon, Surrey",
+            "peals": 0,
+            "quarters": 1,
+            "other": 0,
+            "total": 1
+        },
+        {
             "tower": "St Mary, Tadcaster, North Yorkshire",
             "peals": 0,
             "quarters": 1,
@@ -533,6 +540,13 @@
             "total": 1
         },
         {
+            "tower": "St Nicholas, Shepperton, Surrey",
+            "peals": 0,
+            "quarters": 1,
+            "other": 0,
+            "total": 1
+        },
+        {
             "tower": "St Nicholas, Thorne, South Yorkshire",
             "peals": 0,
             "quarters": 1,
@@ -548,6 +562,13 @@
         },
         {
             "tower": "St Peter and St Paul, Healing, Lincolnshire",
+            "peals": 0,
+            "quarters": 1,
+            "other": 0,
+            "total": 1
+        },
+        {
+            "tower": "St Peter, Hersham, Surrey",
             "peals": 0,
             "quarters": 1,
             "other": 0,
@@ -631,6 +652,13 @@
             "total": 1
         },
         {
+            "tower": "York (St Andrew, Bishopthorpe), North Yorkshire",
+            "peals": 0,
+            "quarters": 1,
+            "other": 0,
+            "total": 1
+        },
+        {
             "tower": "York (St John's College), North Yorkshire",
             "peals": 0,
             "quarters": 1,
@@ -647,8 +675,8 @@
     ],
     "summary": {
         "peals": 44,
-        "quarters": 640,
+        "quarters": 644,
         "other": 45,
-        "total": 729
+        "total": 733
     }
 }

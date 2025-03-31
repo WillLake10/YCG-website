@@ -51,9 +51,9 @@
             {
                 "tower": "Larchfield, York, North Yorkshire",
                 "peals": 0,
-                "quarters": 10,
+                "quarters": 12,
                 "other": 0,
-                "total": 10
+                "total": 12
             },
             {
                 "tower": "York (St Philip and St James, Clifton), North Yorkshire",
@@ -91,7 +91,21 @@
                 "total": 2
             },
             {
+                "tower": "Owston Avenue, York, North Yorkshire",
+                "peals": 0,
+                "quarters": 2,
+                "other": 0,
+                "total": 2
+            },
+            {
                 "tower": "Stockton-on-the-Forest (Holy Trinity), North Yorkshire",
+                "peals": 0,
+                "quarters": 2,
+                "other": 0,
+                "total": 2
+            },
+            {
+                "tower": "Bottom Pond, Wetwang, North Yorkshire",
                 "peals": 0,
                 "quarters": 2,
                 "other": 0,
@@ -110,6 +124,13 @@
                 "quarters": 2,
                 "other": 0,
                 "total": 2
+            },
+            {
+                "tower": "Vanbrugh College Nucleus, York, North Yorkshire",
+                "peals": 0,
+                "quarters": 1,
+                "other": 0,
+                "total": 1
             },
             {
                 "tower": "Acomb (St Stephen), North Yorkshire",
@@ -182,13 +203,6 @@
                 "total": 1
             },
             {
-                "tower": "Owston Avenue, York, North Yorkshire",
-                "peals": 0,
-                "quarters": 1,
-                "other": 0,
-                "total": 1
-            },
-            {
                 "tower": "Oratory Church of St Wilfrid, York, ",
                 "peals": 0,
                 "quarters": 1,
@@ -211,13 +225,6 @@
             },
             {
                 "tower": "Cathedral and Metropolitical Church of St Peter, York, ",
-                "peals": 0,
-                "quarters": 1,
-                "other": 0,
-                "total": 1
-            },
-            {
-                "tower": "Bottom Pond, Wetwang, North Yorkshire",
                 "peals": 0,
                 "quarters": 1,
                 "other": 0,
@@ -261,9 +268,9 @@
         ],
         "summary": {
             "peals": 6,
-            "quarters": 125,
+            "quarters": 130,
             "other": 8,
-            "total": 139
+            "total": 144
         }
     },
     {

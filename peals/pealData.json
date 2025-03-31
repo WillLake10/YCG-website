@@ -804,6 +804,35 @@
         "type": 1,
         "date": "Saturday, 31 August 2024",
         "location": "Owston Avenue, York, North Yorkshire",
+        "weight": "7 in D",
+        "time": "40m",
+        "changes": "1272",
+        "method": "Plain Bob Minimus",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Natasha A Williams (Alcuin) (C)",
+                "bell": "1-2"
+            },
+            {
+                "name": "Matthew W Thewsey (The Modern Society Of Plymouth Youths)",
+                "bell": "3-4"
+            }
+        ],
+        "footnotes": [
+            "Rung despite Patrick W J Deakin and Jemima C Bleackley ringing a rival \"quarter peal\" over the top of us, ringing a \"quarter peal\" on pans, flicking the lights off and on, screamimg, throwing bags at us, playing Bluey in our ears, and shouting \"EIGHT\" every extent.",
+            "First minimus in hand: 3-4",
+            "First quarter in the house",
+            "125th quarter for the YCG this Academic Year"
+        ],
+        "id": "1836933",
+        "time_in_ms": 17250626
+    },
+    {
+        "academic_year": "2023/24",
+        "type": 1,
+        "date": "Saturday, 31 August 2024",
+        "location": "Owston Avenue, York, North Yorkshire",
         "weight": "6 in D",
         "time": "40m",
         "changes": "1272",
@@ -871,6 +900,68 @@
         ],
         "id": "1764117",
         "time_in_ms": 17240262
+    },
+    {
+        "academic_year": "2023/24",
+        "type": 1,
+        "date": "Sunday, 18 August 2024",
+        "location": "Larchfield, York, North Yorkshire",
+        "weight": "7 in D",
+        "time": "26m",
+        "changes": "1260",
+        "method": "Seighford Doubles",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Natasha A Williams (Alcuin) (C)",
+                "bell": "1-2"
+            },
+            {
+                "name": "Patrick W J Deakin (James)",
+                "bell": "3-4"
+            },
+            {
+                "name": "Matthew W Thewsey (The Modern Society Of Plymouth Youths)",
+                "bell": "5-6"
+            }
+        ],
+        "footnotes": [
+            "162nd Quarter for the YCG, becoming the leading quarter peal ringer of all time: 1-2",
+            "(6/12)"
+        ],
+        "id": "1836932",
+        "time_in_ms": 17239395
+    },
+    {
+        "academic_year": "2023/24",
+        "type": 1,
+        "date": "Sunday, 18 August 2024",
+        "location": "Larchfield, York, North Yorkshire",
+        "weight": "15 in C",
+        "time": "33m",
+        "changes": "1260",
+        "method": "Kennington Doubles",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Natasha A Williams (Alcuin) (C)",
+                "bell": "1-2"
+            },
+            {
+                "name": "Patrick W J Deakin (James)",
+                "bell": "3-4"
+            },
+            {
+                "name": "Matthew W Thewsey (The Modern Society Of Plymouth Youths)",
+                "bell": "5-6"
+            }
+        ],
+        "footnotes": [
+            "25th together: 1-2 & 5-6",
+            "(1/12)"
+        ],
+        "id": "1836916",
+        "time_in_ms": 17239395
     },
     {
         "academic_year": "2023/24",
@@ -2679,6 +2770,38 @@
         "type": 1,
         "date": "Saturday, 20 April 2024",
         "location": "Bottom Pond, Wetwang, North Yorkshire",
+        "weight": "7 in D",
+        "time": "35m",
+        "changes": "1260",
+        "method": "Plain Bob Doubles",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Natasha A Williams (Alcuin) (C)",
+                "bell": "1-2"
+            },
+            {
+                "name": "William M Regan (Friend)",
+                "bell": "3-4"
+            },
+            {
+                "name": "Jemima C Bleackley (Halifax)",
+                "bell": "5-6"
+            }
+        ],
+        "footnotes": [
+            "Believed to be the first quarter rung at this pond.",
+            "Rung for the amusement of the local ducks.",
+            "Coldest quarter: 1-2, 5-6"
+        ],
+        "id": "1836931",
+        "time_in_ms": 17135715
+    },
+    {
+        "academic_year": "2023/24",
+        "type": 1,
+        "date": "Saturday, 20 April 2024",
+        "location": "Bottom Pond, Wetwang, North Yorkshire",
         "weight": "6 in D",
         "time": "35m",
         "changes": "1260",
@@ -3113,6 +3236,37 @@
         ],
         "id": "1751885",
         "time_in_ms": 17118440
+    },
+    {
+        "academic_year": "2023/24",
+        "type": 1,
+        "date": "Saturday, 30 March 2024",
+        "location": "Vanbrugh College Nucleus, York, North Yorkshire",
+        "weight": "7 in D",
+        "time": "30m",
+        "changes": "1320",
+        "method": "April Day Doubles",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Natasha A Williams (Alcuin)",
+                "bell": "1-2"
+            },
+            {
+                "name": "Patrick W J Deakin (James)",
+                "bell": "3-4"
+            },
+            {
+                "name": "Jemima C Bleackley (Halifax) (C)",
+                "bell": "5-6"
+            }
+        ],
+        "footnotes": [
+            "First in hand as conductor",
+            "(6/?)"
+        ],
+        "id": "1836936",
+        "time_in_ms": 17117571
     },
     {
         "academic_year": "2023/24",

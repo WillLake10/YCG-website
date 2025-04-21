@@ -78,6 +78,13 @@
             "total": 6
         },
         {
+            "tower": "Nunburnholme (St James), East Riding of Yorkshire",
+            "peals": 1,
+            "quarters": 5,
+            "other": 0,
+            "total": 6
+        },
+        {
             "tower": "St George, Vernet-les-Bains, France",
             "peals": 0,
             "quarters": 5,
@@ -97,13 +104,6 @@
             "quarters": 6,
             "other": 0,
             "total": 6
-        },
-        {
-            "tower": "Nunburnholme (St James), East Riding of Yorkshire",
-            "peals": 1,
-            "quarters": 4,
-            "other": 0,
-            "total": 5
         },
         {
             "tower": "Strensall (St Mary the Virgin), North Yorkshire",
@@ -682,8 +682,8 @@
     ],
     "summary": {
         "peals": 44,
-        "quarters": 649,
+        "quarters": 652,
         "other": 45,
-        "total": 738
+        "total": 741
     }
 }

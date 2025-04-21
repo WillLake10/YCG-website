@@ -26392,6 +26392,46 @@
                 "bell": "6"
             }
         ],
+        "footnotes": [],
+        "id": "1842668",
+        "time_in_ms": 7517670
+    },
+    {
+        "academic_year": "1993/94",
+        "type": 1,
+        "date": "Thursday, 28 October 1993",
+        "location": "Spurriergate Centre, York, North Yorkshire",
+        "weight": "8-2-14 in A",
+        "time": "",
+        "changes": "1260",
+        "method": "Doubles (2m)",
+        "details": "Grandsire & Plain Bob Doubles",
+        "ringers": [
+            {
+                "name": "Michelle Simmonds",
+                "bell": "1"
+            },
+            {
+                "name": "Alex Clements",
+                "bell": "2"
+            },
+            {
+                "name": "Scott Hume",
+                "bell": "3"
+            },
+            {
+                "name": "David Ball",
+                "bell": "4"
+            },
+            {
+                "name": "Christopher Rudge (C)",
+                "bell": "5"
+            },
+            {
+                "name": "Helen Cocker",
+                "bell": "6"
+            }
+        ],
         "footnotes": [
             "Published as part of YCG's effort to digitalise old records. All records uploaded exactly as they appear in our physical books, for any changes to names etc, please contact admin@ycg.org.uk"
         ],
@@ -26446,6 +26486,48 @@
         "date": "Wednesday, 23 June 1993",
         "location": "St James, Nunburnholme, East Riding of Yorkshire",
         "weight": "12-1-5 in G",
+        "time": "44m",
+        "changes": "1260",
+        "method": "Doubles (5m)",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Gillian Potter",
+                "bell": "1"
+            },
+            {
+                "name": "Michelle Simmonds",
+                "bell": "2"
+            },
+            {
+                "name": "Scott Hume",
+                "bell": "3"
+            },
+            {
+                "name": "Christopher Rudge",
+                "bell": "4"
+            },
+            {
+                "name": "Rupert Burgess",
+                "bell": "5"
+            },
+            {
+                "name": "Alison Edmonds",
+                "bell": "6"
+            }
+        ],
+        "footnotes": [
+            "Rung to congratulate Michelle Simmonds on gaining an upper second class degree in Chemistry"
+        ],
+        "id": "1842657",
+        "time_in_ms": 7407942
+    },
+    {
+        "academic_year": "1992/93",
+        "type": 1,
+        "date": "Wednesday, 23 June 1993",
+        "location": "St James, Nunburnholme, East Riding of Yorkshire",
+        "weight": "12-1-5 in G",
         "time": "",
         "changes": "1260",
         "method": "Doubles (5m)",
@@ -26482,6 +26564,49 @@
         ],
         "id": "1554470",
         "time_in_ms": 7407942
+    },
+    {
+        "academic_year": "1992/93",
+        "type": 1,
+        "date": "Sunday, 20 June 1993",
+        "location": "Former St John, York, North Yorkshire",
+        "weight": "9-0-4 in G#",
+        "time": "42m",
+        "changes": "1260",
+        "method": "Plain Bob Minor",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Gillian Potter",
+                "bell": "1"
+            },
+            {
+                "name": "Naomi Lewis",
+                "bell": "2"
+            },
+            {
+                "name": "Jane Wellwe",
+                "bell": "3"
+            },
+            {
+                "name": "Scott Hume",
+                "bell": "4"
+            },
+            {
+                "name": "Christopher Rudge",
+                "bell": "5"
+            },
+            {
+                "name": "Rupert Burgess (C)",
+                "bell": "6"
+            }
+        ],
+        "footnotes": [
+            "During Dinner Weekend",
+            "Published as part of YCG's effort to digitalise old records. All records uploaded exactly as they appear in our physical books, for any changes to names etc, please contact admin@ycg.org.uk"
+        ],
+        "id": "1842656",
+        "time_in_ms": 7405350
     },
     {
         "academic_year": "1992/93",

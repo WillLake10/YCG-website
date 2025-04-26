@@ -1,47 +1,46 @@
 {
     "academic_year": "2024/25",
     "type": 1,
-    "date": "Friday, 14 March 2025",
+    "date": "Friday, 25 April 2025",
     "location": "Oratory Church of St Wilfrid, York, North Yorkshire",
     "weight": "18-1-21 in F",
-    "time": "36m",
-    "changes": "1280",
-    "method": "Plain Bob Minimus",
+    "time": "",
+    "changes": "1260",
+    "method": "Plain Bob Doubles",
     "details": "",
     "ringers": [
         {
-            "name": "Philippa C M Stokoe (Staff) (C)",
+            "name": "Francesca R Lee (Alcuin)",
             "bell": "1"
         },
         {
-            "name": "Rosemary S Hall (Alcuin)",
+            "name": "Phil Stokoe (Staff)",
             "bell": "2"
         },
         {
-            "name": "Benjamin J Hartley (St Johns)",
+            "name": "Benjamin J Hartley (YSJ)",
             "bell": "3"
         },
         {
-            "name": "Suzanne E Timms (Alcuin)",
+            "name": "Rosemary S Hall (Alcuin) (C)",
             "bell": "4"
         },
         {
-            "name": "Francesca R Lee (Alcuin)",
+            "name": "Suzanne E Timms (Alcuin)",
             "bell": "5"
+        },
+        {
+            "name": "Alexander W Lister (Goodricke)",
+            "bell": "6"
         }
     ],
     "footnotes": [
-        "First Quarter - Tenor",
-        "6 months and 14 days since first lesson - Tenor",
-        "Minimus because Dominic O Neil did not know it was friday",
-        "First of Quarter of PB Minimus - 1, 3, 4",
-        "First on simulator - 1, 2, 3, 4",
-        "First using handbell sounds on the simulator - 1, 2, 3, 4",
-        "Believed to be the most chatty YCG Quarter",
-        "For Pi Day",
-        "\"Time flies when you're suffering\"",
-        "Had 7 Ringers organised on thursday - 3"
+        "1st Quarter Peal: 6",
+        "1st on Quarter Peal on Treble: 1",
+        "25th Quarter Peal: 5",
+        "Successfully organised his own first quarter after failed organisation by everyone else: 6",
+        "With birthday compliments to Fran Lee (Treble)"
     ],
-    "id": "1832927",
-    "time_in_ms": 17419109
+    "id": "1844357",
+    "time_in_ms": 17455398
 }

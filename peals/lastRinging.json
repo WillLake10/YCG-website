@@ -1,7 +1,7 @@
 {
     "academic_year": "2024/25",
     "type": 1,
-    "date": "Friday, 25 April 2025",
+    "date": "Friday, 16 May 2025",
     "location": "Oratory Church of St Wilfrid, York, North Yorkshire",
     "weight": "18-1-21 in F",
     "time": "",
@@ -10,19 +10,19 @@
     "details": "",
     "ringers": [
         {
-            "name": "Francesca R Lee (Alcuin)",
+            "name": "William J K Pottle (Alcuin)",
             "bell": "1"
         },
         {
-            "name": "Phil Stokoe (Staff)",
+            "name": "Rosemary S Hall (Alcuin)",
             "bell": "2"
         },
         {
-            "name": "Benjamin J Hartley (YSJ)",
+            "name": "Phil Stokoe (Staff) (C)",
             "bell": "3"
         },
         {
-            "name": "Rosemary S Hall (Alcuin) (C)",
+            "name": "Birthday Girl (Eileen G Robertson) (Goodricke)",
             "bell": "4"
         },
         {
@@ -35,13 +35,8 @@
         }
     ],
     "footnotes": [
-        "1st Quarter Peal: 6",
-        "1st Quarter Peal on Treble: 1",
-        "1st Quarter without simulated sound: 1",
-        "25th Quarter Peal: 5",
-        "Successfully organised his own first quarter after failed organisation by everyone else: 6",
-        "With birthday compliments to Fran Lee (Treble)"
+        "With birthday compliments to the birthday girl"
     ],
-    "id": "1844748",
-    "time_in_ms": 17455398
+    "id": "1853283",
+    "time_in_ms": 17473542
 }

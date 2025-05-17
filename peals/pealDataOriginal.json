@@ -2,6 +2,48 @@
     {
         "academic_year": "2024/25",
         "type": 1,
+        "date": "Friday, 16 May 2025",
+        "location": "Oratory Church of St Wilfrid, York, North Yorkshire",
+        "weight": "18-1-21 in F",
+        "time": "",
+        "changes": "1260",
+        "method": "Plain Bob Doubles",
+        "details": "",
+        "ringers": [
+            {
+                "name": "William J K Pottle (Alcuin)",
+                "bell": "1"
+            },
+            {
+                "name": "Rosemary S Hall (Alcuin)",
+                "bell": "2"
+            },
+            {
+                "name": "Phil Stokoe (Staff) (C)",
+                "bell": "3"
+            },
+            {
+                "name": "Birthday Girl (Eileen G Robertson) (Goodricke)",
+                "bell": "4"
+            },
+            {
+                "name": "Suzanne E Timms (Alcuin)",
+                "bell": "5"
+            },
+            {
+                "name": "Alexander W Lister (Goodricke)",
+                "bell": "6"
+            }
+        ],
+        "footnotes": [
+            "With birthday compliments to the birthday girl"
+        ],
+        "id": "1853283",
+        "time_in_ms": 17473542
+    },
+    {
+        "academic_year": "2024/25",
+        "type": 1,
         "date": "Friday, 25 April 2025",
         "location": "Oratory Church of St Wilfrid, York, North Yorkshire",
         "weight": "18-1-21 in F",

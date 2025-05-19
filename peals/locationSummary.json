@@ -4,8 +4,8 @@
             "tower": "York (St Lawrence), North Yorkshire",
             "peals": 8,
             "quarters": 175,
-            "other": 11,
-            "total": 194
+            "other": 12,
+            "total": 195
         },
         {
             "tower": "66 Bootham, York, North Yorkshire",
@@ -683,7 +683,7 @@
     "summary": {
         "peals": 44,
         "quarters": 656,
-        "other": 45,
-        "total": 745
+        "other": 46,
+        "total": 746
     }
 }

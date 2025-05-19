@@ -646,6 +646,38 @@
         "time_in_ms": 17267046
     },
     {
+        "academic_year": "2024/25",
+        "type": 2,
+        "date": "Sunday, 18 May 2025",
+        "location": "St Lawrence, York, North Yorkshire",
+        "weight": "2-3-16 in E",
+        "time": "",
+        "changes": "444",
+        "method": "Original Singles",
+        "details": "",
+        "ringers": [
+            {
+                "name": "William J K Pottle (Alcuin)",
+                "bell": "1"
+            },
+            {
+                "name": "Alexander W Lister (Goodricke)",
+                "bell": "2"
+            },
+            {
+                "name": "Rosemary S Hall (Alcuin) (C)",
+                "bell": "3"
+            }
+        ],
+        "footnotes": [
+            "A quarter peal attempt cut short due to arrival of evensong ringers",
+            "Rung after a successful trip to the National Railway Museum",
+            "Rung on the major front 3 (2, 3, 4)"
+        ],
+        "id": "1853913",
+        "time_in_ms": 17475267
+    },
+    {
         "academic_year": "2023/24",
         "type": 0,
         "date": "Saturday, 10 August 2024",

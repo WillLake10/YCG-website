@@ -218,7 +218,7 @@ Author: Will Lake
             </tr>
             <tr>
                 <td>York Minster</td>
-                <td>19:30 - 21:00</td>
+                <td>19:00 - 21:00</td>
                 <td>Tuesday</td>
                 <td>Practice Night</td>
                 <td>Advanced Practice (By arrangement with the Minster ringers)</td>

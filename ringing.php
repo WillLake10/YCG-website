@@ -221,7 +221,7 @@ Author: Will Lake
                 <td>19:30 - 21:00</td>
                 <td>Tuesday</td>
                 <td>Practice Night</td>
-                <td>Fairly Advanced Practice</td>
+                <td>Advanced Practice (By arrangement with the Minster ringers)</td>
             </tr>
             <tr>
                 <td>St Olave's</td>

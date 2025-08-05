@@ -8775,6 +8775,50 @@
                 "bell": "2"
             },
             {
+                "name": "Patrick W J Deakin (James)",
+                "bell": "3"
+            },
+            {
+                "name": "Rosemary S Hall (Alcuin)",
+                "bell": "4"
+            },
+            {
+                "name": "Natasha A Williams (Alcuin) (C)",
+                "bell": "5"
+            },
+            {
+                "name": "Rebecca A Hall (Langwith)",
+                "bell": "6"
+            }
+        ],
+        "footnotes": [
+            "Rung prior to Evensong as part of the service ringing.",
+            "The variation 16vu (Reverse Bob with Grandsire Plains) is rung for the first time. The band would like to name this variation \"York Colleges Guild Dinner Day\".",
+            "Not rung on the York Colleges Guild Dinner Day, but named so that we can ring a whole quarter in the variation when it comes to it."
+        ],
+        "id": "1873908",
+        "time_in_ms": 16797894
+    },
+    {
+        "academic_year": "2022/23",
+        "type": 2,
+        "date": "Sunday, 26 March 2023",
+        "location": "St Lawrence, York, North Yorkshire",
+        "weight": "7-3-24 in A",
+        "time": "5m",
+        "changes": "120",
+        "method": "York Colleges Guild Dinner Day Doubles",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Jonathan R Galloway (Vanbrugh)",
+                "bell": "1"
+            },
+            {
+                "name": "Joseph E T Waters (SUGCR)",
+                "bell": "2"
+            },
+            {
                 "name": "Patrick J W Deakin (James)",
                 "bell": "3"
             },
@@ -9482,6 +9526,56 @@
                 "bell": "1"
             },
             {
+                "name": "Patrick W J Deakin (James)",
+                "bell": "2"
+            },
+            {
+                "name": "Rosemary S Hall (Alcuin)",
+                "bell": "3"
+            },
+            {
+                "name": "Joseph E T Waters (SUGCR)",
+                "bell": "4"
+            },
+            {
+                "name": "Natasha A Williams (Alcuin) (C)",
+                "bell": "5"
+            }
+        ],
+        "footnotes": [
+            "Rung for Trans Awareness Week",
+            "Also for the signing of a Deed Poll",
+            "And also for Joe's move to York!",
+            "Rung jointly for the Friends of Dorothy Society",
+            "First Mixed as Conductor",
+            "First touch of Stedman as Conductor",
+            "First YCG Quarter: 4",
+            "First FODS Quarter: 3, 5",
+            "First of Doubles without a cover: 5",
+            "First YCG Quarter of Doubles without a cover in 7 years",
+            "25th Quarter this Calendar year: 5",
+            "Believed to be the longest YCG footnote",
+            "Observed by Bl\u00e5haj"
+        ],
+        "id": "1873909",
+        "time_in_ms": 16685573
+    },
+    {
+        "academic_year": "2022/23",
+        "type": 1,
+        "date": "Wednesday, 16 November 2022",
+        "location": "St Lawrence, York, North Yorkshire",
+        "weight": "7-3-24 in A",
+        "time": "40m",
+        "changes": "1260",
+        "method": "Doubles (5m)",
+        "details": "300 Stedman, 240 of each of Grandsire, St Simon's Bob, St Martin's Bob, and Plain Bob",
+        "ringers": [
+            {
+                "name": "Jonathan R Galloway (Vanbrugh)",
+                "bell": "1"
+            },
+            {
                 "name": "Patrick J W Deakin (James)",
                 "bell": "2"
             },
@@ -9758,6 +9852,52 @@
         ],
         "id": "1553633",
         "time_in_ms": 16657926
+    },
+    {
+        "academic_year": "2022/23",
+        "type": 1,
+        "date": "Friday, 07 October 2022",
+        "location": "Oratory Church of St Wilfrid, York, North Yorkshire",
+        "weight": "6-0-6 in E",
+        "time": "42m",
+        "changes": "1260",
+        "method": "Stedman Doubles",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Simon W Edwards (Alcuin) (C)",
+                "bell": "1"
+            },
+            {
+                "name": "Benjamin J Hartley (St John)",
+                "bell": "2"
+            },
+            {
+                "name": "Jemima Bleackley (Halifax)",
+                "bell": "3"
+            },
+            {
+                "name": "Matthew O Hall (Vanbrugh)",
+                "bell": "4"
+            },
+            {
+                "name": "Patrick W J Deakin (James)",
+                "bell": "5"
+            },
+            {
+                "name": "Natasha A Williams (Alcuin)",
+                "bell": "6"
+            }
+        ],
+        "footnotes": [
+            "Rung to welcome our new Freshers to York, two of which are in the band, and for William M Regan (Friend)'s birthday.",
+            "First YCG Quarter: 2",
+            "First of Stedman: 2, 3",
+            "First of Stedman not as conductor: 4",
+            "First YCG Quarter of Stedman in 5 years"
+        ],
+        "id": "1873911",
+        "time_in_ms": 16651014
     },
     {
         "academic_year": "2022/23",

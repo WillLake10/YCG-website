@@ -1,32 +1,51 @@
 {
-    "academic_year": "2024/25",
-    "type": 2,
-    "date": "Sunday, 18 May 2025",
+    "academic_year": "2025/26",
+    "type": 1,
+    "date": "Wednesday, 17 September 2025",
     "location": "St Lawrence, York, North Yorkshire",
-    "weight": "2-3-16 in E",
-    "time": "",
-    "changes": "444",
-    "method": "Original Singles",
+    "weight": "7-3-24 in A",
+    "time": "46m",
+    "changes": "1260",
+    "method": "Plain Bob Doubles",
     "details": "",
     "ringers": [
         {
-            "name": "William J K Pottle (Alcuin)",
+            "name": "Francesca R Lee (Alcuin)",
             "bell": "1"
         },
         {
-            "name": "Alexander W Lister (Goodricke)",
+            "name": "Natasha A Williams (Alcuin)",
             "bell": "2"
         },
         {
-            "name": "Rosemary S Hall (Alcuin) (C)",
+            "name": "William J K Pottle (Alcuin)",
             "bell": "3"
+        },
+        {
+            "name": "Rosemary S Hall (Alcuin)",
+            "bell": "4"
+        },
+        {
+            "name": "Suzanne E Timms (Alcuin) (C)",
+            "bell": "5"
+        },
+        {
+            "name": "Alexander W Lister (Goodricke)",
+            "bell": "6"
+        },
+        {
+            "name": "Eileen G Robertson (Goodricke)",
+            "bell": "7"
         }
     ],
     "footnotes": [
-        "A quarter peal attempt cut short due to arrival of evensong ringers",
-        "Rung after a successful trip to the National Railway Museum",
-        "Rung on the major front 3 (2, 3, 4)"
+        "Rung for the 3rd Annual Beer Festival in the church.",
+        "First inside: 3",
+        "First on 7 for all",
+        "Rung on the 8, omitting the 2nd",
+        "Most boring quarter: 7",
+        "Remembering Patrick's ID, because he didn't "
     ],
-    "id": "1853913",
-    "time_in_ms": 17475267
+    "id": "1884770",
+    "time_in_ms": 17580679
 }

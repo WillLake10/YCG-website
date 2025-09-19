@@ -2,6 +2,102 @@
     {
         "academic_year": "2025/26",
         "type": 1,
+        "date": "Thursday, 18 September 2025",
+        "location": "St Lawrence, York, North Yorkshire",
+        "weight": "7-3-24 in A",
+        "time": "48m",
+        "changes": "1344",
+        "method": "Plain Bob Triples",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Kevin D Atkinson (Alcuin)",
+                "bell": "1"
+            },
+            {
+                "name": "Francesca R Lee (Alcuin)",
+                "bell": "2"
+            },
+            {
+                "name": "William J K Pottle (Alcuin)",
+                "bell": "3"
+            },
+            {
+                "name": "Matthew W Thewsey (The Modern Society Of Plymouth Youths)",
+                "bell": "4"
+            },
+            {
+                "name": "Rosemary S Hall (Alcuin)",
+                "bell": "5"
+            },
+            {
+                "name": "Natasha A Williams (Alcuin)",
+                "bell": "6"
+            },
+            {
+                "name": "Suzanne E Timms (Alcuin) (C)",
+                "bell": "7"
+            },
+            {
+                "name": "Alexander W Lister (Goodricke)",
+                "bell": "8"
+            }
+        ],
+        "footnotes": [
+            "Rung for the beer festival",
+            "First on 8: 3, 8",
+            "First on 8 inside: 2",
+            "First on 8 as conductor"
+        ],
+        "id": "1884944",
+        "time_in_ms": 17581544
+    },
+    {
+        "academic_year": "2025/26",
+        "type": 1,
+        "date": "Thursday, 18 September 2025",
+        "location": "St Lawrence, York, North Yorkshire",
+        "weight": "7-3-24 in A",
+        "time": "42m",
+        "changes": "1260",
+        "method": "Plain Bob Doubles",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Rosemary S Hall (Alcuin)",
+                "bell": "1"
+            },
+            {
+                "name": "Alexander W Lister (Goodricke)",
+                "bell": "2"
+            },
+            {
+                "name": "Natasha A Williams (Alcuin) (C)",
+                "bell": "3"
+            },
+            {
+                "name": "Suzanne E Timms (Alcuin)",
+                "bell": "4"
+            },
+            {
+                "name": "Matthew W Thewsey (The Modern Society Of Plymouth Youths)",
+                "bell": "5"
+            },
+            {
+                "name": "William J K Pottle (Alcuin)",
+                "bell": "6"
+            }
+        ],
+        "footnotes": [
+            "Rung for the beer festival",
+            "First inside: 2"
+        ],
+        "id": "1884909",
+        "time_in_ms": 17581542
+    },
+    {
+        "academic_year": "2025/26",
+        "type": 1,
         "date": "Wednesday, 17 September 2025",
         "location": "St Lawrence, York, North Yorkshire",
         "weight": "7-3-24 in A",

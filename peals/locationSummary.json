@@ -4,8 +4,8 @@
             "tower": "York (St Lawrence), North Yorkshire",
             "peals": 6,
             "quarters": 122,
-            "other": 13,
-            "total": 141
+            "other": 14,
+            "total": 142
         },
         {
             "tower": "66 Bootham, York, North Yorkshire",
@@ -184,6 +184,13 @@
         },
         {
             "tower": "Ringing Room, UK",
+            "peals": 0,
+            "quarters": 0,
+            "other": 2,
+            "total": 2
+        },
+        {
+            "tower": "St Lawrence Churchyard, York, North Yorkshire",
             "peals": 0,
             "quarters": 0,
             "other": 2,
@@ -470,7 +477,7 @@
             "total": 1
         },
         {
-            "tower": "St Lawrence Churchyard, York, North Yorkshire",
+            "tower": "St Lawrence (CAMRA Membership Bell), York, North Yorkshire",
             "peals": 0,
             "quarters": 0,
             "other": 1,
@@ -690,7 +697,7 @@
     "summary": {
         "peals": 44,
         "quarters": 663,
-        "other": 48,
-        "total": 755
+        "other": 51,
+        "total": 758
     }
 }

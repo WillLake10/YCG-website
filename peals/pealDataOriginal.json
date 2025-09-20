@@ -1,6 +1,107 @@
 [
     {
         "academic_year": "2025/26",
+        "type": 2,
+        "date": "Friday, 19 September 2025",
+        "location": "St Lawrence, York, North Yorkshire",
+        "weight": "7-3-24 in A",
+        "time": "60m",
+        "changes": "",
+        "method": "General Ringing",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Alexander W Lister (Goodricke)",
+                "bell": ""
+            },
+            {
+                "name": "Francesca R Lee (Alcuin)",
+                "bell": ""
+            },
+            {
+                "name": "Natasha A Williams (Alcuin)",
+                "bell": ""
+            },
+            {
+                "name": "Madeline Newbery (Vanbrugh)",
+                "bell": ""
+            },
+            {
+                "name": "Rosemary S Hall (Alcuin)",
+                "bell": ""
+            },
+            {
+                "name": "Suzanne E Timms (Alcuin)",
+                "bell": ""
+            },
+            {
+                "name": "William J K Pottle (Alcuin)",
+                "bell": ""
+            }
+        ],
+        "footnotes": [],
+        "id": "1885167",
+        "time_in_ms": 17582407
+    },
+    {
+        "academic_year": "2025/26",
+        "type": 2,
+        "date": "Friday, 19 September 2025",
+        "location": "St Lawrence Churchyard, York, North Yorkshire",
+        "weight": "",
+        "time": "",
+        "changes": "6",
+        "method": "Original Singles",
+        "details": "",
+        "ringers": [
+            {
+                "name": "William W J K Pottle (Alcuin)",
+                "bell": "1"
+            },
+            {
+                "name": "Suzanne E Timms (Alcuin)",
+                "bell": "2"
+            },
+            {
+                "name": "Alexander W Lister (Goodricke)",
+                "bell": "3"
+            }
+        ],
+        "footnotes": [
+            "Rung via tuned pints against Madeline Newbery's glass",
+            "In dedication to William Pottle's learning of the prostate",
+            "For the beer festival",
+            "Umpired by Rosemary S Hall"
+        ],
+        "id": "1885265",
+        "time_in_ms": 17582403
+    },
+    {
+        "academic_year": "2025/26",
+        "type": 2,
+        "date": "Friday, 19 September 2025",
+        "location": "St Lawrence (CAMRA Membership Bell), York, North Yorkshire",
+        "weight": "",
+        "time": "",
+        "changes": "",
+        "method": "Tolling",
+        "details": "",
+        "ringers": [
+            {
+                "name": "William W J K Pottle (Alcuin)",
+                "bell": "1"
+            },
+            {
+                "name": "Rosemary S Hall (Alcuin)",
+                "bell": "2"
+            }
+        ],
+        "footnotes": [],
+        "id": "1885268",
+        "time_in_ms": 17582402
+    },
+    {
+        "academic_year": "2025/26",
         "type": 1,
         "date": "Thursday, 18 September 2025",
         "location": "St Lawrence, York, North Yorkshire",

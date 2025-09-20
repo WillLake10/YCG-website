@@ -1,53 +1,44 @@
 {
     "academic_year": "2025/26",
-    "type": 1,
-    "date": "Thursday, 18 September 2025",
+    "type": 2,
+    "date": "Friday, 19 September 2025",
     "location": "St Lawrence, York, North Yorkshire",
     "weight": "7-3-24 in A",
-    "time": "48m",
-    "changes": "1344",
-    "method": "Plain Bob Triples",
+    "time": "60m",
+    "changes": "",
+    "method": "General Ringing",
     "details": "",
     "ringers": [
         {
-            "name": "Kevin D Atkinson (Alcuin)",
-            "bell": "1"
+            "name": "Alexander W Lister (Goodricke)",
+            "bell": ""
         },
         {
             "name": "Francesca R Lee (Alcuin)",
-            "bell": "2"
-        },
-        {
-            "name": "William J K Pottle (Alcuin)",
-            "bell": "3"
-        },
-        {
-            "name": "Matthew W Thewsey (The Modern Society Of Plymouth Youths)",
-            "bell": "4"
-        },
-        {
-            "name": "Rosemary S Hall (Alcuin)",
-            "bell": "5"
+            "bell": ""
         },
         {
             "name": "Natasha A Williams (Alcuin)",
-            "bell": "6"
+            "bell": ""
         },
         {
-            "name": "Suzanne E Timms (Alcuin) (C)",
-            "bell": "7"
+            "name": "Madeline Newbery (Vanbrugh)",
+            "bell": ""
         },
         {
-            "name": "Alexander W Lister (Goodricke)",
-            "bell": "8"
+            "name": "Rosemary S Hall (Alcuin)",
+            "bell": ""
+        },
+        {
+            "name": "Suzanne E Timms (Alcuin)",
+            "bell": ""
+        },
+        {
+            "name": "William J K Pottle (Alcuin)",
+            "bell": ""
         }
     ],
-    "footnotes": [
-        "Rung for the beer festival",
-        "First on 8: 3, 8",
-        "First on 8 inside: 2",
-        "First on 8 as conductor"
-    ],
-    "id": "1884944",
-    "time_in_ms": 17581544
+    "footnotes": [],
+    "id": "1885167",
+    "time_in_ms": 17582407
 }

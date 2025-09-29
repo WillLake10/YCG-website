@@ -149,6 +149,42 @@
     {
         "academic_year": "2025/26",
         "type": 2,
+        "date": "Sunday, 28 September 2025",
+        "location": "St Lawrence, York, North Yorkshire",
+        "weight": "7-3-24 in A",
+        "time": "",
+        "changes": "200",
+        "method": "Mixed Minimus (2m)",
+        "details": "192 of Don't Leave Your Handbells on the Train Treble Place\n8 of Plain Hunt",
+        "ringers": [
+            {
+                "name": "William J K Pottle (Alcuin)",
+                "bell": "1"
+            },
+            {
+                "name": "Alexander W Lister (Goodricke)",
+                "bell": "2"
+            },
+            {
+                "name": "Francesca R Lee (Alcuin)",
+                "bell": "3"
+            },
+            {
+                "name": "Suzanne E Timms (Alcuin) (C)",
+                "bell": "4"
+            }
+        ],
+        "footnotes": [
+            "Rung in celebration of Railway 200",
+            "For the 50th anniversary of the opening of the National Railway Museum York",
+            "Rosemary S Hall and Rachel I Magee would like to be associated with this performance"
+        ],
+        "id": "1886675",
+        "time_in_ms": 17590180
+    },
+    {
+        "academic_year": "2025/26",
+        "type": 2,
         "date": "Friday, 19 September 2025",
         "location": "St Lawrence, York, North Yorkshire",
         "weight": "7-3-24 in A",

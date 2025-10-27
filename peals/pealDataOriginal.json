@@ -1,6 +1,49 @@
 [
     {
         "academic_year": "2025/26",
+        "type": 1,
+        "date": "Sunday, 26 October 2025",
+        "location": "St Lawrence, York, North Yorkshire",
+        "weight": "7-3-24 in A",
+        "time": "",
+        "changes": "1260",
+        "method": "St Martin's Bob Doubles",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Phil Stokoe (Staff) (C)",
+                "bell": "1"
+            },
+            {
+                "name": "Jacob Rudd (YSJ)",
+                "bell": "2"
+            },
+            {
+                "name": "Alexander W Lister (Goodricke)",
+                "bell": "3"
+            },
+            {
+                "name": "Francesca R Lee (Alcuin)",
+                "bell": "4"
+            },
+            {
+                "name": "David Denbigh (Langwith)",
+                "bell": "5"
+            },
+            {
+                "name": "Suzanne E Timms (Alcuin)",
+                "bell": "6"
+            }
+        ],
+        "footnotes": [
+            "First YCG quarter - 2",
+            "First in method - 2, 3, 4 and 5"
+        ],
+        "id": "1894405",
+        "time_in_ms": 17614374
+    },
+    {
+        "academic_year": "2025/26",
         "type": 2,
         "date": "Sunday, 28 September 2025",
         "location": "St Lawrence, York, North Yorkshire",

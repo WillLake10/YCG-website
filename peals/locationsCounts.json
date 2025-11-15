@@ -5,9 +5,9 @@
             {
                 "tower": "York (St Lawrence), North Yorkshire",
                 "peals": 0,
-                "quarters": 4,
+                "quarters": 5,
                 "other": 2,
-                "total": 6
+                "total": 7
             },
             {
                 "tower": "St Lawrence Churchyard, York, North Yorkshire",
@@ -26,9 +26,9 @@
         ],
         "summary": {
             "peals": 0,
-            "quarters": 4,
+            "quarters": 5,
             "other": 5,
-            "total": 9
+            "total": 10
         }
     },
     {

@@ -1,43 +1,43 @@
 {
     "academic_year": "2025/26",
     "type": 1,
-    "date": "Sunday, 26 October 2025",
-    "location": "St Lawrence, York, North Yorkshire",
-    "weight": "7-3-24 in A",
-    "time": "",
+    "date": "Friday, 14 November 2025",
+    "location": "St Lawrence, York, ",
+    "weight": "",
+    "time": "41m",
     "changes": "1260",
-    "method": "St Martin's Bob Doubles",
-    "details": "",
+    "method": "Mixed Doubles (5m/1p)",
+    "details": "240 each St Simons, St Martins, Reverse Canterbury Pleasure, Plain Bob, Grandsire and 60 Stedman",
     "ringers": [
         {
-            "name": "Phil Stokoe (Staff) (C)",
+            "name": "Phill Stokoe",
             "bell": "1"
         },
         {
-            "name": "Jacob Rudd (YSJ)",
+            "name": "Antony Allen",
             "bell": "2"
         },
         {
-            "name": "Alexander W Lister (Goodricke)",
+            "name": "Charlotte Lee",
             "bell": "3"
         },
         {
-            "name": "Francesca R Lee (Alcuin)",
+            "name": "Helen M Watson",
             "bell": "4"
         },
         {
-            "name": "David Denbigh (Langwith)",
+            "name": "Rachel Moss (C)",
             "bell": "5"
         },
         {
-            "name": "Suzanne E Timms (Alcuin)",
+            "name": "Andrew Moss",
             "bell": "6"
         }
     ],
     "footnotes": [
-        "First YCG quarter - 2",
-        "First in method - 2, 3, 4 and 5"
+        "Rung by York Colleges Guild friends of Robyn Cutts and David Denbigh on the evening before their wedding at York Minister.",
+        "Rosie Hall and Billy Brooke would like to be associated with this quarter peal."
     ],
-    "id": "1894405",
-    "time_in_ms": 17614374
+    "id": "1902381",
+    "time_in_ms": 17630790
 }

@@ -11,6 +11,49 @@
         "details": "240 each St Simons, St Martins, Reverse Canterbury Pleasure, Plain Bob, Grandsire and 60 Stedman",
         "ringers": [
             {
+                "name": "Phil Stokoe",
+                "bell": "1"
+            },
+            {
+                "name": "Antony Allen",
+                "bell": "2"
+            },
+            {
+                "name": "Charlotte Lee",
+                "bell": "3"
+            },
+            {
+                "name": "Helen M Watson",
+                "bell": "4"
+            },
+            {
+                "name": "Rachel Moss (C)",
+                "bell": "5"
+            },
+            {
+                "name": "Andrew Moss",
+                "bell": "6"
+            }
+        ],
+        "footnotes": [
+            "Rung by York Colleges Guild friends of Robyn Cutts and David Denbigh on the evening before their wedding at York Minister.",
+            "Rosie Hall and Billy Brooke would like to be associated with this quarter peal."
+        ],
+        "id": "1902452",
+        "time_in_ms": 17630790
+    },
+    {
+        "academic_year": "2025/26",
+        "type": 1,
+        "date": "Friday, 14 November 2025",
+        "location": "St Lawrence, York, ",
+        "weight": "",
+        "time": "41m",
+        "changes": "1260",
+        "method": "Mixed Doubles (5m/1p)",
+        "details": "240 each St Simons, St Martins, Reverse Canterbury Pleasure, Plain Bob, Grandsire and 60 Stedman",
+        "ringers": [
+            {
                 "name": "Phill Stokoe",
                 "bell": "1"
             },

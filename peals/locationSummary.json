@@ -50,6 +50,13 @@
             "total": 9
         },
         {
+            "tower": "Acomb (St Stephen), North Yorkshire",
+            "peals": 0,
+            "quarters": 8,
+            "other": 0,
+            "total": 8
+        },
+        {
             "tower": "Huntington (All Saints), North Yorkshire",
             "peals": 1,
             "quarters": 7,
@@ -62,13 +69,6 @@
             "quarters": 6,
             "other": 1,
             "total": 8
-        },
-        {
-            "tower": "Acomb (St Stephen), North Yorkshire",
-            "peals": 0,
-            "quarters": 7,
-            "other": 0,
-            "total": 7
         },
         {
             "tower": "Broughton in Craven (All Saints), North Yorkshire",
@@ -696,8 +696,8 @@
     ],
     "summary": {
         "peals": 44,
-        "quarters": 666,
+        "quarters": 667,
         "other": 52,
-        "total": 762
+        "total": 763
     }
 }

@@ -28132,6 +28132,51 @@
         "details": "",
         "ringers": [
             {
+                "name": "Martin D Sutton",
+                "bell": "1"
+            },
+            {
+                "name": "Clive G Vidgen",
+                "bell": "2"
+            },
+            {
+                "name": "Maxine R Darby",
+                "bell": "3"
+            },
+            {
+                "name": "J Hollingshurst",
+                "bell": "4"
+            },
+            {
+                "name": "John S Leech (C)",
+                "bell": "5"
+            },
+            {
+                "name": "Robert D C Richards",
+                "bell": "6"
+            }
+        ],
+        "footnotes": [
+            "Past Members Quarter Peals",
+            "1st in Method: 2",
+            "For Graham & Sue's Wedding",
+            "Published as part of YCG's effort to digitalise old records. All records uploaded exactly as they appear in our physical books, for any changes to names etc, please contact admin@ycg.org.uk"
+        ],
+        "id": "1909715",
+        "time_in_ms": 7072710
+    },
+    {
+        "academic_year": "1991/92",
+        "type": 1,
+        "date": "Sunday, 31 May 1992",
+        "location": "All Saints, North Street, York, North Yorkshire",
+        "weight": "7-2-2 in A",
+        "time": "",
+        "changes": "1260",
+        "method": "Plain Bob Doubles",
+        "details": "",
+        "ringers": [
+            {
                 "name": "M D Sutton",
                 "bell": "1"
             },
@@ -29648,6 +29693,48 @@
                 "bell": "2"
             },
             {
+                "name": "Robert D C Richards",
+                "bell": "3"
+            },
+            {
+                "name": "T P Hart",
+                "bell": "4"
+            },
+            {
+                "name": "R M Burgess",
+                "bell": "5"
+            },
+            {
+                "name": "David E Potter (C)",
+                "bell": "6"
+            }
+        ],
+        "footnotes": [
+            "Published as part of YCG's effort to digitalise old records. All records uploaded exactly as they appear in our physical books, for any changes to names etc, please contact admin@ycg.org.uk"
+        ],
+        "id": "1909714",
+        "time_in_ms": 6276966
+    },
+    {
+        "academic_year": "1989/90",
+        "type": 1,
+        "date": "Wednesday, 22 November 1989",
+        "location": "Spurriergate Centre (Formerly St Michael), York, North Yorkshire",
+        "weight": "8-2-14 in A",
+        "time": "",
+        "changes": "1260",
+        "method": "Minor (2m)",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Sarah M Smith",
+                "bell": "1"
+            },
+            {
+                "name": "Samantha J Barre",
+                "bell": "2"
+            },
+            {
                 "name": "R D C Richards",
                 "bell": "3"
             },
@@ -29669,6 +29756,49 @@
         ],
         "id": "1554514",
         "time_in_ms": 6276966
+    },
+    {
+        "academic_year": "1989/90",
+        "type": 1,
+        "date": "Wednesday, 08 November 1989",
+        "location": "Spurriergate Centre (Formerly St Michael), York, North Yorkshire",
+        "weight": "8-2-14 in A",
+        "time": "",
+        "changes": "1260",
+        "method": "Doubles (2m)",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Robert D C Richards",
+                "bell": "1"
+            },
+            {
+                "name": "Samantha J Barre",
+                "bell": "2"
+            },
+            {
+                "name": "Sarah M Smith",
+                "bell": "3"
+            },
+            {
+                "name": "R M Burgess",
+                "bell": "4"
+            },
+            {
+                "name": "T P Hart (C)",
+                "bell": "5"
+            },
+            {
+                "name": "J M Andrews",
+                "bell": "6"
+            }
+        ],
+        "footnotes": [
+            "First Quarter: 6",
+            "Published as part of YCG's effort to digitalise old records. All records uploaded exactly as they appear in our physical books, for any changes to names etc, please contact admin@ycg.org.uk"
+        ],
+        "id": "1909713",
+        "time_in_ms": 6264870
     },
     {
         "academic_year": "1989/90",
@@ -30024,6 +30154,50 @@
         ],
         "id": "1526223",
         "time_in_ms": 5627338
+    },
+    {
+        "academic_year": "1986/87",
+        "type": 1,
+        "date": "Wednesday, 04 March 1987",
+        "location": "All Saints, Kirby Hill, North Yorkshire",
+        "weight": "8-0-14 in A",
+        "time": "",
+        "changes": "1260",
+        "method": "Minor (3m)",
+        "details": "3m - York Colleges Guild T.P., Little Bob, P B",
+        "ringers": [
+            {
+                "name": "Rorbert D C Richards",
+                "bell": "1"
+            },
+            {
+                "name": "Sarah L Wood",
+                "bell": "2"
+            },
+            {
+                "name": "Diana Linford",
+                "bell": "3"
+            },
+            {
+                "name": "R P Darley",
+                "bell": "4"
+            },
+            {
+                "name": "M T Whittaker",
+                "bell": "5"
+            },
+            {
+                "name": "Derek J Jones (C)",
+                "bell": "6"
+            }
+        ],
+        "footnotes": [
+            "1st Q in the method, York Colleges Guild Treble Place: -14-36-3456 56 lh 12, 142635.",
+            "For Ash Wednesday Service by the York Colleges Guild. 60p",
+            "Published as part of YCG's effort to digitalise old records. All records uploaded exactly as they appear in our physical books, for any changes to names etc, please contact admin@ycg.org.uk"
+        ],
+        "id": "1909712",
+        "time_in_ms": 5418150
     },
     {
         "academic_year": "1986/87",

@@ -43,6 +43,13 @@
             "total": 11
         },
         {
+            "tower": "York (All Saints, North Street), North Yorkshire",
+            "peals": 1,
+            "quarters": 7,
+            "other": 1,
+            "total": 9
+        },
+        {
             "tower": "York (St Martin le Grand, Coney Street), North Yorkshire",
             "peals": 0,
             "quarters": 9,
@@ -61,13 +68,6 @@
             "peals": 1,
             "quarters": 7,
             "other": 0,
-            "total": 8
-        },
-        {
-            "tower": "York (All Saints, North Street), North Yorkshire",
-            "peals": 1,
-            "quarters": 6,
-            "other": 1,
             "total": 8
         },
         {
@@ -106,6 +106,13 @@
             "total": 6
         },
         {
+            "tower": "Kirby Hill (All Saints), North Yorkshire",
+            "peals": 2,
+            "quarters": 2,
+            "other": 0,
+            "total": 4
+        },
+        {
             "tower": "Strensall (St Mary the Virgin), North Yorkshire",
             "peals": 0,
             "quarters": 4,
@@ -123,13 +130,6 @@
             "tower": "Bedale (St Gregory), North Yorkshire",
             "peals": 0,
             "quarters": 3,
-            "other": 0,
-            "total": 3
-        },
-        {
-            "tower": "Kirby Hill (All Saints), North Yorkshire",
-            "peals": 2,
-            "quarters": 1,
             "other": 0,
             "total": 3
         },
@@ -696,8 +696,8 @@
     ],
     "summary": {
         "peals": 44,
-        "quarters": 667,
+        "quarters": 671,
         "other": 52,
-        "total": 763
+        "total": 767
     }
 }

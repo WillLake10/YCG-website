@@ -37,10 +37,10 @@
         },
         {
             "tower": "York (Oratory Church of St Wilfrid), North Yorkshire",
-            "peals": 2,
+            "peals": 3,
             "quarters": 9,
             "other": 0,
-            "total": 11
+            "total": 12
         },
         {
             "tower": "York (All Saints, North Street), North Yorkshire",
@@ -71,13 +71,6 @@
             "total": 8
         },
         {
-            "tower": "Broughton in Craven (All Saints), North Yorkshire",
-            "peals": 3,
-            "quarters": 3,
-            "other": 0,
-            "total": 6
-        },
-        {
             "tower": "Nunburnholme (St James), East Riding of Yorkshire",
             "peals": 1,
             "quarters": 5,
@@ -104,6 +97,13 @@
             "quarters": 6,
             "other": 0,
             "total": 6
+        },
+        {
+            "tower": "Broughton in Craven (All Saints), North Yorkshire",
+            "peals": 3,
+            "quarters": 2,
+            "other": 0,
+            "total": 5
         },
         {
             "tower": "Kirby Hill (All Saints), North Yorkshire",
@@ -254,6 +254,13 @@
         },
         {
             "tower": "All Saints, Bubwith, East Riding of Yorkshire",
+            "peals": 0,
+            "quarters": 1,
+            "other": 0,
+            "total": 1
+        },
+        {
+            "tower": "All Saints, Didcot, Oxfordshire",
             "peals": 0,
             "quarters": 1,
             "other": 0,
@@ -695,9 +702,9 @@
         }
     ],
     "summary": {
-        "peals": 44,
-        "quarters": 671,
+        "peals": 45,
+        "quarters": 672,
         "other": 52,
-        "total": 767
+        "total": 769
     }
 }

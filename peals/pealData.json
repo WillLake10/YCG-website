@@ -2,6 +2,38 @@
     {
         "academic_year": "2025/26",
         "type": 1,
+        "date": "Saturday, 20 December 2025",
+        "location": "All Saints, Didcot, Oxfordshire",
+        "weight": "5-1-4 in C#",
+        "time": "43m",
+        "changes": "1262",
+        "method": "Didcot Singles",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Natasha A Williams (C)",
+                "bell": "1"
+            },
+            {
+                "name": "Matthew O Hall",
+                "bell": "2"
+            },
+            {
+                "name": "Jemima C Bleackley",
+                "bell": "3"
+            }
+        ],
+        "footnotes": [
+            "Longest length in method",
+            "First on 3: 3",
+            "Celebrating the birthdays of Natalia J Foster (23rd), Clover R Mahon (24th), and Laura D Scott (24th)"
+        ],
+        "id": "1916018",
+        "time_in_ms": 17661891
+    },
+    {
+        "academic_year": "2025/26",
+        "type": 1,
         "date": "Friday, 14 November 2025",
         "location": "St Lawrence, York, ",
         "weight": "",
@@ -18258,6 +18290,50 @@
         ],
         "id": "410983",
         "time_in_ms": 11686570
+    },
+    {
+        "academic_year": "2006/07",
+        "type": 0,
+        "date": "Sunday, 22 October 2006",
+        "location": "St Wilfrid, York, ",
+        "weight": "6-0-6",
+        "time": "2h 22",
+        "changes": "5040",
+        "method": "Plain Bob Minor",
+        "details": "(7 extents)",
+        "ringers": [
+            {
+                "name": "David J Bryant",
+                "bell": "1"
+            },
+            {
+                "name": "James R C Knowles",
+                "bell": "2"
+            },
+            {
+                "name": "Charlotte Elkington",
+                "bell": "3"
+            },
+            {
+                "name": "Allen J Eccles",
+                "bell": "4"
+            },
+            {
+                "name": "Kevin Atkinson",
+                "bell": "5"
+            },
+            {
+                "name": "Matthew J Jones (C)",
+                "bell": "6"
+            }
+        ],
+        "footnotes": [
+            "Rung on the front six by a resident YCG band. 50th peal on the bells and in the tower, and first on fewer than 8 bells.",
+            "A birthday compliment to Martin Jones, the conductor's father.",
+            "With thanks to David Hull for letting us have the bells at short notice. "
+        ],
+        "id": "1916037",
+        "time_in_ms": 11614858
     },
     {
         "academic_year": "2006/07",

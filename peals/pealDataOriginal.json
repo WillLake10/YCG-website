@@ -30541,6 +30541,49 @@
         "details": "Durham; Wells, London; York; Beverley / Surfleet; Norwich; Cambridge",
         "ringers": [
             {
+                "name": "John S Leech (Vanbrugh) (in R W as J S Leech)",
+                "bell": "1"
+            },
+            {
+                "name": "Susan Adams (Langwith) (in R W as Miss S Adams)",
+                "bell": "2"
+            },
+            {
+                "name": "Elizabeth S Riley (Goodricke) (in R W as Mrs E Riley)",
+                "bell": "3"
+            },
+            {
+                "name": "Martin J Turner (Derwent) (in R W as M J Turner)",
+                "bell": "4"
+            },
+            {
+                "name": "Glenn A A Taylor (Goodricke) (in R W as G A A Taylor)",
+                "bell": "5"
+            },
+            {
+                "name": "Roger S Riley (St John) (in R W as R S Riley) (C)",
+                "bell": "6"
+            }
+        ],
+        "footnotes": [
+            "For Dinner Day",
+            "Compliment to Claire Louise, daughter of Derek and Susan Jones."
+        ],
+        "id": "1920258",
+        "time_in_ms": 2988682
+    },
+    {
+        "academic_year": "1978/79",
+        "type": 0,
+        "date": "Friday, 22 June 1979",
+        "location": "St Mary, Wath juxta Ripon, North Yorkshire",
+        "weight": "7-2-24 in Bb",
+        "time": "2h 31",
+        "changes": "5040",
+        "method": "Surprise Minor (8m)",
+        "details": "Durham; Wells, London; York; Beverley / Surfleet; Norwich; Cambridge",
+        "ringers": [
+            {
                 "name": "John S Leech (Vanbrugh) (in RW as J S Leech)",
                 "bell": "1"
             },

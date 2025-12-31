@@ -2088,18 +2088,18 @@
         "academic_year": "1978/79",
         "tower": [
             {
+                "tower": "Wath juxta Ripon (St Mary), North Yorkshire",
+                "peals": 2,
+                "quarters": 0,
+                "other": 0,
+                "total": 2
+            },
+            {
                 "tower": "York (Former St John (Arts Center)), Yorkshire",
                 "peals": 0,
                 "quarters": 2,
                 "other": 0,
                 "total": 2
-            },
-            {
-                "tower": "Wath juxta Ripon (St Mary), North Yorkshire",
-                "peals": 1,
-                "quarters": 0,
-                "other": 0,
-                "total": 1
             },
             {
                 "tower": "York (St Philip and St James, Clifton), North Yorkshire",
@@ -2110,10 +2110,10 @@
             }
         ],
         "summary": {
-            "peals": 1,
+            "peals": 2,
             "quarters": 3,
             "other": 0,
-            "total": 4
+            "total": 5
         }
     },
     {

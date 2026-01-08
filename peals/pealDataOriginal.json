@@ -2,6 +2,48 @@
     {
         "academic_year": "2025/26",
         "type": 1,
+        "date": "Wednesday, 07 January 2026",
+        "location": "Oratory Church of St Wilfrid, York, North Yorkshire",
+        "weight": "18-1-21 in F",
+        "time": "48m",
+        "changes": "1296",
+        "method": "Cambridge Surprise Minor",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Joseph E T Waters (SUGCR) (C)",
+                "bell": "1"
+            },
+            {
+                "name": "Alexander W Lister (Goodricke)",
+                "bell": "2"
+            },
+            {
+                "name": "Suzanne E Timms (Alcuin)",
+                "bell": "3"
+            },
+            {
+                "name": "Rosemary S Hall (Alcuin)",
+                "bell": "4"
+            },
+            {
+                "name": "Oliver E Rice (DUSCR)",
+                "bell": "5"
+            },
+            {
+                "name": "Patrick W J Deakin (James)",
+                "bell": "6"
+            }
+        ],
+        "footnotes": [
+            "First Cambridge Surprise Minor: 2"
+        ],
+        "id": "1923063",
+        "time_in_ms": 17677446
+    },
+    {
+        "academic_year": "2025/26",
+        "type": 1,
         "date": "Saturday, 20 December 2025",
         "location": "All Saints, Didcot, Oxfordshire",
         "weight": "5-1-4 in C#",

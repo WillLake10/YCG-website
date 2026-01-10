@@ -1,42 +1,50 @@
 {
     "academic_year": "2025/26",
     "type": 1,
-    "date": "Wednesday, 07 January 2026",
+    "date": "Friday, 09 January 2026",
     "location": "Oratory Church of St Wilfrid, York, North Yorkshire",
     "weight": "18-1-21 in F",
-    "time": "48m",
-    "changes": "1296",
-    "method": "Cambridge Surprise Minor",
+    "time": "45m",
+    "changes": "1260",
+    "method": "Plain Bob Triples",
     "details": "",
     "ringers": [
         {
-            "name": "Joseph E T Waters (SUGCR) (C)",
+            "name": "Suzanne E Timms",
             "bell": "1"
         },
         {
-            "name": "Alexander W Lister (Goodricke)",
+            "name": "Alice Blackwell",
             "bell": "2"
         },
         {
-            "name": "Suzanne E Timms (Alcuin)",
+            "name": "Alexander W Lister",
             "bell": "3"
         },
         {
-            "name": "Rosemary S Hall (Alcuin)",
+            "name": "Ewan G A Hull",
             "bell": "4"
         },
         {
-            "name": "Oliver E Rice (DUSCR)",
+            "name": "Patrick W J Deakin (C)",
             "bell": "5"
         },
         {
-            "name": "Patrick W J Deakin (James)",
+            "name": "Oliver E Rice",
             "bell": "6"
+        },
+        {
+            "name": "Joseph E T Waters",
+            "bell": "7"
+        },
+        {
+            "name": "Rosemary S Hall",
+            "bell": "8"
         }
     ],
     "footnotes": [
-        "First Cambridge Surprise Minor: 2"
+        "First Triples inside: 3"
     ],
-    "id": "1923063",
-    "time_in_ms": 17677446
+    "id": "1923723",
+    "time_in_ms": 17679176
 }

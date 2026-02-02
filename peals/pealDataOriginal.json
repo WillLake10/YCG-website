@@ -2,6 +2,65 @@
     {
         "academic_year": "2025/26",
         "type": 1,
+        "date": "Sunday, 01 February 2026",
+        "location": "Cathedral and Metropolitical Church of St Peter, York, North Yorkshire",
+        "weight": "24-3-0 in Eb",
+        "time": "",
+        "changes": "1295",
+        "method": "Plain Bob Caters",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Joseph E T Waters (SUGCR)",
+                "bell": "1"
+            },
+            {
+                "name": "Patrick W J Deakin (James) (C)",
+                "bell": "2"
+            },
+            {
+                "name": "Matthew W Thewsey (Modern Society of Plymouth Youths)",
+                "bell": "3"
+            },
+            {
+                "name": "Francesca R Lee (Alcuin)",
+                "bell": "4"
+            },
+            {
+                "name": "Iain J Anderson (Cantab)",
+                "bell": "5"
+            },
+            {
+                "name": "Alexander W Lister (Goodricke)",
+                "bell": "6"
+            },
+            {
+                "name": "William M Regan (Friend)",
+                "bell": "7"
+            },
+            {
+                "name": "Suzanne E Timms (Alcuin)",
+                "bell": "8"
+            },
+            {
+                "name": "Ryan Mills (Halifax)",
+                "bell": "9"
+            },
+            {
+                "name": "William J K Pottle (Alcuin)",
+                "bell": "10"
+            }
+        ],
+        "footnotes": [
+            "First on 10: 6, 10",
+            "Circled the tower: 1"
+        ],
+        "id": "1931544",
+        "time_in_ms": 17699050
+    },
+    {
+        "academic_year": "2025/26",
+        "type": 1,
         "date": "Friday, 09 January 2026",
         "location": "Oratory Church of St Wilfrid, York, North Yorkshire",
         "weight": "18-1-21 in F",

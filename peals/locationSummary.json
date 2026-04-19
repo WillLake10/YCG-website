@@ -169,6 +169,13 @@
             "total": 2
         },
         {
+            "tower": "Harrogate (St Wilfrids), North Yorkshire",
+            "peals": 0,
+            "quarters": 2,
+            "other": 0,
+            "total": 2
+        },
+        {
             "tower": "Ipswich (532 Norwich Road (The Vestey Ring)), Suffolk",
             "peals": 0,
             "quarters": 2,
@@ -366,13 +373,6 @@
         },
         {
             "tower": "Escrick (St Helen), North Yorkshire",
-            "peals": 0,
-            "quarters": 1,
-            "other": 0,
-            "total": 1
-        },
-        {
-            "tower": "Harrogate (St Wilfrids), North Yorkshire",
             "peals": 0,
             "quarters": 1,
             "other": 0,
@@ -703,8 +703,8 @@
     ],
     "summary": {
         "peals": 46,
-        "quarters": 676,
+        "quarters": 677,
         "other": 52,
-        "total": 774
+        "total": 775
     }
 }

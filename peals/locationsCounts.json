@@ -776,18 +776,18 @@
                 "total": 3
             },
             {
-                "tower": "York (St Martin le Grand, Coney Street), North Yorkshire",
+                "tower": "Harrogate (St Wilfrids), North Yorkshire",
                 "peals": 0,
                 "quarters": 2,
                 "other": 0,
                 "total": 2
             },
             {
-                "tower": "Harrogate (St Wilfrids), North Yorkshire",
+                "tower": "York (St Martin le Grand, Coney Street), North Yorkshire",
                 "peals": 0,
-                "quarters": 1,
+                "quarters": 2,
                 "other": 0,
-                "total": 1
+                "total": 2
             },
             {
                 "tower": "York (St Olave, Marygate), North Yorkshire",
@@ -813,9 +813,9 @@
         ],
         "summary": {
             "peals": 1,
-            "quarters": 12,
+            "quarters": 13,
             "other": 0,
-            "total": 13
+            "total": 14
         }
     },
     {

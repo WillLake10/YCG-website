@@ -1,43 +1,52 @@
 {
     "academic_year": "2025/26",
     "type": 1,
-    "date": "Friday, 17 April 2026",
+    "date": "Friday, 24 April 2026",
     "location": "Oratory Church of St Wilfrid, York, North Yorkshire",
     "weight": "18-1-21 in F",
-    "time": "45m",
-    "changes": "1296",
-    "method": "Cambridge Surprise Minor",
+    "time": "43m",
+    "changes": "1250",
+    "method": "Yorkshire Surprise Major",
     "details": "",
     "ringers": [
         {
-            "name": "Rosemary S Hall (Alcuin)",
+            "name": "Francesca R Lee (Alcuin)",
             "bell": "1"
         },
         {
-            "name": "Alexander W Lister (Goodricke)",
+            "name": "Iain J Anderson (Cantab)",
             "bell": "2"
         },
         {
-            "name": "Francesca R Lee (Alcuin)",
+            "name": "Alexander W Lister (Goodricke)",
             "bell": "3"
         },
         {
-            "name": "Philippa C M Stokoe (Staff)",
+            "name": "Natasha A Williams (Alcuin)",
             "bell": "4"
         },
         {
-            "name": "William M Regan (Friend)",
+            "name": "Rosemary S Hall (Alcuin)",
             "bell": "5"
         },
         {
             "name": "Joseph E T Waters (SUGCR) (C)",
             "bell": "6"
+        },
+        {
+            "name": "Philippa C M Stokoe (Staff)",
+            "bell": "7"
+        },
+        {
+            "name": "Ewan G A Hull (Staff)",
+            "bell": "8"
         }
     ],
     "footnotes": [
-        "First Surprise Minor inside: 3",
-        "30th birthday compliments to Matthew W Thewsey (The Modern Society of Plymouth Youths)"
+        "First of Major: 1",
+        "First of Yorkshire: 3",
+        "With birthday compliments to the treble ringer"
     ],
-    "id": "1960901",
-    "time_in_ms": 17763846
+    "id": "1963173",
+    "time_in_ms": 17769896
 }

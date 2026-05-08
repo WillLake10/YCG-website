@@ -288,6 +288,13 @@
             "total": 1
         },
         {
+            "tower": "All Saints, Wistow, North Yorkshire",
+            "peals": 0,
+            "quarters": 1,
+            "other": 0,
+            "total": 1
+        },
+        {
             "tower": "Beenham (St Mary), Berkshire",
             "peals": 0,
             "quarters": 1,
@@ -703,8 +710,8 @@
     ],
     "summary": {
         "peals": 46,
-        "quarters": 680,
+        "quarters": 681,
         "other": 52,
-        "total": 778
+        "total": 779
     }
 }

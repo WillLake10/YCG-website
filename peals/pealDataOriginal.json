@@ -2,6 +2,37 @@
     {
         "academic_year": "2025/26",
         "type": 1,
+        "date": "Thursday, 07 May 2026",
+        "location": "All Saints, Wistow, North Yorkshire",
+        "weight": "12-1-5 in F#",
+        "time": "50m",
+        "changes": "1260",
+        "method": "Super Off Peak Day Singles",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Suzanne E Timms (Alcuin)",
+                "bell": "1"
+            },
+            {
+                "name": "William J K Pottle (Alcuin)",
+                "bell": "2"
+            },
+            {
+                "name": "Natasha A Williams (Alcuin) (C)",
+                "bell": "3"
+            }
+        ],
+        "footnotes": [
+            "Super Off Peak Day Single(s): 3.3.3.3.3,1",
+            "First on 3: 2, 1"
+        ],
+        "id": "1967122",
+        "time_in_ms": 17781123
+    },
+    {
+        "academic_year": "2025/26",
+        "type": 1,
         "date": "Wednesday, 06 May 2026",
         "location": "Oratory Church of St Wilfrid, York, North Yorkshire",
         "weight": "18-1-21 in F",

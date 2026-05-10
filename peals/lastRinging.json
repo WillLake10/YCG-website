@@ -1,31 +1,45 @@
 {
     "academic_year": "2025/26",
-    "type": 1,
-    "date": "Thursday, 07 May 2026",
-    "location": "All Saints, Wistow, North Yorkshire",
-    "weight": "12-1-5 in F#",
-    "time": "50m",
-    "changes": "1260",
-    "method": "Super Off Peak Day Singles",
-    "details": "",
+    "type": 0,
+    "date": "Saturday, 09 May 2026",
+    "location": "St Philip and St James, Clifton, North Yorkshire",
+    "weight": "3-1-23 in Eb",
+    "time": "2h 53",
+    "changes": "5040",
+    "method": "Doubles (7m/v)",
+    "details": "720 each of Reverse Canterbury Pleasure Place; Southrepps; Eynesbury Bob; St Osmund's Bob; St Simon's Bob; St Martin's Bob; Plain Bob",
     "ringers": [
         {
-            "name": "Suzanne E Timms (Alcuin)",
+            "name": "Suzanne E Timms (Alcuin) (C)",
             "bell": "1"
         },
         {
-            "name": "William J K Pottle (Alcuin)",
+            "name": "Rosemary S Hall (Alcuin)",
             "bell": "2"
         },
         {
-            "name": "Natasha A Williams (Alcuin) (C)",
+            "name": "Alexander W Lister (Goodricke)",
             "bell": "3"
+        },
+        {
+            "name": "Natasha A Williams (Alcuin)",
+            "bell": "4"
+        },
+        {
+            "name": "William J K Pottle (Alcuin)",
+            "bell": "5"
+        },
+        {
+            "name": "Neil A H Lewis (York College)",
+            "bell": "6"
         }
     ],
     "footnotes": [
-        "Super Off Peak Day Single(s): 3.3.3.3.3,1",
-        "First on 3: 2, 1"
+        "First Peal: 3,5,6",
+        "First as Conductor",
+        "Birthday compliments to Emily E Hall",
+        "Wishing Alex Addy's lower back well"
     ],
-    "id": "1967122",
-    "time_in_ms": 17781123
+    "id": "1967696",
+    "time_in_ms": 17782954
 }

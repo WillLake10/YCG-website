@@ -17,16 +17,37 @@
         {
             "tower": "York (St Olave, Marygate), North Yorkshire",
             "peals": 1,
-            "quarters": 15,
+            "quarters": 20,
             "other": 0,
-            "total": 16
+            "total": 21
         },
         {
             "tower": "York (St Philip and St James, Clifton), North Yorkshire",
             "peals": 5,
-            "quarters": 9,
+            "quarters": 11,
             "other": 1,
+            "total": 17
+        },
+        {
+            "tower": "Huntington (All Saints), North Yorkshire",
+            "peals": 2,
+            "quarters": 13,
+            "other": 0,
             "total": 15
+        },
+        {
+            "tower": "Acomb (St Stephen), North Yorkshire",
+            "peals": 0,
+            "quarters": 14,
+            "other": 0,
+            "total": 14
+        },
+        {
+            "tower": "York (All Saints, North Street), North Yorkshire",
+            "peals": 1,
+            "quarters": 11,
+            "other": 1,
+            "total": 13
         },
         {
             "tower": "Larchfield, York, North Yorkshire",
@@ -43,10 +64,10 @@
             "total": 12
         },
         {
-            "tower": "York (All Saints, North Street), North Yorkshire",
-            "peals": 1,
-            "quarters": 7,
-            "other": 1,
+            "tower": "Stockton-on-the-Forest (Holy Trinity), North Yorkshire",
+            "peals": 0,
+            "quarters": 9,
+            "other": 0,
             "total": 9
         },
         {
@@ -57,23 +78,23 @@
             "total": 9
         },
         {
-            "tower": "Acomb (St Stephen), North Yorkshire",
-            "peals": 0,
-            "quarters": 8,
+            "tower": "Nunburnholme (St James), East Riding of Yorkshire",
+            "peals": 2,
+            "quarters": 6,
             "other": 0,
             "total": 8
         },
         {
-            "tower": "Huntington (All Saints), North Yorkshire",
-            "peals": 1,
+            "tower": "Strensall (St Mary the Virgin), North Yorkshire",
+            "peals": 0,
             "quarters": 7,
             "other": 0,
-            "total": 8
+            "total": 7
         },
         {
-            "tower": "Nunburnholme (St James), East Riding of Yorkshire",
-            "peals": 1,
-            "quarters": 5,
+            "tower": "Broughton in Craven (All Saints), North Yorkshire",
+            "peals": 3,
+            "quarters": 3,
             "other": 0,
             "total": 6
         },
@@ -85,13 +106,6 @@
             "total": 6
         },
         {
-            "tower": "Stockton-on-the-Forest (Holy Trinity), North Yorkshire",
-            "peals": 0,
-            "quarters": 6,
-            "other": 0,
-            "total": 6
-        },
-        {
             "tower": "York (Spurriergate Centre), North Yorkshire",
             "peals": 0,
             "quarters": 6,
@@ -99,21 +113,14 @@
             "total": 6
         },
         {
-            "tower": "Broughton in Craven (All Saints), North Yorkshire",
-            "peals": 3,
-            "quarters": 2,
+            "tower": "Kirby Hill (All Saints), North Yorkshire",
+            "peals": 2,
+            "quarters": 3,
             "other": 0,
             "total": 5
         },
         {
-            "tower": "Kirby Hill (All Saints), North Yorkshire",
-            "peals": 2,
-            "quarters": 2,
-            "other": 0,
-            "total": 4
-        },
-        {
-            "tower": "Strensall (St Mary the Virgin), North Yorkshire",
+            "tower": "Rufforth (All Saints), North Yorkshire",
             "peals": 0,
             "quarters": 4,
             "other": 0,
@@ -134,14 +141,14 @@
             "total": 3
         },
         {
-            "tower": "Rufforth (All Saints), North Yorkshire",
+            "tower": "87 Lawrence Street, York, North Yorkshire",
             "peals": 0,
-            "quarters": 3,
+            "quarters": 2,
             "other": 0,
-            "total": 3
+            "total": 2
         },
         {
-            "tower": "87 Lawrence Street, York, North Yorkshire",
+            "tower": "All Saints, Wistow, North Yorkshire",
             "peals": 0,
             "quarters": 2,
             "other": 0,
@@ -162,7 +169,35 @@
             "total": 2
         },
         {
+            "tower": "Beenham (St Mary), Berkshire",
+            "peals": 0,
+            "quarters": 2,
+            "other": 0,
+            "total": 2
+        },
+        {
+            "tower": "Bilborough (St Martin of Tours), Nottinghamshire",
+            "peals": 0,
+            "quarters": 2,
+            "other": 0,
+            "total": 2
+        },
+        {
             "tower": "Bottom Pond, Wetwang, North Yorkshire",
+            "peals": 0,
+            "quarters": 2,
+            "other": 0,
+            "total": 2
+        },
+        {
+            "tower": "Chieveley (St Mary the Virgin), Berkshire",
+            "peals": 0,
+            "quarters": 2,
+            "other": 0,
+            "total": 2
+        },
+        {
+            "tower": "Escrick (St Helen), North Yorkshire",
             "peals": 0,
             "quarters": 2,
             "other": 0,
@@ -183,7 +218,35 @@
             "total": 2
         },
         {
+            "tower": "Midgham (St Matthew), Berkshire",
+            "peals": 0,
+            "quarters": 2,
+            "other": 0,
+            "total": 2
+        },
+        {
+            "tower": "Newbury (St Nicolas), Berkshire",
+            "peals": 0,
+            "quarters": 2,
+            "other": 0,
+            "total": 2
+        },
+        {
             "tower": "Owston Avenue, York, North Yorkshire",
+            "peals": 0,
+            "quarters": 2,
+            "other": 0,
+            "total": 2
+        },
+        {
+            "tower": "Pontefract (All Saints), West Yorkshire",
+            "peals": 0,
+            "quarters": 2,
+            "other": 0,
+            "total": 2
+        },
+        {
+            "tower": "Pontefract (St Giles), West Yorkshire",
             "peals": 0,
             "quarters": 2,
             "other": 0,
@@ -211,10 +274,31 @@
             "total": 2
         },
         {
+            "tower": "Thorpe Arch (All Saints), West Yorkshire",
+            "peals": 2,
+            "quarters": 0,
+            "other": 0,
+            "total": 2
+        },
+        {
             "tower": "Wath juxta Ripon (St Mary), North Yorkshire",
             "peals": 2,
             "quarters": 0,
             "other": 0,
+            "total": 2
+        },
+        {
+            "tower": "Weldon (St Mary), Northamptonshire",
+            "peals": 0,
+            "quarters": 2,
+            "other": 0,
+            "total": 2
+        },
+        {
+            "tower": "West Bridgford (St Giles), Nottinghamshire",
+            "peals": 0,
+            "quarters": 0,
+            "other": 2,
             "total": 2
         },
         {
@@ -288,31 +372,10 @@
             "total": 1
         },
         {
-            "tower": "All Saints, Wistow, North Yorkshire",
-            "peals": 0,
-            "quarters": 1,
-            "other": 0,
-            "total": 1
-        },
-        {
-            "tower": "Beenham (St Mary), Berkshire",
-            "peals": 0,
-            "quarters": 1,
-            "other": 0,
-            "total": 1
-        },
-        {
             "tower": "Between the Rook and Gaskill and Wetherspoons, York, ",
             "peals": 0,
             "quarters": 0,
             "other": 1,
-            "total": 1
-        },
-        {
-            "tower": "Bilborough (St Martin of Tours), Nottinghamshire",
-            "peals": 0,
-            "quarters": 1,
-            "other": 0,
             "total": 1
         },
         {
@@ -351,13 +414,6 @@
             "total": 1
         },
         {
-            "tower": "Chieveley (St Mary the Virgin), Berkshire",
-            "peals": 0,
-            "quarters": 1,
-            "other": 0,
-            "total": 1
-        },
-        {
             "tower": "Chiswick (St Nicholas), Greater London",
             "peals": 0,
             "quarters": 1,
@@ -373,13 +429,6 @@
         },
         {
             "tower": "Dunkirk (Red Light Ring), Nottinghamshire",
-            "peals": 0,
-            "quarters": 1,
-            "other": 0,
-            "total": 1
-        },
-        {
-            "tower": "Escrick (St Helen), North Yorkshire",
             "peals": 0,
             "quarters": 1,
             "other": 0,
@@ -414,20 +463,6 @@
             "total": 1
         },
         {
-            "tower": "Midgham (St Matthew), Berkshire",
-            "peals": 0,
-            "quarters": 1,
-            "other": 0,
-            "total": 1
-        },
-        {
-            "tower": "Newbury (St Nicolas), Berkshire",
-            "peals": 0,
-            "quarters": 1,
-            "other": 0,
-            "total": 1
-        },
-        {
             "tower": "Oratory Church of St Wilfrid, York, ",
             "peals": 0,
             "quarters": 1,
@@ -436,20 +471,6 @@
         },
         {
             "tower": "Pirbright (St Michael), Surrey",
-            "peals": 0,
-            "quarters": 1,
-            "other": 0,
-            "total": 1
-        },
-        {
-            "tower": "Pontefract (All Saints), West Yorkshire",
-            "peals": 0,
-            "quarters": 1,
-            "other": 0,
-            "total": 1
-        },
-        {
-            "tower": "Pontefract (St Giles), West Yorkshire",
             "peals": 0,
             "quarters": 1,
             "other": 0,
@@ -617,13 +638,6 @@
             "total": 1
         },
         {
-            "tower": "Thorpe Arch (All Saints), West Yorkshire",
-            "peals": 1,
-            "quarters": 0,
-            "other": 0,
-            "total": 1
-        },
-        {
             "tower": "University of York (East Campus), North Yorkshire",
             "peals": 0,
             "quarters": 0,
@@ -635,20 +649,6 @@
             "peals": 0,
             "quarters": 1,
             "other": 0,
-            "total": 1
-        },
-        {
-            "tower": "Weldon (St Mary), Northamptonshire",
-            "peals": 0,
-            "quarters": 1,
-            "other": 0,
-            "total": 1
-        },
-        {
-            "tower": "West Bridgford (St Giles), Nottinghamshire",
-            "peals": 0,
-            "quarters": 0,
-            "other": 1,
             "total": 1
         },
         {
@@ -709,9 +709,9 @@
         }
     ],
     "summary": {
-        "peals": 47,
-        "quarters": 681,
-        "other": 53,
-        "total": 781
+        "peals": 56,
+        "quarters": 818,
+        "other": 57,
+        "total": 931
     }
 }

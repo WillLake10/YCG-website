@@ -17,6 +17,13 @@
                 "total": 7
             },
             {
+                "tower": "All Saints, Wistow, North Yorkshire",
+                "peals": 0,
+                "quarters": 2,
+                "other": 0,
+                "total": 2
+            },
+            {
                 "tower": "St Lawrence Churchyard, York, North Yorkshire",
                 "peals": 0,
                 "quarters": 0,
@@ -32,13 +39,6 @@
             },
             {
                 "tower": "York (Cathedral and Metropolitical Church of St Peter), North Yorkshire",
-                "peals": 0,
-                "quarters": 1,
-                "other": 0,
-                "total": 1
-            },
-            {
-                "tower": "All Saints, Wistow, North Yorkshire",
                 "peals": 0,
                 "quarters": 1,
                 "other": 0,
@@ -61,9 +61,9 @@
         ],
         "summary": {
             "peals": 1,
-            "quarters": 15,
+            "quarters": 16,
             "other": 6,
-            "total": 22
+            "total": 23
         }
     },
     {
@@ -1315,9 +1315,9 @@
             {
                 "tower": "York (Oratory Church of St Wilfrid), North Yorkshire",
                 "peals": 0,
-                "quarters": 2,
+                "quarters": 3,
                 "other": 0,
-                "total": 2
+                "total": 3
             },
             {
                 "tower": "York (St Lawrence), North Yorkshire",
@@ -1336,9 +1336,9 @@
         ],
         "summary": {
             "peals": 0,
-            "quarters": 7,
+            "quarters": 8,
             "other": 1,
-            "total": 8
+            "total": 9
         }
     },
     {
@@ -1347,9 +1347,90 @@
             {
                 "tower": "York (Former St John (Arts Center)), Yorkshire",
                 "peals": 0,
-                "quarters": 3,
+                "quarters": 5,
                 "other": 0,
-                "total": 3
+                "total": 5
+            },
+            {
+                "tower": "Stockton-on-the-Forest (Holy Trinity), North Yorkshire",
+                "peals": 0,
+                "quarters": 4,
+                "other": 0,
+                "total": 4
+            },
+            {
+                "tower": "York (St Martin le Grand, Coney Street), North Yorkshire",
+                "peals": 0,
+                "quarters": 2,
+                "other": 0,
+                "total": 2
+            },
+            {
+                "tower": "York (Oratory Church of St Wilfrid), North Yorkshire",
+                "peals": 0,
+                "quarters": 2,
+                "other": 0,
+                "total": 2
+            },
+            {
+                "tower": "York (Spurriergate Centre), North Yorkshire",
+                "peals": 0,
+                "quarters": 1,
+                "other": 0,
+                "total": 1
+            }
+        ],
+        "summary": {
+            "peals": 0,
+            "quarters": 14,
+            "other": 0,
+            "total": 14
+        }
+    },
+    {
+        "academic_year": "1999/00",
+        "tower": [
+            {
+                "tower": "York (Spurriergate Centre), North Yorkshire",
+                "peals": 0,
+                "quarters": 6,
+                "other": 0,
+                "total": 6
+            },
+            {
+                "tower": "Thorpe Arch (All Saints), West Yorkshire",
+                "peals": 2,
+                "quarters": 0,
+                "other": 0,
+                "total": 2
+            },
+            {
+                "tower": "Newbury (St Nicolas), Berkshire",
+                "peals": 0,
+                "quarters": 2,
+                "other": 0,
+                "total": 2
+            },
+            {
+                "tower": "Midgham (St Matthew), Berkshire",
+                "peals": 0,
+                "quarters": 2,
+                "other": 0,
+                "total": 2
+            },
+            {
+                "tower": "Beenham (St Mary), Berkshire",
+                "peals": 0,
+                "quarters": 2,
+                "other": 0,
+                "total": 2
+            },
+            {
+                "tower": "Chieveley (St Mary the Virgin), Berkshire",
+                "peals": 0,
+                "quarters": 2,
+                "other": 0,
+                "total": 2
             },
             {
                 "tower": "Stockton-on-the-Forest (Holy Trinity), North Yorkshire",
@@ -1359,25 +1440,265 @@
                 "total": 2
             },
             {
+                "tower": "York (All Saints, North Street), North Yorkshire",
+                "peals": 0,
+                "quarters": 2,
+                "other": 0,
+                "total": 2
+            }
+        ],
+        "summary": {
+            "peals": 2,
+            "quarters": 18,
+            "other": 0,
+            "total": 20
+        }
+    },
+    {
+        "academic_year": "1998/99",
+        "tower": [
+            {
                 "tower": "York (St Martin le Grand, Coney Street), North Yorkshire",
                 "peals": 0,
-                "quarters": 1,
-                "other": 0,
-                "total": 1
+                "quarters": 10,
+                "other": 2,
+                "total": 12
             },
             {
                 "tower": "York (Spurriergate Centre), North Yorkshire",
                 "peals": 0,
-                "quarters": 1,
+                "quarters": 10,
                 "other": 0,
-                "total": 1
+                "total": 10
+            },
+            {
+                "tower": "Acomb (St Stephen), North Yorkshire",
+                "peals": 0,
+                "quarters": 4,
+                "other": 0,
+                "total": 4
+            },
+            {
+                "tower": "Strensall (St Mary the Virgin), North Yorkshire",
+                "peals": 0,
+                "quarters": 2,
+                "other": 0,
+                "total": 2
+            },
+            {
+                "tower": "York (St Andrew, Bishopthorpe), North Yorkshire",
+                "peals": 0,
+                "quarters": 2,
+                "other": 0,
+                "total": 2
             },
             {
                 "tower": "York (Oratory Church of St Wilfrid), North Yorkshire",
                 "peals": 0,
+                "quarters": 2,
+                "other": 0,
+                "total": 2
+            },
+            {
+                "tower": "West Bridgford (St Giles), Nottinghamshire",
+                "peals": 0,
+                "quarters": 0,
+                "other": 2,
+                "total": 2
+            },
+            {
+                "tower": "York (St Philip and St James, Clifton), North Yorkshire",
+                "peals": 0,
                 "quarters": 1,
                 "other": 0,
                 "total": 1
+            }
+        ],
+        "summary": {
+            "peals": 0,
+            "quarters": 31,
+            "other": 4,
+            "total": 35
+        }
+    },
+    {
+        "academic_year": "1997/98",
+        "tower": [
+            {
+                "tower": "York (Spurriergate Centre), North Yorkshire",
+                "peals": 0,
+                "quarters": 8,
+                "other": 0,
+                "total": 8
+            },
+            {
+                "tower": "Acomb (St Stephen), North Yorkshire",
+                "peals": 0,
+                "quarters": 2,
+                "other": 0,
+                "total": 2
+            },
+            {
+                "tower": "York (St Olave, Marygate), North Yorkshire",
+                "peals": 0,
+                "quarters": 2,
+                "other": 0,
+                "total": 2
+            },
+            {
+                "tower": "York (Former St John (Arts Center)), Yorkshire",
+                "peals": 0,
+                "quarters": 2,
+                "other": 0,
+                "total": 2
+            },
+            {
+                "tower": "York (Cathedral and Metropolitical Church of St Peter), North Yorkshire",
+                "peals": 0,
+                "quarters": 2,
+                "other": 0,
+                "total": 2
+            },
+            {
+                "tower": "York (All Saints, North Street), North Yorkshire",
+                "peals": 0,
+                "quarters": 2,
+                "other": 0,
+                "total": 2
+            },
+            {
+                "tower": "Huntington (All Saints), North Yorkshire",
+                "peals": 0,
+                "quarters": 2,
+                "other": 0,
+                "total": 2
+            }
+        ],
+        "summary": {
+            "peals": 0,
+            "quarters": 20,
+            "other": 0,
+            "total": 20
+        }
+    },
+    {
+        "academic_year": "1996/97",
+        "tower": [
+            {
+                "tower": "York (Spurriergate Centre), North Yorkshire",
+                "peals": 2,
+                "quarters": 8,
+                "other": 0,
+                "total": 10
+            },
+            {
+                "tower": "York (St Olave, Marygate), North Yorkshire",
+                "peals": 0,
+                "quarters": 6,
+                "other": 0,
+                "total": 6
+            },
+            {
+                "tower": "York (St Martin le Grand, Coney Street), North Yorkshire",
+                "peals": 0,
+                "quarters": 6,
+                "other": 0,
+                "total": 6
+            },
+            {
+                "tower": "York (Oratory Church of St Wilfrid), North Yorkshire",
+                "peals": 0,
+                "quarters": 6,
+                "other": 0,
+                "total": 6
+            },
+            {
+                "tower": "York (Former St John (Arts Center)), Yorkshire",
+                "peals": 0,
+                "quarters": 4,
+                "other": 0,
+                "total": 4
+            },
+            {
+                "tower": "Acomb (St Stephen), North Yorkshire",
+                "peals": 0,
+                "quarters": 2,
+                "other": 0,
+                "total": 2
+            },
+            {
+                "tower": "Strensall (St Mary the Virgin), North Yorkshire",
+                "peals": 0,
+                "quarters": 2,
+                "other": 0,
+                "total": 2
+            },
+            {
+                "tower": "Bilborough (St Martin of Tours), Nottinghamshire",
+                "peals": 0,
+                "quarters": 2,
+                "other": 0,
+                "total": 2
+            },
+            {
+                "tower": "York (St Andrew, Bishopthorpe), North Yorkshire",
+                "peals": 0,
+                "quarters": 2,
+                "other": 0,
+                "total": 2
+            },
+            {
+                "tower": "York (All Saints, North Street), North Yorkshire",
+                "peals": 0,
+                "quarters": 2,
+                "other": 0,
+                "total": 2
+            },
+            {
+                "tower": "York (Cathedral and Metropolitical Church of St Peter), North Yorkshire",
+                "peals": 0,
+                "quarters": 0,
+                "other": 1,
+                "total": 1
+            }
+        ],
+        "summary": {
+            "peals": 2,
+            "quarters": 40,
+            "other": 1,
+            "total": 43
+        }
+    },
+    {
+        "academic_year": "1995/96",
+        "tower": [
+            {
+                "tower": "York (St Philip and St James, Clifton), North Yorkshire",
+                "peals": 0,
+                "quarters": 2,
+                "other": 0,
+                "total": 2
+            },
+            {
+                "tower": "York (St Martin le Grand, Coney Street), North Yorkshire",
+                "peals": 0,
+                "quarters": 2,
+                "other": 0,
+                "total": 2
+            },
+            {
+                "tower": "York (St Andrew, Bishopthorpe), North Yorkshire",
+                "peals": 0,
+                "quarters": 2,
+                "other": 0,
+                "total": 2
+            },
+            {
+                "tower": "York (Former St John (Arts Center)), Yorkshire",
+                "peals": 0,
+                "quarters": 2,
+                "other": 0,
+                "total": 2
             }
         ],
         "summary": {
@@ -1388,142 +1709,15 @@
         }
     },
     {
-        "academic_year": "1999/00",
+        "academic_year": "1994/95",
         "tower": [
             {
-                "tower": "York (Spurriergate Centre), North Yorkshire",
+                "tower": "York (Former St John (Arts Center)), Yorkshire",
                 "peals": 0,
-                "quarters": 3,
+                "quarters": 6,
                 "other": 0,
-                "total": 3
-            },
-            {
-                "tower": "Thorpe Arch (All Saints), West Yorkshire",
-                "peals": 1,
-                "quarters": 0,
-                "other": 0,
-                "total": 1
-            },
-            {
-                "tower": "Newbury (St Nicolas), Berkshire",
-                "peals": 0,
-                "quarters": 1,
-                "other": 0,
-                "total": 1
-            },
-            {
-                "tower": "Midgham (St Matthew), Berkshire",
-                "peals": 0,
-                "quarters": 1,
-                "other": 0,
-                "total": 1
-            },
-            {
-                "tower": "Beenham (St Mary), Berkshire",
-                "peals": 0,
-                "quarters": 1,
-                "other": 0,
-                "total": 1
-            },
-            {
-                "tower": "Chieveley (St Mary the Virgin), Berkshire",
-                "peals": 0,
-                "quarters": 1,
-                "other": 0,
-                "total": 1
-            },
-            {
-                "tower": "Stockton-on-the-Forest (Holy Trinity), North Yorkshire",
-                "peals": 0,
-                "quarters": 1,
-                "other": 0,
-                "total": 1
-            },
-            {
-                "tower": "York (All Saints, North Street), North Yorkshire",
-                "peals": 0,
-                "quarters": 1,
-                "other": 0,
-                "total": 1
-            }
-        ],
-        "summary": {
-            "peals": 1,
-            "quarters": 9,
-            "other": 0,
-            "total": 10
-        }
-    },
-    {
-        "academic_year": "1998/99",
-        "tower": [
-            {
-                "tower": "York (St Martin le Grand, Coney Street), North Yorkshire",
-                "peals": 0,
-                "quarters": 5,
-                "other": 1,
                 "total": 6
             },
-            {
-                "tower": "York (Spurriergate Centre), North Yorkshire",
-                "peals": 0,
-                "quarters": 5,
-                "other": 0,
-                "total": 5
-            },
-            {
-                "tower": "Acomb (St Stephen), North Yorkshire",
-                "peals": 0,
-                "quarters": 2,
-                "other": 0,
-                "total": 2
-            },
-            {
-                "tower": "York (St Philip and St James, Clifton), North Yorkshire",
-                "peals": 0,
-                "quarters": 1,
-                "other": 0,
-                "total": 1
-            },
-            {
-                "tower": "Strensall (St Mary the Virgin), North Yorkshire",
-                "peals": 0,
-                "quarters": 1,
-                "other": 0,
-                "total": 1
-            },
-            {
-                "tower": "York (St Andrew, Bishopthorpe), North Yorkshire",
-                "peals": 0,
-                "quarters": 1,
-                "other": 0,
-                "total": 1
-            },
-            {
-                "tower": "York (Oratory Church of St Wilfrid), North Yorkshire",
-                "peals": 0,
-                "quarters": 1,
-                "other": 0,
-                "total": 1
-            },
-            {
-                "tower": "West Bridgford (St Giles), Nottinghamshire",
-                "peals": 0,
-                "quarters": 0,
-                "other": 1,
-                "total": 1
-            }
-        ],
-        "summary": {
-            "peals": 0,
-            "quarters": 16,
-            "other": 2,
-            "total": 18
-        }
-    },
-    {
-        "academic_year": "1997/98",
-        "tower": [
             {
                 "tower": "York (Spurriergate Centre), North Yorkshire",
                 "peals": 0,
@@ -1532,212 +1726,18 @@
                 "total": 4
             },
             {
-                "tower": "Acomb (St Stephen), North Yorkshire",
-                "peals": 0,
-                "quarters": 1,
-                "other": 0,
-                "total": 1
-            },
-            {
-                "tower": "York (St Olave, Marygate), North Yorkshire",
-                "peals": 0,
-                "quarters": 1,
-                "other": 0,
-                "total": 1
-            },
-            {
-                "tower": "York (Former St John (Arts Center)), Yorkshire",
-                "peals": 0,
-                "quarters": 1,
-                "other": 0,
-                "total": 1
-            },
-            {
-                "tower": "York (Cathedral and Metropolitical Church of St Peter), North Yorkshire",
-                "peals": 0,
-                "quarters": 1,
-                "other": 0,
-                "total": 1
-            },
-            {
-                "tower": "York (All Saints, North Street), North Yorkshire",
-                "peals": 0,
-                "quarters": 1,
-                "other": 0,
-                "total": 1
-            },
-            {
-                "tower": "Huntington (All Saints), North Yorkshire",
-                "peals": 0,
-                "quarters": 1,
-                "other": 0,
-                "total": 1
-            }
-        ],
-        "summary": {
-            "peals": 0,
-            "quarters": 10,
-            "other": 0,
-            "total": 10
-        }
-    },
-    {
-        "academic_year": "1996/97",
-        "tower": [
-            {
-                "tower": "York (Spurriergate Centre), North Yorkshire",
-                "peals": 1,
-                "quarters": 4,
-                "other": 0,
-                "total": 5
-            },
-            {
-                "tower": "York (St Olave, Marygate), North Yorkshire",
-                "peals": 0,
-                "quarters": 3,
-                "other": 0,
-                "total": 3
-            },
-            {
                 "tower": "York (St Martin le Grand, Coney Street), North Yorkshire",
-                "peals": 0,
-                "quarters": 3,
-                "other": 0,
-                "total": 3
-            },
-            {
-                "tower": "York (Oratory Church of St Wilfrid), North Yorkshire",
-                "peals": 0,
-                "quarters": 3,
-                "other": 0,
-                "total": 3
-            },
-            {
-                "tower": "York (Former St John (Arts Center)), Yorkshire",
                 "peals": 0,
                 "quarters": 2,
                 "other": 0,
                 "total": 2
-            },
-            {
-                "tower": "Acomb (St Stephen), North Yorkshire",
-                "peals": 0,
-                "quarters": 1,
-                "other": 0,
-                "total": 1
-            },
-            {
-                "tower": "Strensall (St Mary the Virgin), North Yorkshire",
-                "peals": 0,
-                "quarters": 1,
-                "other": 0,
-                "total": 1
-            },
-            {
-                "tower": "Bilborough (St Martin of Tours), Nottinghamshire",
-                "peals": 0,
-                "quarters": 1,
-                "other": 0,
-                "total": 1
-            },
-            {
-                "tower": "York (St Andrew, Bishopthorpe), North Yorkshire",
-                "peals": 0,
-                "quarters": 1,
-                "other": 0,
-                "total": 1
-            },
-            {
-                "tower": "York (All Saints, North Street), North Yorkshire",
-                "peals": 0,
-                "quarters": 1,
-                "other": 0,
-                "total": 1
-            },
-            {
-                "tower": "York (Cathedral and Metropolitical Church of St Peter), North Yorkshire",
-                "peals": 0,
-                "quarters": 0,
-                "other": 1,
-                "total": 1
-            }
-        ],
-        "summary": {
-            "peals": 1,
-            "quarters": 20,
-            "other": 1,
-            "total": 22
-        }
-    },
-    {
-        "academic_year": "1995/96",
-        "tower": [
-            {
-                "tower": "York (St Philip and St James, Clifton), North Yorkshire",
-                "peals": 0,
-                "quarters": 1,
-                "other": 0,
-                "total": 1
-            },
-            {
-                "tower": "York (St Martin le Grand, Coney Street), North Yorkshire",
-                "peals": 0,
-                "quarters": 1,
-                "other": 0,
-                "total": 1
-            },
-            {
-                "tower": "York (St Andrew, Bishopthorpe), North Yorkshire",
-                "peals": 0,
-                "quarters": 1,
-                "other": 0,
-                "total": 1
-            },
-            {
-                "tower": "York (Former St John (Arts Center)), Yorkshire",
-                "peals": 0,
-                "quarters": 1,
-                "other": 0,
-                "total": 1
             }
         ],
         "summary": {
             "peals": 0,
-            "quarters": 4,
+            "quarters": 12,
             "other": 0,
-            "total": 4
-        }
-    },
-    {
-        "academic_year": "1994/95",
-        "tower": [
-            {
-                "tower": "York (Former St John (Arts Center)), Yorkshire",
-                "peals": 0,
-                "quarters": 3,
-                "other": 0,
-                "total": 3
-            },
-            {
-                "tower": "York (Spurriergate Centre), North Yorkshire",
-                "peals": 0,
-                "quarters": 2,
-                "other": 0,
-                "total": 2
-            },
-            {
-                "tower": "York (St Martin le Grand, Coney Street), North Yorkshire",
-                "peals": 0,
-                "quarters": 1,
-                "other": 0,
-                "total": 1
-            }
-        ],
-        "summary": {
-            "peals": 0,
-            "quarters": 6,
-            "other": 0,
-            "total": 6
+            "total": 12
         }
     },
     {
@@ -1746,23 +1746,23 @@
             {
                 "tower": "York (Spurriergate Centre), North Yorkshire",
                 "peals": 0,
-                "quarters": 6,
+                "quarters": 10,
                 "other": 0,
-                "total": 6
+                "total": 10
             },
             {
                 "tower": "Huntington (All Saints), North Yorkshire",
                 "peals": 0,
-                "quarters": 1,
+                "quarters": 2,
                 "other": 0,
-                "total": 1
+                "total": 2
             }
         ],
         "summary": {
             "peals": 0,
-            "quarters": 7,
+            "quarters": 12,
             "other": 0,
-            "total": 7
+            "total": 12
         }
     },
     {
@@ -1771,9 +1771,23 @@
             {
                 "tower": "York (Spurriergate Centre), North Yorkshire",
                 "peals": 0,
-                "quarters": 7,
+                "quarters": 14,
                 "other": 0,
-                "total": 7
+                "total": 14
+            },
+            {
+                "tower": "York (Former St John (Arts Center)), Yorkshire",
+                "peals": 0,
+                "quarters": 3,
+                "other": 0,
+                "total": 3
+            },
+            {
+                "tower": "Strensall (St Mary the Virgin), North Yorkshire",
+                "peals": 0,
+                "quarters": 2,
+                "other": 0,
+                "total": 2
             },
             {
                 "tower": "Nunburnholme (St James), East Riding of Yorkshire",
@@ -1783,32 +1797,18 @@
                 "total": 2
             },
             {
-                "tower": "York (Former St John (Arts Center)), Yorkshire",
-                "peals": 0,
-                "quarters": 2,
-                "other": 0,
-                "total": 2
-            },
-            {
                 "tower": "York (All Saints, North Street), North Yorkshire",
                 "peals": 1,
                 "quarters": 0,
-                "other": 0,
-                "total": 1
-            },
-            {
-                "tower": "Strensall (St Mary the Virgin), North Yorkshire",
-                "peals": 0,
-                "quarters": 1,
                 "other": 0,
                 "total": 1
             }
         ],
         "summary": {
             "peals": 1,
-            "quarters": 12,
+            "quarters": 21,
             "other": 0,
-            "total": 13
+            "total": 22
         }
     },
     {
@@ -1817,51 +1817,51 @@
             {
                 "tower": "York (Spurriergate Centre), North Yorkshire",
                 "peals": 1,
-                "quarters": 9,
+                "quarters": 18,
                 "other": 0,
-                "total": 10
+                "total": 19
             },
             {
                 "tower": "York (St Martin le Grand, Coney Street), North Yorkshire",
                 "peals": 0,
-                "quarters": 2,
+                "quarters": 4,
                 "other": 0,
-                "total": 2
+                "total": 4
             },
             {
                 "tower": "York (All Saints, North Street), North Yorkshire",
                 "peals": 0,
+                "quarters": 3,
+                "other": 0,
+                "total": 3
+            },
+            {
+                "tower": "Weldon (St Mary), Northamptonshire",
+                "peals": 0,
                 "quarters": 2,
                 "other": 0,
                 "total": 2
             },
             {
-                "tower": "Weldon (St Mary), Northamptonshire",
-                "peals": 0,
-                "quarters": 1,
-                "other": 0,
-                "total": 1
-            },
-            {
                 "tower": "York (Former St John (Arts Center)), Yorkshire",
                 "peals": 0,
-                "quarters": 1,
+                "quarters": 2,
                 "other": 0,
-                "total": 1
+                "total": 2
             },
             {
                 "tower": "Huntington (All Saints), North Yorkshire",
                 "peals": 0,
-                "quarters": 1,
+                "quarters": 2,
                 "other": 0,
-                "total": 1
+                "total": 2
             }
         ],
         "summary": {
             "peals": 1,
-            "quarters": 16,
+            "quarters": 31,
             "other": 0,
-            "total": 17
+            "total": 32
         }
     },
     {
@@ -1870,72 +1870,72 @@
             {
                 "tower": "York (Spurriergate Centre), North Yorkshire",
                 "peals": 0,
-                "quarters": 3,
+                "quarters": 6,
                 "other": 0,
-                "total": 3
+                "total": 6
             },
             {
                 "tower": "York (Former St John (Arts Center)), Yorkshire",
-                "peals": 1,
-                "quarters": 1,
+                "peals": 2,
+                "quarters": 2,
                 "other": 0,
-                "total": 2
+                "total": 4
             },
             {
                 "tower": "Acomb (St Stephen), North Yorkshire",
                 "peals": 0,
-                "quarters": 1,
+                "quarters": 2,
                 "other": 0,
-                "total": 1
+                "total": 2
             },
             {
                 "tower": "York (St Philip and St James, Clifton), North Yorkshire",
                 "peals": 0,
-                "quarters": 1,
+                "quarters": 2,
                 "other": 0,
-                "total": 1
+                "total": 2
             },
             {
                 "tower": "York (St Olave, Marygate), North Yorkshire",
                 "peals": 0,
-                "quarters": 1,
+                "quarters": 2,
                 "other": 0,
-                "total": 1
+                "total": 2
             },
             {
                 "tower": "Pontefract (St Giles), West Yorkshire",
                 "peals": 0,
-                "quarters": 1,
+                "quarters": 2,
                 "other": 0,
-                "total": 1
+                "total": 2
             },
             {
                 "tower": "York (St Andrew, Bishopthorpe), North Yorkshire",
                 "peals": 0,
-                "quarters": 1,
+                "quarters": 2,
                 "other": 0,
-                "total": 1
+                "total": 2
             },
             {
                 "tower": "Rufforth (All Saints), North Yorkshire",
                 "peals": 0,
-                "quarters": 1,
+                "quarters": 2,
                 "other": 0,
-                "total": 1
+                "total": 2
             },
             {
                 "tower": "Pontefract (All Saints), West Yorkshire",
                 "peals": 0,
-                "quarters": 1,
+                "quarters": 2,
                 "other": 0,
-                "total": 1
+                "total": 2
             }
         ],
         "summary": {
-            "peals": 1,
-            "quarters": 11,
+            "peals": 2,
+            "quarters": 22,
             "other": 0,
-            "total": 12
+            "total": 24
         }
     },
     {
@@ -1944,14 +1944,21 @@
             {
                 "tower": "York (Spurriergate Centre), North Yorkshire",
                 "peals": 0,
-                "quarters": 7,
+                "quarters": 11,
                 "other": 0,
-                "total": 7
+                "total": 11
             },
             {
                 "tower": "York (Former St John (Arts Center)), Yorkshire",
-                "peals": 1,
-                "quarters": 1,
+                "peals": 2,
+                "quarters": 2,
+                "other": 0,
+                "total": 4
+            },
+            {
+                "tower": "York (St Martin le Grand, Coney Street), North Yorkshire",
+                "peals": 0,
+                "quarters": 2,
                 "other": 0,
                 "total": 2
             },
@@ -1984,13 +1991,6 @@
                 "total": 1
             },
             {
-                "tower": "York (St Martin le Grand, Coney Street), North Yorkshire",
-                "peals": 0,
-                "quarters": 1,
-                "other": 0,
-                "total": 1
-            },
-            {
                 "tower": "St Andrew, Cobham, Surrey",
                 "peals": 0,
                 "quarters": 1,
@@ -1999,10 +1999,10 @@
             }
         ],
         "summary": {
-            "peals": 2,
-            "quarters": 13,
+            "peals": 3,
+            "quarters": 19,
             "other": 0,
-            "total": 15
+            "total": 22
         }
     },
     {
@@ -2042,10 +2042,10 @@
         "tower": [
             {
                 "tower": "York (Former St John (Arts Center)), Yorkshire",
-                "peals": 2,
+                "peals": 3,
                 "quarters": 0,
                 "other": 0,
-                "total": 2
+                "total": 3
             },
             {
                 "tower": "York (St Martin le Grand, Coney Street), North Yorkshire",
@@ -2056,10 +2056,10 @@
             }
         ],
         "summary": {
-            "peals": 2,
+            "peals": 3,
             "quarters": 1,
             "other": 0,
-            "total": 3
+            "total": 4
         }
     },
     {
@@ -2068,9 +2068,9 @@
             {
                 "tower": "Kirby Hill (All Saints), North Yorkshire",
                 "peals": 0,
-                "quarters": 2,
+                "quarters": 3,
                 "other": 0,
-                "total": 2
+                "total": 3
             },
             {
                 "tower": "Birstwith (St James the Apostle), North Yorkshire",
@@ -2082,9 +2082,9 @@
         ],
         "summary": {
             "peals": 1,
-            "quarters": 2,
+            "quarters": 3,
             "other": 0,
-            "total": 3
+            "total": 4
         }
     },
     {
@@ -2175,9 +2175,9 @@
             {
                 "tower": "York (Former St John (Arts Center)), Yorkshire",
                 "peals": 0,
-                "quarters": 15,
+                "quarters": 17,
                 "other": 0,
-                "total": 15
+                "total": 17
             },
             {
                 "tower": "Broughton in Craven (All Saints), North Yorkshire",
@@ -2210,27 +2210,27 @@
         ],
         "summary": {
             "peals": 5,
-            "quarters": 16,
+            "quarters": 18,
             "other": 0,
-            "total": 21
+            "total": 23
         }
     },
     {
         "academic_year": "1975/76",
         "tower": [
             {
+                "tower": "Nunburnholme (St James), East Riding of Yorkshire",
+                "peals": 2,
+                "quarters": 0,
+                "other": 0,
+                "total": 2
+            },
+            {
                 "tower": "York (Former St John (Arts Center)), Yorkshire",
                 "peals": 0,
                 "quarters": 2,
                 "other": 0,
                 "total": 2
-            },
-            {
-                "tower": "Nunburnholme (St James), East Riding of Yorkshire",
-                "peals": 1,
-                "quarters": 0,
-                "other": 0,
-                "total": 1
             },
             {
                 "tower": "Broughton in Craven (All Saints), North Yorkshire",
@@ -2241,10 +2241,10 @@
             }
         ],
         "summary": {
-            "peals": 2,
+            "peals": 3,
             "quarters": 2,
             "other": 0,
-            "total": 4
+            "total": 5
         }
     },
     {
@@ -2253,23 +2253,23 @@
             {
                 "tower": "York (Former St John (Arts Center)), Yorkshire",
                 "peals": 0,
-                "quarters": 3,
+                "quarters": 4,
                 "other": 0,
-                "total": 3
+                "total": 4
             },
             {
                 "tower": "York (Cathedral and Metropolitical Church of St Peter), North Yorkshire",
                 "peals": 0,
-                "quarters": 1,
+                "quarters": 2,
                 "other": 0,
-                "total": 1
+                "total": 2
             }
         ],
         "summary": {
             "peals": 0,
-            "quarters": 4,
+            "quarters": 6,
             "other": 0,
-            "total": 4
+            "total": 6
         }
     },
     {
@@ -2278,37 +2278,37 @@
             {
                 "tower": "York (Former St John (Arts Center)), Yorkshire",
                 "peals": 0,
-                "quarters": 3,
-                "other": 1,
-                "total": 4
+                "quarters": 4,
+                "other": 2,
+                "total": 6
             },
             {
                 "tower": "Escrick (St Helen), North Yorkshire",
                 "peals": 0,
-                "quarters": 1,
+                "quarters": 2,
                 "other": 0,
-                "total": 1
+                "total": 2
             },
             {
                 "tower": "York (Cathedral and Metropolitical Church of St Peter), North Yorkshire",
                 "peals": 0,
-                "quarters": 1,
+                "quarters": 2,
                 "other": 0,
-                "total": 1
+                "total": 2
             },
             {
                 "tower": "Huntington (All Saints), North Yorkshire",
                 "peals": 0,
-                "quarters": 1,
+                "quarters": 2,
                 "other": 0,
-                "total": 1
+                "total": 2
             }
         ],
         "summary": {
             "peals": 0,
-            "quarters": 6,
-            "other": 1,
-            "total": 7
+            "quarters": 10,
+            "other": 2,
+            "total": 12
         }
     },
     {
@@ -2316,9 +2316,23 @@
         "tower": [
             {
                 "tower": "York (Former St John (Arts Center)), Yorkshire",
-                "peals": 2,
+                "peals": 4,
                 "quarters": 0,
                 "other": 0,
+                "total": 4
+            },
+            {
+                "tower": "Nunburnholme (St James), East Riding of Yorkshire",
+                "peals": 0,
+                "quarters": 2,
+                "other": 0,
+                "total": 2
+            },
+            {
+                "tower": "York (Cathedral and Metropolitical Church of St Peter), North Yorkshire",
+                "peals": 0,
+                "quarters": 0,
+                "other": 2,
                 "total": 2
             },
             {
@@ -2327,27 +2341,13 @@
                 "quarters": 1,
                 "other": 0,
                 "total": 1
-            },
-            {
-                "tower": "Nunburnholme (St James), East Riding of Yorkshire",
-                "peals": 0,
-                "quarters": 1,
-                "other": 0,
-                "total": 1
-            },
-            {
-                "tower": "York (Cathedral and Metropolitical Church of St Peter), North Yorkshire",
-                "peals": 0,
-                "quarters": 0,
-                "other": 1,
-                "total": 1
             }
         ],
         "summary": {
-            "peals": 2,
-            "quarters": 2,
-            "other": 1,
-            "total": 5
+            "peals": 4,
+            "quarters": 3,
+            "other": 2,
+            "total": 9
         }
     },
     {
@@ -2374,65 +2374,65 @@
             {
                 "tower": "York (Cathedral and Metropolitical Church of St Peter), North Yorkshire",
                 "peals": 0,
-                "quarters": 2,
+                "quarters": 4,
                 "other": 0,
-                "total": 2
+                "total": 4
             },
             {
                 "tower": "York (Former St John (Arts Center)), Yorkshire",
                 "peals": 0,
+                "quarters": 4,
+                "other": 0,
+                "total": 4
+            },
+            {
+                "tower": "Acomb (St Stephen), North Yorkshire",
+                "peals": 0,
                 "quarters": 2,
                 "other": 0,
                 "total": 2
             },
             {
-                "tower": "Acomb (St Stephen), North Yorkshire",
-                "peals": 0,
-                "quarters": 1,
-                "other": 0,
-                "total": 1
-            },
-            {
                 "tower": "Huntington (All Saints), North Yorkshire",
                 "peals": 0,
-                "quarters": 1,
+                "quarters": 2,
                 "other": 0,
-                "total": 1
+                "total": 2
             }
         ],
         "summary": {
             "peals": 0,
-            "quarters": 6,
+            "quarters": 12,
             "other": 0,
-            "total": 6
+            "total": 12
         }
     },
     {
         "academic_year": "1969/70",
         "tower": [
             {
-                "tower": "St Mary, Anstey, Leicestershire",
-                "peals": 0,
-                "quarters": 1,
-                "other": 0,
-                "total": 1
-            },
-            {
                 "tower": "York (Former St John (Arts Center)), Yorkshire",
                 "peals": 0,
-                "quarters": 1,
+                "quarters": 2,
                 "other": 0,
-                "total": 1
+                "total": 2
             },
             {
                 "tower": "Huntington (All Saints), North Yorkshire",
                 "peals": 0,
-                "quarters": 1,
+                "quarters": 2,
                 "other": 0,
-                "total": 1
+                "total": 2
             },
             {
                 "tower": "Broughton in Craven (All Saints), North Yorkshire",
+                "peals": 0,
+                "quarters": 2,
+                "other": 0,
+                "total": 2
+            },
+            {
+                "tower": "St Mary, Anstey, Leicestershire",
                 "peals": 0,
                 "quarters": 1,
                 "other": 0,
@@ -2441,9 +2441,9 @@
         ],
         "summary": {
             "peals": 0,
-            "quarters": 4,
+            "quarters": 7,
             "other": 0,
-            "total": 4
+            "total": 7
         }
     }
 ]

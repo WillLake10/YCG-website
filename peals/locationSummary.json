@@ -554,6 +554,13 @@
             "total": 1
         },
         {
+            "tower": "St Mary the Virgin, Lowgate, Kingston upon Hull, East Riding of Yorkshire",
+            "peals": 0,
+            "quarters": 1,
+            "other": 0,
+            "total": 1
+        },
+        {
             "tower": "St Mary, Anstey, Leicestershire",
             "peals": 0,
             "quarters": 1,
@@ -710,8 +717,8 @@
     ],
     "summary": {
         "peals": 56,
-        "quarters": 818,
+        "quarters": 819,
         "other": 57,
-        "total": 931
+        "total": 932
     }
 }

@@ -24,9 +24,9 @@
         {
             "tower": "York (St Philip and St James, Clifton), North Yorkshire",
             "peals": 5,
-            "quarters": 11,
+            "quarters": 12,
             "other": 1,
-            "total": 17
+            "total": 18
         },
         {
             "tower": "Huntington (All Saints), North Yorkshire",
@@ -717,8 +717,8 @@
     ],
     "summary": {
         "peals": 56,
-        "quarters": 819,
+        "quarters": 820,
         "other": 57,
-        "total": 932
+        "total": 933
     }
 }

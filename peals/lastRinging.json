@@ -1,43 +1,44 @@
 {
     "academic_year": "2025/26",
     "type": 1,
-    "date": "Thursday, 18 June 2026",
-    "location": "St Philip and St James, Clifton, North Yorkshire",
-    "weight": "3-1-23 in Eb",
+    "date": "Wednesday, 22 July 2026",
+    "location": "Oratory Church of St Wilfrid, York, North Yorkshire",
+    "weight": "18-1-21 in F",
     "time": "38m",
     "changes": "1260",
-    "method": "Plain Bob Doubles",
-    "details": "",
+    "method": "Spliced Minor (3m)",
+    "details": "540 Plain Bob, 360 Little Bob, 360 St Clement's College Bob",
     "ringers": [
         {
-            "name": "Carys E Hoile (Constantine)",
+            "name": "Alison Edmonds (Staff)",
             "bell": "1"
         },
         {
-            "name": "Logan T S Anderson (SUGCR)",
+            "name": "Matthew W Thewsey (Modern Society of Plymouth Youths)",
             "bell": "2"
         },
         {
-            "name": "Natasha A Williams (Alcuin) (C)",
+            "name": "Francesca R Lee (Alcuin)",
             "bell": "3"
         },
         {
-            "name": "Alexander W Lister (Goodricke)",
+            "name": "Logan T S Anderson (SUGCR)",
             "bell": "4"
         },
         {
-            "name": "Alice Blackwell (DUSCR)",
+            "name": "Suzanne E Timms (Alcuin) (C)",
             "bell": "5"
         },
         {
-            "name": "L Paramonova (Wentworth)",
+            "name": "Joseph E T Waters (SUGCR)",
             "bell": "6"
         }
     ],
     "footnotes": [
-        "First Quarter: 6",
-        "First away from cover: 1"
+        "First as conductor of spliced",
+        "First of spliced minor: 3",
+        "Tower Circular: 2"
     ],
-    "id": "1982504",
-    "time_in_ms": 17817414
+    "id": "1990907",
+    "time_in_ms": 17846790
 }

@@ -1,20 +1,20 @@
 {
     "academic_year": "2025/26",
     "type": 1,
-    "date": "Wednesday, 22 July 2026",
+    "date": "Friday, 24 July 2026",
     "location": "Oratory Church of St Wilfrid, York, North Yorkshire",
     "weight": "18-1-21 in F",
-    "time": "38m",
-    "changes": "1260",
-    "method": "Spliced Minor (3m)",
-    "details": "540 Plain Bob, 360 Little Bob, 360 St Clement's College Bob",
+    "time": "44m",
+    "changes": "1271",
+    "method": "Primrose Surprise Minor",
+    "details": "",
     "ringers": [
         {
-            "name": "Alison Edmonds (Staff)",
+            "name": "Phil Stokoe (Staff)",
             "bell": "1"
         },
         {
-            "name": "Matthew W Thewsey (The Modern Society Of Plymouth Youths)",
+            "name": "Alice blackwell (LUSCR)",
             "bell": "2"
         },
         {
@@ -22,23 +22,19 @@
             "bell": "3"
         },
         {
-            "name": "Logan T S Anderson (SUGCR)",
+            "name": "Suzanne E Timms (Alcuin)",
             "bell": "4"
         },
         {
-            "name": "Suzanne E Timms (Alcuin) (C)",
+            "name": "Joseph E T Waters (SUGCR)",
             "bell": "5"
         },
         {
-            "name": "Joseph E T Waters (SUGCR)",
+            "name": "Logan T S Anderson (SUGCR) (C)",
             "bell": "6"
         }
     ],
-    "footnotes": [
-        "First as conductor of spliced",
-        "First of spliced minor: 3",
-        "Tower Circular: 2"
-    ],
-    "id": "1990999",
-    "time_in_ms": 17846790
+    "footnotes": [],
+    "id": "1991501",
+    "time_in_ms": 17848518
 }

@@ -1,32 +1,32 @@
 {
     "academic_year": "2025/26",
     "type": 1,
-    "date": "Friday, 24 July 2026",
+    "date": "Friday, 31 July 2026",
     "location": "Oratory Church of St Wilfrid, York, North Yorkshire",
     "weight": "18-1-21 in F",
-    "time": "44m",
-    "changes": "1271",
-    "method": "Primrose Surprise Minor",
+    "time": "53m",
+    "changes": "1368",
+    "method": "Norwich Surprise Minor",
     "details": "",
     "ringers": [
         {
-            "name": "Phil Stokoe (Staff)",
+            "name": "Iain J Anderson (CUG)",
             "bell": "1"
         },
         {
-            "name": "Alice blackwell (LUSCR)",
+            "name": "Francesca R Lee (Alcuin)",
             "bell": "2"
         },
         {
-            "name": "Francesca R Lee (Alcuin)",
+            "name": "Suzanne E Timms (Alcuin)",
             "bell": "3"
         },
         {
-            "name": "Suzanne E Timms (Alcuin)",
+            "name": "Phil Stokoe (Staff)",
             "bell": "4"
         },
         {
-            "name": "Joseph E T Waters (SUGCR)",
+            "name": "Ryan Mills (Halifax)",
             "bell": "5"
         },
         {
@@ -35,6 +35,6 @@
         }
     ],
     "footnotes": [],
-    "id": "1991501",
-    "time_in_ms": 17848518
+    "id": "1993660",
+    "time_in_ms": 17854566
 }

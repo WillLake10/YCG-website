@@ -1,20 +1,20 @@
 {
-    "academic_year": "2025/26",
+    "academic_year": "2026/27",
     "type": 1,
-    "date": "Friday, 31 July 2026",
-    "location": "Oratory Church of St Wilfrid, York, North Yorkshire",
-    "weight": "18-1-21 in F",
-    "time": "53m",
-    "changes": "1368",
-    "method": "Norwich Surprise Minor",
+    "date": "Friday, 18 September 2026",
+    "location": "St Lawrence, York, North Yorkshire",
+    "weight": "7-3-24 in A",
+    "time": "41m",
+    "changes": "1296",
+    "method": "Cromwell Surprise Minor",
     "details": "",
     "ringers": [
         {
-            "name": "Iain J Anderson (CUG)",
+            "name": "Francesca R Lee (Alcuin)",
             "bell": "1"
         },
         {
-            "name": "Francesca R Lee (Alcuin)",
+            "name": "Jacob Rudd (St John)",
             "bell": "2"
         },
         {
@@ -22,19 +22,22 @@
             "bell": "3"
         },
         {
-            "name": "Phil Stokoe (Staff)",
+            "name": "Alexander W Lister (Goodricke)",
             "bell": "4"
         },
         {
-            "name": "Ryan Mills (Halifax)",
+            "name": "Logan T S Anderson (SUGCR)",
             "bell": "5"
         },
         {
-            "name": "Logan T S Anderson (SUGCR) (C)",
+            "name": "Natasha A Williams (Alcuin) (C)",
             "bell": "6"
         }
     ],
-    "footnotes": [],
-    "id": "1993660",
-    "time_in_ms": 17854566
+    "footnotes": [
+        "First in method for all",
+        "The band would like to associate William M Regan with this quarter peal"
+    ],
+    "id": "2013420",
+    "time_in_ms": 17896902
 }

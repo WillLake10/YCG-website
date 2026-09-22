@@ -4,21 +4,21 @@
     "date": "Monday, 21 September 2026",
     "location": "Durham and Newcastle Diocesan Association Mini Ring, York (University of York), England",
     "weight": "10lb 11oz in G",
-    "time": "3m",
-    "changes": "120",
-    "method": "Plain Bob Doubles",
+    "time": "5m",
+    "changes": "",
+    "method": "Rounds and Call Changes",
     "details": "",
     "ringers": [
         {
-            "name": "Natasha A Williams (Alcuin) (C)",
+            "name": "Natasha A Williams (Alcuin)",
             "bell": "1"
         },
         {
-            "name": "Alexander W Lister (Goodricke)",
+            "name": "Natasha A Williams (Alcuin)",
             "bell": "2"
         },
         {
-            "name": "Suzanne E Timms (Alcuin)",
+            "name": "Francesca R Lee (Alcuin)",
             "bell": "3"
         },
         {
@@ -28,11 +28,21 @@
         {
             "name": "Jacob Rudd (St John)",
             "bell": "5"
+        },
+        {
+            "name": "Jacob Rudd (St John)",
+            "bell": "6"
+        },
+        {
+            "name": "Eileen G Robertson (Goodricke)",
+            "bell": "7"
+        },
+        {
+            "name": "Alexander W Lister (Goodricke)",
+            "bell": "8"
         }
     ],
-    "footnotes": [
-        "Celebrating successfully building it"
-    ],
-    "id": "2014210",
-    "time_in_ms": 17899493
+    "footnotes": [],
+    "id": "2014362",
+    "time_in_ms": 17899496
 }

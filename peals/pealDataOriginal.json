@@ -5,6 +5,178 @@
         "date": "Monday, 21 September 2026",
         "location": "Durham and Newcastle Diocesan Association Mini Ring, York (University of York), England",
         "weight": "10lb 11oz in G",
+        "time": "5m",
+        "changes": "",
+        "method": "Rounds and Call Changes",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Natasha A Williams (Alcuin)",
+                "bell": "1"
+            },
+            {
+                "name": "Natasha A Williams (Alcuin)",
+                "bell": "2"
+            },
+            {
+                "name": "Francesca R Lee (Alcuin)",
+                "bell": "3"
+            },
+            {
+                "name": "Francesca R Lee (Alcuin)",
+                "bell": "4"
+            },
+            {
+                "name": "Jacob Rudd (St John)",
+                "bell": "5"
+            },
+            {
+                "name": "Jacob Rudd (St John)",
+                "bell": "6"
+            },
+            {
+                "name": "Eileen G Robertson (Goodricke)",
+                "bell": "7"
+            },
+            {
+                "name": "Alexander W Lister (Goodricke)",
+                "bell": "8"
+            }
+        ],
+        "footnotes": [],
+        "id": "2014362",
+        "time_in_ms": 17899496
+    },
+    {
+        "academic_year": "2026/27",
+        "type": 2,
+        "date": "Monday, 21 September 2026",
+        "location": "Durham and Newcastle Diocesan Association Mini Ring, York (University of York), England",
+        "weight": "10lb 11oz in G",
+        "time": "2m",
+        "changes": "24",
+        "method": "Plain Hunt Minor",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Francesca R Lee (Alcuin) (C)",
+                "bell": "1"
+            },
+            {
+                "name": "Francesca R Lee (Alcuin) (C)",
+                "bell": "2"
+            },
+            {
+                "name": "Natasha A Williams (Alcuin)",
+                "bell": "3"
+            },
+            {
+                "name": "Natasha A Williams (Alcuin)",
+                "bell": "4"
+            },
+            {
+                "name": "Suzanne E Timms (Alcuin)",
+                "bell": "5"
+            },
+            {
+                "name": "Suzanne E Timms (Alcuin)",
+                "bell": "6"
+            }
+        ],
+        "footnotes": [
+            "First method double-handed for all"
+        ],
+        "id": "2014361",
+        "time_in_ms": 17899494
+    },
+    {
+        "academic_year": "2026/27",
+        "type": 2,
+        "date": "Monday, 21 September 2026",
+        "location": "Durham and Newcastle Diocesan Association Mini Ring, York (University of York), England",
+        "weight": "10lb 11oz in G",
+        "time": "5m",
+        "changes": "",
+        "method": "Rounds and Call Changes",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Francesca R Lee (Alcuin)",
+                "bell": "1"
+            },
+            {
+                "name": "Francesca R Lee (Alcuin)",
+                "bell": "2"
+            },
+            {
+                "name": "Suzanne E Timms (Alcuin)",
+                "bell": "3"
+            },
+            {
+                "name": "Suzanne E Timms (Alcuin)",
+                "bell": "4"
+            },
+            {
+                "name": "Natasha A Williams (Alcuin) (C)",
+                "bell": "5"
+            },
+            {
+                "name": "Natasha A Williams (Alcuin) (C)",
+                "bell": "6"
+            }
+        ],
+        "footnotes": [
+            "First double handling for all"
+        ],
+        "id": "2014248",
+        "time_in_ms": 17899494
+    },
+    {
+        "academic_year": "2026/27",
+        "type": 2,
+        "date": "Monday, 21 September 2026",
+        "location": "Durham and Newcastle Diocesan Association Mini Ring, York (University of York), England",
+        "weight": "10lb 11oz in G",
+        "time": "2m",
+        "changes": "36",
+        "method": "Plain Bob Minor",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Suzanne E Timms (Alcuin)",
+                "bell": "1"
+            },
+            {
+                "name": "Alexander W Lister (Goodricke)",
+                "bell": "2"
+            },
+            {
+                "name": "Jacob Rudd (St John)",
+                "bell": "3"
+            },
+            {
+                "name": "Natasha A Williams (Alcuin) (C)",
+                "bell": "4"
+            },
+            {
+                "name": "Alison L Edmonds (Staff)",
+                "bell": "5"
+            },
+            {
+                "name": "Francesca R Lee (Alcuin)",
+                "bell": "6"
+            }
+        ],
+        "footnotes": [],
+        "id": "2014238",
+        "time_in_ms": 17899494
+    },
+    {
+        "academic_year": "2026/27",
+        "type": 2,
+        "date": "Monday, 21 September 2026",
+        "location": "Durham and Newcastle Diocesan Association Mini Ring, York (University of York), England",
+        "weight": "10lb 11oz in G",
         "time": "3m",
         "changes": "120",
         "method": "Plain Bob Doubles",
@@ -36,6 +208,75 @@
         ],
         "id": "2014210",
         "time_in_ms": 17899493
+    },
+    {
+        "academic_year": "2026/27",
+        "type": 2,
+        "date": "Monday, 21 September 2026",
+        "location": "Durham and Newcastle Diocesan Association Mini Ring, York (University of York), England",
+        "weight": "10lb 11oz in G",
+        "time": "",
+        "changes": "36",
+        "method": "Phantom F4 Alliance Minimus",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Francesca R Lee (Alcuin)",
+                "bell": "1"
+            },
+            {
+                "name": "Jacob Rudd (YSJ)",
+                "bell": "2"
+            },
+            {
+                "name": "Alexander W Lister (Goodricke) (C)",
+                "bell": "3"
+            },
+            {
+                "name": "Natasha A Williams (Alcuin)",
+                "bell": "4"
+            }
+        ],
+        "footnotes": [
+            "With best wishes to William M Regan (Friend) for his shift on an LNER train"
+        ],
+        "id": "2014318",
+        "time_in_ms": 17899492
+    },
+    {
+        "academic_year": "2026/27",
+        "type": 2,
+        "date": "Monday, 21 September 2026",
+        "location": "Durham and Newcastle Diocesan Association Mini Ring, York (University of York), England",
+        "weight": "10lb 11oz in G",
+        "time": "0\u00bd",
+        "changes": "24",
+        "method": "Guisborough Treble Place Minimus",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Francesca R Lee (Alcuin)",
+                "bell": "1"
+            },
+            {
+                "name": "Jacob Rudd (YSJ) (C)",
+                "bell": "2"
+            },
+            {
+                "name": "Alexander W Lister (Goodricke)",
+                "bell": "3"
+            },
+            {
+                "name": "Natasha A Williams (Alcuin)",
+                "bell": "4"
+            }
+        ],
+        "footnotes": [
+            "First method rang named after his hometown - 2",
+            "In memorium of letting students loose on a mini-ring. "
+        ],
+        "id": "2014317",
+        "time_in_ms": 17899492
     },
     {
         "academic_year": "2026/27",

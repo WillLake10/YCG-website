@@ -85,6 +85,13 @@
             "total": 8
         },
         {
+            "tower": "Durham and Newcastle Diocesan Association Mini Ring, York (University of York), England",
+            "peals": 0,
+            "quarters": 0,
+            "other": 7,
+            "total": 7
+        },
+        {
             "tower": "Strensall (St Mary the Virgin), North Yorkshire",
             "peals": 0,
             "quarters": 7,
@@ -435,13 +442,6 @@
             "total": 1
         },
         {
-            "tower": "Durham and Newcastle Diocesan Association Mini Ring, York (University of York), England",
-            "peals": 0,
-            "quarters": 0,
-            "other": 1,
-            "total": 1
-        },
-        {
             "tower": "Horton in Ribblesdale (St Oswald), North Yorkshire",
             "peals": 0,
             "quarters": 1,
@@ -725,7 +725,7 @@
     "summary": {
         "peals": 56,
         "quarters": 828,
-        "other": 58,
-        "total": 942
+        "other": 64,
+        "total": 948
     }
 }

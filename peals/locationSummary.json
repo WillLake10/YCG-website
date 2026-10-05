@@ -519,6 +519,13 @@
             "total": 1
         },
         {
+            "tower": "St George, Ypres, Belgium",
+            "peals": 1,
+            "quarters": 0,
+            "other": 0,
+            "total": 1
+        },
+        {
             "tower": "St Helen, North Thoresby, Lincolnshire",
             "peals": 0,
             "quarters": 1,
@@ -723,9 +730,9 @@
         }
     ],
     "summary": {
-        "peals": 56,
+        "peals": 57,
         "quarters": 830,
         "other": 64,
-        "total": 950
+        "total": 951
     }
 }

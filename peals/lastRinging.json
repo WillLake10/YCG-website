@@ -1,40 +1,40 @@
 {
     "academic_year": "2026/27",
-    "type": 2,
-    "date": "Monday, 21 September 2026",
-    "location": "Durham and Newcastle Diocesan Association Mini Ring, York (University of York), England",
-    "weight": "10lb 11oz in G",
-    "time": "5m",
-    "changes": "",
-    "method": "Rounds and Call Changes",
+    "type": 0,
+    "date": "Saturday, 03 October 2026",
+    "location": "St George, Ypres, Belgium",
+    "weight": "6-1-11 in B",
+    "time": "2h 48",
+    "changes": "5040",
+    "method": "Grandsire Triples",
     "details": "",
     "ringers": [
         {
-            "name": "Natasha A Williams (Alcuin)",
+            "name": "Suzanne E Timms (Alcuin)",
             "bell": "1"
         },
         {
-            "name": "Natasha A Williams (Alcuin)",
+            "name": "Francesca R Lee (Alcuin)",
             "bell": "2"
         },
         {
-            "name": "Francesca R Lee (Alcuin)",
+            "name": "Patrick W J Deakin (James)",
             "bell": "3"
         },
         {
-            "name": "Francesca R Lee (Alcuin)",
+            "name": "Jacob C Rudd (St Johns)",
             "bell": "4"
         },
         {
-            "name": "Jacob Rudd (St John)",
+            "name": "Matthew W Thewsey (The Modern Society Of Plymouth Youths)",
             "bell": "5"
         },
         {
-            "name": "Jacob Rudd (St John)",
+            "name": "Jemima C Bleackley (Halifax)",
             "bell": "6"
         },
         {
-            "name": "Eileen G Robertson (Goodricke)",
+            "name": "William M Regan (Friend) (C)",
             "bell": "7"
         },
         {
@@ -42,7 +42,14 @@
             "bell": "8"
         }
     ],
-    "footnotes": [],
-    "id": "2014362",
-    "time_in_ms": 17899496
+    "footnotes": [
+        "Rung in memory of 2nd Lieutenant Alexander Douglas Gillespie, Argyle and Sutherland Highlanders, who was killed in action at the Battle of Loos on the 25th September 1915.",
+        "Gillespie is remembered for his letters from the Front, his most famous letter, from the 14th June 1915, outlines a vision of what to do with the Western Front after the war. Gillespie envisioned a Via Sacra:",
+        "\"These fields are sacred in a sense, and I wish that when the peace comes, our government might combine with the French Government to make one long avenue between the lines from the Vosges to the sea, or, if that is too much, at any rate from La Bass\u00e9e to Ypres. The ground is so pitted and scarred, and torn with shells, and tangled with wire, that it will take years to bring it back to use again; but I would make a fine broad road in the\u00a0No Man's Land between the lines, with paths for pilgrims on foot, and plant trees for shade, and fruit trees, so that the soil should not be altogether waste. Some of the shattered farms and houses might be left as evidence, and the regiments might put up their records beside the trenches which they held all through the winter. Then I would like to send every man, woman and child in Western Europe on pilgrimage along that Via Sacra, so that they might think and learn what war means from the silent witnesses on either side. A sentimental idea, perhaps, but we might make it the most beautiful road in all the world.\"",
+        "This idea has since been realised, and is now a recognised walking route between the French/Swiss border and the Belgian coast. The Conductor walked various parts of Gillespie's Via Sacra during the week running up to this peal.",
+        "First on 8: 8.",
+        "First inside: 2."
+    ],
+    "id": "2018052",
+    "time_in_ms": 17909964
 }

@@ -57,6 +57,49 @@
     {
         "academic_year": "2026/27",
         "type": 1,
+        "date": "Wednesday, 14 October 2026",
+        "location": "Oratory Church of St Wilfrid, York, North Yorkshire",
+        "weight": "6-0-6 in C",
+        "time": "40m",
+        "changes": "1260",
+        "method": "Stedman Alliance Minimus",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Alexander W Lister (Goodricke) (C)",
+                "bell": "1"
+            },
+            {
+                "name": "Jacob C Rudd (YSJ)",
+                "bell": "2"
+            },
+            {
+                "name": "Francesca R Lee (Alcuin)",
+                "bell": "3"
+            },
+            {
+                "name": "William J K Pottle (Alcuin)",
+                "bell": "4"
+            },
+            {
+                "name": "Charlotte R Nelms (Alcuin)",
+                "bell": "5"
+            }
+        ],
+        "footnotes": [
+            "First qp- 5",
+            "First qp as conductor- 1",
+            "First in method for all",
+            "First Stedman- 3",
+            "First minimus qp- 2,4",
+            "Wishing William M Regan (Friend) a speedy recovery"
+        ],
+        "id": "2021379",
+        "time_in_ms": 17919365
+    },
+    {
+        "academic_year": "2026/27",
+        "type": 1,
         "date": "Friday, 18 September 2026",
         "location": "St Lawrence, York, North Yorkshire",
         "weight": "7-3-24 in A",
@@ -19369,6 +19412,49 @@
                 "bell": "2"
             },
             {
+                "name": "Joseph Dillon",
+                "bell": "3"
+            },
+            {
+                "name": "Roy Scivyer",
+                "bell": "4"
+            },
+            {
+                "name": "Allen Eccles (C)",
+                "bell": "5"
+            },
+            {
+                "name": "James Gajdus",
+                "bell": "6"
+            }
+        ],
+        "footnotes": [
+            "First inside: 3.",
+            "Rung by the York Colleges Guild in memory of Laura Gerstel, 3rd year biochemist at the University of York."
+        ],
+        "id": "2021241",
+        "time_in_ms": 11969862
+    },
+    {
+        "academic_year": "2007/08",
+        "type": 1,
+        "date": "Friday, 07 December 2007",
+        "location": "St Laurence, York, ",
+        "weight": "7-3-24",
+        "time": "",
+        "changes": "1260",
+        "method": "Plain Bob Doubles",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Charlotte Elkington",
+                "bell": "1"
+            },
+            {
+                "name": "Karen Owen",
+                "bell": "2"
+            },
+            {
                 "name": "Joe Dillon",
                 "bell": "3"
             },
@@ -19797,6 +19883,48 @@
         "details": "",
         "ringers": [
             {
+                "name": "Joseph Dillon",
+                "bell": "1"
+            },
+            {
+                "name": "Karen Owen",
+                "bell": "2"
+            },
+            {
+                "name": "Charlotte Elkington",
+                "bell": "3"
+            },
+            {
+                "name": "Matthew Greenaway",
+                "bell": "4"
+            },
+            {
+                "name": "Allen Eccles (C)",
+                "bell": "5"
+            },
+            {
+                "name": "Kevin Atkinson",
+                "bell": "6"
+            }
+        ],
+        "footnotes": [
+            "Rung by the York Colleges Guild to celebrate the birth of Edward Michael Watson, second son of Helen and Simon Watson. Helen is a former member of YCG."
+        ],
+        "id": "2021238",
+        "time_in_ms": 11885190
+    },
+    {
+        "academic_year": "2006/07",
+        "type": 1,
+        "date": "Friday, 31 August 2007",
+        "location": "St Laurence, York, ",
+        "weight": "",
+        "time": "37m",
+        "changes": "1260",
+        "method": "Plain Bob Doubles",
+        "details": "",
+        "ringers": [
+            {
                 "name": "Joe Dillon",
                 "bell": "1"
             },
@@ -19868,6 +19996,49 @@
         ],
         "id": "377342",
         "time_in_ms": 11854950
+    },
+    {
+        "academic_year": "2006/07",
+        "type": 1,
+        "date": "Friday, 06 July 2007",
+        "location": "St Laurence, York, ",
+        "weight": "7-3-24",
+        "time": "44m",
+        "changes": "1260",
+        "method": "Plain Bob Doubles",
+        "details": "",
+        "ringers": [
+            {
+                "name": "Joseph Dillon",
+                "bell": "1"
+            },
+            {
+                "name": "Karen Owen",
+                "bell": "2"
+            },
+            {
+                "name": "Charlotte Elkington",
+                "bell": "3"
+            },
+            {
+                "name": "Matt Greenaway",
+                "bell": "4"
+            },
+            {
+                "name": "Allen Eccles (C)",
+                "bell": "5"
+            },
+            {
+                "name": "Kevin Atkinson",
+                "bell": "6"
+            }
+        ],
+        "footnotes": [
+            "First away from cover - 1.",
+            "Also to mark the 50th anniversary of the birth of Gill Goodhand, n\u00e9e Housden, 7 July 1957 to 23 May 1999, a member of the York Colleges Guild. Rest in peace."
+        ],
+        "id": "2021235",
+        "time_in_ms": 11836806
     },
     {
         "academic_year": "2006/07",
